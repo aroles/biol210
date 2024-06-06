@@ -1,4 +1,4 @@
-url: https://aroles.github.io/biol211/
+url: https://aroles.github.io/biol210/
 home:
   links:
   - text: Oberlin Biology Department
@@ -13,43 +13,36 @@ navbar:
   left:
   - icon: fa-home fa-lg
     href: index.html
-  - text: Lab Notebook
-    href: https://www.benchling.com/
-  - text: Lab Resources
+  - text: Course Agenda
+    href: https://docs.google.com/document/d/1oEIa-uDKLxv0uT0pPBlHqLvzITkzfFUOgqBic35Kps8/edit?usp=sharing
+  - text: Course Materials
     menu:
     - text: '----------------'
-    - text: Lab Introduction
-      href: articles/01_biol_211_lab_intro.html
-    - text: How to Find Sources
-      href: https://vimeo.com/user5041809/collections
-    - text: Invertebrate Ecology
-      href: articles/02_biol_211_invert_eco.html
-    - text: Invertebrate Collection Methods
-      href: articles/03_biol_211_invert_methods.html
-    - text: Proper Data Hygiene
-      href: articles/04_biol_211_data_hygiene.html
-    - text: Introduction to Analysis in R
+    - text: Syllabus
       href: 404.html
-    - text: Guide to Making Presentations
+    - text: Content Videos
+      href: https://drive.google.com/drive/folders/1JYUwk8A0mCn_FV1q5LrELnBwP6ofVQwF?usp=drive_link
+    - text: Problem Sets
+      href: https://drive.google.com/drive/folders/1TrmVZgavgxbudVn3PstUO-9EZGYKNy_x?usp=drive_link
+    - text: Quizzes
+      href: https://drive.google.com/drive/folders/12dxUoYnfNQmURO1Tp9BgWB9kvwgSY8cL?usp=drive_link
+    - text: Exams
+      href: https://drive.google.com/drive/folders/1WZfkOp9tTdCsVMtbUbLGSdZZdKvPFs0k?usp=drive_link
+    - text: Midterm Reflection
       href: 404.html
-    - text: '----------------'
-    - text: FALL BREAK
-    - text: '----------------'
-    - text: Duckweed Ecology
+    - text: Final Reflection
       href: 404.html
-    - text: Environmental Impacts on Communities
+    - text: BIOL 211 Lab
+      href: https://aroles.github.io/biol211/
+    - text: Student Folders
+      href: 404.html
+    - text: Check Progress Spreadsheet
       href: 404.html
     - text: Additional Analyses in R
       href: 404.html
     - text: '----------------'
-  - text: Lab Assignment Turn In
-    menu:
-    - text: '----------------'
-    - text: Tuesday Lab Section
-      href: https://www.google.com/drive/
-    - text: Wednesday Lab Section
-      href: https://blackboard.oberlin.edu/ultra/
-    - text: '----------------'
+  - text: Assignment Turn In
+    href: 404.html
   right:
-    - text: "BIOL 211 Fall 2024 Syllabus"
+    - text: "BIOL 210 Fall 2024 Syllabus"
       href: 404.html
