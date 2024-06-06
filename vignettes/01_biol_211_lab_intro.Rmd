@@ -1,0 +1,143 @@
+---
+title: "BIOL 211 Lab Introduction"
+date: "Sep. 03 & 04, 2024"
+output: 
+  html_document:
+    toc: TRUE
+    toc_depth: 3
+  pdf_document:
+    toc: TRUE
+    toc_depth: 3
+pkgdown:
+  as_is: true
+---
+
+**Notes:**
+
+* In the online lab resources **bolded** or *italicized* terms or concepts are of high importance. Make sure you understand these and if you are unsure, please ask questions about them to your lab instructor or TA.
+
+* For more information on the topics covered in this lab, see the open textbook Biology 2e ([https://openstax.org/details/books/biology-2e](https://openstax.org/details/books/biology-2e)), chapters 20-29. You can either view it online or download a PDF.
+
+* Before the first lab meeting you are required to read "[The Importance of Stupidity in Scientific Research](sheets/sci_articles/Importance_of_stupidity.pdf)" which can be downloaded [HERE](sheets/sci_articles/Importance_of_stupidity.pdf).
+
+* Due before next lab meeting, you will need one scholarly source on insect ecology
+
+***
+
+# BIOL 211 Introduction
+
+This lab features indoor and field exercises and discussions designed to develop critical thinking and quantitative skills. These include collection, analysis, and interpretation of ecological and evolutionary data using common field techniques and the R programming language. Working with the faculty member, small student groups will design and carry out individual research projects and present their findings to the class. Field trip(s) required. Students must register for both the lecture (BIOL 210) and laboratory.
+
+A significant portion of this laboratory course will focus on the design, implementation, and interpretation of individual group projects. Prior to carrying out small group projects, significant time will be dedicated to discussing appropriate research design, including considerations such as implementation of proper controls, keeping a lab/field notebook, learning to use R for data visualization and analysis, and which statistical analyses will be appropriate for the data collected.
+
+Each section of the lab will be made up of four sections:
+
+1. Searching and summarizing the **primary literature** of the topic to be investigated either in the field or in a controlled experiment.
+
+2. Design and carry out **field** or **experimental** protocols aimed at understanding basic ecological concepts as they are related to the target **taxa**.
+
+3. Collect, clean, and analyze **data** to develop conclusions related to those basic ecological concepts. 
+
+4. Communicate the results of your specific inquiry to the rest of the class through an oral presentation.
+
+It is important to note that your grade will not be determined by a perceived success or failure of your research. Scientific research is not as black and white as success-failure and should not be thought about in that way. Failures can often lead to great discovery. Instead, your grade will be based on satisfactory completion of the tasks, protocols, and your presentations.
+
+Your first assignment for lab is to read "[The Importance of Stupidity in Scientific Research](sheets/sci_articles/Importance_of_stupidity.pdf)" which can be downloaded [HERE](sheets/sci_articles/Importance_of_stupidity.pdf).
+
+## Scientific Method
+
+Designing effective research requires you to follow the **scientific method**.
+
+* Asking a **question** – why or how something happens?
+
+* **Hypothesis** – a fancy name for an educated guess about what causes something to happen.
+
+* **Prediction** – what you think will happen if hypothesis is true.
+
+* **Testing** – this is where you get to experiment and be creative.
+
+* **Conclusion** – decide how your test results relate to your predictions.
+
+* **Communicate** – share your results so others can learn from your work.
+
+```{r neg loop img, fig.align = 'center', fig.height = 4, fig.width = 7, fig.cap = "**Figure 1**: The scientific method. (adapted from Arizona State University: Ask A Biologist)", echo = FALSE}
+knitr::include_graphics(file.path(here::here(), 'man', 'figures', 'sci_method.jpg'), dpi = 100)
+```
+
+## Class Logistics
+
+Each week we will conduct a part of one or more steps of the scientific process to answer a question related to the basic ecology of insect and plant communities.
+
+After each lab meeting, you will have an assignment to do that will help prepare for the next lab meeting and will be due before that meeting. Additionally, after each lab meeting, you will have to do a reflection on what you did during lab.
+
+For field and lab methods, you may have to conduct some of them outside of normal lab times. This is because some of the protocols require data collection after 24-48hrs or identification that may take longer than a single lab meeting. If there is need to use the lab room, make sure to work with your instructor to make sure the room is available.
+
+At the end of each research project you will need to give 15 minute oral presentation to the rest of your class. In your presentations your will summarize what you did, why you did it, your results, and the conclusion(s) you have made based on your results. There will also be about 5 minutes after your presentation for your classmates and instructor to ask you questions about your work.
+
+## Lab Notebook
+
+For this lab you will be required to keep a lab notebook.
+
+Key points in keeping a Lab Notebook:
+
+1.	Neat and legible handwriting in dark ink; not pencil if able
+
+2.	Procedure/Study title and purpose clearly stated
+
+3.	Methods described clearly and succinctly, with errors and steps taken to correct them
+
+4.	Calculations performed neatly showing intermediate steps
+
+5.	Errors crossed out with a single line
+
+6.	All pages dated at the top and numbered at the bottom
+
+When making a Lab Notebook, make sure to leave enough room at the beginning for a table of contents. Every new procedure, experiment, notes, calculation, etc. should start on a new page with that page being the front of the right page (i.e. the odd-numbered pages). These new pages will be what is recorded in the table of contents for each procedure, experiments, set of notes, etc. For the sake of being able to easily find a specific date or page number, the date should be recorded at the right-hand side of the top of the page and the page number should be written at the right-hand side of the bottom of the page.
+
+All information about a procedure, experiment, notes, calculation, etc. should be recorded in the Lab Notebook. These entries should be accompanied by a brief description of what it is. If the data collected by a computer is too large to record in the notebook then the name of the data file and where it is located should be recorded along with the location of any backups/copies made.
+
+Information in a Lab Notebook should never be completely removed from the book. Mistakes, such as misspellings, should be crossed out with a single line and initialed. It is also good practice to give a short (only a few words) reason the change was made.
+
+For this course the Field Notebook will be transcribed into the electronic lab notebook every week. This allows the instructors and your lab group to access the information and data you gather over the course of the semester. Additionally, this provides a back up in case you lose or misplace your field notebook. The electronic lab notebook we will be using is called [Benchling](https://www.benchling.com/) which can be accessed [HERE](https://www.benchling.com/).
+
+<br>
+
+***
+
+# Finding Sources
+
+## What is a scholarly source
+
+## Scholarly Databases
+
+## Citing Sources
+
+<br>
+
+***
+
+# Insect Ecology
+
+Article about the importance of insects in forests:
+
+* [Kitching, R.L., Dahlsjö, C.A. and Eggleton, P., 2020. Invertebrates and the complexity of tropical ecosystems. Biotropica, 52(2), pp.207-214.](sheets/sci_articles/Kitching_et_al_2020.pdf)
+
+## Insect Lifecycle
+
+## Habitat
+
+<br>
+
+***
+
+# Assignment
+
+Each person in your group must find a different scholarly source and provide a short summary of the information provided in the source. The citation for your source along with the summary are due before next week's lab. 
+
+You should turn these in using the link in the "Lab Assignment Turn In" drop down menu at the top of the page. Make sure to use the link for your lab section (i.e., if your section meets on Tuesday then you should use the "Tuesday Lab Section" link and if your section meets on Wednesday then you should use the "Wednesday Lab Section" link). 
+
+<br>
+
+***
+
+***

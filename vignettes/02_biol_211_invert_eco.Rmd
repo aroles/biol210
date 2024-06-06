@@ -1,0 +1,23 @@
+---
+title: "BIOL 211 Lab - Invertebrate Ecology"
+date: "Sep. 10 & 11, 2024"
+output: 
+  html_document:
+    toc: TRUE
+    toc_depth: 3
+  pdf_document:
+    toc: TRUE
+    toc_depth: 3
+pkgdown:
+  as_is: true
+---
+
+**Notes:**
+
+
+***
+
+# Invertebrate Ecology
+
+* [Kitching, R.L., Dahlsjö, C.A. and Eggleton, P., 2020. Invertebrates and the complexity of tropical ecosystems. Biotropica, 52(2), pp.207-214.](sheets/sci_articles/Kitching_et_al_2020.pdf)
+

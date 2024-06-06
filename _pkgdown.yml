@@ -1,0 +1,55 @@
+url: https://aroles.github.io/biol211/
+home:
+  links:
+  - text: Oberlin Biology Department
+    href: https://www.oberlin.edu/arts-and-sciences/departments/biology
+  - text: Oberlin Biology Major Overview
+    href: https://catalog.oberlin.edu/preview_program.php?catoid=49&poid=8753
+  - text: Oberlin Biology Major Guidebook
+    href: https://www.oberlin.edu/sites/default/files/content/arts-and-sciences/departments/biology/documents/guidebook_biology.majors_2023.2024.pdf
+  params:
+    bootswatch: sandstone
+navbar:
+  left:
+  - icon: fa-home fa-lg
+    href: index.html
+  - text: Lab Notebook
+    href: https://www.benchling.com/
+  - text: Lab Resources
+    menu:
+    - text: '----------------'
+    - text: Lab Introduction
+      href: articles/01_biol_211_lab_intro.html
+    - text: How to Find Sources
+      href: https://vimeo.com/user5041809/collections
+    - text: Invertebrate Ecology
+      href: articles/02_biol_211_invert_eco.html
+    - text: Invertebrate Collection Methods
+      href: articles/03_biol_211_invert_methods.html
+    - text: Proper Data Hygiene
+      href: articles/04_biol_211_data_hygiene.html
+    - text: Introduction to Analysis in R
+      href: 404.html
+    - text: Guide to Making Presentations
+      href: 404.html
+    - text: '----------------'
+    - text: FALL BREAK
+    - text: '----------------'
+    - text: Duckweed Ecology
+      href: 404.html
+    - text: Environmental Impacts on Communities
+      href: 404.html
+    - text: Additional Analyses in R
+      href: 404.html
+    - text: '----------------'
+  - text: Lab Assignment Turn In
+    menu:
+    - text: '----------------'
+    - text: Tuesday Lab Section
+      href: https://www.google.com/drive/
+    - text: Wednesday Lab Section
+      href: https://blackboard.oberlin.edu/ultra/
+    - text: '----------------'
+  right:
+    - text: "BIOL 211 Fall 2024 Syllabus"
+      href: 404.html
