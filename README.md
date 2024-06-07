@@ -107,7 +107,7 @@ To complete the work required for a B, expectations are that you will spend at l
 
 **Table of expectations**
 
-Earning an A will require all of the work for a B plus completion of 1 additional project, exploring a course topic or topics in greater depth. **Project goals and plan must be set by Oct 6 and completed by Dec 1.**
+Earning an A will require all of the work for a B plus completion of 1 additional project, exploring a course topic or topics in greater depth. <mark style="background-color:yellow">**Project goals and plan must be set by Oct 6 and completed by Dec 1.**</mark>
 
 Earning a C will occur when work required for a B is not completed to Satisfactory or in a timely fashion (repeatedly late).
 
@@ -124,12 +124,33 @@ In order to practice your understanding of the content video material and in-cla
 
 #### (4) Short-answer Exams – You choose due dates.
 In order to bring together your learning in live lecture meetings, during lab periods, and from the content videos, there will be 4 short-answer exams. These exams will be open-note, open-book, and untimed but designed to require 50 minutes to complete (if studied for). This means you may use any materials supplied by Angie to complete the exam but you should not discuss the exam with anyone other than Angie. There will be no time limit on completion of the exam and all exams will be available as of the first day of class. You am responsible for scheduling when you will take each exam. For responses that are not Satisfactory, Angie will give you feedback and you will revise your response(s) until achieving Satisfactory. I suggest you choose due dates no earlier than the following to ensure all material is covered in class before you work on the exam:
-* **Exam 1 after Sep 29**
+<mark style="background-color:yellow">* **Exam 1 after Sep 29**
 * **Exam 2 after Oct 27**
 * **Exam 3 after Nov 22**
-* **Exam 4 must be after Dec 12 and before 4pm Dec 17**
+* **Exam 4 must be after Dec 12 and before 4pm Dec 17**</mark>
 
 #### (5) Self-reflections (mid-semester and final) - You choose due dates.
-One important skill you will practice in this class is self-assessment, the idea that you develop your own standards for your work rather than merely hoping that your work meets someone else’s standards. To that end, it’s important that you engage in a process of self-reflection. It is only by examining how things have gone and comparing that to how you might like them to have gone, that you can plan for making adjustments in the future. **For this course, you will undertake one self-reflection in the middle of the semester (by Oct 13) and a second at the end of the term (by Dec 17).** For each, you will complete and submit the provided form before attending a short meeting scheduled with Angie to discuss your responses.
+One important skill you will practice in this class is self-assessment, the idea that you develop your own standards for your work rather than merely hoping that your work meets someone else’s standards. To that end, it’s important that you engage in a process of self-reflection. It is only by examining how things have gone and comparing that to how you might like them to have gone, that you can plan for making adjustments in the future. <mark style="background-color:yellow">**For this course, you will undertake one self-reflection in the middle of the semester (by Oct 13) and a second at the end of the term (by Dec 17).**</mark> For each, you will complete and submit the provided form before attending a short meeting scheduled with Angie to discuss your responses.
 
-**Expected weekly schedule table**
+<mark style="background-color:yellow">**Expected weekly schedule table**</mark>
+
+| Week | Dates | Topics |
+| ---- | -------- | --------------------------------- |
+| 0 | Aug 30 | Course Introduction |
+| 1 | Sep 04-06 | Biodiversity, Phylogenies, Cells |
+| 2 | Sep 09-13 | Eukarya, Genomes, Eukaryotic genomes |
+| 3 | Sep 16-20 | Mitosis, Meiosis, Life cycles |
+| 4 | Sep 23-27 | Genes, Transcription, RNA processing |
+| 5 | Sep 30-Oct 04 | Translation, Sex determination, Inheritance & segregation |
+| 6 | Oct 07-11 | Dominance, Independent assortment, Linkage |
+| 7 | Oct 14-18 | Hardy Weinberg, Detecting evolution, Genetic variation |
+| 8 | Oct 21-25 | *Fall Break*
+| 9 | Oct 28-Nov 01 | Mutation, Gene flow, Genetic drift |
+| 10 | Nov 04-08 | Nonrandom mating, Selection, Heritability |
+| 11 | Nov 11-15 | Behavior, Learning, Genetics of behavior |
+| 12 | Nov 18-22 | Interspecific interactions, Competition, Community structure |
+| 13 | Nov 25-27 | Ecological succession, Energy flow, Biodiversity patterns |
+| 14 | Dec 02-06 | Nutrient cycling |
+| 15 | Dec 09-11 | |
+| | Dec 12-15 | Reading Period |
+| | Dec 16-20 | Finals Period |

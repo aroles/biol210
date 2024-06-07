@@ -9,6 +9,9 @@ Italic Underline
 
 Underline
 <text style="text-decoration:underline">
+      
+Highlight text with a color
+<mark style="background-color:yellow">
 
 
 
