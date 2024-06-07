@@ -13,7 +13,7 @@ Deployed site: https://aroles.github.io/biol210/
 * [Reference Material and Textbooks](#reference-material-and-textbooks)
 * [Honor Code](#honor-code)
 * [Support Resources](#resources-offering-support)
-* [Assessment - Contract Grading](#assessment-contract-grading)
+* [Assessment via Contract Grading](#assessment-via-contract-grading)
 * [Expected Weekly Schedule](#expected-weekly-schedule)
 
 ## Lecture Instructor
@@ -86,7 +86,7 @@ Angie is available for individual consultation during student hours or by appoin
 
 * Health & Wellbeing: The offices of [Student Health Services](https://www.oberlin.edu/student-health-services) and [Counseling and Psychological Services](https://www.oberlin.edu/counseling) are located in Dascomb Hall, Suite B. Services are free and drop-in hours are available.
 
-## Assessment – Contract Grading
+## Assessment via Contract Grading
 
 In this course, we use a form of contract grading, a method of assessment in which you complete a contract laying out the work you must complete to a satisfactory level in order to earn a specific letter grade.
 
@@ -124,15 +124,16 @@ In order to practice your understanding of the content video material and in-cla
 
 #### (4) Short-answer Exams – You choose due dates.
 In order to bring together your learning in live lecture meetings, during lab periods, and from the content videos, there will be 4 short-answer exams. These exams will be open-note, open-book, and untimed but designed to require 50 minutes to complete (if studied for). This means you may use any materials supplied by Angie to complete the exam but you should not discuss the exam with anyone other than Angie. There will be no time limit on completion of the exam and all exams will be available as of the first day of class. You am responsible for scheduling when you will take each exam. For responses that are not Satisfactory, Angie will give you feedback and you will revise your response(s) until achieving Satisfactory. I suggest you choose due dates no earlier than the following to ensure all material is covered in class before you work on the exam:
-<mark style="background-color:yellow">* **Exam 1 after Sep 29**
-* **Exam 2 after Oct 27**
-* **Exam 3 after Nov 22**
-* **Exam 4 must be after Dec 12 and before 4pm Dec 17**</mark>
+
+* <mark style="background-color:yellow">**Exam 1 after Sep 29**</mark>
+* <mark style="background-color:yellow">**Exam 2 after Oct 27**</mark>
+* <mark style="background-color:yellow">**Exam 3 after Nov 22**</mark>
+* <mark style="background-color:yellow">**Exam 4 must be after Dec 12 and before 4pm Dec 17**</mark>
 
 #### (5) Self-reflections (mid-semester and final) - You choose due dates.
 One important skill you will practice in this class is self-assessment, the idea that you develop your own standards for your work rather than merely hoping that your work meets someone else’s standards. To that end, it’s important that you engage in a process of self-reflection. It is only by examining how things have gone and comparing that to how you might like them to have gone, that you can plan for making adjustments in the future. <mark style="background-color:yellow">**For this course, you will undertake one self-reflection in the middle of the semester (by Oct 13) and a second at the end of the term (by Dec 17).**</mark> For each, you will complete and submit the provided form before attending a short meeting scheduled with Angie to discuss your responses.
 
-<mark style="background-color:yellow">**Expected weekly schedule table**</mark>
+## Expected Weekly Schedule
 
 | Week | Dates | Topics |
 | ---- | -------- | --------------------------------- |
