@@ -16,6 +16,12 @@ pkgdown:
 
 # Content Videos
 
+* [01-Biodiversity](https://drive.google.com/drive/folders/13zUXCk4qz2xeb_P53ceg8WtmSEPc9tcy?usp=drive_link)
+
+* [02-Phylogenies](https://drive.google.com/drive/folders/14-ijnaXDxYKokx68eg-DHR0UBlYE_Y66?usp=drive_link)
+
+* [03-Cells](https://drive.google.com/drive/folders/15Eokt5lZOLyt9BOrzobP-NeSGSV5MgeP?usp=drive_link)
+
 # Assignments
 
 ## Quiz

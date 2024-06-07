@@ -16,6 +16,12 @@ pkgdown:
 
 # Content Videos
 
+* [04-Eukarya](https://drive.google.com/drive/folders/18h_G9z9nqi_LV9Bdq87AZZgCpbEWWCH9?usp=drive_link)
+
+* [05-Genomes](https://drive.google.com/drive/folders/1IhzYhuYcH-58z9h39GZ51fNmXI-n0TO2?usp=drive_link)
+
+* [06-Eukaryotic Genomes](https://drive.google.com/drive/folders/1Il2QzipBuawfY4UMBwP2iQKNM1SP6vBM?usp=drive_link)
+
 # Assignments
 
 ## Quiz

@@ -1,4 +1,6 @@
 url: https://aroles.github.io/biol210/
+template:
+  bootstrap: 5
 home:
   links:
   - text: Oberlin Biology Department
