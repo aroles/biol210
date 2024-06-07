@@ -17,7 +17,7 @@ navbar:
     menu:
     - text: '----------------'
     - text: Week 0 (Aug 30)
-      href: agenda-week0.html
+      href: articles/agenda-week0.html
     - text: Week 1 (Sep 4-6)
       href: 404.html
     - text: Week 2 (Sep 9-13)
