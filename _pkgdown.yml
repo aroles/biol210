@@ -16,39 +16,39 @@ navbar:
   - text: Course Agenda
     menu:
     - text: '----------------'
-    - text: Week 0 (Aug 30)
+    - text: Week 0, Aug 30
       href: articles/agenda-week0.html
-    - text: Week 1 (Sep 4-6)
-      href: 404.html
-    - text: Week 2 (Sep 9-13)
-      href: 404.html
-    - text: Week 3 (Sep 16-20)
-      href: 404.html
-    - text: Week 4 (Sep 23-27)
-      href: 404.html
-    - text: Week 5 (Sep 30-Oct 4)
-      href: 404.html
-    - text: Week 6 (Oct 7-11)
-      href: 404.html
-    - text: Week 7 (Oct 14-18)
-      href: 404.html
+    - text: Week 1, Sep 4-6
+      href: articles/agenda-week1.html
+    - text: Week 2, Sep 9-13
+      href: articles/agenda-week2.html
+    - text: Week 3, Sep 16-20
+      href: articles/agenda-week3.html
+    - text: Week 4, Sep 23-27
+      href: articles/agenda-week4.html
+    - text: Week 5, Sep 30-Oct 4
+      href: articles/agenda-week5.html
+    - text: Week 6, Oct 7-11
+      href: articles/agenda-week6.html
+    - text: Week 7, Oct 14-18
+      href: articles/agenda-week7.html
     - text: '----------------'
-    - text: Week 8 (Oct 21-25) - Fall Break
+    - text: Week 8, Oct 21-25 - Fall Break
     - text: '----------------'
-    - text: Week 9 (Oct 28-Nov 1)
-      href: 404.html
-    - text: Week 10 (Nov 4-8)
-      href: 404.html
-    - text: Week 11 (Nov 11-15)
-      href: 404.html
-    - text: Week 12 (Nov 18-22)
-      href: 404.html
-    - text: Week 13 (Nov 25-27)
-      href: 404.html
-    - text: Week 14 (Dec 2-6)
-      href: 404.html
-    - text: Week 15 (Dec 9-11)
-      href: 404.html
+    - text: Week 9, Oct 28-Nov 1
+      href: articles/agenda-week9.html
+    - text: Week 10, Nov 4-8
+      href: articles/agenda-week10.html
+    - text: Week 11, Nov 11-15
+      href: articles/agenda-week11.html
+    - text: Week 12, Nov 18-22
+      href: articles/agenda-week12.html
+    - text: Week 13, Nov 25-27
+      href: articles/agenda-week13.html
+    - text: Week 14, Dec 2-6
+      href: articles/agenda-week14.html
+    - text: Week 15, Dec 9-11
+      href: articles/agenda-week15.html
     - text: '----------------'
     href: https://docs.google.com/document/d/1mGvjG9IWTOZu004fRFs8is7UJzPz56RSFPcypQKh604/edit?usp=drive_link
   - text: Course Materials
@@ -73,8 +73,6 @@ navbar:
     - text: Student Folders
       href: 404.html
     - text: Check Progress Spreadsheet
-      href: 404.html
-    - text: Additional Analyses in R
       href: 404.html
     - text: '----------------'
   - text: Assignment Turn In

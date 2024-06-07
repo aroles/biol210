@@ -1,0 +1,39 @@
+---
+title: "BIOL 210 Course Agenda"
+date: "Week 0, Aug 30"
+output: 
+  html_document:
+    toc: TRUE
+    toc_depth: 3
+  pdf_document:
+    toc: TRUE
+    toc_depth: 3
+pkgdown:
+  as_is: true
+---
+# Reminders
+
+# Content Videos
+
+# Assignments
+
+## Quiz
+## Problem Set
+
+# Class Meetings
+
+## Friday Aug 30
+
+-   First day of class -- go over syllabus, course expectations.
+
+-   [Link to slides](https://drive.google.com/drive/folders/17Fm-yEXqtlvGJfFaw6WqywIScW_eZ8m_?usp=drive_link)
+
+-   GRADE CONTRACTS: Read this part of the syllabus carefully before filling out the Grade Contract Form with your due dates and other info. You are welcome to consult with Angie before submitting your contract. Contracts should be submitted by 11:59pm Friday Sept 6th.
+
+-   Please fill out the Getting to Know You form before Wed 9/4.
+
+-   Note: I recommend you watch the videos for next week before Wed (see [Week 1 agenda](404.html)).
+
+<br>
+
+------------------------------------------------------------------------
