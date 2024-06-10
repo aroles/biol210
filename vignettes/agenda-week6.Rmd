@@ -15,6 +15,12 @@ pkgdown:
 
 # Content Videos
 
+* [16-Dominance principle](https://drive.google.com/drive/folders/1xn0bdgGBMCf0MJvxNHW1BvSkR9U9smSV?usp=drive_link)
+
+* [17-Independent assortment](https://drive.google.com/drive/folders/1xqGv2vUAJwJStXo54SmjDI1Y61viy_ly?usp=drive_link)
+
+* [18-Linkage](https://drive.google.com/drive/folders/1Z4s_dBsSBdqrfdeumUCtSz3yI8XpOKwA?usp=drive_link)
+
 # Assignments
 
 ## Quiz

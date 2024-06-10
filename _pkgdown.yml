@@ -15,6 +15,30 @@ navbar:
   left:
   - icon: fa-home fa-lg
     href: index.html
+  - text: Course Materials
+    menu:
+    - text: '----------------'
+    - text: Syllabus
+      href: 404.html
+    - text: Content Videos
+      href: https://drive.google.com/drive/folders/1JYUwk8A0mCn_FV1q5LrELnBwP6ofVQwF?usp=drive_link
+    - text: Problem Sets
+      href: articles/problemsets.html
+    - text: Quizzes
+      href: https://drive.google.com/drive/folders/12dxUoYnfNQmURO1Tp9BgWB9kvwgSY8cL?usp=drive_link
+    - text: Exams
+      href: https://drive.google.com/drive/folders/1WZfkOp9tTdCsVMtbUbLGSdZZdKvPFs0k?usp=drive_link
+    - text: Midterm Reflection
+      href: 404.html
+    - text: Final Reflection
+      href: 404.html
+    - text: BIOL 211 Lab
+      href: https://aroles.github.io/biol211/
+    - text: Student Folders
+      href: 404.html
+    - text: Check Progress Spreadsheet
+      href: 404.html
+    - text: '----------------'
   - text: Course Agenda
     menu:
     - text: '----------------'
@@ -52,33 +76,8 @@ navbar:
     - text: Week 15, Dec 9-11
       href: articles/agenda-week15.html
     - text: '----------------'
-    href: https://docs.google.com/document/d/1mGvjG9IWTOZu004fRFs8is7UJzPz56RSFPcypQKh604/edit?usp=drive_link
-  - text: Course Materials
-    menu:
-    - text: '----------------'
-    - text: Syllabus
-      href: 404.html
-    - text: Content Videos
-      href: https://drive.google.com/drive/folders/1JYUwk8A0mCn_FV1q5LrELnBwP6ofVQwF?usp=drive_link
-    - text: Problem Sets
-      href: https://drive.google.com/drive/folders/1TrmVZgavgxbudVn3PstUO-9EZGYKNy_x?usp=drive_link
-    - text: Quizzes
-      href: https://drive.google.com/drive/folders/12dxUoYnfNQmURO1Tp9BgWB9kvwgSY8cL?usp=drive_link
-    - text: Exams
-      href: https://drive.google.com/drive/folders/1WZfkOp9tTdCsVMtbUbLGSdZZdKvPFs0k?usp=drive_link
-    - text: Midterm Reflection
-      href: 404.html
-    - text: Final Reflection
-      href: 404.html
-    - text: BIOL 211 Lab
-      href: https://aroles.github.io/biol211/
-    - text: Student Folders
-      href: 404.html
-    - text: Check Progress Spreadsheet
-      href: 404.html
-    - text: '----------------'
   - text: Assignment Turn In
     href: 404.html
   right:
-    - text: "BIOL 210 Fall 2024 Syllabus"
+    - text: "BIOL 210 Fall 2024 Syllabus PDF"
       href: 404.html

@@ -28,8 +28,6 @@ pkgdown:
 
 -   Please fill out the Getting to Know You form before Wed 9/4.
 
--   Note: I recommend you watch the videos for next week before Wed (see [Week 1 agenda](404.html)).
+-   Note: I recommend you watch the videos for next week before Wed (see [Week 1 agenda](agenda-week1.html)).
 
-<br>
 
-------------------------------------------------------------------------

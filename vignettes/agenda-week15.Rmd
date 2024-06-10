@@ -16,6 +16,10 @@ pkgdown:
 
 # Content Videos
 
+* [39-Biodiversity patterns](https://drive.google.com/drive/folders/1yk1bSIUVvq_bd5oAvv5VhSX_NzsThVC-?usp=drive_link)
+
+* [40-Nutrient cycling](https://drive.google.com/drive/folders/1ypO3LersGapwi0DxzmVHffZUQEjHmd_-?usp=drive_link)
+
 # Assignments
 
 ## Quiz

@@ -16,6 +16,12 @@ pkgdown:
 
 # Content Videos
 
+* [36-Community structure](https://drive.google.com/drive/folders/1ybQ88SfnQc1fUHeUuw3n1XkoZxdJA72o?usp=drive_link)
+
+* [37-Ecological succession](https://drive.google.com/drive/folders/1yh9qCO88jMr__S8DLK3CrT08woxTr0xG?usp=drive_link)
+
+* [38-Energy flow](https://drive.google.com/drive/folders/1yjiYffYh4xKMQbIa7744cHF5epkcV5W9?usp=drive_link)
+
 # Assignments
 
 ## Quiz

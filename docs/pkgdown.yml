@@ -22,7 +22,10 @@ articles:
   agenda-week7: agenda-week7.html
   agenda-week8: agenda-week8.html
   agenda-week9: agenda-week9.html
-last_built: 2024-06-07T18:23Z
+  problemsets: problemsets.html
+  ps1: ps1.html
+  ps1key: ps1key.html
+last_built: 2024-06-10T14:30Z
 urls:
   reference: https://aroles.github.io/biol210/reference
   article: https://aroles.github.io/biol210/articles

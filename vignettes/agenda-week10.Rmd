@@ -16,6 +16,12 @@ pkgdown:
 
 # Content Videos
 
+* [25-Nonrandom mating](https://drive.google.com/drive/folders/1yAMeqDLfKyyy2EN0ISzwUJCYjFUuCWfS?usp=drive_link)
+
+* [26-Natural selection](https://drive.google.com/drive/folders/1yF_c17_TmT6H7cTYzmSMpSgmhq9K-8Er?usp=drive_link)
+
+* [27-Heritability](https://drive.google.com/drive/folders/1yIpYqPx2neqqaZHJ19YQyElG9H-s63kH?usp=drive_link)
+
 # Assignments
 
 ## Quiz

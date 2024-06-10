@@ -16,6 +16,12 @@ pkgdown:
 
 # Content Videos
 
+* [22-Mutation](https://drive.google.com/drive/folders/1y7C8hpHev8ZOQKz9FEz9Y94z1Z_d6e6i?usp=drive_link)
+
+* [23-Gene flow](https://drive.google.com/drive/folders/1y8WU6b_MGTWYLZMbeIgJk_IaWRYFtRVP?usp=drive_link)
+
+* [24-Genetic drift](https://drive.google.com/drive/folders/1y9EuxzUNNCt0Dle-hwZofwlKfyd2mpRU?usp=drive_link)
+
 # Assignments
 
 ## Quiz

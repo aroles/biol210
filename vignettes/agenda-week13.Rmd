@@ -16,6 +16,10 @@ pkgdown:
 
 # Content Videos
 
+* [34-Interspecific interactions](https://drive.google.com/drive/folders/1yZ9NZvr-Xff9-Za4LcuwliBC5p6vryJB?usp=drive_link)
+
+* [35-Competition](https://drive.google.com/drive/folders/1yaAP9waCrgnbLRBYmtN7CPwAyNDx1_U7?usp=drive_link)
+
 # Assignments
 
 ## Quiz

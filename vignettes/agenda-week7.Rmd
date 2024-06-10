@@ -15,6 +15,12 @@ pkgdown:
 
 # Content Videos
 
+* [19-Hardy Weinberg](https://drive.google.com/drive/folders/1xvkunHsgId4CdCz9wuEwAhGPOuWXRNq8?usp=drive_link)
+
+* [20-Detecting evolution](https://drive.google.com/drive/folders/1y0bvaIrIMipt2848At1IHFvyg2SCVTvZ?usp=drive_link)
+
+* [21-Genetic variation](https://drive.google.com/drive/folders/1y10YfBrOrRHZUftxzoOeXXbv9MlLfkmq?usp=drive_link)
+
 # Assignments
 
 ## Quiz

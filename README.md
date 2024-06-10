@@ -2,7 +2,9 @@ Deployed site: https://aroles.github.io/biol210/
 
 # Welcome to the website for BIOL 210, Fall 2024!
 
-## Table of Contents
+All course materials will be provided via this website or links therein.
+
+# Syllabus
 * [Instructor](#lecture-instructor)
 * [Student Hours](#drop-in-student-hours)
 * [Class Meetings](#lecture-class-meetings)
@@ -15,6 +17,8 @@ Deployed site: https://aroles.github.io/biol210/
 * [Support Resources](#resources-offering-support)
 * [Assessment via Contract Grading](#assessment-via-contract-grading)
 * [Expected Weekly Schedule](#expected-weekly-schedule)
+
+***
 
 ## Lecture Instructor
 Angie Roles (she/her)

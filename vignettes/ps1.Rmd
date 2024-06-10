@@ -1,0 +1,61 @@
+---
+title: "BIOL 210 Problem Set 1"
+date: "Week 1, Sep 4-6"
+output: 
+  html_document:
+    toc: TRUE
+    toc_depth: 3
+  pdf_document:
+    toc: TRUE
+    toc_depth: 3
+pkgdown:
+  as_is: true
+---
+# General Instructions for Problem Sets
+
+The goal of the problem sets is to give you practice thinking about and working with the concepts that we are covering. You may work with others to complete these assignments but should submit your own responses (not copied from someone else's response). 
+
+Before completing a problem set, you should review the content videos for the week and it may be helpful to complete those before the related class periods as well.
+
+Once you have answered the questions and before you turn in your responses, check your work against the answer key (linked for each problem set). If your responses are missing important information or incorrect, you need to correct them, using a different color font and explaining why your original answer was insufficient.
+
+Use the link at the top of this page to turn in your completed assignment, including corrections.
+
+# Related Readings
+
+Usually these readings will be optional for learning more about the topics we're covering. Occasionally, some readings will be required to answer some problems.
+
+* Background reading from the open textbook [Biology 2e](https://openstax.org/books/biology-2e/pages/1-introduction) at Openstax -- you can read online or download a PDF.
+    * Unit 1: Chapter 1. The Study of Life
+    * Unit 2: Chapter 4. Cell Structure: from Introduction through section 4.3
+    * Unit 4: Chapter 20. Phylogenies and the History of Life
+    
+* Readings from Gathering Moss by Robin Wall Kimmerer (15 pages total) - READ AT LEAST ONE OF THESE
+    * [Preface: Seeng the World Through Moss-Colored Glasses](https://drive.google.com/file/d/1rGV8pRe6PxKJuwb80-qzgYzPylFf_X3l/view?usp=drive_link)
+    * [The Standing Stones](https://drive.google.com/file/d/1qMr25Uu6sXQD1mfKNg31AOde4yP_48tg/view?usp=drive_link)
+    * [Learning to See](https://drive.google.com/file/d/1OSLuu2vlIzyyGz22jsnAHFpt7OKfpvk6/view?usp=drive_link)
+
+# Questions
+
+1. Let’s practice using classification and scientific nomenclature. For each of the organisms named below (common names provided), find the scientific name (the binomial nomenclature). Be sure to use the proper formatting! 
+    a. whale shark
+    b. fruit fly
+    c. Venus flytrap
+    d. magic mushrooms
+    
+2. As a reminder about the proper formatting, for each of the examples below, describe what is incorrect about the binomial nomenclature.
+    a. Homo sapiens
+    b. *homo sapiens*
+    c. *Homo Sapiens*
+    d. *Sapiens*
+    
+3. On a phylogenetic tree, we find taxon names at the tips of branches. What is a taxon? If we think about classification (taxonomy), can a taxon represent more than one thing? (Remember the phylogeny of the domains from content videos?) 
+
+4. Consider the tree below to practice tree-thinking.
+    a. Which taxon is the closest relative of Pigs? How do you know?
+    b. Are Dolphins a clade? How do you know?
+    c. What does Node C represent?
+
+```{r practice tree img, fig.align = 'center', fig.height = 4, fig.width = 4, fig.cap = "**Figure 1**: Phylogeny of ungulate mammals plus whales. (created by A. Roles)", echo = FALSE}
+knitr::include_graphics(file.path(here::here(), 'man', 'figures', 'tree.png'), dpi = 100)
+```

@@ -15,6 +15,12 @@ pkgdown:
 
 # Content Videos
 
+* [13-Translation](https://drive.google.com/drive/folders/1hyYSfkHkknSoSUFWH4iqG9serdbD50Oa?usp=drive_link)
+
+* [14-Sex determination](https://drive.google.com/drive/folders/1uVKTC91fryAIm7Ld6JkkZ1HPFjADLPUb?usp=drive_link)
+
+* [15-Inheritance and segregation](https://drive.google.com/drive/folders/1xmfRRvcePwiF_VICihGg9sl-EO98Pp5c?usp=drive_link)
+
 # Assignments
 
 ## Quiz
