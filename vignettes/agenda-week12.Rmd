@@ -14,6 +14,8 @@ pkgdown:
 
 # Reminders
 
+* something...
+
 # Content Videos
 
 * [31-Behavior](https://drive.google.com/drive/folders/1yRWAfJVfDEalk7Fva43soyIqrw7gMCTv?usp=drive_link)
@@ -25,16 +27,23 @@ pkgdown:
 
 # Assignments
 
-## Quiz
-## Problem Set
+[Quiz 11](404.html)
+
+[Problem Set 11](ps11.html)
 
 # Class Meetings
 
 ## Mon Nov 18
 
+Begin case study on marten population ecology.
+
 ## Wed Nov 20
 
+Finish case study on marten population ecology.
+
 ## Fri Nov 22
+
+TBD
 
 <br>
 

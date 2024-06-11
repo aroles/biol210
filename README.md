@@ -94,7 +94,7 @@ Angie is available for individual consultation during student hours or by appoin
 
 In this course, we use a form of contract grading, a method of assessment in which you complete a contract laying out the work you must complete to a satisfactory level in order to earn a specific letter grade.
 
-Read the following contract requirements carefully before filling out the Grade Contract form to complete your contract. <mark style="background-color:yellow">**Contracts are due by Fri Sep 8.**</mark>
+Read the following contract requirements carefully before filling out the Grade Contract form to complete your contract. <text style="background-color:yellow">**Contracts are due by Fri Sep 8.**</text>
 
 If you have questions about the contract process, email or visit Angie to discuss.
 
@@ -111,7 +111,7 @@ To complete the work required for a B, expectations are that you will spend at l
 
 **Table of expectations**
 
-Earning an A will require all of the work for a B plus completion of 1 additional project, exploring a course topic or topics in greater depth. <mark style="background-color:yellow">**Project goals and plan must be set by Oct 6 and completed by Dec 1.**</mark>
+Earning an A will require all of the work for a B plus completion of 1 additional project, exploring a course topic or topics in greater depth. <text style="background-color:yellow">**Project goals and plan must be set by Oct 6 and completed by Dec 1.**</text>
 
 Earning a C will occur when work required for a B is not completed to Satisfactory or in a timely fashion (repeatedly late).
 
@@ -129,33 +129,34 @@ In order to practice your understanding of the content video material and in-cla
 #### (4) Short-answer Exams – You choose due dates.
 In order to bring together your learning in live lecture meetings, during lab periods, and from the content videos, there will be 4 short-answer exams. These exams will be open-note, open-book, and untimed but designed to require 50 minutes to complete (if studied for). This means you may use any materials supplied by Angie to complete the exam but you should not discuss the exam with anyone other than Angie. There will be no time limit on completion of the exam and all exams will be available as of the first day of class. You am responsible for scheduling when you will take each exam. For responses that are not Satisfactory, Angie will give you feedback and you will revise your response(s) until achieving Satisfactory. I suggest you choose due dates no earlier than the following to ensure all material is covered in class before you work on the exam:
 
-* <mark style="background-color:yellow">**Exam 1 after Sep 29**</mark>
-* <mark style="background-color:yellow">**Exam 2 after Oct 27**</mark>
-* <mark style="background-color:yellow">**Exam 3 after Nov 22**</mark>
-* <mark style="background-color:yellow">**Exam 4 must be after Dec 12 and before 4pm Dec 17**</mark>
+* <text style="background-color:yellow">**Exam 1 after Sep 29**</text>
+* <text style="background-color:yellow">**Exam 2 after Oct 27**</text>
+* <text style="background-color:yellow">**Exam 3 after Nov 22**</text>
+* <text style="background-color:yellow">**Exam 4 must be after Dec 12 and before 4pm Dec 17**</text>
 
 #### (5) Self-reflections (mid-semester and final) - You choose due dates.
-One important skill you will practice in this class is self-assessment, the idea that you develop your own standards for your work rather than merely hoping that your work meets someone else’s standards. To that end, it’s important that you engage in a process of self-reflection. It is only by examining how things have gone and comparing that to how you might like them to have gone, that you can plan for making adjustments in the future. <mark style="background-color:yellow">**For this course, you will undertake one self-reflection in the middle of the semester (by Oct 13) and a second at the end of the term (by Dec 17).**</mark> For each, you will complete and submit the provided form before attending a short meeting scheduled with Angie to discuss your responses.
+One important skill you will practice in this class is self-assessment, the idea that you develop your own standards for your work rather than merely hoping that your work meets someone else’s standards. To that end, it’s important that you engage in a process of self-reflection. It is only by examining how things have gone and comparing that to how you might like them to have gone, that you can plan for making adjustments in the future. <text style="background-color:yellow">**For this course, you will undertake one self-reflection in the middle of the semester (by Oct 13) and a second at the end of the term (by Dec 17).**</text> For each, you will complete and submit the provided form before attending a short meeting scheduled with Angie to discuss your responses.
 
 ## Expected Weekly Schedule
 
-| Week | Dates | Topics |
- ----  -------- | --------------------------------- |
-| 0 | Aug 30 | Course Introduction |
-| 1 | Sep 04-06 | Biodiversity, Phylogenies, Cells |
-| 2 | Sep 09-13 | Eukarya, Genomes, Eukaryotic genomes |
-| 3 | Sep 16-20 | Mitosis, Meiosis, Life cycles |
-| 4 | Sep 23-27 | Genes, Transcription, RNA processing |
-| 5 | Sep 30-Oct 04 | Translation, Sex determination, Inheritance & segregation |
-| 6 | Oct 07-11 | Dominance, Independent assortment, Linkage |
-| 7 | Oct 14-18 | Hardy Weinberg, Detecting evolution, Genetic variation |
-| 8 | Oct 21-25 | *Fall Break*
-| 9 | Oct 28-Nov 01 | Mutation, Gene flow, Genetic drift |
-| 10 | Nov 04-08 | Nonrandom mating, Selection, Heritability |
-| 11 | Nov 11-15 | Behavior, Learning, Genetics of behavior |
-| 12 | Nov 18-22 | Interspecific interactions, Competition, Community structure |
-| 13 | Nov 25-27 | Ecological succession, Energy flow, Biodiversity patterns |
-| 14 | Dec 02-06 | Nutrient cycling |
-| 15 | Dec 09-11 | |
-| | Dec 12-15 | Reading Period |
-| | Dec 16-20 | Finals Period |
+<table>
+<tr><th>Week</th><th>Dates</th><th>Topics</th></tr>
+<tr><td>0</td><td>Aug 30</td><td>Course Introduction</td></tr>
+<tr><td>1</td><td>Sep 04-06</td><td>Biodiversity, Phylogenies, Cells</td></tr>
+<tr><td>2</td><td>Sep 09-13</td><td>Eukarya, Genomes, Eukaryotic genomes</td></tr>
+<tr><td>3</td><td>Sep 16-20</td><td>Mitosis, Meiosis, Life cycles</td></tr>
+<tr><td>4</td><td>Sep 23-27</td><td>Genes, Transcription, RNA processing</td></tr>
+<tr><td>5</td><td>Sep 30-Oct 04</td><td>Translation, Sex determination, Inheritance & segregation</td></tr>
+<tr><td>6</td><td>Oct 07-11</td><td>Dominance, Independent assortment, Linkage</td></tr>
+<tr><td>7</td><td>Oct 14-18</td><td>Hardy Weinberg, Detecting evolution, Genetic variation</td></tr>
+<tr><td>8</td><td>Oct 21-25</td><td>*Fall Break*</td></tr>
+<tr><td>9</td><td>Oct 28-Nov 01</td><td>Mutation, Gene flow, Genetic drift</td></tr>
+<tr><td>10</td><td>Nov 04-08</td><td>Nonrandom mating, Selection, Heritability</td></tr>
+<tr><td>11</td><td>Nov 11-15</td><td>Speciation, Population ecology, Life history</td></tr>
+<tr><td>12</td><td>Nov 18-22</td><td>Behavior, Learning, Genetics of behavior</td></tr>
+<tr><td>13</td><td>Nov 25-27</td><td>Interspecific interactions, Competition</td></tr>
+<tr><td>14</td><td>Dec 02-06</td><td>Community structure, Ecological succession, Energy flow</td></tr>
+<tr><td>15</td><td>Dec 09-11</td><td>Biodiversity patterns, Nutrient cycling</td></tr>
+<tr><td></td><td>Dec 12-15</td><td>Reading Period</td></tr>
+<tr><td></td><td>Dec 16-20</td><td>Finals Period</td></tr>
+</table>

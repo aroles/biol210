@@ -14,6 +14,8 @@ pkgdown:
 
 # Reminders
 
+* Remember to complete your grade contract by Fri Sep 8. Submit via the Assignment Turn-in link above.
+
 # Content Videos
 
 * [01-Biodiversity](https://drive.google.com/drive/folders/13zUXCk4qz2xeb_P53ceg8WtmSEPc9tcy?usp=drive_link)
@@ -24,13 +26,18 @@ pkgdown:
 
 # Assignments
 
-## Quiz
-## Problem Set
+[Quiz 1](404.html)
+
+[Problem Set 1](ps1.html)
 
 
 # Class Meetings
 
 ## Wed Sep 4
 
+Cover case study "A tale of three lice" (about phylogenetic trees and their uses).
+
 ## Wed Sep 6
+
+Begin UPGMA tree-building exercise with data from greenhouse plants.
 

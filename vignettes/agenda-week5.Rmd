@@ -13,6 +13,8 @@ pkgdown:
 ---
 # Reminders
 
+* something...
+
 # Content Videos
 
 * [13-Translation](https://drive.google.com/drive/folders/1hyYSfkHkknSoSUFWH4iqG9serdbD50Oa?usp=drive_link)
@@ -23,17 +25,23 @@ pkgdown:
 
 # Assignments
 
-## Quiz
-## Problem Set
+[Quiz 5](404.html)
+
+[Problem Set 5](ps5.html)
 
 # Class Meetings
 
 ## Mon Sep 30
 
+Begin case study of sex testing of female athletes.
+
 ## Wed Oct 2
+
+Finish case study.
 
 ## Fri Oct 4
 
+Begin fly inheritance problems.
 <br>
 
 ------------------------------------------------------------------------

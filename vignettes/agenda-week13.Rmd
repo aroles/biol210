@@ -14,6 +14,8 @@ pkgdown:
 
 # Reminders
 
+* something...
+
 # Content Videos
 
 * [34-Interspecific interactions](https://drive.google.com/drive/folders/1yZ9NZvr-Xff9-Za4LcuwliBC5p6vryJB?usp=drive_link)
@@ -22,17 +24,23 @@ pkgdown:
 
 # Assignments
 
-## Quiz
-## Problem Set
+[Quiz 12](404.html)
+
+[Problem Set 12](ps12.html)
 
 # Class Meetings
 
 ## Mon Nov 25
 
+Begin case study on mycorrhizae and interactions.
+
 ## Wed Nov 27
+
+Finish case study.
 
 ## Fri Nov 29 -- Thanksgiving Break
 
+No class for break.
 <br>
 
 ------------------------------------------------------------------------

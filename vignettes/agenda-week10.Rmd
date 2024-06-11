@@ -14,6 +14,8 @@ pkgdown:
 
 # Reminders
 
+* something...
+
 # Content Videos
 
 * [25-Nonrandom mating](https://drive.google.com/drive/folders/1yAMeqDLfKyyy2EN0ISzwUJCYjFUuCWfS?usp=drive_link)
@@ -24,16 +26,23 @@ pkgdown:
 
 # Assignments
 
-## Quiz
-## Problem Set
+[Quiz 9](404.html)
+
+[Problem Set 9](ps9.html)
 
 # Class Meetings
 
 ## Mon Nov 4
 
+Begin case study on selection and oldfield mice.
+
 ## Wed Nov 6
 
+Finish case study.
+
 ## Fri Nov 8
+
+Do population genetics exercise with elephants.
 
 <br>
 

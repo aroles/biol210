@@ -13,6 +13,8 @@ pkgdown:
 ---
 # Reminders
 
+* something...
+
 # Content Videos
 
 * [10-Genes](https://drive.google.com/drive/folders/1eLzO01lyNV57WvVK-Ie8kH_3eWKHXGcu?usp=drive_link)
@@ -23,16 +25,23 @@ pkgdown:
 
 # Assignments
 
-## Quiz
-## Problem Set
+[Quiz 4](404.html)
+
+[Problem Set 4](ps4.html)
 
 # Class Meetings
 
 ## Mon Sep 23
 
+Begin case study on alternative splicing.
+
 ## Wed Sep 25
 
+Finish case study on alternative splicing.
+
 ## Fri Sep 27
+
+TBD - Molecular phylogenetics exercise?
 <br>
 
 ------------------------------------------------------------------------

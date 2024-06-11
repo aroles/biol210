@@ -14,6 +14,8 @@ pkgdown:
 
 # Reminders
 
+* something...
+
 # Content Videos
 
 * [36-Community structure](https://drive.google.com/drive/folders/1ybQ88SfnQc1fUHeUuw3n1XkoZxdJA72o?usp=drive_link)
@@ -24,16 +26,23 @@ pkgdown:
 
 # Assignments
 
-## Quiz
-## Problem Set
+[Quiz 13](404.html)
+
+[Problem Set 13](ps13.html)
 
 # Class Meetings
 
 ## Mon Dec 2
 
+Begin case study on food webs.
+
 ## Wed Dec 4
 
+Finish case study on food webs.
+
 ## Fri Dec 6
+
+TBD
 
 <br>
 

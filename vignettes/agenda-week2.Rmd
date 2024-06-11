@@ -14,6 +14,8 @@ pkgdown:
 
 # Reminders
 
+* something...
+
 # Content Videos
 
 * [04-Eukarya](https://drive.google.com/drive/folders/18h_G9z9nqi_LV9Bdq87AZZgCpbEWWCH9?usp=drive_link)
@@ -24,15 +26,22 @@ pkgdown:
 
 # Assignments
 
-## Quiz
-## Problem Set
+[Quiz 2](404.html)
+
+[Problem Set 2](ps2.html)
 
 # Class Meetings
 
 ## Mon Sep 9
 
+Finish UPGMA tree-building exercise from last week.
+
 ## Wed Sep 11
 
+Begin case study on Tasmanian Devils and DFTD.
+
 ## Fri Sep 13
+
+Finish case study of DFTD.
 
 

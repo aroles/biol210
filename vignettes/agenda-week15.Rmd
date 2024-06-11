@@ -14,6 +14,8 @@ pkgdown:
 
 # Reminders
 
+* something...
+
 # Content Videos
 
 * [39-Biodiversity patterns](https://drive.google.com/drive/folders/1yk1bSIUVvq_bd5oAvv5VhSX_NzsThVC-?usp=drive_link)
@@ -22,16 +24,19 @@ pkgdown:
 
 # Assignments
 
-## Quiz
-## Problem Set
+[Quiz 14](404.html)
+
+[Problem Set 14](ps14.html)
 
 # Class Meetings
 
 ## Mon Dec 9
 
+Begin case study on algal blooms and nutrient cycling.
+
 ## Wed Dec 11
 
-
+Finish case study.
 
 <br>
 

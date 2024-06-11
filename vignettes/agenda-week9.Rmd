@@ -14,6 +14,8 @@ pkgdown:
 
 # Reminders
 
+* something...
+
 # Content Videos
 
 * [22-Mutation](https://drive.google.com/drive/folders/1y7C8hpHev8ZOQKz9FEz9Y94z1Z_d6e6i?usp=drive_link)
@@ -24,17 +26,23 @@ pkgdown:
 
 # Assignments
 
-## Quiz
-## Problem Set
+[Quiz 8](404.html)
+
+[Problem Set 8](ps8.html)
 
 # Class Meetings
 
 ## Mon Oct 28
 
+Begin case study on mutation and tuberculosis resistance.
+
 ## Wed Oct 30
+
+Finish case study on mutation and tuberculosis resistance.
 
 ## Fri Nov 1
 
+TBD
 <br>
 
 ------------------------------------------------------------------------

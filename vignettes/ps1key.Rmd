@@ -12,9 +12,9 @@ pkgdown:
   as_is: true
 ---
 
-This is the key for PS 1. Before reading this document, you should have completed the problems. Use this key to check and correct your work BEFORE submitting the corrected version via the google form. 
+<text style="background-color:yellow">This is the key for PS 1. Before reading this document, you should have completed the problems. Use this key to check and correct your work BEFORE submitting the corrected version via the google form.</text>
 
-You should compare your responses with this key and make any changes in another font color. Be sure to explain why you got things wrong (showing that now you understand) as well as providing corrected responses.
+<text style="background-color:yellow">You should compare your responses with this key and make any changes in another font color. Be sure to explain why you got things wrong (showing that now you understand) as well as providing corrected responses.</text>
 
 ## Key to problems
 <ol>
@@ -34,7 +34,7 @@ You should compare your responses with this key and make any changes in another 
 <li> *Sapiens* <br><text style="background-color:yellow">The genus name is missing AND the specific epithet should not be capitalized</text></li>
 </ol>
 <br>
-<li>Use the [Oak Phylogeny Sheet](sheets/sci_articles/Oak.Phylogeny.Worksheet.jpg) for questions 3-9. List the terminal taxon or taxa (in this case, species) identified by their most recent common ancestor, that are sister to each oak below.</li>
+<li>Use the Oak Phylogeny Sheet for questions 3-9. List the terminal taxon or taxa (in this case, species) identified by their most recent common ancestor, that are sister to each oak below.</li>
 <ol type="a">
 <li> northern red oak is sister to... <br><text style="background-color:yellow">shumard oak</text></li>
 <li> post oak is sister to...<br><text style="background-color:yellow">overcup oak</text></li>
@@ -69,7 +69,7 @@ You should compare your responses with this key and make any changes in another 
 <li> post oak, overcup oak  <br><text style="background-color:yellow">Not a clade because you are not including the common ancestor. Must include node K and all its descendants.</text></li>
 </ol>
 <br>
-<li>Referring to the [Tree of Life sheet](sheets/sci_articles/tolblank.pdf) (before filled out):
+<li>Referring to the Tree of Life sheet (before filled out):
 <ol type="a">
 <li> How many taxa on this tree possess vertebrae?  <br><text style="background-color:yellow">4 (numbers 2-5, Lepidosaur, Aves, Mammalia, Actinopterygii)</text></li>
 <li> Find the branch where “segmentation” evolved. Is this trait present in all of the descendants of this ancestor?  <br><text style="background-color:yellow">No, Nematoda have lost segmentation</text></li>
@@ -77,11 +77,11 @@ You should compare your responses with this key and make any changes in another 
 <li> Which taxa on the tree are segmented but lack a collagen cuticle?  <br><text style="background-color:yellow">Arthropoda and Annelida</text></li>
 </ol>
 <br>
-<li>Finally, complete the table below, using the [Tree of Life sheet](sheets/sci_articles/tolblank.pdf) and other resources (texts, internet, etc) to figure out which number corresponds to which of the following taxa, giving an example species, and listing defining features of the taxon (not the specific species but the larger taxonomic group).</li>
+<li>Finally, complete the table below, using the Tree of Life sheet and other resources (texts, internet, etc) to figure out which number corresponds to which of the following taxa, giving an example species, and listing defining features of the taxon (not the specific species but the larger taxonomic group).</li>
 </ul>
 <br>
 
-<text style="background-color:yellow">Note that in the table below, defining traits are given as traits mapped on the actual tree where available for the group. The below are examples of defining traits, other traits may also be used to define these groups.</text>
+<text style="background-color:yellow">Note that in the table below, defining traits are given as traits mapped on the actual tree where available for the group. The below are examples of defining traits, other traits may also be used to define these groups. You may also wish to see the tree version of the key, [available here](sheets/sci_articles/tolkey.pdf).</text>
 
 ```{r tab, echo = FALSE, results = 'asis', message = FALSE, warning = FALSE}
 tab <- data.frame(Taxon_Name = c("Actinopterygii", "Amoebozoa", "Angiosperms", "Annelida", "Arthropoda", "Aves", "Bacteria", "Cnidaria", "Echinodermata", "Euglena", "Fern", "Fungi", "Green algae", "Gymnosperms", "Lepidosaur", "Lichen", "Mammalia", "Mollusca", "Moss", "Nematoda", "Paramecium", "Porifera"), Taxon_Number=c(5,1,19,8,10,3,22,11,6,21,17,13,15,18,2,14,4,7,16,9,20,12), Example_Species=c(rep("many possible responses",16),"humans",rep("many possible responses",5)), Defining_Traits=c("fins with thin webbing between bony spines (ray-finned)", "great flexibility in shape", "flowers and fruit", "segmented with collagen cuticle", "jointed appendages", "feathers", "peptidoglycan cell walls", "gelatinous body, possess venomed flagella", "pentaradial symmetry", "flagella", "vascular tissue, spore (no flowers/seeds)", "chitinous cell wall", "chlorophyll, unicellular or colonial", "vascular tissue, naked seeds", "kinetic skull", "symbiosis of algae/cyanobacteria and fungi", "mammary glands", "calcareous shell", "multicellular, no vascular tissue, haploid dominant", "collagen cuticle", "cilia", "spicules"))

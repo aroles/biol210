@@ -13,6 +13,8 @@ pkgdown:
 ---
 # Reminders
 
+* something...
+
 # Content Videos
 
 * [07-Mitosis and Binary Fission](https://drive.google.com/drive/folders/1TD2Kl1w4XfPaTKH-Rr4jARDMGWi5Oo9J?usp=drive_link)
@@ -23,14 +25,20 @@ pkgdown:
 
 # Assignments
 
-## Quiz
-## Problem Set
+[Quiz 3](404.html)
+
+[Problem Set 3](ps3.html)
 
 # Class Meetings
 
 ## Mon Sep 16
 
+Begin case study of Sex and Komodo Dragon.
+
 ## Wed Sep 18
+
+Finish case study of Sex and Komodo Dragon.
 
 ## Wed Sep 20
 
+Bead exercise to demonstrate meiosis, mitosis.

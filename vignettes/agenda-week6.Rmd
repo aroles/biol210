@@ -13,6 +13,8 @@ pkgdown:
 ---
 # Reminders
 
+* something...
+
 # Content Videos
 
 * [16-Dominance principle](https://drive.google.com/drive/folders/1xn0bdgGBMCf0MJvxNHW1BvSkR9U9smSV?usp=drive_link)
@@ -23,16 +25,23 @@ pkgdown:
 
 # Assignments
 
-## Quiz
-## Problem Set
+[Quiz 6](404.html)
+
+[Problem Set 6](ps6.html)
 
 # Class Meetings
 
 ## Mon Oct 7
 
+Finish/more inheritance problems.
+
 ## Wed Oct 9
 
+Begin case study on methemoglobinemia.
+
 ## Fri Oct 11
+
+Finish case study.
 
 <br>
 

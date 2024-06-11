@@ -13,6 +13,8 @@ pkgdown:
 ---
 # Reminders
 
+* something...
+
 # Content Videos
 
 * [19-Hardy Weinberg](https://drive.google.com/drive/folders/1xvkunHsgId4CdCz9wuEwAhGPOuWXRNq8?usp=drive_link)
@@ -23,16 +25,23 @@ pkgdown:
 
 # Assignments
 
-## Quiz
-## Problem Set
+[Quiz 7](404.html)
+
+[Problem Set 7](ps7.html)
 
 # Class Meetings
 
 ## Mon Oct 14
 
+Begin case study on GWAS.
+
 ## Wed Oct 16
 
+Finish case study on GWAS.
+
 ## Fri Oct 18
+
+TBD -- molecular phylogenetics?
 <br>
 
 ------------------------------------------------------------------------
