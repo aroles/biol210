@@ -25,7 +25,7 @@ Use the link at the top of this page to turn in your completed assignment, inclu
 
 Usually these readings will be optional for learning more about the topics we're covering. Occasionally, some readings will be required to answer some problems.
 
-* **REQUIRED READING:** Before attempting the problem set, watch the content videos (see agenda) and [read this background information](/ps1reading.html).
+* **REQUIRED READING:** Before attempting the problem set, watch the content videos (see agenda) and [read this background information](ps1reading.html).
 
 * Background reading from the open textbook [Biology 2e](https://openstax.org/books/biology-2e/pages/1-introduction) at Openstax -- you can read online or download a PDF.
     * Unit 1: Chapter 1. The Study of Life
@@ -110,4 +110,4 @@ tab <- data.frame(Taxon_Name = c("Actinopterygii", "Amoebozoa", "Angiosperms", "
 knitr::kable(tab)
 ```
 
-<b>When you are finished, check your responses on the [key for PS1](/ps1key.html).</b>
+<b>When you are finished, check your responses on the [key for PS1](ps1key.html).</b>
