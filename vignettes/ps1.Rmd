@@ -25,37 +25,89 @@ Use the link at the top of this page to turn in your completed assignment, inclu
 
 Usually these readings will be optional for learning more about the topics we're covering. Occasionally, some readings will be required to answer some problems.
 
+* **REQUIRED READING:** Before attempting the problem set, watch the content videos (see agenda) and [read this background information](articles/ps1reading.html).
+
 * Background reading from the open textbook [Biology 2e](https://openstax.org/books/biology-2e/pages/1-introduction) at Openstax -- you can read online or download a PDF.
     * Unit 1: Chapter 1. The Study of Life
     * Unit 2: Chapter 4. Cell Structure: from Introduction through section 4.3
     * Unit 4: Chapter 20. Phylogenies and the History of Life
+    <br><br>
     
-* Readings from Gathering Moss by Robin Wall Kimmerer (15 pages total) - READ AT LEAST ONE OF THESE
+* <b>READ AT LEAST ONE OF THESE:</b> Readings from Gathering Moss by Robin Wall Kimmerer (15 pages total)
     * [Preface: Seeng the World Through Moss-Colored Glasses](https://drive.google.com/file/d/1rGV8pRe6PxKJuwb80-qzgYzPylFf_X3l/view?usp=drive_link)
     * [The Standing Stones](https://drive.google.com/file/d/1qMr25Uu6sXQD1mfKNg31AOde4yP_48tg/view?usp=drive_link)
     * [Learning to See](https://drive.google.com/file/d/1OSLuu2vlIzyyGz22jsnAHFpt7OKfpvk6/view?usp=drive_link)
 
+
 # Questions
 
-1. Let’s practice using classification and scientific nomenclature. For each of the organisms named below (common names provided), find the scientific name (the binomial nomenclature). Be sure to use the proper formatting! 
-    a. whale shark
-    b. fruit fly
-    c. Venus flytrap
-    d. magic mushrooms
-    
-2. As a reminder about the proper formatting, for each of the examples below, describe what is incorrect about the binomial nomenclature.
-    a. Homo sapiens
-    b. *homo sapiens*
-    c. *Homo Sapiens*
-    d. *Sapiens*
-    
-3. On a phylogenetic tree, we find taxon names at the tips of branches. What is a taxon? If we think about classification (taxonomy), can a taxon represent more than one thing? (Remember the phylogeny of the domains from content videos?) 
+<ol>
+<li> Let’s practice using classification and scientific nomenclature. For each of the organisms named below (common names provided), find the scientific name (the binomial nomenclature). Be sure to use the proper formatting!</li>
+<ol type="a">
+<li> fruit fly</li>
+<li> whale shark</li>
+<li> fruit fly</li>
+<li> Venus flytrap</li>
+<li> magic mushrooms </li>
+</ol>
+<br>
+<li> As a reminder about the proper formatting, for each of the examples below, describe what is incorrect about the binomial nomenclature.</li>
+<ol type="a">
+<li> Homo sapiens</li>
+<li> *homo sapiens*</li>
+<li> *Homo Sapiens*</li>
+<li> *Sapiens*</li>
+</ol>
+<br>
+<li>Use the [Oak Phylogeny Sheet](sheets/sci_articles/Oak.Phylogeny.Worksheet.jpg) for questions 3-9. List the terminal taxon or taxa (in this case, species) identified by their most recent common ancestor, that are sister to each oak below.</li>
+<ol type="a">
+<li> northern red oak is sister to... </li>
+<li> post oak is sister to...</li>
+<li> black oak is sister to...</li>
+<li> swamp white oak is sister to...</li>
+</ol>
+<br>
+<li>TRUE / FALSE Swamp white oak is most closely related to bur oak. Briefly explain your answer.</li>
+<br>
+<li>What is the most recent common ancestor of each of the pairs of species listed below? In other words, which node unites the following pairs of species? Write the correct letter for each node next to each pair of species.</li>
+<ol type="a">
+<li> pin oak & shumard oak</li>
+<li> post oak & southern red oak</li> 
+<li> bur oak & chestnut oak</li>
+</ol>
+<br>
+<li>Rank the following nodes in Tree 1 in order of increasing age (i.e. youngest to oldest): A, D, K</li>
+<br>
 
-4. Consider the tree below to practice tree-thinking.
-    a. Which taxon is the closest relative of Pigs? How do you know?
-    b. Are Dolphins a clade? How do you know?
-    c. What does Node C represent?
+<li> Which terminal taxa are in the clade that is defined by node E?</li>
+<br>
+<li> Now find all of the clades in Tree 1. How many are there? List them, using the node to define the clade (so clade defined by node A would be everything on the tree). (Remember that the clade is defined by an ancestor and all of its descendants, so all should be contained in the grouping.)</li>
+<br>
+<li> Below are several groups of taxa, some of which form clades in Tree 1 and others of which do not. Place an X next to each group of taxa below that collectively form a clade in Tree 1.
+<ol type="a">
+<li> white oak, bur oak, swamp white oak, Node B, and all of its descendants</li>
+<li> southern red oak, post oak, overcup oak, Node K, and all of its descendants</li>
+<li> black oak, northern red oak, shumard oak and all of Node I's descendants</li>
+<li> northern red oak, pin oak, southern red oak, and Node H</li>
+<li> post oak, overcup oak</li>
+</ol>
+<br>
+<li>Referring to the [Tree of Life sheet](sheets/sci_articles/tolblank.pdf) (before filled out):
+<ol type="a">
+<li> How many taxa on this tree possess vertebrae?</li>
+<li> Find the branch where “segmentation” evolved. Is this trait present in all of the descendants of this ancestor?</li>
+<li> Which taxa have alternation of generations but lack vascular tissue?</li>
+<li> Which taxa on the tree are segmented but lack a collagen cuticle?</li>
+</ol>
+<br>
+<li>Finally, complete the table below, using the [Tree of Life sheet](sheets/sci_articles/tolblank.pdf) and other resources (texts, internet, etc) to figure out which number corresponds to which of the following taxa, giving an example species, and listing defining features of the taxon (not the specific species but the larger taxonomic group).</li>
+</ul>
+<br>
 
-```{r practice tree img, fig.align = 'center', fig.height = 4, fig.width = 4, fig.cap = "**Figure 1**: Phylogeny of ungulate mammals plus whales. (created by A. Roles)", echo = FALSE}
-knitr::include_graphics(file.path(here::here(), 'man', 'figures', 'tree.png'), dpi = 100)
+```{r tab, echo = FALSE, results = 'asis', message = FALSE, warning = FALSE}
+tab <- data.frame(Taxon_Name = c("Actinopterygii", "Amoebozoa", "Angiosperms", "Annelida", "Arthropoda", "Aves", "Bacteria", "Cnidaria", "Echinodermata", "Euglena", "Fern", "Fungi", "Green algae", "Gymnosperms", "Lepidosaur", "Lichen", "Mammalia", "Mollusca", "Moss", "Nematoda", "Paramecium", "Porifera"), Taxon_Number=c(rep("",16), "4",rep("",5)), Example_Species=c(rep("",16),"humans",rep("",5)), Defining_Traits=c(rep("",16), "mammary glands", rep("", 5)))
+     
+knitr::kable(tab)
 ```
+
+<b>When you are finished, check your responses on the [key for PS1](articles/ps1key.html).</b>

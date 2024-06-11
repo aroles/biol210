@@ -1,0 +1,138 @@
+---
+title: "BIOL 210 Problem Set 1 Background Reading"
+date: "Week 1, Sep 4-6"
+output: 
+  html_document:
+    toc: TRUE
+    toc_depth: 3
+  pdf_document:
+    toc: TRUE
+    toc_depth: 3
+pkgdown:
+  as_is: true
+---
+# Background for Problem Set 1
+
+The goal of this week's problem set is to familiarize you with systematics (the way we name organisms in science) and phylogenetics (the way we describe how organisms are related to each other). The content videos will help introduce this material but we're also supplying some extra background here.
+
+**Biodiversity** refers to the diversity of life on Earth. In one way or another, everything we study in BIOL 210 involves biodiversity. Perhaps you are most familiar with biodiversity as the number of species in a habitat and the relative abundance of each species. However, biodiversity encompasses much more than these measures. Early in the semester we will focus on another element of biodiversity: genetic diversity. Later we will shift attention to species diversity. Towards the end of the course, we will broaden our scope of diversity to include the geographic scale of communities, ecosystems, and biomes.
+
+This problem set is intended to introduce you to Earth's biodiversity while simultaneously providing a useful framework for talking about biodiversity. We will learn that biologists talk about biodiversity in a **phylogenetic** context; i.e., based on evolutionary relationships. Thus it is important that in the very first week of the semester, you become comfortable with reading and interpreting phylogenetic trees.
+
+## A note about taxonomy and phylogeny
+
+**Taxonomy** is simply another word for classification system. Biologists have long endeavored to produce reasonable and useful classification schemes for the world's biodiversity. Traditional taxonomic systems are based on the concept of **hierarchical ranks**; that is, they consist of nested groups. In other words, each rank may be composed of numerous taxa of the next lowest rank: an order may consist of several families, a family may consist of several genera (the plural of genus), and a genus may consist of several species. The major ranks of the modified **Linnaean system** of taxonomy we use today are, in descending order: Kingdom, Phylum, Class, Order, Family, Genus, Species. Linnaeus used visible characteristics to classify organisms and described only two kingdoms: plants and animals. However, today we classify organisms in a Three Domain System (Bacteria, Archaea, and Eukarya), which is based on anatomical, life-history, and genetic traits.
+
+Note that, when used formally, each rank in the hierarchy is capitalized, except for the specific epithet, which is in lowercase. Scientific names are binomials, having two parts. For example, *Ulmus americana*, is the species name for American elm. The first name – *Ulmus* – is the genus for elms and the second name – *americana*, meaning "of America", is the specific epithet. The scientific name can be abbreviated as *U. americana*, but one cannot use *americana* alone, as that epithet is also used for other taxa, such as the white ash, whose species name is *Fraxinus americana*. The genus is always capitalized, but the epithet usually is not. Note that standard scientific nomenclature requires that formal scientific names are written either in italics or are underlined. YOU ARE EXPECTED TO USE THE STANDARD FORMAT IN ALL WRITTEN WORK FOR THIS COURSE.
+
+Prior to the advent of technology for DNA sequencing, taxonomists primarily used assessments of anatomical similarity as the basis for defining taxonomic groups. However, as we will see later in the semester, **morphology** (which is another word for anatomy) is occasionally misleading - similarity of structure doesn't always reflect common evolutionary origins. There is now broad agreement among taxonomists that classification systems should reflect shared ancestry, even when morphology contradicts phylogeny. In other words, taxonomic groups should always correspond to clades. Consequently, understanding phylogeny is now a critical prerequisite to defining taxonomic groups.
+
+## How are organisms related and how do we depict these relationships?
+
+Currently available evidence suggests that all life on Earth shares a single origin; i.e. every living thing on the planet descends from a single common ancestor that lived around 4 billion years ago. That long-ago ancestor then split into descendant species (a process called <b>speciation</b>), which themselves split over and over and over again forming the millions of species on Earth today. Along the way, these species were altered by evolutionary processes such as natural selection and genetic drift, which you will learn about later in the semester. Remember that evolution is nothing more than <b>the change in genetic structure of populations over time and space.</b>
+
+How do we depict these genealogical relationships among species, in visual or diagrammatic form? The evolutionary relationships among different species are called phylogenetic relationships, and are typically depicted as a branching diagram referred to as a <b>cladogram</b>, a <b>phylogenetic tree</b>, or simply a <b>phylogeny</b> (all of these words are interchangeable for our purposes). An example phylogeny of different species of oak trees is given on the [Oak Phylogeny Sheet handout](sheets/sci_articles/Oak.Phylogeny.Worksheet.jpg). We'll be referring to this sheet a bit so make sure you keep it open or download it. Let's take a few minutes to figure out what is implied by a phylogeny and how to read one.
+
+First of all, how do we read a phylogeny? Go to the [Oak Phylogeny Sheet](sheets/sci_articles/Oak.Phylogeny.Worksheet.jpg) and look at Tree 1. Find the white oak in Tree 1. If you follow the line leading from the white oak, it intersects with the line leading to the bur oak. The point at which these lines intersect is called a <b>node</b> (in this case, it's referred to as node C; all the nodes are assigned a letter in this tree), and this node represents the last shared ancestor of the bur oak and white oak. (The lines themselves are referred to as <b>branches</b>; after all, it's a phylogenetic "tree", right?) So, this phylogeny implies that the bur oak and white oak share a common ancestor with each other more recently than with any other group on the tree, and we thus refer to the bur oak and white oak as <b>sister species</b>. Another way of thinking about this relationship is that the bur oak and white oak are each other's closest relatives.
+
+It is extremely important to realize that phylogenies imply time in addition to relationships. In other words, the groups you are actually examining or discussing (the <b>terminal taxa</b>) are placed at the tips of the branches, and as you follow the branches all the way to the <b>root</b> of the tree (the root represents the common ancestor of all the species in the tree), you are traveling backwards in time. How much time has elapsed between nodes, you might ask? Well, in a simple cladogram such as the one you see above, the absolute amount of time is not specified; only relative time is implied (i.e., the ancestor at node B must have lived before the ancestor at node C, but how much earlier is impossible to say using this tree alone). Generally, inferring the absolute amount of time elapsed between nodes requires additional external data, such as fossils which are dated geologically. DNA sequence data can also help us estimate time using what is known as a "molecular clock" - but this STILL requires the existence of fossils to calibrate the clock.
+
+Now let's take some time to practice reading trees. Look at Tree 1 on the Oak Phylogeny Sheet and use it to answer the following questions. These questions are also part of your Problem Set 1 questions so be sure to keep your answers for that assignment!
+
+<ul>
+<li> List the terminal taxon or taxa (in this case, species) identified by their most recent common ancestor, that are sister to each oak below.</li>
+<ol type="a">
+<li> northern red oak is sister to... </li>
+<li> post oak is sister to...</li>
+<li> black oak is sister to...</li>
+<li> swamp white oak is sister to...</li>
+</ol>
+<br>
+<li> TRUE / FALSE Swamp white oak is most closely related to bur oak. Briefly explain your answer.</li>
+<br>
+<li> What is the most recent common ancestor of each of the pairs of species listed below? In other words, which node unites the following pairs of species? Write the correct letter for each node next to each pair of species.</li>
+<ol type="a">
+<li> pin oak & shumard oak</li>
+<li> post oak & southern red oak</li> 
+<li> bur oak & chestnut oak</li>
+</ol>
+<br>
+<li> Rank the following nodes in Tree 1 in order of increasing age (i.e. youngest to oldest): A, D, K</li>
+</ul>
+<br>
+
+## Rearranging branches on trees
+When reading trees, keep in mind that what matters is how the branches connect to the nodes. It is possible to rearrange the order of the branches on a tree WITHOUT changing the way the branches attach to each other. These rearranged trees may at first glance look much different than the original, but in fact they depict identical relationships.
+
+Refer back to the [Oak Phylogeny Sheet](sheets/sci_articles/Oak.Phylogeny.Worksheet.jpg), and find Trees A, B, and C. Each of these three trees has the same species as in Tree 1, but the relationships among them are different; i.e. at least some of the relationships differ in each of these three trees. However, ONE of the three shows the *exact same* relationships as in Tree 1. Which one?
+
+Now let's add one more wrinkle to reading trees. There are many ways that phylogenies can be drawn, but they all depict the same thing—the evolutionary relationships among taxa. Two frequently encountered alternative ways of drawing cladograms are provided as Trees D and E at the bottom of the Oak Phylogeny Sheet. **Don't be fooled by the different shapes or by what seem to be extra branches in these depictions**—they still show relationships among species. For example, look at node C in Trees D and E. Node C shows the same sister relationship between white oak and bur oak that is depicted in Tree 1 (convince yourself of this fact). In Trees D and E, there is still just one branch leading from node C to white oak; the branch simply makes a 90 &deg; turn along the way!
+
+Trees D and E depict identical relationships; they also depict identical relationships with respect to EITHER Tree A, B, or C. Which one of these three trees are Trees D and E identical to?
+
+## Taxa and clades
+
+Now, let's move on to a couple other items. First, an important note: trees don't have to have species as the organisms at the tips. We can depict the relationships among larger taxonomic groups in exactly the same way as we do individual species. For example, we could show the phylogenetic relationships among the orders of mammals (i.e. branch tips would be labeled "Rodents", "Primates", "Carnivorans", etc. instead of individual species names). For this reason, we can use the catch-all term <b>taxon</b> (plural is <b>taxa</b>) to refer to any organisms at the tips of a phylogeny. Taxon can refer to any named taxonomic group; e.g. a species is a taxon, a genus is a taxon, an order is a taxon, etc.
+
+Second, another important term to become familiar with is <b>clade</b> (which, in fact, is the root word for cladogram). A clade is entirely composed of an ancestor (i.e. a node) and all of its descendants (even those descendants not labelled on the tree). For example, in Tree 1, the group containing node C, its descendant taxa white oak and bur oak, and the branches leading from C to the terminal taxa forms a clade, as does the group containing node B and all its descendants. The latter clade happens to contain the clade defined by node C; in other words, one clade can contain within it many other clades (another way to say this is that clades are nested). Keep in mind that a clade is defined by common ancestry, but we identify (or diagnose) clades by traits the organisms share. Definition and diagnosis are different processes, so be sure that you do not confuse them.
+
+One important note to keep in mind about terminal taxa is that when we write "white oak", for example, we are referring to the group of all white oaks that exist today, everyone making up that species. When we represent that tip of the tree we are thus representing the common ancestor of all oaks plus all the oaks that descended from that common ancestor. This means that every species is also a clade. You can think of the very tip of the tree as being the node that represents the taxon listed at the terminus.
+
+Now let's practice taxa and clades—look at Tree 1 on the [Oak Phylogeny Sheet](sheets/sci_articles/Oak.Phylogeny.Worksheet.jpg) and answer the following questions.
+
+<ul>
+<li> Which terminal taxa are in the clade that is defined by node E?</li>
+<br>
+<li> Now find all of the clades in Tree 1. How many are there? List them, using the node to define the clade (so clade defined by node A would be everything on the tree). (Remember that the clade is defined by an ancestor and all of its descendants, so all should be contained in the grouping.)</li>
+<br>
+<li> Below are several groups of taxa, some of which form clades in Tree 1 and others of which do not. Place an X next to each group of taxa below that collectively form a clade in Tree 1.
+<ol type="a">
+<li> white oak, bur oak, swamp white oak, Node B, and all of its descendants</li>
+<li> southern red oak, post oak, overcup oak, Node K, and all of its descendants</li>
+<li> black oak, northern red oak, shumard oak and all of Node I's descendants</li>
+<li> northern red oak, pin oak, southern red oak, and Node H</li>
+<li> post oak, overcup oak</li>
+</ol>
+</ul>
+<br>
+
+## Understanding trait evolution on phylogenetic trees
+
+Now that we have some practice reading phylogenetic trees, let's try adding taxa to a tree while learning about how to "map" traits onto a phylogeny.
+
+Find the [Tree of Life Sheet](sheets/sci_articles/tolblank.pdf), which depicts a phylogeny of some of the major groups of organisms on Earth. However, the taxa names are blank! You will be adding in these taxon names using the list of taxa and the information on the tree about characters to identify which are which. You'll probably also need to do some googling to sleuth out the answers!
+
+But first, let’s get familiarized with placing trait values on trees. You will notice that superimposed on top of many branches in the Tree of Life are hatch marks labeled trait names. These hatch marks indicate the branches on which certain traits evolved, either appearing (the trait has newly evolved) or disappearing (the trait has been lost). These marks are an example of <b>character mapping</b>, or "mapping" the branch of origin of certain "characters", which is just another word for trait. Let’s look at an example close to home—-find the letter that corresponds to the presence of mammary glands. Of course, you can guess which taxon is attached to this branch—-none other than mammals. This hatch mark means that mammary glands evolved at some point along the branch leading to mammals, but AFTER the split with its nearest relatives (who do not have mammary glands). It also implies that all mammals have mammary glands since this trait evolved BEFORE the earliest evolutionary splits between mammal groups (these splits aren’t shown because all mammals are treated as a single group in this tree).
+
+Now let’s practice interpreting trait evolution on phylogenetic trees—-use the [Tree of Life sheet](sheets/sci_articles/tolblank.pdf) to answer the following questions (you don’t need to know the taxon names to answer these questions). <b>ANSWER THESE QUESTIONS BEFORE FILLING IN THE TAXON NAMES</b>. These questions will help familiarize you with the tree prior to filling in the names.
+
+* How many taxa on this tree possess vertebrae?
+* Find the branch where “segmentation” evolved. Is this trait present in all of the descendants of this ancestor?
+* On the Tree of Life sheet, which taxa have alternation of generations but lack vascular tissue?
+* Which taxa on the tree are segmented but lack a collagen cuticle?
+
+## Inferring trait evolution
+
+On the Tree of Life Worksheet, we furnished you with the information about where certain traits evolved. But—-and this is extremely important-—it is also possible to infer where traits evolved if given a tree and information about the traits possessed by the taxa at the tips of the branches. So, if we can determine the phylogenetic relationships among taxa, then we will be able to make inferences about trait evolution.
+
+Let’s look at a straightforward example of this process in our original oak example. Go to Tree 1 on the [Oak Phylogeny Sheet](sheets/sci_articles/Oak.Phylogeny.Worksheet.jpg) and answer the following questions:
+
+* Did you notice how some of the oak species have leaves whose tips are pointy (e.g., blackjack oak, northern red oak, pin oak), while other species have smooth lobes instead (e.g., chestnut oak, white oak, post oak, overcup oak)? Note which taxa have pointed tips.
+* How many times did pointed tips evolve in oaks, given the leaves and relationships you see in this tree?
+* On which branch do you think pointed tips evolved? You can describe it by saying which nodes the branch is between. Remember that characters typically evolve along branches, not right at nodes.
+* Did the ancestor of all oaks have pointy or smooth lobes? In other words, which of these traits was ancestral?
+
+## Placing taxa on the Tree of Life sheet
+
+Part of the point of filling out the tree is to learn more about some of the major groups of organisms on Earth. You will probably need to use the internet or reference books to help you figure out this puzzle. Below is the list of taxa that are included on the tree, in alphabetical order. Your job is to figure out which taxon numbers on the [Tree of Life sheet](sheets/sci_articles/tolblank.pdf) correspond to which actual taxon. In addition to matching up taxon numbers with names, you should provide (1) an example species that belongs to that taxon group and (2) a description of what trait or traits help us to identify that group. For example, earlier we learned that mammals are the only ones with mammary glands. The example of mammals is filled in for you in the table below.
+
+It is extremely important to keep in mind that the branches on a cladogram may represent up to tens or even hundreds of millions of years of time. For example, on the Tree of Life sheet, the branch separating plants with alternation of generations from its nearest relative represents 300-500 million years of evolution. Of course, there is no way to tell that just by looking at this tree; it’s just a cladogram, after all—it only depicts relationships, not the amount of time that has elapsed. The point here is that a huge amount of evolutionary change could have occurred on any of the branches of this tree. We are simply showing where some key, diagnostic traits appeared relative to when lineages split.
+
+
+```{r tab, echo = FALSE, results = 'asis', message = FALSE, warning = FALSE}
+tab <- data.frame(Taxon_Name = c("Actinopterygii", "Amoebozoa", "Angiosperms", "Annelida", "Arthropoda", "Aves", "Bacteria", "Cnidaria", "Echinodermata", "Euglena", "Fern", "Fungi", "Green algae", "Gymnosperms", "Lepidosaur", "Lichen", "Mammalia", "Mollusca", "Moss", "Nematoda", "Paramecium", "Porifera"), Taxon_Number=c(rep("",16), "4",rep("",5)), Example_Species=c(rep("",16),"humans",rep("",5)), Defining_Traits=c(rep("",16), "mammary glands", rep("", 5)))
+     
+knitr::kable(tab)
+```
+
+

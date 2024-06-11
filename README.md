@@ -140,7 +140,7 @@ One important skill you will practice in this class is self-assessment, the idea
 ## Expected Weekly Schedule
 
 | Week | Dates | Topics |
-| ---- | -------- | --------------------------------- |
+ ----  -------- | --------------------------------- |
 | 0 | Aug 30 | Course Introduction |
 | 1 | Sep 04-06 | Biodiversity, Phylogenies, Cells |
 | 2 | Sep 09-13 | Eukarya, Genomes, Eukaryotic genomes |
