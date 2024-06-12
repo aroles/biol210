@@ -111,3 +111,5 @@ knitr::kable(tab)
 ```
 
 <b>When you are finished, check your responses on the [key for PS1](ps1key.html).</b>
+
+Remember to sign the Honor Code on your assignment.

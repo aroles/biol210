@@ -25,9 +25,9 @@ navbar:
     - text: Problem Sets
       href: articles/problemsets.html
     - text: Quizzes
-      href: https://drive.google.com/drive/folders/12dxUoYnfNQmURO1Tp9BgWB9kvwgSY8cL?usp=drive_link
+      href: articles/quizzes.html
     - text: Exams
-      href: https://drive.google.com/drive/folders/1WZfkOp9tTdCsVMtbUbLGSdZZdKvPFs0k?usp=drive_link
+      href: articles/exams.html
     - text: Midterm Reflection
       href: 404.html
     - text: Final Reflection
@@ -35,7 +35,7 @@ navbar:
     - text: BIOL 211 Lab
       href: https://aroles.github.io/biol211/
     - text: Student Folders
-      href: 404.html
+      href: https://drive.google.com/drive/folders/1QmV9ipj560BxzW37AS_NAuRU9uN_waEt?usp=drive_link
     - text: Check Progress Spreadsheet
       href: 404.html
     - text: '----------------'
@@ -77,7 +77,7 @@ navbar:
       href: articles/agenda-week15.html
     - text: '----------------'
   - text: Assignment Turn In
-    href: 404.html
+    href: https://docs.google.com/forms/d/e/1FAIpQLScJMEW72xvMW2KMuCenetBqUhi-AXqvbI5okDjlbV6hEdkIsQ/viewform?usp=sf_link
   right:
     - text: "BIOL 210 Fall 2024 Syllabus PDF"
       href: 404.html

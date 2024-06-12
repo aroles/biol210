@@ -16,7 +16,7 @@ pkgdown:
 
 <text style="background-color:yellow">You should compare your responses with this key and make any changes in another font color. Be sure to explain why you got things wrong (showing that now you understand) as well as providing corrected responses.</text>
 
-## Key to problems
+## Question Key
 <ol>
 <li> Let’s practice using classification and scientific nomenclature. For each of the organisms named below (common names provided), find the scientific name (the binomial nomenclature). Be sure to use the proper formatting!</li>
 <ol type="a">

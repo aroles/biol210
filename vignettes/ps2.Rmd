@@ -1,0 +1,88 @@
+---
+title: "BIOL 210 Problem Set 2"
+date: "Week 2, Sep 9-13"
+output: 
+  html_document:
+    toc: TRUE
+    toc_depth: 3
+  pdf_document:
+    toc: TRUE
+    toc_depth: 3
+pkgdown:
+  as_is: true
+---
+# General Instructions for Problem Sets
+
+The goal of the problem sets is to give you practice thinking about and working with the concepts that we are covering. You may work with others to complete these assignments but should submit your own responses (not copied from someone else's response). 
+
+<b>Before completing a problem set, you should review the content videos for the week and it may be helpful to complete those before the related class periods as well.</b>
+
+Once you have answered the questions and before you turn in your responses, check your work against the answer key (linked for each problem set). If your responses are missing important information or incorrect, you need to correct them, using a different color font and explaining why your original answer was insufficient.
+
+Use the link at the top of this page to turn in your completed assignment, including corrections.
+
+# Related Readings
+
+No readings are required for this week but the Williams et al. paper would be helpful.
+
+## About Eukarya
+
+* [The Tree of Life Just Got a Lot Weirder](https://drive.google.com/file/d/1HROuam8uUM4PCf8D11YdpHpPJndX9VWV/view?usp=drive_link) from The Atlantic, 2016.
+* Williams, TA, PG Foster, CJ Cox, and TM Embley. 2013. [An archaeal origin of eukaryotes supports only two primary domains of life.](https://www.nature.com/articles/nature12779) Nature 504:231–236.
+    
+   <i>This is a scientific paper, specifically a review paper, which summarizes current knowledge about a particular topic. In this case, the authors discuss the question of the origin of eukaryotes in light of recent evidence. Note: Though this paper dates from 2013 and new evidence has emerged, the community remains divided on the question of two or three domains.</i>
+    
+* Margulis, L, MF Dolan, and R Guerrero. 2000. [The chimeric eukaryote: Origin of the nucleus from the karyomastigont in amitochondriate protists.](https://www.pnas.org/doi/full/10.1073/pnas.97.13.6954) PNAS 97:6954-6959. 
+
+    <i>This paper, authored by Lynn Margulis, who originally proposed the theory of endosymbiosis for the origin of eukaryotes, presents a model for the evolution of the eukaryotic nucleus.</i>
+
+* Martin, W and EV Koonin. 2006. [Introns and the origin of nucleus cytosol compartmentalization.](https://www.nature.com/articles/nature04531) Nature 440:41-45.
+    
+    <i>This paper also seeks to explain the orgins of the nucleus but proposes an alternative hypothesis to that presented by Margulis et al.</i>
+    
+* Curtis, BA, et al. 2012. [Algal genomes reveal evolutionary mosaicism and the fate of nucleomorphs.](https://www.nature.com/articles/nature11681) Nature 492:59-65.
+    
+    <i>This primary research article describes algal groups that evolved photosynthesis via very different pathways than we are used to thinking about -- these are secondary or tertiary endosymbioses (e.g., the alga engulfs another single-celled organism that already has photosynthesis due to a previous endosymbiotic event involving cyanobacteria). The authors use genomic data to study the genetic consequences of these events.</i>
+
+## About Genomes
+
+* [Developing the Chromosome Theory](https://www.nature.com/scitable/topicpage/developing-the-chromosome-theory-164/)
+* [Genome Packaging in Prokaryotes: the Circular Chromosome of E. coli](https://www.nature.com/scitable/topicpage/genome-packaging-in-prokaryotes-the-circular-chromosome-9113/)
+* [DNA Packaging: Nucleosomes and Chromatin](https://www.nature.com/scitable/topicpage/dna-packaging-nucleosomes-and-chromatin-310/)
+* [Chromosome Mapping: Idiograms](https://www.nature.com/scitable/topicpage/chromosome-mapping-idiograms-302/)
+* [Chromosomal Abnormalities: Aneuploidies](https://www.nature.com/scitable/topicpage/chromosomal-abnormalities-aneuploidies-290/)
+* [Transposons: The Jumping Genes](https://www.nature.com/scitable/topicpage/transposons-the-jumping-genes-518/)
+* The Learn.Genetics site at University of Utah has a lot of good info; [What are Chromosomes?]()
+* Pavelka, N, G Rancati, J Zhu, WD Bradford, A Saraf, L Florens, BW Sanderson, GL Hattem, and R Li. 2010. [Aneuploidy confers quantitative proteome changes and phenotypic variation in budding yeast.](https://www.nature.com/articles/nature09529) Nature 468:321-325
+    <i>This is a primary research article accompanied by a less technical synopsis. In this work, the authors experimentally manipulate chromosome numbers in budding yeast, demonstrating that having “abnormal” numbers of chromosomes is not necessarily a bad thing.</i>
+* Nosek, J, P Kosa, and L Tomaska. 2006. [On the origin of telomeres: a glimpse at the pre-telomerase world.](https://onlinelibrary.wiley.com/doi/pdf/10.1002/bies.20355) BioEssays 28:182-190.
+    <i>In this review, the authors describe variation in chromosomal structure (e.g., linear versus circular chromosomes) and how telomeres are important in solving problems that arise when chromosomes become linearized.</i>
+
+
+# Questions
+
+<ol>
+<li>The following questions draw upon the Eukarya video lecture and related suggested reading materials (none required however the Williams et al. 2013 paper or the one from the Atlantic might be useful). If you find other readings you’d like to use, please ask me so I can make sure they are suitable. Do not use direct quotes to answer the questions, rephrase to put the answers into your own words.</li>
+<ol type="a">
+<li>What’s so different about eukaryotes that makes it hard to figure out how they evolved? Why do you think eukaryotes are sometimes referred to as a chimera?</li>
+<li>Why do you think scientists at first concluded that each of the three domains is monophyletic? What evidence led them to that conclusion?</li>
+<li>What changed and led to the suggestion that there are only 2 domains and Archaea is not a monophyletic group? Did evidence support this idea?</li>
+</ol>
+<br>
+<li>Draw and describe each of the following structures. What is the ploidy of each? How many copies of the chromosome are present? (Note: We go over this exercise in content videos BUT you should be able to complete it without consulting any references.)
+</li>
+<ol type="a">
+<li> one chromatid </li>
+<li> a replicated chromosome</li>
+<li>a pair of homologous chromosomes</li>
+<li>a pair of replicated homologous chromosomes</li>
+<li>a pair of sister chromatids</li>
+<li>two non-homologous chromosomes</li>
+</ol>
+<br>
+<li>Within a species, the number of chromosomes is usually fixed, or constant (i.e., humans have n = 23 different chromosomes, with diploid cells containing 2 copies of each, 2n = 46). Loss or gain of a single chromosome frequently (but not always...) causes abnormalities, sometimes fatal ones, in many organisms. Yet, chromosome numbers vary widely among species (e.g., yeast has 2n = 32, fruit flies have 2n = 8, carp have 2n = 104). If losing or gaining chromosomal information is such a problem, even sometimes fatal, how can we understand how the large variation in chromosome number among different taxa could have arisen?</li>
+<br>
+
+<b>When you are finished, check your responses on the [key for PS2](ps2key.html).</b>
+
+Remember to sign the Honor Code on your assignment.
