@@ -29,8 +29,16 @@ articles:
   ps1reading: ps1reading.html
   ps2: ps2.html
   ps2key: ps2key.html
+  ps3: ps3.html
+  ps3key: ps3key.html
+  ps4: ps4.html
+  ps4key: ps4key.html
+  ps5: ps5.html
+  ps5key: ps5key.html
+  ps6: ps6.html
+  ps6key: ps6key.html
   quizzes: quizzes.html
-last_built: 2024-06-12T16:27Z
+last_built: 2024-06-17T13:15Z
 urls:
   reference: https://aroles.github.io/biol210/reference
   article: https://aroles.github.io/biol210/articles

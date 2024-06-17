@@ -1,0 +1,114 @@
+---
+title: "BIOL 210 Problem Set 4"
+date: "Week 4, Sep 23-27"
+output: 
+  html_document:
+    toc: TRUE
+    toc_depth: 3
+  pdf_document:
+    toc: TRUE
+    toc_depth: 3
+pkgdown:
+  as_is: true
+---
+# General Instructions for Problem Sets
+
+The goal of the problem sets is to give you practice thinking about and working with the concepts that we are covering. You may work with others to complete these assignments but should submit your own responses (not copied from someone else's response). 
+
+<b>Before completing a problem set, you should review the content videos for the week and it may be helpful to complete those before the related class periods as well.</b>
+
+Once you have answered the questions and before you turn in your responses, check your work against the answer key (linked for each problem set). If your responses are missing important information or incorrect, you need to correct them, using a different color font and explaining why your original answer was insufficient.
+
+Use the link at the top of this page to turn in your completed assignment, including corrections.
+
+# Related Readings
+
+## Required Reading
+
+* Preface and Chapters 1-3 from Epigenetics: How Environment Shapes Our Genes by Richard Francis ([link](https://drive.google.com/file/d/1YqCK80ER91_SoQcLGDK2pCXG5MvcGqb8/view?usp=sharing)).
+
+## About Genes
+
+* [Anatomy of a Gene](https://learn.genetics.utah.edu/content/basics/geneanatomy/) from Learn.Genetics
+
+* [Anatomy of a Gene](https://www.garvan.org.au/research/kinghorn-centre-for-clinical-genomics/learn-about-genomics/dna-base/collection1/anatomy-of-a-gene-1) from the Garvan Institute of Medical Research (quite brief)
+
+* More information is scattered throughout chapters 1 and 2 of [Genomes](https://www.ncbi.nlm.nih.gov/books/NBK21128/)
+
+## About Transcription and Translation
+
+* For background and abundant detail, chapters from [Biology 2e](https://openstax.org/books/biology-2e/pages/1-introduction) at Openstax -- you can read online or download a PDF.
+    * Chapter 15. Genes and Proteins
+    * Chapter 16. Gene Expression
+<br><br>
+* [Discovering the Relationship Between DNA and Protein Production](https://www.nature.com/scitable/topicpage/discovering-the-relationship-between-dna-and-protein-27699/) 
+
+* [Gene Expression Regulates Cell Differentiation](https://www.nature.com/scitable/topicpage/gene-expression-regulates-cell-differentiation-931/)
+
+* [Transcription Factors and Transcriptional Control in Eukaryotic Cells](https://www.nature.com/scitable/topicpage/transcription-factors-and-transcriptional-control-in-eukaryotic-1046/)
+
+* [Regulation of Transcription and Gene Expression in Eukaryotes](https://www.nature.com/scitable/topicpage/regulation-of-transcription-and-gene-expression-in-1086/)
+
+* Ye, D and Y Xiong. 2016. [Suffocation of gene expression.](https://www.nature.com/articles/nature19426) Nature 537:42-43.
+    
+    <i>This is a News & Views piece summarizing the results and implications of a primary research article published in the same issue. The article discusses the epigenetics of cancer and the therapeutic implications of the study’s results.</i>
+
+* Doonan, JH and R Sablowski. 2010. [Walls around tumours – why plants do not develop cancer.](https://www.nature.com/articles/nrc2942) Nature Reviews Cancer 10:794-802.
+     
+     <i>This review-style opinion article compares plants and animals in their mechanisms to restrict proliferation of somatic cell lineages. Plants do develop tumorous growths but they are not as lethal as in animals; the authors provide an argument to explain this observation.</i>
+
+* Capp, J-P. 2005. [Stochastic gene expression, disruption of tissue averaging effects and cancer as a disease of development.](https://onlinelibrary.wiley.com/doi/10.1002/bies.20326) BioEssays 27:1277-1285.
+
+
+# Questions
+
+<ol>
+<li>Let’s work on thinking carefully about genes and the processes in which they are involved.</li>
+
+<ol type="a">
+<li>What is gene expression? How does gene expression differ from DNA replication?</li>
+
+<li>Describe the basic structure of a eukaryotic gene. What do you think are the “parts” of a gene? What important features that we should take note of?</li>
+
+<li>Explain the slit-shaped eye phenotype found in female fruit flies that have two copies of the Bar allele (<i>X<sup>B</sup>X<sup>B</sup></i>) for the BarH1 gene. Why do you think the Bar allele (<i>X<sup>B</sup></i>) leads to a misshapen adult eye?
+
+Resources to read about the BarH1 gene, if you don’t remember from lab/videos:
+
+https://www.ndsu.edu/pubweb/~mcclean/plsc431/chromstruct/chrmo2.htm
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5105861/
+
+https://www.sdbonline.org/sites/fly/gene/barh1-4.htm
+</ol>
+<br>
+
+<li>Describe the similarities and the differences in gene structure and gene expression (or regulation thereof) between prokaryotes and eukaryotes. Remember that eukaryotes includes plants, fungi, and animals so make sure your response is general and not animal-specific.</li><br>
+
+<li>The human genome contains an estimated 25,000 genes and our bodies include about 200 different types of cells. On average, a cell in the human body typically expresses about 50% (∼12,500) of the genes in the genome. However, about 8,000 of those genes are expressed in all cell or tissue types ([Ramsköld et al. 2009](https://pubmed.ncbi.nlm.nih.gov/20011106/)). That means that about 2/3 of the genes expressed in a cell are the same genes expressed in <b>all</b> types of cells, leaving only 1/3 to distinguish different cell types from each other. Given this information, consider the following.</li>
+
+<ol type="a">
+<li>Given that we start out as a single cell, how do different cells come to have different functions? Describe how you think cells regulate gene expression to lead to cell differentiation. Think of describing what makes a heart cell look and act differently from a skin cell even though they have the same genome.</li><br>
+<li>Once a cell has acquired a fate (such as “I’m a skin cell”), what prevents the cell from changing its fate (say, to become a liver cell instead)? How is cell identity maintained through regulation of gene expression? </li>
+</ol>
+<br>
+
+<li>In chapter 3 of Richard Francis' <u>Epigenetics</u>, he describes a dramatic example of social interactions influencing the phenotype of male African cichlids. Some animal species take this even further. For example, in some fish species, such as the blue-headed wrasse (<i>Thalassoma bifasciatum</i>), the biological sex an immature individual develops will depend on the other fish it encounters. A juvenile wrasse that finds a coral reef not defended by an adult male will develop into a male, with sperm-producing gonads. But a juvenile wrasse on a male-defended coral reef will develop into a female, with egg-producing gonads. In some taxa, an individual may even change biological sex (i.e., gamete production) multiple times in its lifetime. Examples such as the wrasse abound among animals, as unfamiliar as they may be to us. While we sometimes think of biological sex being genetically pre-determined, these examples make clear that it is not so simple or deterministic. 
+
+How could we alter our understanding of biological “sex determination” in order to better represent what we see in the world around us? That is, can you describe a possible mechanism or mechanisms by which sex determination (i.e., type of gametes produced) occurs in eukaryotes?
+(More on variation in sex determination next week!)</li>
+<br>
+
+<li>Weekly Reflection. Consider this week’s material and reply to one or more of the following prompts:
+<ul>
+<li> What was confusing or interesting to you about this week’s material?</li>
+ 
+<li> Did you have any key insights while studying this material?</li>
+
+<li> Does anything from this week’s material particularly stick with you?</li>
+</ul>
+</ol>
+<br>
+
+<b>When you are finished, check your responses on the [key for PS4](ps4key.html).</b>
+
+Remember to sign the Honor Code on your assignment.

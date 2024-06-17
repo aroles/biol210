@@ -1,0 +1,97 @@
+---
+title: "BIOL 210 Problem Set 5"
+date: "Week 5, Sep 30-Oct 4"
+output: 
+  html_document:
+    toc: TRUE
+    toc_depth: 3
+  pdf_document:
+    toc: TRUE
+    toc_depth: 3
+pkgdown:
+  as_is: true
+---
+# General Instructions for Problem Sets
+
+The goal of the problem sets is to give you practice thinking about and working with the concepts that we are covering. You may work with others to complete these assignments but should submit your own responses (not copied from someone else's response). 
+
+<b>Before completing a problem set, you should review the content videos for the week and it may be helpful to complete those before the related class periods as well.</b>
+
+Once you have answered the questions and before you turn in your responses, check your work against the answer key (linked for each problem set). If your responses are missing important information or incorrect, you need to correct them, using a different color font and explaining why your original answer was insufficient.
+
+Use the link at the top of this page to turn in your completed assignment, including corrections.
+
+# Related Readings
+
+## Required Reading
+
+* Chapters 4-6 from Epigenetics: How Environment Shapes Our Genes by Richard Francis ([link](https://drive.google.com/file/d/1kYTpZc6KixEgH5ivy-BR-yeThtecmZkL/view?usp=sharing)).
+
+## About Sex Determination
+
+* [Genetic Mechanisms of Sex Determination](https://www.nature.com/scitable/topicpage/genetic-mechanisms-of-sex-determination-314/)
+
+* [X Chromosome: X Inactivation](https://www.nature.com/scitable/topicpage/x-chromosome-x-inactivation-323/)
+
+* [Environmental Influences on Gene Expression](https://www.nature.com/scitable/topicpage/environmental-influences-on-gene-expression-536/)
+
+* Bachtrog, D, et al. 2014. [Sex determination: Why so many ways of doing it?](https://doi.org/10.1371/journal.pbio.1001899) PLOS Biology 12:e1001899.
+
+    <i>This is a review paper describing some of the common myths—even among biologists— about sex determination. In the process, the authors describe the wide variation in the ways that sexual taxa determine sex as well as some of the common hypothe- ses to explain the variation and potential evolutionary pathways for various known mechanisms. (This is a very cool article!)</i>
+
+* Lyon, MF. 2002. [X-chromosome inactivation and human genetic disease.](https://doi.org/10.1111/j.1651-2227.2002.tb03120.x) Acta Paediatrics Supplement 439:107-112.
+
+    <i>Another review article that summarizes the state of knowledge on the mechanism of X- chromosome inactivation in humans (as of 2002) and the consequences for the expression of X-linked genes.</i>
+
+## About the Principle of Segregation
+
+* For background and abundant detail, chapters from [Biology 2e](https://openstax.org/books/biology-2e/pages/1-introduction) at Openstax -- you can read online or download a PDF.
+    * Chapter 12. Mendel's Experiments and Heredity
+<br><br>
+
+* [Gregor Mendel and the Principles of Inheritance](https://www.nature.com/scitable/topicpage/gregor-mendel-and-the-principles-of-inheritance-593)
+
+* [Mitosis, Meiosis, and Inheritance](https://www.nature.com/scitable/topicpage/mitosis-meiosis-and-inheritance-476/) (This one goes over non-disjunction, a violation of segregation.)
+
+
+# Questions
+
+We’ve covered biological sex determination in a content video, including the idea that we distinguish between somatic and sex chromosomes. Note that somatic chromosomes are also called autosomes. Some ways somatic and sex chromosomes differ are that the sexes have differing sets of sex chromosomes and the two sex chromosomes do not contain all of the same genetic information as each other (some genes are shared but most are found only on one of the two sex chromosomes). Consider an organism with ZZ/ZW sex determination, where ZZ are male and ZW are female -- this is what birds and some other animals do. 
+
+We can see that there appears to be a difference in copy number (aka dosage) for ZW individuals:
+<ul>
+<li>ZW and ZZ have 2 copies of all genes on the autosomes.</li>
+<li>ZW have only 1 copy of genes on Z or W.</li>
+<li>ZZ have 2 copies of Z genes and 0 copies of W genes.</li>
+</ul>
+
+That is, for genes found only on Z or only on W, the ZW organism only has one version but for all of the autosomes (like Chromosome 1), the same organism has two copies of every gene. This suggests that when there are sex chromosomes, an organism must have some way to deal with this difference in dosage, some mechanism of <b>dosage compensation</b>. Remember from thinking about the BarH1 gene that the number of copies of a gene can impact the phenotype, it can change gene expression such as by increasing the amount of transcript produced (and thus possibly the amount of protein).
+
+<ol>
+<li>Considering what you have learned about transcription and translation, suggest 2 different mechanisms by which gene expression can be altered to achieve similar levels of protein production in ZZ and ZW individuals, for a gene found on the Z chromosome. (Note that telling me “chromatin state could be altered” is not sufficient.) Remember the alternative splicing case study where we discussed things like this!</li>
+</ol>
+
+In humans, it turns out that having an extra or a missing sex chromosome often has few effects, compared to having an extra or missing autosome. In fact, for 1 in every 1000 live births, the newborn is either XXX (“female”) or XYY (“male”). Such individuals experience typical physical and mental development expected for XX or XY; they may never know of the extra chromosome unless they are karyotyped for some other reason. These individuals are also fertile, producing typical haploid gametes possessing only a single sex chromosome (their children do not inherit their condition).
+<br>
+
+<ol start=2>
+<li>The question before us is: what happens with gene expression that results in XXX and XYY individuals being just like XX or XY individuals? Propose an explanation for the lack of phenotypic effects of each karyotype, XXX and XYY (the reasons are likely to be different...).</li><br>
+
+<li>Furthermore, given that the parents of XYY or XXX were XX and XY, what happened during meiosis to yield a YY or XX gamete (thus giving XXX or XYY zygotes)? (Or you can consider: what happens in meiosis to result in the triploid individual producing typical haploid gametes, X or Y?)</li><br>
+
+<li>Consider Mendel’s Law of Segregation. What observations of his led him to the idea of segregation? What actually happens during meiosis that explains the patterns Mendel observed in pea plants?</li><br>
+
+<li>From Epigenetics: Provide one genetic and one epigenetic explanation for an individual having increased risk of obesity. If we are doing an experiment, for example with rats or mice, how can we distinguish between an individual that is obese due primarily to genetic factors and one that is obese due primarily to epigenetic factors? Consider what variables you need to control to tell whether a difference is due to genetics compared to due to the environment influencing epigenetics.</li><br>
+
+<li>Weekly Reflection. Consider this week’s material and reply to one or more of the following prompts:
+<ul>
+<li> What was confusing or interesting to you about this week’s material?</li>
+ 
+<li> Did you have any key insights while studying this material?</li>
+
+<li> Does anything from this week’s material particularly stick with you?</li>
+</ul></ol><br>
+
+<b>When you are finished, check your responses on the [key for PS5](ps5key.html).</b>
+
+Remember to sign the Honor Code on your assignment.

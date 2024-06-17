@@ -1,0 +1,129 @@
+---
+title: "BIOL 210 Problem Set 6"
+date: "Week 6, Oct 7-11"
+output: 
+  html_document:
+    toc: TRUE
+    toc_depth: 3
+  pdf_document:
+    toc: TRUE
+    toc_depth: 3
+pkgdown:
+  as_is: true
+---
+# General Instructions for Problem Sets
+
+The goal of the problem sets is to give you practice thinking about and working with the concepts that we are covering. You may work with others to complete these assignments but should submit your own responses (not copied from someone else's response). 
+
+<b>Before completing a problem set, you should review the content videos for the week and it may be helpful to complete those before the related class periods as well.</b>
+
+Once you have answered the questions and before you turn in your responses, check your work against the answer key (linked for each problem set). If your responses are missing important information or incorrect, you need to correct them, using a different color font and explaining why your original answer was insufficient.
+
+Use the link at the top of this page to turn in your completed assignment, including corrections.
+
+# Related Readings
+
+## About the Principle of Dominance (aka Inheritance Patterns)
+
+* [Genetic Dominance: Genotype-Phenotype Relationships](https://www.nature.com/scitable/topicpage/genetic-dominance-genotype-phenotype-relationships-489)
+
+## About Independent Assortment and Linkage
+
+* [Pleiotropy: One Gene Can Affect Multiple Traits](https://www.nature.com/scitable/topicpage/pleiotropy-one-gene-can-affect-multiple-traits-569/)
+
+* [Discovery and Types of Genetic Linkage](https://www.nature.com/scitable/topicpage/discovery-and-types-of-genetic-linkage-500/)
+
+* [Phenotypic Variability: Penetrance and Expressivity](https://www.nature.com/scitable/topicpage/phenotype-variability-penetrance-and-expressivity-573/)
+
+* [Epistasis: Gene Interaction and Phenotype Effects](https://www.nature.com/scitable/topicpage/epistasis-gene-interaction-and-phenotype-effects-460/)
+
+* Wong, AHC, II Gottesman, and A Petronis. 2005. [Phenotypic differences in genetically identical organisms: the epigenetic perspective.](https://academic.oup.com/hmg/article/14/suppl_1/R11/560905) Human Molecular Genetics 14:R11-R18.
+
+    <i>In this review article, the authors describe the role they see for epigenetics in explaining a number of “paradoxes” identified in studies attempting to understand the source of phenotypic variation among individuals with identical genotypes.</i>
+    
+* Feinberg, AP. 2007. [Phenotypic plasticity and the epigenetics of human disease.](https://www.nature.com/articles/nature05919) Nature 447:433-440.
+
+    <i>This review article describes disease as emergent from interactions among the epigenome, the genome, and the environment. The author argues that disease states arise due to an inability of cells to respond to their environments (i.e., disruptions in gene regulation).</i>
+
+
+# Questions
+
+<ol>
+<li>Consider the four-o’clock plant (<i>Mirabilis jalapa</i>), in which there are two alleles for flower color, <i>R</i> (homozygotes have red flowers) and <i>W</i> (homozygotes have white flowers). A homozygous plant is also called “true-breeding” because all of its gametes will inherit the same allele. And if you cross two true-breeding red-flowered plants, then you know the offspring will “breed true”; the offspring will all have red flowers like their parents. If you cross a true-breeding red-flowered plant with a true-breeding white-flowered plant, the offspring have pink flowers.</li><br>
+<ol type="a">
+<li>Write out the genotypes of the two true-breeding parents and of the offspring. Which are homozygous? Heterozygous?</li><br>
+
+<li>What is the name for the pattern of inheritance of the phenotypes encoded by the R and W alleles?</li><br>
+
+<li>Why does the heterozygote have pink flowers instead of red or white?</li><br>
+
+<li>Do you make any connections between this example and topics we learned earlier in the course?</li>
+</ol><br>
+
+<li>As discussed in the content video on Independent Assortment, phenotypic plasticity is the phenomenon in which a single genotype can produce different phenotypes, depending on external conditions. For example, water fleas (<i>Daphnia</i> spp., pictured) are zooplankton, microscopic aquatic animals commonly found in ponds and lakes. They eat algae and are eaten by juvenile fish. If a female <i>Daphnia</i> lives in a pond also inhabited by fish, she will produce clonal babies (by parthenogenesis) that grow head and tail spikes (on the left in image). But if that same mom (genetically identical) lives in a pond without fish, she will have clonal babies with rounded heads and short tails (on the right in image).
+
+```{r daphnia img, fig.align = 'center', fig.height = 4, fig.width = 7, echo = FALSE, fig.alt="Photo of two Daphnia individuals, one with a regular round head and one with a long spiky helmet"}
+knitr::include_graphics(file.path(here::here(), 'man', 'figures', 'daphnia.jpg'), dpi = 100)
+```
+
+<ol type="a">
+<li>How do you think <i>Daphnia moms</i> are able to change the way in which their babies develop to either have or lack head and tail spikes? (Think about how this relates to previous topics.)</li><br>
+
+<li>Throughout the course, we’ve actually seen quite a few examples of phenotypic plasticity, though I didn’t give them that name at the time. Find at least 2 examples that we have used earlier in the course which also happen to be examples of phenotypic plasticity. See if you can find one of them in a unicellular organism!</li>
+</ol><br>
+</ol>
+
+You are a plant breeder studying two phenotypes in the [trout lily plant](https://en.wikipedia.org/wiki/Erythronium_americanum): flower color and leaf pattern. Your studies lead you to believe that the flower color phenotype is determined by a single gene with two alleles (yellow, A, and white, a) and the leaf pattern phenotype is also determined by a single gene with two alleles (spotted, B, and plain, b). You have a true-breeding plant that has white flowers and spotted leaves (aaBB). You do not know the genes that are responsible for these two phenotypes but have inferred the genotype of your true-breeding plant with white flowers and spotted leaves.
+
+<ol start=3>
+<li>A fellow lily-breeder sends you a true-breeding plant that has yellow flowers and plain leaves. What is the genotype of this plant? (Hint: what does true-breeding mean?)</li><br>
+
+<li>You cross your white and spotted plant with the yellow and plain plant. If yellow is dominant to white and spotted is dominant to plain, what will be the genotype and phenotype of the offspring (the F<sub>1</sub>s)?</li><br>
+
+<li>Imagine you wanted to figure out whether the flower color and leaf pattern genes are linked. What cross would you need to carry out? What phenotypic ratio would you expect to observe in the cross if the genes are NOT physically linked? (Hint: You must use the plants you already have available, which does not include an aabb individual.)</li><br>
+
+<li>If the genes are very closely physically linked, would you ever be able to produce a true-breeding plant with yellow flowers and spotted leaves? Explain.</li><br>
+</ol>
+
+Linkage between genes arises because a single chromosome often contains a very long sequence of DNA that includes many genes. Given that humans have an estimated 20-25 thousand genes and n = 23 different chromosomes (2n = 46), we might expect that each chromosome is likely to contain around 1000 genes (in fact, some chromosomes only contain a few dozen genes, others have more than 2000).
+
+Below are models of a few human chromosomes (in condensed form), noting along the length of the chromosome where different genes are located for human autosomes 5 through 8. The labeled genes are ones where some versions (alleles) of that gene are known to cause disease. The dark bands on the chromosomes indicate areas that are usually heterochromatin (highly condensed). Use the figure to answer the following questions.
+
+```{r linkage img, fig.align = 'center', fig.height = 4, fig.width = 7, echo = FALSE, fig.alt="Image of human chromosomes 5-8 showing location of disease related genes"}
+knitr::include_graphics(file.path(here::here(), 'man', 'figures', 'linkage2.png'), dpi = 125)
+```
+
+<ol start=7>
+<li>On chromosome 7, the OB gene encodes the hormone leptin, which helps regulate energy balance (wild-type allele B). The b allele for this gene produces non-functional leptin molecules which increase risk of obesity in homozygotes (bb). Based on the figure, the OB (Obesity) gene is physically linked to which other genes?</li><br>
+
+<li>Consider the CFTR gene on chromosome 7, which encodes a protein that transports chloride and thiocyanate ions across the cell membrane (wild-type allele F). The mutant f allele for this gene is a deletion that causes protein-misfolding, leading to cystic fibrosis in homozygotes (ff) but no effect in heterozygotes (Ff). If a person was heterozygous for both the OB gene and the CFTR gene (BbFf), and the genes were NOT linked, what would be the chance that this person’s child would inherit BOTH the b and f alleles from this parent?</li><br>
+
+<li>Because the OB and CFTR genes are linked, we need to think through some additional information to figure out how this affects the chance of an offspring inheriting mutant alleles for both genes. Consider 2 scenarios:</li><br>
+<ol type="a">
+<li>Scenario 1: Jack’s parents have the genotypes BBff (mom) and bbFF (dad), giving Jack the genotype BbFf. If this is Jack’s genotype, and no crossing-over occurs between the genes, can Jack’s child inherit both the b and f alleles from Jack? Explain.</li></br>
+
+<li>Scenario 2: Alex’s parents have the genotypes bbff (mom) and BBFF (dad), giving Alex the BbFf genotype. If no crossing-over occurs between OB and CFTR, can Alex pass on both the b and f alleles to one child?</li><br>
+</ol>
+
+<li>Now consider the children of parents with the genotypes Bf/bF and Bf/bF. Assuming that these genes are so tightly linked that crossing-over does not occur between them,</li><br>
+<ol type="a">
+<li>What’s the chance that their child has a high risk of obesity?</li><br>
+
+<li>What’s the chance that their child inherits a predisposition for cystic fibrosis?</li><br>
+
+<li>What’s the chance that their child is at high risk for both obesity and cystic fibrosis? How would your response change if the genes were NOT linked (calculate the probability)?</li>
+</ol><br>
+
+
+<li>Weekly Reflection. Consider this week’s material and reply to one or more of the following prompts:
+<ul>
+<li> What was confusing or interesting to you about this week’s material?</li>
+ 
+<li> Did you have any key insights while studying this material?</li>
+
+<li> Does anything from this week’s material particularly stick with you?</li>
+</ul></ol><br>
+
+<b>When you are finished, check your responses on the [key for PS6](ps6key.html).</b>
+
+Remember to sign the Honor Code on your assignment.
