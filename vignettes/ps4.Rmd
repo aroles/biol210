@@ -23,11 +23,11 @@ Use the link at the top of this page to turn in your completed assignment, inclu
 
 # Related Readings
 
-## Required Reading
+### Required Reading
 
 * Preface and Chapters 1-3 from Epigenetics: How Environment Shapes Our Genes by Richard Francis ([link](https://drive.google.com/file/d/1YqCK80ER91_SoQcLGDK2pCXG5MvcGqb8/view?usp=sharing)).
 
-## About Genes
+### About Genes
 
 * [Anatomy of a Gene](https://learn.genetics.utah.edu/content/basics/geneanatomy/) from Learn.Genetics
 
@@ -35,7 +35,7 @@ Use the link at the top of this page to turn in your completed assignment, inclu
 
 * More information is scattered throughout chapters 1 and 2 of [Genomes](https://www.ncbi.nlm.nih.gov/books/NBK21128/)
 
-## About Transcription and Translation
+### About Transcription and Translation
 
 * For background and abundant detail, chapters from [Biology 2e](https://openstax.org/books/biology-2e/pages/1-introduction) at Openstax -- you can read online or download a PDF.
     * Chapter 15. Genes and Proteins

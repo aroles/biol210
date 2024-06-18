@@ -23,7 +23,7 @@ Use the link at the top of this page to turn in your completed assignment, inclu
 
 # Related Readings
 
-## About Information Transmission (Mitosis and Meiosis)
+### About Information Transmission (Mitosis and Meiosis)
 
 * Background reading from the open textbook [Biology 2e](https://openstax.org/books/biology-2e/pages/1-introduction) at Openstax -- you can read online or download a PDF.
     * The Cell --> Chapter 10. Cell Reproduction
@@ -38,7 +38,7 @@ Use the link at the top of this page to turn in your completed assignment, inclu
 
     <i>In this article, the authors present a hypothesis for the evolution of meiosis from mitosis, review the available evidence bearing on the hypothesis, and propose possible tests of the hypothesis.</i>
 
-## About Life Cycles
+### About Life Cycles
 
 * Background reading from the open textbook [Biology 2e](https://openstax.org/books/biology-2e/pages/1-introduction) at Openstax -- you can read online or download a PDF.
     * Biological Diversity --> Life cycle information is available in taxon-specific chapters.

@@ -23,11 +23,11 @@ Use the link at the top of this page to turn in your completed assignment, inclu
 
 # Related Readings
 
-## About the Principle of Dominance (aka Inheritance Patterns)
+### About the Principle of Dominance (aka Inheritance Patterns)
 
 * [Genetic Dominance: Genotype-Phenotype Relationships](https://www.nature.com/scitable/topicpage/genetic-dominance-genotype-phenotype-relationships-489)
 
-## About Independent Assortment and Linkage
+### About Independent Assortment and Linkage
 
 * [Pleiotropy: One Gene Can Affect Multiple Traits](https://www.nature.com/scitable/topicpage/pleiotropy-one-gene-can-affect-multiple-traits-569/)
 

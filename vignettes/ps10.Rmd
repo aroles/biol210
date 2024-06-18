@@ -1,0 +1,152 @@
+---
+title: "BIOL 210 Problem Set 10"
+date: "Week 11, Nov 11-15"
+output: 
+  html_document:
+    toc: TRUE
+    toc_depth: 3
+  pdf_document:
+    toc: TRUE
+    toc_depth: 3
+pkgdown:
+  as_is: true
+---
+# General Instructions for Problem Sets
+
+The goal of the problem sets is to give you practice thinking about and working with the concepts that we are covering. You may work with others to complete these assignments but should submit your own responses (not copied from someone else's response). 
+
+<b>Before completing a problem set, you should review the content videos for the week and it may be helpful to complete those before the related class periods as well.</b>
+
+Once you have answered the questions and before you turn in your responses, check your work against the answer key (linked for each problem set). If your responses are missing important information or incorrect, you need to correct them, using a different color font and explaining why your original answer was insufficient.
+
+Use the link at the top of this page to turn in your completed assignment, including corrections.
+
+# Related Readings
+
+### About Speciation
+
+* Scitable: [Trait Evolution on a Phylogenetic Tree: Relatedness, Similarity, and the Myth of Evolutionary Advancement](http://www.nature.com/scitable/topicpage/trait-evolution-on-a-phylogenetic-tree-relatedness-41936)
+
+* Scitable: [Why Should We Care about Species?](https://www.nature.com/scitable/topicpage/why-should-we-care-about-species-4277923)
+
+* Scitable: [Speciation: The Origin of New Species](https://www.nature.com/scitable/knowledge/library/speciation-the-origin-of-new-species-26230527)
+
+* [Hybridization and Gene Flow](http://www.nature.com/scitable/topicpage/hybridization-and-gene-flow-34546)
+
+* [The Geography and Ecology of Diversification in Neotropical Freshwaters](http://www.nature.com/scitable/knowledge/library/the-geography-and-ecology-of-diversification-in-15667887)
+
+### About Population Ecology
+
+* [An Introduction to Population Growth](https://www.nature.com/scitable/knowledge/library/an-introduction-to-population-growth-84225544) (Basic)
+
+* [How Populations Grow: The Exponential and Logistic Equations](https://www.nature.com/scitable/knowledge/library/how-populations-grow-the-exponential-and-logistic-13240157) (Intermediate)
+
+    Note: There are some formatting errors in the first sentence of the paragraph just after Figure 2. Here's what it should say (corrections in bold): “Any value of R can be represented in an infinite number of ways (e.g., if R = 16, we could write R = 8 x 2, or <b>R = 4<sup>2</sup></b>, or R = 32/2, or <b>R = 2.71828<sup>2.77</sup></b>).”
+
+### About Life History
+
+* From Biology 2e: [Chapter 45. Population and Community Ecology](https://openstax.org/books/biology-2e/pages/45-introduction)
+
+* Scitable: [Population Limiting Factors](https://www.nature.com/scitable/knowledge/library/population-limiting-factors-17059572/)
+
+* Scitable: [Introduction to Population Demographics](https://www.nature.com/scitable/knowledge/library/introduction-to-population-demographics-83032908/)
+
+* Scitable: [Survivorship Curves](https://www.nature.com/scitable/knowledge/library/survivorship-curves-16349555/)
+
+* Scitable: [Environmental Constraints to the Geographic Expansion of Plant and Animal Species](https://www.nature.com/scitable/knowledge/library/environmental-constraints-to-the-geographic-expansion-of-13236052/)
+
+* Scitable: [Causes and Consequences of Dispersal in Plants and Animals](https://www.nature.com/scitable/knowledge/library/causes-and-consequences-of-dispersal-in-plants-15927714/)
+
+* Scitable: [Disease Ecology](https://www.nature.com/scitable/knowledge/library/disease-ecology-15947677/)
+
+* Scitable: [Population Ecology at Work: Managing Game Populations](https://www.nature.com/scitable/knowledge/library/population-ecology-at-work-managing-game-populations-50937864/)
+
+
+# Questions
+
+The content video described different ways to think about how to define a species. With the next four questions, let’s think about why there are so many different species definitions and what the consequences are of choosing one versus another.
+
+<ol>
+<li>What’s the common idea that underlies the different methods of defining species? That is, what we might think of as a basic way to explain what we mean when we say that two organisms belong to different species?</li>
+
+<br>
+
+<li>Why is it so hard to define a single species concept that works in all cases? Why might it matter what species concept we choose to apply?</li>
+
+<br>
+
+<li>The process by which new species evolve, speciation, is commonly divided into two general types: allopatric speciation and sympatric speciation.</li>
+<ol type="a">
+<li>What’s the difference between sympatric and allopatric speciation? Why do biologists think this matters?</li>
+
+<br>
+
+<li>What evolutionary forces are most important in each type of speciation (sympatric and allopatric)?</li>
+
+<br>
+
+<li>What makes sympatric speciation controversial?</li>
+
+</ol>
+<br>
+
+<li>With some frequency we find what appear to be well-defined species (they look or behave very differently) that are capable of and in fact experience some level of gene flow. Give a hypothesis for why some pairs of closely-related species can produce hybrids while others cannot.</li>
+
+</ol>
+<br>
+
+For the next three questions, we'll focus on a couple of graphs demonstrating logistic growth. The content videos discuss the idea that logistic growth occurs when a population can’t keep growing at the maximum possible rate forever because of factors like limited resources or increasing numbers of predators. Because the rate of growth slows down as the population size increases, logistic growth is a form of density-dependent growth. By describing the growth as density-dependent, we can test for limitations on growth without having to observe population size over long periods of time. Instead, we can measure growth-related traits for a species in populations that have differing densities. To think about what this means—and what a density dependent pattern looks like, use the figures below to answer the following questions.
+
+```{r logistic img, fig.height = 4, fig.width = 8, fig.show='hold', echo = FALSE, fig.alt="Figure 1. Measurements of density dependence in (A) populations of bridled gobies (a fish) and (B) Rana tigrina tadpoles."}
+# knitr::include_graphics(file.path(here::here(), 'man/figures/nesting_goby.png'), dpi = 200)
+# knitr::include_graphics(file.path(here::here(), 'man', 'figures', 'bodymass_frog.png'), dpi = 200)
+
+knitr::include_graphics(c(file.path(here::here(), 'man/figures/nesting_goby.png'),file.path(here::here(), 'man/figures/bodymass_frog.png')), dpi = 115)
+```
+
+<b>Figure 1. Measurements of density dependence in (A) populations of bridled gobies (a fish) and (B) <i>Rana tigrina</i> tadpoles.</b>
+
+<ol start=5>
+<li>Figure 1A shows data collected from natural populations of the bridled goby, a coral reef fish that exhibits density-dependence.</li>
+<ul>
+<li>Describe the relationship depicted in this graph (specify the axes and how one variable changes with the other). Exactly what is it that tells us density-dependence is occurring?</li>
+<li>What do you think the graph would look like if there was not density-dependence?</li>
+</ul>
+<br>
+
+<li>Figure 1B also depicts density-dependence, measured experimentally for <i>Rana tigrina</i> tadpoles.</li>
+<ul>
+<li>What is the relationship depicted here? How can we tell that there is density-dependence?</li>
+<li>What would the graph look like if growth was not density-dependent?</li>
+</ul>
+
+<br>
+
+<li>So you’ve probably noticed that Figures 1A and 1B have different axes than are usually used to plot the S-shaped logistic growth curve. The thing is, the logistic growth curve itself (with x = time and y = population size) doesn’t actually tell us anything about the underlying change in the population that leads population growth to slow down as density increases. But Figures 1A and 1B address this issue. Gobies and tadpoles achieve slower rates of population growth in different ways. How does it happen in each case?</li>
+
+<br>
+
+<li>It seems obvious that organisms are likely to experience density-dependent growth (resembling the logistic curve), but what about exponential (density-independent) growth? We do observe populations in nature that exhibit this kind of growth — can you think of examples? Since growth does not slow as population size increases, what prevents exponentially growing populations from over-running the world?</li>
+
+<br>
+
+<li>Consider life history strategies, the extremes of which we sometimes describe as “r- selected” or “K -selected”. What do these terms mean? How are they useful in thinking about the variation in life histories that we see in nature?</li>
+
+
+<br>
+
+<li>Weekly Reflection. Consider this week’s material and reply to one or more of the following prompts:
+<ul>
+<li> What was confusing or interesting to you about this week’s material?</li>
+ 
+<li> Did you have any key insights while studying this material?</li>
+
+<li> Does anything from this week’s material particularly stick with you?</li>
+</ul>
+</ol>
+<br>
+
+
+<b>When you are finished, check your responses on the [key for PS10](ps10key.html).</b>
+
+Remember to sign the Honor Code on your assignment.

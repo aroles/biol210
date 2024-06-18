@@ -1,0 +1,86 @@
+---
+title: "BIOL 210 Problem Set 8"
+date: "Week 9, Oct 28-Nov 1"
+output: 
+  html_document:
+    toc: TRUE
+    toc_depth: 3
+  pdf_document:
+    toc: TRUE
+    toc_depth: 3
+pkgdown:
+  as_is: true
+---
+# General Instructions for Problem Sets
+
+The goal of the problem sets is to give you practice thinking about and working with the concepts that we are covering. You may work with others to complete these assignments but should submit your own responses (not copied from someone else's response). 
+
+<b>Before completing a problem set, you should review the content videos for the week and it may be helpful to complete those before the related class periods as well.</b>
+
+Once you have answered the questions and before you turn in your responses, check your work against the answer key (linked for each problem set). If your responses are missing important information or incorrect, you need to correct them, using a different color font and explaining why your original answer was insufficient.
+
+Use the link at the top of this page to turn in your completed assignment, including corrections.
+
+# Related Readings
+
+### About Mutation
+* Scitable: [Genetic Mutation](https://www.nature.com/scitable/topicpage/genetic-mutation-1127/)
+
+* UC Berkeley’s Understanding Evolution page: [DNA and Mutations](https://evolution.berkeley.edu/dna-and-mutations/)
+
+* Learn.Genetics from the University of Utah has several pages about mutation. Check under the topic Heredity and “How do variations in DNA arise?” https://learn.genetics.utah.edu/content/evolution/
+
+* Baym, M, LK Stone, and R Kishony. 2016. Multidrug evolutionary strategies to reverse antibiotic resistance. Science 351. DOI: http://dx.doi.org/10.1126/science.aad3292 
+
+### About Gene Flow
+
+* Scitable: [Hybridization and Gene Flow](https://www.nature.com/scitable/topicpage/hybridization-and-gene-flow-34546/)
+
+### About Genetic Drift
+
+* [Genetic Drift and Effective Population Size](https://www.nature.com/scitable/topicpage/genetic-drift-and-effective-population-size-772523/)
+
+
+# Questions
+
+<ol>
+<li>When we think about how evolutionary forces cause genetic change in populations, we need to consider their effects at multiple levels. Let’s do this with the evolutionary force of mutation.</li><br>
+<ol type="a">
+<li>When a new mutation occurs in an individual, how does it impact variation within that individual’s population (consider average heterozygosity)? Explain.</li><br>
+
+<li>When a new mutation occurs in an individual in a population, does it make different populations more genetically alike or more genetically divergent? Explain.</li><br>
+</ol>
+
+<li>When we think about the types of mutations that may occur and their possible effects on the organism’s phenotype, we need to consider mutations in light of what we know about gene expression.</li><br>
+<ol type="a">
+<li>What types of mutations might be likely to be neutral, having no effect on the organism’s phenotype?</li><br>
+
+<li>What types of mutations are likely to have an effect on phenotype even when you only have one copy? What about those only likely to have an effect on phenotype if you have two copies?</li><br>
+</ol>
+
+<li>We think of gene flow as a force that keeps populations genetically similar and preserves genetic variation within a population. Is this always a good thing? Can you think of scenarios where gene flow might not be the best thing for the average survival and reproduction of a population?</li><br>
+
+<li>Why is the loss of genetic variation due to genetic drift in small populations considered such a serious problem in conservation? Small populations are still experiencing spontaneous mutations, so won’t they be increasing genetic variation that way?</li><br>
+
+<li>What is a genetic bottleneck? What is the founder effect? How are these phenomena different?</li><br>
+
+<li>If a population does not experience a genetic bottleneck or a founder effect, will it still change due to genetic drift? Explain.</li><br>
+
+<li>Genetic drift leads to the loss of genetic variation within populations, increasing the difference from other populations. We often view drift as a force that leads to problems for a population due to the loss of variation. But we should think carefully. Will genetic drift always lead to the loss of genetic variation? Since genetic drift causes populations to become more different from each other, what might be the long-term consequence of that process?</li>
+
+<br>
+
+<li>Weekly Reflection. Consider this week’s material and reply to one or more of the following prompts:
+<ul>
+<li> What was confusing or interesting to you about this week’s material?</li>
+ 
+<li> Did you have any key insights while studying this material?</li>
+
+<li> Does anything from this week’s material particularly stick with you?</li>
+</ul>
+</ol>
+<br>
+
+<b>When you are finished, check your responses on the [key for PS8](ps8key.html).</b>
+
+Remember to sign the Honor Code on your assignment.

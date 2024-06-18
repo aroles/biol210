@@ -25,7 +25,7 @@ Use the link at the top of this page to turn in your completed assignment, inclu
 
 No readings are required for this week but the Williams et al. paper would be helpful.
 
-## About Eukarya
+### About Eukarya
 
 * [The Tree of Life Just Got a Lot Weirder](https://drive.google.com/file/d/1HROuam8uUM4PCf8D11YdpHpPJndX9VWV/view?usp=drive_link) from The Atlantic, 2016.
 * Williams, TA, PG Foster, CJ Cox, and TM Embley. 2013. [An archaeal origin of eukaryotes supports only two primary domains of life.](https://www.nature.com/articles/nature12779) Nature 504:231–236.
@@ -44,7 +44,7 @@ No readings are required for this week but the Williams et al. paper would be he
     
     <i>This primary research article describes algal groups that evolved photosynthesis via very different pathways than we are used to thinking about -- these are secondary or tertiary endosymbioses (e.g., the alga engulfs another single-celled organism that already has photosynthesis due to a previous endosymbiotic event involving cyanobacteria). The authors use genomic data to study the genetic consequences of these events.</i>
 
-## About Genomes
+### About Genomes
 
 * [Developing the Chromosome Theory](https://www.nature.com/scitable/topicpage/developing-the-chromosome-theory-164/)
 * [Genome Packaging in Prokaryotes: the Circular Chromosome of E. coli](https://www.nature.com/scitable/topicpage/genome-packaging-in-prokaryotes-the-circular-chromosome-9113/)

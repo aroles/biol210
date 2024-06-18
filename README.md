@@ -1,6 +1,6 @@
 Deployed site: https://aroles.github.io/biol210/
 
-# Welcome to the website for BIOL 210, Fall 2024!
+# Welcome to the BIOL 210 website, Fall 2024!
 
 All course materials will be provided via this website or links therein.
 

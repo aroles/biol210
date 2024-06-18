@@ -23,11 +23,11 @@ Use the link at the top of this page to turn in your completed assignment, inclu
 
 # Related Readings
 
-## Required Reading
+### Required Reading
 
 * Chapters 4-6 from Epigenetics: How Environment Shapes Our Genes by Richard Francis ([link](https://drive.google.com/file/d/1kYTpZc6KixEgH5ivy-BR-yeThtecmZkL/view?usp=sharing)).
 
-## About Sex Determination
+### About Sex Determination
 
 * [Genetic Mechanisms of Sex Determination](https://www.nature.com/scitable/topicpage/genetic-mechanisms-of-sex-determination-314/)
 
@@ -43,7 +43,7 @@ Use the link at the top of this page to turn in your completed assignment, inclu
 
     <i>Another review article that summarizes the state of knowledge on the mechanism of X- chromosome inactivation in humans (as of 2002) and the consequences for the expression of X-linked genes.</i>
 
-## About the Principle of Segregation
+### About the Principle of Segregation
 
 * For background and abundant detail, chapters from [Biology 2e](https://openstax.org/books/biology-2e/pages/1-introduction) at Openstax -- you can read online or download a PDF.
     * Chapter 12. Mendel's Experiments and Heredity
