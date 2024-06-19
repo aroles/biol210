@@ -29,6 +29,12 @@ articles:
   ps10key: ps10key.html
   ps11: ps11.html
   ps11key: ps11key.html
+  ps12: ps12.html
+  ps12key: ps12key.html
+  ps13: ps13.html
+  ps13key: ps13key.html
+  ps14: ps14.html
+  ps14key: ps14key.html
   ps1key: ps1key.html
   ps1reading: ps1reading.html
   ps2: ps2.html
@@ -48,7 +54,7 @@ articles:
   ps9: ps9.html
   ps9key: ps9key.html
   quizzes: quizzes.html
-last_built: 2024-06-18T18:02Z
+last_built: 2024-06-19T16:10Z
 urls:
   reference: https://aroles.github.io/biol210/reference
   article: https://aroles.github.io/biol210/articles

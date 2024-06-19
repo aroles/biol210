@@ -1,0 +1,110 @@
+---
+title: "BIOL 210 Problem Set 12"
+date: "Week 13, Nov 25-27"
+output: 
+  html_document:
+    toc: TRUE
+    toc_depth: 3
+  pdf_document:
+    toc: TRUE
+    toc_depth: 3
+pkgdown:
+  as_is: true
+---
+# General Instructions for Problem Sets
+
+The goal of the problem sets is to give you practice thinking about and working with the concepts that we are covering. You may work with others to complete these assignments but should submit your own responses (not copied from someone else's response). 
+
+<b>Before completing a problem set, you should review the content videos for the week and it may be helpful to complete those before the related class periods as well.</b>
+
+Once you have answered the questions and before you turn in your responses, check your work against the answer key (linked for each problem set). If your responses are missing important information or incorrect, you need to correct them, using a different color font and explaining why your original answer was insufficient.
+
+Use the link at the top of this page to turn in your completed assignment, including corrections.
+
+# Related Readings
+
+### REQUIRED READINGS
+
+Read at least ONE of the following chapters from Gathering Moss:
+
+* [In the Forest of the Waterbear](https://drive.google.com/file/d/1oeA1Argnoo3pJWv_I5jE_zGikq9knzjB/view?usp=sharing) (p. 58-65)
+
+* [Choices](https://drive.google.com/file/d/1U17gcdmEqh09wX7uAFWLB8CMQVS2rH6n/view?usp=sharing) (p. 72-83)
+
+* [Portrait of Splachnum](https://drive.google.com/file/d/1xgE9ohzUzKGSsSf0JjJqXgsGf6pX288C/view?usp=sharing) (p. 119-123)
+
+### About Interspecific Interactions
+
+* From Gathering Moss: [The Red Sneaker](https://drive.google.com/file/d/11bmx7ma9DOV2aEnDYgboND0KUdkd-prJ/view?usp=sharing) (p. 110-118)
+
+* Scitable: [Direct and Indirect Interactions](https://www.nature.com/scitable/knowledge/library/direct-and-indirect-interactions-15650000)
+
+* Scitable: [Species Interactions and Competition](https://www.nature.com/scitable/knowledge/library/species-interactions-and-competition-102131429)
+
+* Scitable: [Predation, Herbivory, and Parasitism](https://www.nature.com/scitable/knowledge/library/predation-herbivory-and-parasitism-13261134)
+
+* Scitable: [The Maintenance of Species Diversity](https://www.nature.com/scitable/knowledge/library/the-maintenance-of-species-diversity-13240565)
+
+* Scitable: [Resource Partitioning and Why It Matters](https://www.nature.com/scitable/knowledge/library/resource-partitioning-and-why-it-matters-17362658)
+
+* Scitable: [Dynamics of Predation](https://www.nature.com/scitable/knowledge/library/dynamics-of-predation-13229468)
+
+* Scitable: [Ecological Consequences of Parasitism](https://www.nature.com/scitable/knowledge/library/ecological-consequences-of-parasitism-13255694)
+
+* Scitable: [Abiotically-Mediated Direct and Indirect Effects](https://www.nature.com/scitable/knowledge/library/abiotically-mediated-direct-and-indirect-effects-17359885)
+
+### About Competition
+
+* Scitable: [Direct and Indirect Interactions](https://www.nature.com/scitable/knowledge/library/direct-and-indirect-interactions-15650000)
+
+* Scitable: [Species Interactions and Competition](https://www.nature.com/scitable/knowledge/library/species-interactions-and-competition-102131429)
+
+* Scitable: [The Maintenance of Species Diversity](https://www.nature.com/scitable/knowledge/library/the-maintenance-of-species-diversity-13240565)
+
+* Scitable: [Resource Partitioning and Why it Matters](https://www.nature.com/scitable/knowledge/library/resource-partitioning-and-why-it-matters-17362658)
+
+
+# Questions
+<ol>
+<li>Refer to one or more of the following readings from Gathering Moss to answer the following questions. Gathering Moss readings are: In the Forest of the Waterbear; Choices; Portrait of Splachnum.</li>
+<ol type="a">
+<li>Provide 3 examples of non-competitive interspecific interactions that are described in the moss readings. Identify the type of interaction (e.g., commensalism? predation? parasitism?) and which organisms play which roles in the interaction.</li>
+
+<br>
+
+<li>How would you describe the niche of a moss? Does it vary for different species of mosses?</li>
+
+<br>
+
+<li>In these readings from Gathering Moss, do you notice any connections to other topics we’ve covered this semester?</li>
+
+</ol><br>
+
+<li>As described in the content video on Competition, in Gauss’ experiments with competition in Paramecium, the same species always drove the other to extinction. Why is this consistent result expected from competition theory?</li>
+
+<br>
+
+<li>Consider the different effects of intraspecific versus interspecific competition. Intraspecific competition occurs between members of the same species and tends to result in increased niche breadth of the species. In contrast, interspecific competition (between individuals of different species) is more likely to lead to each competitor species having narrower niches. Explain why intraspecific competition and interspecific competition lead to opposite effects on a species’ niche breadth.</li>
+
+<br>
+
+<li>We think of invasive species as a human-facilitated phenomenon (and in many cases that’s totally accurate), but is it really true that the geographic range of a given species has been constant over time? That is, surely natural species have expanded their ranges in the past, such that range expansion is not inherently unnatural. After all, the species that are considered native in this part of Ohio could not have lived here 13,000 years ago when this place was covered with a mile of ice—they must have moved here from elsewhere, without human intervention. <b>Given this, what do you think happens in a community when a new species is introduced? Discuss what types of species interactions might occur and how that might influence the ability of the introduced species to persist in the new area.</b> (You may wish to focus on a particular example to help you illustrate these points.)</li>
+
+<br>
+
+
+<li>Weekly Reflection. Consider this week’s material and reply to one or more of the following prompts:
+<ul>
+<li> What was confusing or interesting to you about this week’s material?</li>
+ 
+<li> Did you have any key insights while studying this material?</li>
+
+<li> Does anything from this week’s material particularly stick with you?</li>
+</ul>
+</ol>
+<br>
+
+
+<b>When you are finished, check your responses on the [key for PS12](ps12key.html).</b>
+
+Remember to sign the Honor Code on your assignment.
