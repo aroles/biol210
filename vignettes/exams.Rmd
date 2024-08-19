@@ -12,31 +12,6 @@ pkgdown:
   as_is: true
 ---
 
-# General Instructions for Quizzes
+# Short-Answer Exams
 
-You should watch the content videos and it's suggested you complete the problem set before attempting the week's quiz.
-
-Similar to the problem sets, quizzes give you practice thinking about and working with the concepts that we are covering. They are not timed but should be completed solo, without consulting anyone else. It's also suggested that you try to take the quiz without looking anything up -- this tells you something about how well you are learning the week's material.
-
-You will get your result for the quiz immediately. If you get any responses incorrect, you must submit quiz corrections (within a week of completing the quiz). For quiz corrections, you need to explain WHY you got the question wrong and demonstrate that you understand the correct answer. Simply giving the correct answer is not sufficient, you need to show that you understand why that is the correct response.
-
-Use the link at the top of this page to turn in any quiz corrections.
-
-
-# Weekly Quizzes
-
-* [Quiz 1 - Sep 4-6](https://docs.google.com/forms/d/e/1FAIpQLSclHEk-m9EhZvut1CZE3PJMxdoBZuJkcr-QTfRjAFbJAB4t5A/viewform?usp=sf_link)
-* [Quiz 2 - Sep 9-13](https://docs.google.com/forms/d/e/1FAIpQLSe03PkgqNcCk6QoPhslpzIQAD6EZWHpb6i-PcE7cla5Q9_7Fg/viewform?usp=sf_link)
-* [Quiz 3 - Sep 16-20](https://docs.google.com/forms/d/e/1FAIpQLSe1c7Kkf5UqH1QIzTxqHBlKg8oEZ75AH84ccSO_qiUPBsbKMA/viewform?usp=sf_link)
-* [Quiz 4 - Sep 23-27](https://docs.google.com/forms/d/e/1FAIpQLSeBVYqOZ5Sk0CQkfxOqEj7_5bSjNN691eyE4f-34f41pWbaeQ/viewform?usp=sf_link)
-* [Quiz 5 - Sep 30-Oct 4](https://docs.google.com/forms/d/e/1FAIpQLSeDuXksXt8wSRQ0nKPyrW4tMbE9hry2FbhNveSg0Ik3Afh5UA/viewform?usp=sf_link)
-* [Quiz 6 - Oct 7-11](https://docs.google.com/forms/d/e/1FAIpQLSf5Esb7eB_kXaExmGJXlsoplvHj0tyL9wmsnc_Rv6APmNpZnQ/viewform?usp=sf_link)
-* [Quiz 7 - Oct 14-18](https://docs.google.com/forms/d/e/1FAIpQLSdsyuntG3PWAAQlI-ASCXVskIY13ppmWGKzyeOCwo7bRqTRqQ/viewform?usp=sf_link)
-* Oct 21-25 -- FALL BREAK NO ASSIGNMENT
-* [Quiz 8 - Oct 28-Nov 1](https://docs.google.com/forms/d/e/1FAIpQLSex43fzpiJ9AkVFMBerrgbnmkuwhAzIPZgEgWY8yljhbb4v4Q/viewform?usp=sf_link)
-* [Quiz 9 - Nov 4-8](https://docs.google.com/forms/d/e/1FAIpQLSfp1d9YnZaSSVDMj2SUnVVR_UHNP7zEDQ_wcDhLRYyXWtMTXw/viewform?usp=sf_link)
-* [Quiz 10 - Nov 11-15](https://docs.google.com/forms/d/e/1FAIpQLScDyfJ9tm_FiCAtqjrvvldM6wafu48rRhwZC8qD8VQSCICp1w/viewform?usp=sf_link)
-* [Quiz 11 - Nov 18-22](https://docs.google.com/forms/d/e/1FAIpQLSeRQFX6rspY9Z_MHYpADqDYgQzyEzxiGY1HJNvR2dUwOGeYDA/viewform?usp=sf_link)
-* [Quiz 12 - Nov 25-27](https://docs.google.com/forms/d/e/1FAIpQLSeAiVE22MJMSz7bLKy8jqcZD0eSz2uHoJO5W3AUuES-MV9aJQ/viewform?usp=sf_link) <text style="background-color:yellow">(need to add questions about interspecific interactions)</text>
-* [Quiz 13 - Dec 2-6](https://docs.google.com/forms/d/e/1FAIpQLSfqCi4R8v0RqjRI2nNgjfLm2oHn8ofbmZF7v6Fp1m_GABdmlA/viewform?usp=sf_link) <text style="background-color:yellow">(need to add questions about energy flow?)</text>
-* [Quiz 14 - Dec 9-11](https://docs.google.com/forms/d/e/1FAIpQLSeeMx2DJL6hopi_OKirtelc6cExaqrhDR1hILCLpPFqkEfobw/viewform?usp=sf_link)
+jlkjkljlk lkjlkjlkj lj ljl

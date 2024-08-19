@@ -20,17 +20,19 @@ pkgdown:
 
 The first [problem set is available](ps1.html) and you may want to start it before Sep 4. You will also want to watch the week 1 content videos (see [agenda week 1](agenda-week1.html)).
 
+Problem Set 1 and Quiz 1 are due Saturday Sep 7 (end of day). However, it's beneficial for you to watch the content videos and begin the assignments before the week of class.
+
 # Class Meetings
 
 ## Friday Aug 30
 
 -   First day of class -- go over syllabus, teaching philosophy, course expectations.
 
--   [Link to slides](https://drive.google.com/drive/folders/17Fm-yEXqtlvGJfFaw6WqywIScW_eZ8m_?usp=drive_link)
+-   [Link to slides](https://drive.google.com/drive/folders/17Fm-yEXqtlvGJfFaw6WqywIScW_eZ8m_?usp=drive_link) Requires you to log into your Oberlin account to access.
 
--   GRADE CONTRACTS: Read this part of the syllabus carefully before filling out the Grade Contract Form with your due dates and other info. You are welcome to consult with Angie before submitting your contract. Contracts should be submitted by 11:59pm Friday Sept 6th.
+-   GRADE CONTRACTS: Read this part of the syllabus carefully before filling out the [Grade Contract Form](https://docs.google.com/forms/d/e/1FAIpQLScJdD7yO7pAEkugUMRwGvSrYl5syahIyh271SzR2fy_mscIfA/viewform?usp=sf_link) with your due dates and other info. You are welcome to consult with Angie before submitting your contract. Contracts should be submitted by Friday Sept 6th, end of day.
 
--   Please fill out the Getting to Know You form before Wed 9/4.
+-   Please fill out the [Getting to Know You](https://docs.google.com/forms/d/e/1FAIpQLScaPNVaX_waXgLUrAUYxIhIfUrhzBsRnpT38HXaxLQhJMlkxQ/viewform?usp=sf_link) form before Wed 9/4.
 
 -   Note: I recommend you watch the videos for next week before Wed (see [Week 1 agenda](agenda-week1.html)).
 

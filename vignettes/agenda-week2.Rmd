@@ -14,7 +14,7 @@ pkgdown:
 
 # Reminders
 
-* something...
+* TBA
 
 # Content Videos
 
@@ -31,6 +31,8 @@ pkgdown:
 [Problem Set 2](ps2.html)
 
 # Class Meetings
+
+Materials presented in class are available in the [Slides and handouts folder](https://drive.google.com/drive/folders/17Fm-yEXqtlvGJfFaw6WqywIScW_eZ8m_?usp=drive_link).
 
 ## Mon Sep 9
 

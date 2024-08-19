@@ -5,7 +5,7 @@ output:
 ---
 Deployed site: https://aroles.github.io/biol210/
 
-# Welcome to the BIOL 210 website, Fall 2024!
+# Welcome to BIOL 210, Fall 2024!
 
 All course materials will be provided via this website or links therein.
 
@@ -118,11 +118,11 @@ To complete the work required for a B, expectations are that you will spend at l
 <table>
 <tr><th>Assignment (max number)</th><th>B contract requirement</th></tr>
 <tr><td>Lecture periods attended (40)</td><td>34</td></tr>
-<tr><td>Problem Sets (14)</td><td>33</td></tr>
-<tr><td>Quizzes (14)</td><td>33</td></tr>
-<tr><td>Exams (4)</td><td>33</td></tr>
-<tr><td>Mid-term Reflection (1)</td><td>33</td></tr>
-<tr><td>Final Reflection (1)</td><td>33</td></tr>
+<tr><td>Problem Sets (14)</td><td>12</td></tr>
+<tr><td>Quizzes (14)</td><td>12</td></tr>
+<tr><td>Exams (4)</td><td>4</td></tr>
+<tr><td>Mid-term Reflection (1)</td><td>1</td></tr>
+<tr><td>Final Reflection (1)</td><td>1</td></tr>
 </table>
 
 Earning an A will require all of the work for a B plus completion of 1 additional project, exploring a course topic or topics in greater depth. Thus, an A represents a greater demonstration of mastery of course material than does a B. <text style="background-color:yellow">**Project goals and plan must be set by Oct 11 and completed by Dec 6.**</text>

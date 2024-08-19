@@ -14,7 +14,9 @@ pkgdown:
 
 # Reminders
 
-* Remember to complete your grade contract by Fri Sep 8. Submit via the Assignment Turn-in link above.
+* Please complete the [Getting to Know You](https://docs.google.com/forms/d/e/1FAIpQLScaPNVaX_waXgLUrAUYxIhIfUrhzBsRnpT38HXaxLQhJMlkxQ/viewform?usp=sf_link) form by Wed Sep 4.
+
+* Remember to complete your [grade contract](https://docs.google.com/forms/d/e/1FAIpQLScJdD7yO7pAEkugUMRwGvSrYl5syahIyh271SzR2fy_mscIfA/viewform?usp=sf_link) by Fri Sep 6. Submit via the Assignment Turn-in link above.
 
 # Content Videos
 
@@ -33,11 +35,13 @@ pkgdown:
 
 # Class Meetings
 
+Materials presented in class are available in the [Slides and handouts folder](https://drive.google.com/drive/folders/17Fm-yEXqtlvGJfFaw6WqywIScW_eZ8m_?usp=drive_link).
+
 ## Wed Sep 4
 
 Cover case study "A tale of three lice" (about phylogenetic trees and their uses).
 
-## Wed Sep 6
+## Fri Sep 6
 
 Begin UPGMA tree-building exercise with data from greenhouse plants.
 
