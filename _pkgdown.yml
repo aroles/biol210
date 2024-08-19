@@ -21,7 +21,7 @@ navbar:
     menu:
     - text: '----------------'
     - text: Syllabus
-      href: sheets/sci_articles/BIOL210-Syllabus-Fall2024-Roles.pdf
+      href: articles/sheets/sci_articles/BIOL210_Syllabus_Fall2024_Roles.pdf
     - text: Content Videos
       href: https://drive.google.com/drive/folders/1JYUwk8A0mCn_FV1q5LrELnBwP6ofVQwF?usp=drive_link
     - text: Problem Sets
