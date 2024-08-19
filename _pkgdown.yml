@@ -81,5 +81,5 @@ navbar:
   - text: Assignment Turn In
     href: https://docs.google.com/forms/d/e/1FAIpQLScJMEW72xvMW2KMuCenetBqUhi-AXqvbI5okDjlbV6hEdkIsQ/viewform?usp=sf_link
   right:
-    - text: "BIOL 210 Fall 2024 Syllabus PDF"
-      href: sheets/sci_articles/BIOL210-Syllabus-Fall2024-Roles.pdf
+    - text: BIOL 210 Fall 2024 Syllabus PDF
+      href: articles/sheets/sci_articles/BIOL210_Syllabus_Fall2024_Roles.pdf
