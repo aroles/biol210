@@ -11,9 +11,9 @@ output:
 pkgdown:
   as_is: true
 ---
-<text style="color:blue">This is the key for PS 3. Before reading this document, you should have completed the problems. Use this key to check and correct your work BEFORE submitting the corrected version via the google form.</text>
+<text style="background-color:lightcyan">This is the key for PS 3. Before reading this document, you should have completed the problems. Use this key to check and correct your work BEFORE submitting the corrected version via the google form.</text>
 
-<text style="color:blue">You should compare your responses with this key and make any changes in another font color. Be sure to explain why you got things wrong (showing that now you understand) as well as providing corrected responses.</text>
+<text style="background-color:lightcyan">You should compare your responses with this key and make any changes in another font color. Be sure to explain why you got things wrong (showing that now you understand) as well as providing corrected responses.</text>
 
 
 # Question Key
@@ -22,7 +22,7 @@ pkgdown:
 <li>Consider the processes of cell reproduction.</li>
 <ol type="a">
 <li>How is cell division similar and different in prokaryotic and eukaryotice cells?</li>
-<text style="color:blue">
+<text style="background-color:lightcyan">
 In both prokaryotic and eukaryotic cells, the basic steps are the same:
 (1) a copy of the genetic information is created in preparation for cell reproduction
 (and various other cellular materials are produced that will be divided between
@@ -32,22 +32,22 @@ separate cytoplasms, each with their own plasma membrane – the two daughter
 cells. As for differences...</text>
 
 <ul>
-<li><text style="color:blue"> In eukaryotes, linear chromosomes are organized such that each daughter cell receives a copy of each chromosome and not a random subset of all chromosomes. In contract, prokaryotes that have a single circular major chromosome do not require this added organization. For what it’s worth, archaeans may have linear or circular chromosomes but so far do not seem to have the organized process of mitosis, rather some archaeans have a random division of genetic material. In this case, they may have many copies of each different chromosome so that daughter cells are likely to end up with at least one copy of each unique chromosome.</text></li>
+<li><text style="background-color:lightcyan"> In eukaryotes, linear chromosomes are organized such that each daughter cell receives a copy of each chromosome and not a random subset of all chromosomes. In contract, prokaryotes that have a single circular major chromosome do not require this added organization. For what it’s worth, archaeans may have linear or circular chromosomes but so far do not seem to have the organized process of mitosis, rather some archaeans have a random division of genetic material. In this case, they may have many copies of each different chromosome so that daughter cells are likely to end up with at least one copy of each unique chromosome.</text></li>
 
-<li><text style="color:blue"> The eukaryotic nucleus also necessitates additional steps compared to prokaryotes as the nucleus must be dissolved to allow for segregation of genetic material and then later reconsituted around the new daughter cell’s genetic info.</text></li>
+<li><text style="background-color:lightcyan"> The eukaryotic nucleus also necessitates additional steps compared to prokaryotes as the nucleus must be dissolved to allow for segregation of genetic material and then later reconsituted around the new daughter cell’s genetic info.</text></li>
 
-<li><text style="color:blue"> Eukaryotes may do cellular reproduction either via mitosis or meiosis. Mitosis maintains ploidy (haploid to haploid OR diploid to diploid) while meiosis reduces ploidy from diploid in the parent cell to haploid in the daughter cells. Prokaryotes are considered haploid and thus do not undergo ploidy changes.</text></li>
+<li><text style="background-color:lightcyan"> Eukaryotes may do cellular reproduction either via mitosis or meiosis. Mitosis maintains ploidy (haploid to haploid OR diploid to diploid) while meiosis reduces ploidy from diploid in the parent cell to haploid in the daughter cells. Prokaryotes are considered haploid and thus do not undergo ploidy changes.</text></li>
 
-<li><text style="color:blue"> Prokaryotes may employ binary fission but sometimes the result of this is genetically identical but phenotypically different daughter cells (for example, in Caulobacter). Eukaryotes can also produce phenotypically different daughter cells (asymmetric cell division), but the types of cell phenotypes vary depending on which prokaryote or eukaryote (and which cell types, if a eukaryote).</text></li></ul><br>
+<li><text style="background-color:lightcyan"> Prokaryotes may employ binary fission but sometimes the result of this is genetically identical but phenotypically different daughter cells (for example, in Caulobacter). Eukaryotes can also produce phenotypically different daughter cells (asymmetric cell division), but the types of cell phenotypes vary depending on which prokaryote or eukaryote (and which cell types, if a eukaryote).</text></li></ul><br>
 
 <li>What do you predict might happen if the spindle fibers did not form during mitosis in a eukaryotic cell?</li>
 
-<text style="color:blue">Spindle fibers are important in moving chromosomes and separating sister chromatids, pulling them to opposite poles. If they did not form, that could severely interfere with allocating the genetic information so that each cell has one copy of each chromosome. Instead, you could end up with some daughter cells having an extra copy of some chromosomes while lacking others entirely. Thus, malfunctioning spindle fibers would probably cause mutations in chromosome numbers and copies per cell.</text>
+<text style="background-color:lightcyan">Spindle fibers are important in moving chromosomes and separating sister chromatids, pulling them to opposite poles. If they did not form, that could severely interfere with allocating the genetic information so that each cell has one copy of each chromosome. Instead, you could end up with some daughter cells having an extra copy of some chromosomes while lacking others entirely. Thus, malfunctioning spindle fibers would probably cause mutations in chromosome numbers and copies per cell.</text>
 
 
 <li>What do you predict might happen in a prokaryotic cell if a protein important in constricting the plasma membrane and cell wall during cytokinesis was non-functional?</li>
 
-<text style="color:blue">If a prokaryotic cell had a malfunctioning protein during cytokinesis, then we might end up with only a single daughter cell with two copies of the genetic information. This would be a genome duplication event. </text>
+<text style="background-color:lightcyan">If a prokaryotic cell had a malfunctioning protein during cytokinesis, then we might end up with only a single daughter cell with two copies of the genetic information. This would be a genome duplication event. </text>
 
 </ol>
 <br>
@@ -58,44 +58,44 @@ cells. As for differences...</text>
 
 <ul>
 <li>sperm produced in the male fly</li>
-<text style="color:blue">haploid, meiosis produced the sperm cells</text>
+<text style="background-color:lightcyan">haploid, meiosis produced the sperm cells</text>
 <li>unfertilized eggs produced in the female fly</li>
-<text style="color:blue">haploid, meiosis produced the egg cells</text>
+<text style="background-color:lightcyan">haploid, meiosis produced the egg cells</text>
 <li>a new zygote before the egg has hatched</li>
-<text style="color:blue">diploid, mitosis</text>
+<text style="background-color:lightcyan">diploid, mitosis</text>
 <li>1st instar larvae growing rapidly</li>
-<text style="color:blue">diploid, mitosis</text>
+<text style="background-color:lightcyan">diploid, mitosis</text>
 <li>3rd instar larvae growing rapidly</li>
-<text style="color:blue">diploid, mitosis</text>
+<text style="background-color:lightcyan">diploid, mitosis</text>
 <li>a pupa develops into an adult</li>
-<text style="color:blue">diploid, mitosis</text>
+<text style="background-color:lightcyan">diploid, mitosis</text>
 <li>the body cells of an adult fly</li>
-<text style="color:blue">diploid, mitosis</text>
+<text style="background-color:lightcyan">diploid, mitosis</text>
 </ul><br>
 <li>On meiosis.
 </li>
 <ol type="a">
 <li>What are three ways in which meiosis differs from mitosis?</li>
 
-<text style="color:blue">There are more than three ways to describe the differences so I'll list some of them here:</text>
+<text style="background-color:lightcyan">There are more than three ways to describe the differences so I'll list some of them here:</text>
 
-<ul><li><text style="color:blue">Meiosis occurs only in diploid (or higher ploidy) cells and produces daughter cells that are haploid. Mitosis can occur in cells of any ploidy but the daughter cells have the same ploidy as the parent cell. </text></li>
+<ul><li><text style="background-color:lightcyan">Meiosis occurs only in diploid (or higher ploidy) cells and produces daughter cells that are haploid. Mitosis can occur in cells of any ploidy but the daughter cells have the same ploidy as the parent cell. </text></li>
 
-<li><text style="color:blue">In meiosis, homologous chromosomes undergo synapsis, allowing for crossing-over between chromatids, thus possibly producing new genetic combinations of information. In mitosis, homologous chromosomes do not pair up and thus do not undergo recombination. </text></li>
+<li><text style="background-color:lightcyan">In meiosis, homologous chromosomes undergo synapsis, allowing for crossing-over between chromatids, thus possibly producing new genetic combinations of information. In mitosis, homologous chromosomes do not pair up and thus do not undergo recombination. </text></li>
 
-<li><text style="color:blue">In meiosis, there are two rounds of segregation that occur: (1) separation of homologous pairs and (2) separation of sister chromatids. There’s only one in mitosis: separation of sister chromatids. </text></li>
+<li><text style="background-color:lightcyan">In meiosis, there are two rounds of segregation that occur: (1) separation of homologous pairs and (2) separation of sister chromatids. There’s only one in mitosis: separation of sister chromatids. </text></li>
 
-<li><text style="color:blue">The starting state of diploid cells is the same for mitosis and meiosis: there are pairs of replicated homologous chromosomes. However, the end state is different b/c mitosis here yields 2 diploid daughter cells while meiosis yields 4 haploid daughter cells. </text></li>
+<li><text style="background-color:lightcyan">The starting state of diploid cells is the same for mitosis and meiosis: there are pairs of replicated homologous chromosomes. However, the end state is different b/c mitosis here yields 2 diploid daughter cells while meiosis yields 4 haploid daughter cells. </text></li>
 
-<li><text style="color:blue">Meiosis produces genetically unique daughter cells, different from the parent cell. Mitosis produces genetically identical daughter cells, same as the parent cell. </text></li></ul>
+<li><text style="background-color:lightcyan">Meiosis produces genetically unique daughter cells, different from the parent cell. Mitosis produces genetically identical daughter cells, same as the parent cell. </text></li></ul>
 
 <li>What two processes during meiosis result in genetically unique daughter cells? Explain how they create genetically variable daughter cells.</li>
 
-<text style="color:blue">1. Crossing-over during prophase I, occurring between chromatids of replicated homologous pairs. This produces unique (compared to parent) combinations of genetic material in a chromatid as chromatids exchange pieces. This is variation in the composition of individual chromosomes.</text>
+<text style="background-color:lightcyan">1. Crossing-over during prophase I, occurring between chromatids of replicated homologous pairs. This produces unique (compared to parent) combinations of genetic material in a chromatid as chromatids exchange pieces. This is variation in the composition of individual chromosomes.</text>
 
-<text style="color:blue">2. Independent Assortment during Metaphase I, where which chromosome of a homologous pair faces which pole is randomized. That is, all the chromosomes inherited from one parent do not just line up together, ending up all at one pole after anaphase (this can happen but the chances are small when you have lots of chromosomes). </text>
+<text style="background-color:lightcyan">2. Independent Assortment during Metaphase I, where which chromosome of a homologous pair faces which pole is randomized. That is, all the chromosomes inherited from one parent do not just line up together, ending up all at one pole after anaphase (this can happen but the chances are small when you have lots of chromosomes). </text>
 
-<text style="color:blue">You might have listed segregation during anaphase I but to me this really only has the effect it does because of (2) above... it’s the polarity of pairs that determines what the composition of the daughter cell will be. </text>
+<text style="background-color:lightcyan">You might have listed segregation during anaphase I but to me this really only has the effect it does because of (2) above... it’s the polarity of pairs that determines what the composition of the daughter cell will be. </text>
 
 </ol>
 <br>
@@ -108,13 +108,13 @@ What can you tell me about the parts of the moss life cycle that are visible to 
 knitr::include_graphics(file.path(here::here(), 'man', 'figures', 'moss2.png'), dpi = 100)
 ```
 
-<text style="color:blue">In this image, we can see the leafy green part of the moss, which is the mature haploid gametophyte part of the moss. We can also see some stalks with a capsule on top – those are the diploid moss sporophyte. Inside of the capsules is where meiosis occurs to produce haploid spores (which will go on to grow into leafy green gametophytes). So, we can see that the diploid stage of mosses is totally reliant on the haploid stage for nutrients and support, it cannot live on its own. Meanwhile, the leafy green gametophyte stage will mature to produce gametes (eggs or sperm) using mitosis. Fertilization of eggs on the moss gametophyte then leads to the growth of that diploid sporophyte. </text>
+<text style="background-color:lightcyan">In this image, we can see the leafy green part of the moss, which is the mature haploid gametophyte part of the moss. We can also see some stalks with a capsule on top – those are the diploid moss sporophyte. Inside of the capsules is where meiosis occurs to produce haploid spores (which will go on to grow into leafy green gametophytes). So, we can see that the diploid stage of mosses is totally reliant on the haploid stage for nutrients and support, it cannot live on its own. Meanwhile, the leafy green gametophyte stage will mature to produce gametes (eggs or sperm) using mitosis. Fertilization of eggs on the moss gametophyte then leads to the growth of that diploid sporophyte. </text>
 
-<text style="color:blue">Difference: In moss, the “plant body” that we think of is haploid (it’s haploid-dominant). The diploid (sporophyte) depends on the haploid for sustenance. This is the opposite of familiar plants like angiosperms, gymnosperms, or ferns which are diploid-dominant. </text>
+<text style="background-color:lightcyan">Difference: In moss, the “plant body” that we think of is haploid (it’s haploid-dominant). The diploid (sporophyte) depends on the haploid for sustenance. This is the opposite of familiar plants like angiosperms, gymnosperms, or ferns which are diploid-dominant. </text>
 
-<text style="color:blue">Similarity: In plants, gametes (eggs, sperm) are produced by mitosis not meiosis. The product of meiosis is a spore, not a gamete. </text>
+<text style="background-color:lightcyan">Similarity: In plants, gametes (eggs, sperm) are produced by mitosis not meiosis. The product of meiosis is a spore, not a gamete. </text>
 
-<text style="color:blue">Similarity: Moss and other plants have multicellular bodies both as haploids and as diploids (this is known as alternation of generations). </text>
+<text style="background-color:lightcyan">Similarity: Moss and other plants have multicellular bodies both as haploids and as diploids (this is known as alternation of generations). </text>
 
-<text style="color:blue">Similar and Different: In mosses, ferns, and some gymnosperms, the sperm are motile – they have flagella and swim to the egg. But in angiosperms, the sperm cells aren’t able to move themselves. Other cells in the pollen carry the sperm cell to the egg cell (or ovule). The species with motile sperm all require water to enable fertilization while those with non-motile sperm have evolved mechanisms independent of water. </text>
+<text style="background-color:lightcyan">Similar and Different: In mosses, ferns, and some gymnosperms, the sperm are motile – they have flagella and swim to the egg. But in angiosperms, the sperm cells aren’t able to move themselves. Other cells in the pollen carry the sperm cell to the egg cell (or ovule). The species with motile sperm all require water to enable fertilization while those with non-motile sperm have evolved mechanisms independent of water. </text>
 </ol>

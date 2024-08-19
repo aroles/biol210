@@ -11,9 +11,9 @@ output:
 pkgdown:
   as_is: true
 ---
-<text style="color:blue">This is the key for PS 6. Before reading this document, you should have completed the problems. Use this key to check and correct your work BEFORE submitting the corrected version via the google form.</text>
+<text style="background-color:lightcyan">This is the key for PS 6. Before reading this document, you should have completed the problems. Use this key to check and correct your work BEFORE submitting the corrected version via the google form.</text>
 
-<text style="color:blue">You should compare your responses with this key and make any changes in another font color. Be sure to explain why you got things wrong (showing that now you understand) as well as providing corrected responses.</text>
+<text style="background-color:lightcyan">You should compare your responses with this key and make any changes in another font color. Be sure to explain why you got things wrong (showing that now you understand) as well as providing corrected responses.</text>
 
 
 # Question Key
@@ -23,19 +23,19 @@ pkgdown:
 <ol type="a">
 <li>Write out the genotypes of the two true-breeding parents and of the offspring. Which are homozygous? Heterozygous?</li>
 
-<text style="color:blue">True-breeding parents crossed: RR × W W. Offspring will all be RW (and have pink flowers). The parents were homozygous but all of the offspring are heterozygous for this locus.</text>
+<text style="background-color:lightcyan">True-breeding parents crossed: RR × W W. Offspring will all be RW (and have pink flowers). The parents were homozygous but all of the offspring are heterozygous for this locus.</text>
 
 <li>What is the name for the pattern of inheritance of the phenotypes encoded by the R and W alleles?</li>
 
-<text style="color:blue">This inheritance pattern is incomplete dominance for flower color because the heterozygotes have a phenotype that is intermediate between the phenotypes of the two homozygotes. </text>
+<text style="background-color:lightcyan">This inheritance pattern is incomplete dominance for flower color because the heterozygotes have a phenotype that is intermediate between the phenotypes of the two homozygotes. </text>
 
 <li>Why does the heterozygote have pink flowers instead of red or white?</li>
 
-<text style="color:blue">The explanation for why the heterozygote has pink flowers rather than red or white could be a few things. One example, maybe the R allele encodes the production of red pigment and the W allele results in no pigment production. However, one R allele does not result in enough pigment being produced to give a darker red color (it’s haplo-insufficient), thus we get a pink color instead.</text>
+<text style="background-color:lightcyan">The explanation for why the heterozygote has pink flowers rather than red or white could be a few things. One example, maybe the R allele encodes the production of red pigment and the W allele results in no pigment production. However, one R allele does not result in enough pigment being produced to give a darker red color (it’s haplo-insufficient), thus we get a pink color instead.</text>
 
 <li>Do you make any connections between this example and topics we learned earlier in the course?</li>
 
-<text style="color:blue">Responses will vary... You should find some connections! </text>
+<text style="background-color:lightcyan">Responses will vary... You should find some connections! </text>
 </ol><br>
 
 <li>As discussed in the content video on Independent Assortment, phenotypic plasticity is the phenomenon in which a single genotype can produce different phenotypes, depending on external conditions. For example, water fleas (<i>Daphnia</i> spp., pictured) are zooplankton, microscopic aquatic animals commonly found in ponds and lakes. They eat algae and are eaten by juvenile fish. If a female <i>Daphnia</i> lives in a pond also inhabited by fish, she will produce clonal babies (by parthenogenesis) that grow head and tail spikes (on the left in image). But if that same mom (genetically identical) lives in a pond without fish, she will have clonal babies with rounded heads and short tails (on the right in image).
@@ -47,19 +47,19 @@ knitr::include_graphics(file.path(here::here(), 'man', 'figures', 'daphnia.jpg')
 <ol type="a">
 <li>How do you think <i>Daphnia moms</i> are able to change the way in which their babies develop to either have or lack head and tail spikes? (Think about how this relates to previous topics.)</li>
 
-<text style="color:blue">Since the babies develop inside the female <i>Daphnia</i>, they will be able to receive signals from her (and she will have deposited proteins in the cytoplasm of the egg cells she produced). These signals could include transcription factors that cause epigenetic changes in the genomes of the babies so that they “turn off” the round-head signal cascade and “turn on” the spiky-head signal cascade. This will be a type of epigenetic change that results in a permanent change in the babies (they can’t change back to round-heads if it turns out there aren’t any fish). However, if fish disappear from the environment, they will send those signals to their own babies and may have offspring with rounded heads. </text>
+<text style="background-color:lightcyan">Since the babies develop inside the female <i>Daphnia</i>, they will be able to receive signals from her (and she will have deposited proteins in the cytoplasm of the egg cells she produced). These signals could include transcription factors that cause epigenetic changes in the genomes of the babies so that they “turn off” the round-head signal cascade and “turn on” the spiky-head signal cascade. This will be a type of epigenetic change that results in a permanent change in the babies (they can’t change back to round-heads if it turns out there aren’t any fish). However, if fish disappear from the environment, they will send those signals to their own babies and may have offspring with rounded heads. </text>
 
 <li>Throughout the course, we’ve actually seen quite a few examples of phenotypic plasticity, though I didn’t give them that name at the time. Find at least 2 examples that we have used earlier in the course which also happen to be examples of phenotypic plasticity. See if you can find one of them in a unicellular organism!</li>
 
-<text style="color:blue">Here are some examples:</text>
+<text style="background-color:lightcyan">Here are some examples:</text>
 
-* <text style="color:blue"> From Mitosis and Binary fission video, the (unicellular) bacterium <i>Caulobacter</i> has two phenotypes: a flagellated swarmer cell and a stalked cell. The swarmer cell eventually settles down attached to a surface and switches phenotypes to be a stalked cell.</text>
+* <text style="background-color:lightcyan"> From Mitosis and Binary fission video, the (unicellular) bacterium <i>Caulobacter</i> has two phenotypes: a flagellated swarmer cell and a stalked cell. The swarmer cell eventually settles down attached to a surface and switches phenotypes to be a stalked cell.</text>
 
-* <text style="color:blue">Also in Mitosis and Binary Fission video, the (unicellular) bacterium <i>Bacillus licheniformis</i> has two types of cells, vegetative and endospores. These are phenotypically and metabolically quite different (endospores can be dormant to survive bad conditions).</text>
+* <text style="background-color:lightcyan">Also in Mitosis and Binary Fission video, the (unicellular) bacterium <i>Bacillus licheniformis</i> has two types of cells, vegetative and endospores. These are phenotypically and metabolically quite different (endospores can be dormant to survive bad conditions).</text>
 
-* <text style="color:blue">Temperature-dependent sex determination (like in the red-eared slider turtle, Transcription video) is another example: which gonads develop depends on the environmental conditions. So the same exact genome can develop as either male or female.</text>
+* <text style="background-color:lightcyan">Temperature-dependent sex determination (like in the red-eared slider turtle, Transcription video) is another example: which gonads develop depends on the environmental conditions. So the same exact genome can develop as either male or female.</text>
 
-* <text style="color:blue"> People who have the HbS allele for betaglobin have globin molecules that can be the usual protein complex that floats freely OR under low blood oxygen, their globin molecules polymerize to make rigid fibers that warp the shape of the red blood cell (to be a sickle-cell, Translation video).</text>
+* <text style="background-color:lightcyan"> People who have the HbS allele for betaglobin have globin molecules that can be the usual protein complex that floats freely OR under low blood oxygen, their globin molecules polymerize to make rigid fibers that warp the shape of the red blood cell (to be a sickle-cell, Translation video).</text>
 </ol><br>
 </ol>
 
@@ -68,59 +68,59 @@ You are a plant breeder studying two phenotypes in the [trout lily plant](https:
 <ol start=3>
 <li>A fellow lily-breeder sends you a true-breeding plant that has yellow flowers and plain leaves. What is the genotype of this plant? (Hint: what does true-breeding mean?)</li>
 
-<text style="color:blue">Let A represent the allele for yellow flowers and b represent the allele for plain leaves. Then, a true-breeding plant with yellow flowers and plain leaves must have the genotype AAbb. </text><br>
+<text style="background-color:lightcyan">Let A represent the allele for yellow flowers and b represent the allele for plain leaves. Then, a true-breeding plant with yellow flowers and plain leaves must have the genotype AAbb. </text><br>
 
 <li>You cross your white and spotted plant with the yellow and plain plant. If yellow is dominant to white and spotted is dominant to plain, what will be the genotype and phenotype of the offspring (the F<sub>1</sub>s)?</li>
 
-<text style="color:blue">The cross is aaBB × AAbb so all of the offspring will inherit a white allele and a spotted allele from one parent and a yellow allele and a plain alllele from the other parent. Thus, the genotype of all offspring will be AaBb. Since yellow is dominant to white and spotted is dominant to plain, the phenotype of these plants will be yellow flowers and spotted leaves. </text><br>
+<text style="background-color:lightcyan">The cross is aaBB × AAbb so all of the offspring will inherit a white allele and a spotted allele from one parent and a yellow allele and a plain alllele from the other parent. Thus, the genotype of all offspring will be AaBb. Since yellow is dominant to white and spotted is dominant to plain, the phenotype of these plants will be yellow flowers and spotted leaves. </text><br>
 
 <li>Imagine you wanted to figure out whether the flower color and leaf pattern genes are linked. What cross would you need to carry out? What phenotypic ratio would you expect to observe in the cross if the genes are NOT physically linked? (Hint: You must use the plants you already have available, which does not include an aabb individual.)</li>
-<text style="color:blue">To figure out if they are linked, we should begin by rewriting our genotypes to reflect which alleles were inherited together from a given parent. The true-breeding white (a) and spotted (B) parent produces gametes that all have aB while the true- breeding yellow (A) and plain (b) parent’s gametes are all Ab. So the F<sub>1</sub> offspring of their cross can be written as aB/Ab to reflect which alleles came from which parental gamete.</text><br>
+<text style="background-color:lightcyan">To figure out if they are linked, we should begin by rewriting our genotypes to reflect which alleles were inherited together from a given parent. The true-breeding white (a) and spotted (B) parent produces gametes that all have aB while the true- breeding yellow (A) and plain (b) parent’s gametes are all Ab. So the F<sub>1</sub> offspring of their cross can be written as aB/Ab to reflect which alleles came from which parental gamete.</text><br>
 
-<text style="color:blue">To find out if the genes underlying the two traits are linked, we can cross two of the F<sub>1</sub> plants, all of which have the genotype aB/Ab. So the cross would be:</text><br>
+<text style="background-color:lightcyan">To find out if the genes underlying the two traits are linked, we can cross two of the F<sub>1</sub> plants, all of which have the genotype aB/Ab. So the cross would be:</text><br>
 
-<text style="color:blue">AaBb x AaBb</text>  <br>
+<text style="background-color:lightcyan">AaBb x AaBb</text>  <br>
 
-<text style="color:blue">Or, if we wanted to show which alleles were inherited from which parental gamete:</text>
+<text style="background-color:lightcyan">Or, if we wanted to show which alleles were inherited from which parental gamete:</text>
 
-<text style="color:blue">aB/Ab × aB/Ab</text><br>
+<text style="background-color:lightcyan">aB/Ab × aB/Ab</text><br>
 
-<text style="color:blue">If the genes for these two traits are NOT linked, then we could just look at equation (1), without worrying about which alleles were in which parental gamete. In this case of NOT linked, we could figure out the offspring distribution for the two traits separately like so:</text>
+<text style="background-color:lightcyan">If the genes for these two traits are NOT linked, then we could just look at equation (1), without worrying about which alleles were in which parental gamete. In this case of NOT linked, we could figure out the offspring distribution for the two traits separately like so:</text>
 
-<text style="color:blue">For flower color: </text><br>
-<text style="color:blue">25% aa (white), 50% Aa (yellow), 25% AA (yellow)</text>
+<text style="background-color:lightcyan">For flower color: </text><br>
+<text style="background-color:lightcyan">25% aa (white), 50% Aa (yellow), 25% AA (yellow)</text>
 
-<text style="color:blue">For leaf pattern:</text><br>
-<text style="color:blue">25% BB (spotted), 50% Bb (spotted), 25% bb (plain)</text>
+<text style="background-color:lightcyan">For leaf pattern:</text><br>
+<text style="background-color:lightcyan">25% BB (spotted), 50% Bb (spotted), 25% bb (plain)</text>
 
-<text style="color:blue">We then combine these probabilities to get the multilocus genotype and phenotype probabilities. Assuming flower color and leaf pattern segregate independently (are not linked), the probability of the offspring of our cross being white flowered with spotted leaves will be the probability of having white flowers (0.25 or 25%) times the probability of having spotted leaves (0.25 + 0.50 = 0.75 or 75%) which is 0.25 x 0.75 = 0.1875 or 18.75% (3/16).</text>
+<text style="background-color:lightcyan">We then combine these probabilities to get the multilocus genotype and phenotype probabilities. Assuming flower color and leaf pattern segregate independently (are not linked), the probability of the offspring of our cross being white flowered with spotted leaves will be the probability of having white flowers (0.25 or 25%) times the probability of having spotted leaves (0.25 + 0.50 = 0.75 or 75%) which is 0.25 x 0.75 = 0.1875 or 18.75% (3/16).</text>
 
-<text style="color:blue">Overall, if the genes for the traits are not linked, we’d expect to observe these phenotype and genotype frequencies (make the 4 by 4 Punnett square to see these results):</text>
+<text style="background-color:lightcyan">Overall, if the genes for the traits are not linked, we’d expect to observe these phenotype and genotype frequencies (make the 4 by 4 Punnett square to see these results):</text>
 
-* <text style="color:blue">white, spotted will be 18.75% (3/16) where 1/16 are aaBB and 2/16 are aaBb</text><br>
+* <text style="background-color:lightcyan">white, spotted will be 18.75% (3/16) where 1/16 are aaBB and 2/16 are aaBb</text><br>
 
-* <text style="color:blue">white, plain will be 6.25% (1/16) where 1/16 are aabb</text><br>
+* <text style="background-color:lightcyan">white, plain will be 6.25% (1/16) where 1/16 are aabb</text><br>
 
-* <text style="color:blue">yellow, spotted will be 56.25% (9/16) where 1/16 are AABB, 2/16 are AABb, 2/16 are AaBB, and 4/16 are AaBb.</text>
+* <text style="background-color:lightcyan">yellow, spotted will be 56.25% (9/16) where 1/16 are AABB, 2/16 are AABb, 2/16 are AaBB, and 4/16 are AaBb.</text>
 
-* <text style="color:blue">yellow, plain will be 18.75% (3/16) where 1/16 are AAbb and 2/16 are Aabb.</text>
+* <text style="background-color:lightcyan">yellow, plain will be 18.75% (3/16) where 1/16 are AAbb and 2/16 are Aabb.</text>
 
 
-<text style="color:blue">In contrast, if the genes are tightly linked, then the white/spotted alleles will almost always be inherited together and the yellow/plain alleles will also almost always be inherited together. In that case, the only types of gametes our F<sub>1</sub> plants can produce are aB or Ab, in equal frequencies. So, if we combine them to get our multilocus genotypes and phenotypes, we get the following expected phenotypic and genotypic ratios for tightly linked genes:</text>
+<text style="background-color:lightcyan">In contrast, if the genes are tightly linked, then the white/spotted alleles will almost always be inherited together and the yellow/plain alleles will also almost always be inherited together. In that case, the only types of gametes our F<sub>1</sub> plants can produce are aB or Ab, in equal frequencies. So, if we combine them to get our multilocus genotypes and phenotypes, we get the following expected phenotypic and genotypic ratios for tightly linked genes:</text>
 
-* <text style="color:blue">white, spotted will be 25% (1/4), all aB/aB </text>
+* <text style="background-color:lightcyan">white, spotted will be 25% (1/4), all aB/aB </text>
 
-* <text style="color:blue">white, plain will be absent, 0% because no ab gametes are made </text>
+* <text style="background-color:lightcyan">white, plain will be absent, 0% because no ab gametes are made </text>
 
-* <text style="color:blue">yellow, spotted will be 50% (2/4), all aB/Ab where either gamete could come from either parent so this is 50% of the total zygotes created</text>
+* <text style="background-color:lightcyan">yellow, spotted will be 50% (2/4), all aB/Ab where either gamete could come from either parent so this is 50% of the total zygotes created</text>
 
-* <text style="color:blue">yellow, plain will be 25% (1/4), all Ab/Ab</text>
+* <text style="background-color:lightcyan">yellow, plain will be 25% (1/4), all Ab/Ab</text>
 
 <br>
 
 <li>If the genes are very closely physically linked, would you ever be able to produce a true-breeding plant with yellow flowers and spotted leaves? Explain.</li>
 
-<text style="color:blue">If the genes are VERY closely physically linked, as described above, then the only way we could ever produce a true-breeding plant with the phenotype yellow/spotted would be if crossing-over occurred between the two genes, which would finally give us gametes that carried yellow/spotted alleles. Otherwise, while we could produce a plant that was yellow/spotted, only half of its offspring (crossed with itself) would actually be yellow/spotted because the plant is heterozygous for both genes. The closer together the genes are, the less likely this is to happen. </text>
+<text style="background-color:lightcyan">If the genes are VERY closely physically linked, as described above, then the only way we could ever produce a true-breeding plant with the phenotype yellow/spotted would be if crossing-over occurred between the two genes, which would finally give us gametes that carried yellow/spotted alleles. Otherwise, while we could produce a plant that was yellow/spotted, only half of its offspring (crossed with itself) would actually be yellow/spotted because the plant is heterozygous for both genes. The closer together the genes are, the less likely this is to happen. </text>
 </ol><br>
 
 Linkage between genes arises because a single chromosome often contains a very long sequence of DNA that includes many genes. Given that humans have an estimated 20-25 thousand genes and n = 23 different chromosomes (2n = 46), we might expect that each chromosome is likely to contain around 1000 genes (in fact, some chromosomes only contain a few dozen genes, others have more than 2000).
@@ -134,36 +134,36 @@ knitr::include_graphics(file.path(here::here(), 'man', 'figures', 'linkage2.png'
 <ol start=7>
 <li>On chromosome 7, the OB gene encodes the hormone leptin, which helps regulate energy balance (wild-type allele B). The b allele for this gene produces non-functional leptin molecules which increase risk of obesity in homozygotes (bb). Based on the figure, the OB (Obesity) gene is physically linked to which other genes?</li>
 
-<text style="color:blue">The OB gene is closely linked to CFTR and Pendrin. It is possibly linked, but more distantly, to ELN and GCK. </text><br>
+<text style="background-color:lightcyan">The OB gene is closely linked to CFTR and Pendrin. It is possibly linked, but more distantly, to ELN and GCK. </text><br>
 <br>
 <li>Consider the CFTR gene on chromosome 7, which encodes a protein that transports chloride and thiocyanate ions across the cell membrane (wild-type allele F). The mutant f allele for this gene is a deletion that causes protein-misfolding, leading to cystic fibrosis in homozygotes (ff) but no effect in heterozygotes (Ff). If a person was heterozygous for both the OB gene and the CFTR gene (BbFf), and the genes were NOT linked, what would be the chance that this person’s child would inherit BOTH the b and f alleles from this parent?</li>
 
-<text style="color:blue">The parent is BbFf and if the genes were not linked, we’d expect them to produce equal proportions of the following 4 gamete types: BF, bf, Bf, and bF. Thus, there is a 25% chance of this parent passing both the b and the f alleles to their child. </text><br><br>
+<text style="background-color:lightcyan">The parent is BbFf and if the genes were not linked, we’d expect them to produce equal proportions of the following 4 gamete types: BF, bf, Bf, and bF. Thus, there is a 25% chance of this parent passing both the b and the f alleles to their child. </text><br><br>
 
 <li>Because the OB and CFTR genes are linked, we need to think through some additional information to figure out how this affects the chance of an offspring inheriting mutant alleles for both genes. Consider 2 scenarios:</li><br>
 <ol type="a">
 <li>Scenario 1: Jack’s parents have the genotypes BBff (mom) and bbFF (dad), giving Jack the genotype BbFf. If this is Jack’s genotype, and no crossing-over occurs between the genes, can Jack’s child inherit both the b and f alleles from Jack? Explain.</li>
 
-<text style="color:blue">If Jack is Bf/bF and the genes are tightly linked so no crossing-over occurs, then Jack will produce 2 types of gametes: Bf and bF. As a result, Jack CANNOT pass both b and f to one child. </text><br>
+<text style="background-color:lightcyan">If Jack is Bf/bF and the genes are tightly linked so no crossing-over occurs, then Jack will produce 2 types of gametes: Bf and bF. As a result, Jack CANNOT pass both b and f to one child. </text><br>
 
 <li>Scenario 2: Alex’s parents have the genotypes bbff (mom) and BBFF (dad), giving Alex the BbFf genotype. If no crossing-over occurs between OB and CFTR, can Alex pass on both the b and f alleles to one child?</li>
 
-<text style="color:blue">In this scenario, Alex will make only bf and BF gametes meaning there is a 50% chance that Alex passes both the b and f alleles to a child. </text>
+<text style="background-color:lightcyan">In this scenario, Alex will make only bf and BF gametes meaning there is a 50% chance that Alex passes both the b and f alleles to a child. </text>
 </ol><br>
 
 <li>Now consider the children of parents with the genotypes Bf/bF and Bf/bF. Assuming that these genes are so tightly linked that crossing-over does not occur between them,</li>
 <ol type="a">
 <li>What’s the chance that their child has a high risk of obesity?</li>
 
-<text style="color:blue">We only need to consider the OB gene here. There is a 50% chance of getting the b allele from each parent, yielding a 25% chance of the child being at high risk for obesity. </text>
+<text style="background-color:lightcyan">We only need to consider the OB gene here. There is a 50% chance of getting the b allele from each parent, yielding a 25% chance of the child being at high risk for obesity. </text>
 
 <li>What’s the chance that their child inherits a predisposition for cystic fibrosis?</li>
 
-<text style="color:blue">Here we need only consider the CFTR gene. Again, there is a 50% chance of each parent contributing the f allele to the child, yielding a 25% chance that the child is predisposed to cystic fibrosis. </text>
+<text style="background-color:lightcyan">Here we need only consider the CFTR gene. Again, there is a 50% chance of each parent contributing the f allele to the child, yielding a 25% chance that the child is predisposed to cystic fibrosis. </text>
 
 <li>What’s the chance that their child is at high risk for both obesity and cystic fibrosis? How would your response change if the genes were NOT linked (calculate the probability)?</li>
 
-<text style="color:blue">To be at high risk for both conditions, the child would have to be bbff. In order to get that genotype, the child would have to inherit bf from both parents. Given the earlier information on the parents and linkage, it is impossible for either parent to contribute a bf gamete. Thus, the risk of the child being bbff is 0% because the obesity-risk allele b is inherited with the wild-type F allele (leaving the cystic fibrosis causing f allele inherited with the wild-type B allele).</text>
+<text style="background-color:lightcyan">To be at high risk for both conditions, the child would have to be bbff. In order to get that genotype, the child would have to inherit bf from both parents. Given the earlier information on the parents and linkage, it is impossible for either parent to contribute a bf gamete. Thus, the risk of the child being bbff is 0% because the obesity-risk allele b is inherited with the wild-type F allele (leaving the cystic fibrosis causing f allele inherited with the wild-type B allele).</text>
 
-<text style="color:blue">What if the genes were not linked? In that case, we would consider each condition separately and then combine the probabilities. From parts (i) and (ii) we know the risk for each condition alone is 25% thus, we can say that the risk of inheriting both is 0.25 × 0.25 = 0.0625 or 6.25% (also known as 1/16). </text>
+<text style="background-color:lightcyan">What if the genes were not linked? In that case, we would consider each condition separately and then combine the probabilities. From parts (i) and (ii) we know the risk for each condition alone is 25% thus, we can say that the risk of inheriting both is 0.25 × 0.25 = 0.0625 or 6.25% (also known as 1/16). </text>
 </ol></ol>
