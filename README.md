@@ -1,3 +1,8 @@
+---
+output:
+  pdf_document: default
+  html_document: default
+---
 Deployed site: https://aroles.github.io/biol210/
 
 # Welcome to the BIOL 210 website, Fall 2024!
@@ -35,7 +40,7 @@ Student Hours are times that I have set aside specifically to meet with students
 ## Lecture Class Meetings
 MWF 9:00-9:50 am in SCTR A155
 
-Enrollment in both 210 lecture and 211 lab are required of all students. All lab sections meet 1:30-4:20 pm in SCTR K119. See the [BIOL 211 website](https://aroles.github.io/biol211/) for more information.
+Enrollment in both 210 lecture and 211 lab are required of all students. All lab sections meet 1:30-4:20 pm in SCTR K119. See the [BIOL 211 website](https://aroles.github.io/biol211/) for more information on the Lab sections.
 
 ## Course Description
 This course provides biology majors and others with an integrated introduction to key biological principles of genetics, ecology, and evolution, including principles of inheritance, structure and expression of genes, and gene-phenotype relationships, selection, drift, sources of variation, and patterns of diversity, as well as factors and processes governing biotic and abiotic interactions that influence distribution and abundance of organisms. Students must register for both the lecture and laboratory (BIOL 211) concurrently. Prerequisite(s): BIOL 100.
@@ -94,14 +99,14 @@ Angie is available for individual consultation during student hours or by appoin
 
 In this course, we use a form of contract grading, a method of assessment in which you complete a contract laying out the work you must complete to a satisfactory level in order to earn a specific letter grade.
 
-Read the following contract requirements carefully before filling out the Grade Contract form to complete your contract. <text style="background-color:yellow">**Contracts are due by Fri Sep 8.**</text>
+Read the following contract requirements carefully before filling out the Grade Contract form to complete your contract. <text style="background-color:yellow">**Contracts are due by Fri Sep 6.**</text>
 
 If you have questions about the contract process, email or visit Angie to discuss.
 
 ### General Overview and Expectations
-In this course, you will determine your final grade based on the amount of work that you complete to a satisfactory level (as determined by the instructor). All passing grades will be expected to complete a baseline amount of work while higher grades will require additional work to be completed to satisfactory (thus, a higher level of mastery). Letter or number grades will not be assigned for any assignments. Instead, when work is returned to you it will be marked either "Satisfactory" or "Revise". Any work marked Satisfactory needs no more attention from you. Work marked Revise requires that you address the comments provided by the instructor and attempt to correct errors in the assignment, turning in a revised version of the assignment within one week. If that revision is sufficient, it will be returned as Satisfactory; if not, additonal revisions may be needed or perhaps a meeting with the instructor. More than 2 revisions requires a one-on-one meeting with the instructor. At the end of the semester, you and I will determine your grade depending on how many of each assignment you completed to Satisfactory.
+In this course, you will determine your final grade based on the amount of work that you complete to a satisfactory level (as determined by the instructor). All passing grades will be expected to complete a baseline amount of work while higher grades will require additional work to be completed to satisfactory (thus, a higher level of mastery). Letter or number grades will not be assigned for any assignments. Instead, when work is returned to you it will be marked either "Satisfactory" or "Revise". Any work marked Satisfactory needs no more attention from you. Work marked Revise requires that you address the comments provided by the instructor and attempt to correct issues in the assignment, turning in a revised version of the assignment within one week. If that revision is sufficient, it will be returned as Satisfactory; if not, additional revisions may be needed or perhaps a meeting with the instructor. More than 1 revision requires a one-on-one meeting with the instructor before submitting the revision. At the end of the semester, you and I will determine your final grade depending on how many of each assignment you completed to Satisfactory.
 
-In addition to the above, you will be responsible for determining due dates for some assignments for this course (including exams). Generally, you must turn in quizzes or problem sets within 2 weeks of the due date though exceptions can be arranged individually with the instructor. Late assignments may carry consequences for you or impact your final grade.
+In addition to the above, you will be responsible for determining due dates for some assignments for this course (primarily exams). Generally, you must turn in quizzes or problem sets within 2 weeks of the due date though exceptions can be arranged individually with the instructor. Late assignments may carry consequences for you or impact your final grade.
 
 I am choosing to use contract grading in order to provide you ownership over your grade and to enable you to focus more on what you are actually trying to learn. As a further benefit, contract grading helps you to develop and practice valuable life skills such as time management and the ability to assess the quality of your own work. Grades do not follow you into jobs after college (unless you do more schooling!), so it’s important to learn to assess yourself.
 
@@ -110,32 +115,45 @@ Here is a breakdown of the work expected to be Satisfactory in order to achieve 
 To complete the work required for a B, expectations are that you will spend at least 11 hours per week on this course.
 
 **Table of expectations**
+<table>
+<tr><th>Assignment (max number)</th><th>B contract requirement</th></tr>
+<tr><td>Lecture periods attended (40)</td><td>34</td></tr>
+<tr><td>Problem Sets (14)</td><td>33</td></tr>
+<tr><td>Quizzes (14)</td><td>33</td></tr>
+<tr><td>Exams (4)</td><td>33</td></tr>
+<tr><td>Mid-term Reflection (1)</td><td>33</td></tr>
+<tr><td>Final Reflection (1)</td><td>33</td></tr>
+</table>
 
-Earning an A will require all of the work for a B plus completion of 1 additional project, exploring a course topic or topics in greater depth. <text style="background-color:yellow">**Project goals and plan must be set by Oct 6 and completed by Dec 1.**</text>
+Earning an A will require all of the work for a B plus completion of 1 additional project, exploring a course topic or topics in greater depth. Thus, an A represents a greater demonstration of mastery of course material than does a B. <text style="background-color:yellow">**Project goals and plan must be set by Oct 11 and completed by Dec 6.**</text>
 
-Earning a C will occur when work required for a B is not completed to Satisfactory or in a timely fashion (repeatedly late).
+Earning a C will occur when work required for a B is not completed to Satisfactory or in a timely fashion (repeatedly late). Grades of D or F represent a breakdown of the contract.
 
 ### Assignment Descriptions and Guidelines
 
 #### (1) Class attendance and participation
 Class attendance is expected. Absences arranged in advance, with Angie’s agreement, and for which work is made up do not count against the allowed number of missed class periods.
 
-#### (2) Quizzes (weekly) – You choose due date.
-A set of content videos is assigned for each week (videos less than 20m each), providing the content that you are learning in a traditional lecture format. Live class meetings will focus on particular aspects of the content and explore them in greater depth via case studies. Weekly quizzes (about 10-20 multiple choice or true/false questions) practice the understanding you are learning in the videos and lecture meetings. You will receive your score on these quizzes immediately upon completion. For any questions for which you did not achieve full credit, you will revisions explaining why you got the question wrong and how you know the correct answer(s) is correct. You are encouraged to ask Angie when you are not sure why an answer is considered correct or incorrect!
+#### (2) Quizzes (weekly) – Due Saturdays by end of day.
+A set of content videos is assigned for each week (videos less than 20m each), providing the content that you are learning in a lecture format. Live class meetings will focus on particular aspects of the content and explore them in greater depth via case studies. Weekly quizzes (about 10-20 multiple choice or true/false questions) practice the understanding you are learning in the videos and lecture meetings. You will receive your score on these quizzes immediately upon completion. **For any questions for which you did not achieve full credit, you will submit revisions explaining why you got the question wrong and how you know the correct answer is correct.** You are encouraged to ask Angie when you are not sure why an answer is considered correct or incorrect! Quizzes are due Saturdays and revisions are due one week after you complete the quiz.
 
-#### (3) Problem Sets (weekly) – You choose due date.
-In order to practice your understanding of the content video material and in-class materials, you will complete a weekly problem set focused on that week’s material. Optional supplemental readings will also be provided in most cases. You may use any source of information that you desire to complete these problem sets, including working with other students in the course (such as your assigned group). Once completed, you will check your answers against the key provided by Angie. For any incorrect responses, you will endeavor to correct them and provide a written explanation of what you think led you astray. You will submit your responses and your corrections as a single document. If you had correct responses for all the questions, you will still be sure to reply to the reflection question on the submission form in order to achieve a Satisfactory assignment. Revisions are not be requested for problem sets: all assignments that fit the above criteria are accepted as Satisfactory (you must respond to the reflection question on the submission form).
+#### (3) Problem Sets (weekly) – Due Saturdays by end of day.
+In order to practice your understanding of the content video material and in-class materials, you will complete a weekly problem set focused on that week’s material. Optional supplemental readings will also be provided in most cases. You may use any source of information that you desire to complete these problem sets, including working with other students in the course (such as your assigned group). Once completed, you will check your answers against the key provided by Angie. For any incorrect responses, you will endeavor to correct them and provide a written explanation of what you think led you astray. **You will submit your responses and your corrections as a single document. If you had correct responses for all the questions, you will still be sure to reply to the reflection question on the submission form in order to achieve a Satisfactory assignment.** Revisions are not be requested for problem sets: all assignments that fit the above criteria are accepted as Satisfactory (you must respond to the reflection question on the submission form). Problem sets are due Saturdays by the end of the day.
 
-#### (4) Short-answer Exams – You choose due dates.
+#### (4) Short-answer Exams (4 exams) – You choose due dates.
 In order to bring together your learning in live lecture meetings, during lab periods, and from the content videos, there will be 4 short-answer exams. These exams will be open-note, open-book, and untimed but designed to require 50 minutes to complete (if studied for). This means you may use any materials supplied by Angie to complete the exam but you should not discuss the exam with anyone other than Angie. There will be no time limit on completion of the exam and all exams will be available as of the first day of class. You am responsible for scheduling when you will take each exam. For responses that are not Satisfactory, Angie will give you feedback and you will revise your response(s) until achieving Satisfactory. I suggest you choose due dates no earlier than the following to ensure all material is covered in class before you work on the exam:
 
-* <text style="background-color:yellow">**Exam 1 after Sep 29**</text>
-* <text style="background-color:yellow">**Exam 2 after Oct 27**</text>
+* <text style="background-color:yellow">**Exam 1 after Sep 27**</text>
+* <text style="background-color:yellow">**Exam 2 after Oct 18**</text>
 * <text style="background-color:yellow">**Exam 3 after Nov 22**</text>
-* <text style="background-color:yellow">**Exam 4 must be after Dec 12 and before 4pm Dec 17**</text>
+* <text style="background-color:yellow">**Exam 4 must be after Dec 11 and before 4pm Dec 16**</text>
 
 #### (5) Self-reflections (mid-semester and final) - You choose due dates.
-One important skill you will practice in this class is self-assessment, the idea that you develop your own standards for your work rather than merely hoping that your work meets someone else’s standards. To that end, it’s important that you engage in a process of self-reflection. It is only by examining how things have gone and comparing that to how you might like them to have gone, that you can plan for making adjustments in the future. <text style="background-color:yellow">**For this course, you will undertake one self-reflection in the middle of the semester (by Oct 13) and a second at the end of the term (by Dec 17).**</text> For each, you will complete and submit the provided form before attending a short meeting scheduled with Angie to discuss your responses.
+One important skill you will practice in this class is self-assessment, the idea that you develop your own standards for your work rather than merely hoping that your work meets someone else’s standards. To that end, it’s important that you engage in a process of self-reflection. It is only by examining how things have gone and comparing that to how you might like them to have gone, that you can plan for making adjustments in the future. <text style="background-color:yellow">**For this course, you will undertake one self-reflection in the middle of the semester (by Oct 11) and a second at the end of the term (by Dec 16).**</text> For each, you will complete and submit the provided form before attending a short meeting scheduled with Angie to discuss your responses.
+
+#### Independent Mastery Project (for an A)
+
+To earn an A in this class, you must complete all the B-level work plus an extra project that demonstrates your mastery of a topic or topics closely related to the course material. You must submit a project plan for Angie's review by Oct 11 and the final project is due by Dec 6. Projects can take a variety of forms; papers (15-20 pages, double-spaced, 12pt) and videos presentations (10-15 min) are two examples. Discuss with Angie if you would like to propose an alternate type of project. Topics from any point in the course, including the second half, are suitable topics; please see Angie if you are unsure or would like to brainstorm topics.
 
 ## Expected Weekly Schedule
 
@@ -149,7 +167,7 @@ One important skill you will practice in this class is self-assessment, the idea
 <tr><td>5</td><td>Sep 30-Oct 04</td><td>Translation, Sex determination, Inheritance & segregation</td></tr>
 <tr><td>6</td><td>Oct 07-11</td><td>Dominance, Independent assortment, Linkage</td></tr>
 <tr><td>7</td><td>Oct 14-18</td><td>Hardy Weinberg, Detecting evolution, Genetic variation</td></tr>
-<tr><td>8</td><td>Oct 21-25</td><td>*Fall Break*</td></tr>
+<tr><td>8</td><td>Oct 19-27</td><td>*Fall Break*</td></tr>
 <tr><td>9</td><td>Oct 28-Nov 01</td><td>Mutation, Gene flow, Genetic drift</td></tr>
 <tr><td>10</td><td>Nov 04-08</td><td>Nonrandom mating, Selection, Heritability</td></tr>
 <tr><td>11</td><td>Nov 11-15</td><td>Speciation, Population ecology, Life history</td></tr>
@@ -158,5 +176,6 @@ One important skill you will practice in this class is self-assessment, the idea
 <tr><td>14</td><td>Dec 02-06</td><td>Community structure, Ecological succession, Energy flow</td></tr>
 <tr><td>15</td><td>Dec 09-11</td><td>Biodiversity patterns, Nutrient cycling</td></tr>
 <tr><td></td><td>Dec 12-15</td><td>Reading Period</td></tr>
-<tr><td></td><td>Dec 16-20</td><td>Finals Period</td></tr>
+#<tr><td></td><td>Dec 16-20</td><td>Finals Period</td></tr>
+<tr><td></td><td>Dec 16, 2-4pm</td><td>Final Exam slot</td></tr>
 </table>
