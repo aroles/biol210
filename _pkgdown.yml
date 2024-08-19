@@ -3,6 +3,8 @@ template:
   bootstrap: 5
 home:
   links:
+  - text: Biology 211 Website
+    href: https://aroles.github.io/biol211/
   - text: Oberlin Biology Department
     href: https://www.oberlin.edu/arts-and-sciences/departments/biology
   - text: Oberlin Biology Major Overview
@@ -19,7 +21,7 @@ navbar:
     menu:
     - text: '----------------'
     - text: Syllabus
-      href: 404.html
+      href: sheets/sci_articles/BIOL210-Syllabus-Fall2024-Roles.pdf
     - text: Content Videos
       href: https://drive.google.com/drive/folders/1JYUwk8A0mCn_FV1q5LrELnBwP6ofVQwF?usp=drive_link
     - text: Problem Sets
