@@ -37,6 +37,15 @@ MWF 10-11am, or email for appointment.
 
 Student Hours are times that I have set aside specifically to meet with students. I will be in my office and available – you can just stop by and give the door a knock! You can drop in by yourself or bring friends; you may have specific questions or just want to say hi – any reason is good enough. If you aren't available during these intervals, I'm happy to find another time that works -- just email me with some times you are available. 
 
+### QUAIL Peer Support
+Micaela Tahta Dadourian (she/her)
+
+Email: <mtahtada@oberlin.edu>
+
+Regular help sessions: 
+
+Micaela will assist in class each day as well as offer out-of-class support. She will host a regular help session and be available by email.
+
 ## Lecture Class Meetings
 MWF 9:00-9:50 am in SCTR A155
 
@@ -91,7 +100,7 @@ Angie is available for individual consultation during student hours or by appoin
 
 * The [Executive Functioning Program](https://www.oberlin.edu/disability-access/current-students/executive-functioning-program) offers peer tutors, freely available through the ODA office. If you struggle with planning and organization skills, you might contact this program!
 
-* This class is supported by a QUAIL who provides in-class support and also offers an outside help session every other week. Additional support is available via the CLEAR [Quantitative Skills Drop-in Tutoring Center](https://www.oberlin.edu/clear/mentors) (Science Center K100). They can assist students with math skills, statistics, computer software like Excel, or programming languages. No appointment is necessary.
+* This class is supported by a QUAIL, Micaela Tahta Dadourian (<mtahtada@oberlin.edu>), who provides in-class support and also offers an outside help session every other week. Additional support is available via the CLEAR [Quantitative Skills Drop-in Tutoring Center](https://www.oberlin.edu/clear/mentors) (Science Center K100). They can assist students with math skills, statistics, computer software like Excel, or programming languages. No appointment is necessary.
 
 * Health & Wellbeing: The offices of [Student Health Services](https://www.oberlin.edu/student-health-services) and [Counseling and Psychological Services](https://www.oberlin.edu/counseling) are located in Dascomb Hall, Suite B. Services are free and drop-in hours are available.
 
