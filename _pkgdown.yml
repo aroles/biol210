@@ -20,7 +20,7 @@ navbar:
   - text: Course Materials
     menu:
     - text: '----------------'
-    - text: Syllabus
+    - text: Syllabus PDF
       href: articles/sheets/sci_articles/BIOL210_Syllabus_Fall2024_Roles.pdf
     - text: Content Videos
       href: https://drive.google.com/drive/folders/1JYUwk8A0mCn_FV1q5LrELnBwP6ofVQwF?usp=drive_link
@@ -31,15 +31,17 @@ navbar:
     - text: Exams
       href: articles/exams.html
     - text: Midterm Reflection
-      href: 404.html
+      href: midtermReflection.html
     - text: Final Reflection
-      href: 404.html
+      href: finalReflection.html
+    - text: QUAIL session info
+      href: https://drive.google.com/drive/folders/1yKEEn8zpCMV7nXUnngNCCFMkezXpUCv4?usp=drive_link
     - text: BIOL 211 Lab
       href: https://aroles.github.io/biol211/
     - text: Student Folders
       href: https://drive.google.com/drive/folders/1QmV9ipj560BxzW37AS_NAuRU9uN_waEt?usp=drive_link
     - text: Check Progress Spreadsheet
-      href: 404.html
+      href: https://docs.google.com/spreadsheets/d/1OHOpksRrvnDebY0Sy5ALFL6Pvb5j0NEFvAcbDdM77eM/edit?usp=drive_link
     - text: '----------------'
   - text: Course Agenda
     menu:

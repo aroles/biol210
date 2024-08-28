@@ -33,18 +33,18 @@ Office: Science Center A134
 Email: <aroles@oberlin.edu>
 
 ### Drop-In Student Hours
-MWF 10-11am, or email for appointment.
+MWF 10:30-11:30am, or email for appointment.
 
 Student Hours are times that I have set aside specifically to meet with students. I will be in my office and available – you can just stop by and give the door a knock! You can drop in by yourself or bring friends; you may have specific questions or just want to say hi – any reason is good enough. If you aren't available during these intervals, I'm happy to find another time that works -- just email me with some times you are available. 
 
 ### QUAIL Peer Support
-Micaela Tahta Dadourian (she/her)
+Micaela Tahta Dadourian (any)
 
 Email: <mtahtada@oberlin.edu>
 
-Regular help sessions: 
+[Link to Info on QUAIL Sessions](https://drive.google.com/drive/folders/1yKEEn8zpCMV7nXUnngNCCFMkezXpUCv4?usp=drive_link)
 
-Micaela will assist in class each day as well as offer out-of-class support. She will host a regular help session and be available by email.
+Micaela will assist in class each day as well as offer out-of-class support. She will host a periodic help sessions and be available by email.
 
 ## Lecture Class Meetings
 MWF 9:00-9:50 am in SCTR A155
@@ -77,7 +77,9 @@ This course adopts a flipped classroom style for all lecture meetings and uses c
 ## Reference Material and Textbooks
 
 * There are no required textbooks for this course. You are welcome to use your Biology 100 textbook as a reference; the current Biology 100 text is available on reserve in the Science Library. Suggested readings will be available throughout the course via provided PDFs or web links.
-* All materials will be shared via the website and using Google Drive. You must be logged into to Google using your Oberlin account to access shared materials on Google Drive. Lab related materials will be shared on the BIOL 211 website.
+
+* All materials will be shared via the website and using Google Drive. You must be logged into Google using your Oberlin account to access shared materials on Google Drive. Lab related materials will be shared on the BIOL 211 website.
+
 * The open-source text [Biology 2e](https://openstax.org/details/books/biology-2e) is recommended for many topics when you may wish more information or a different presentation than given in the content videos.
 
 ## Honor Code
@@ -86,7 +88,7 @@ You are expected to adhere to and sign the Honor Code:
 
 1. On exams and quizzes, affirming the work is your own, without giving or receiving aid;
 2. On problem sets, affirming that the work is your own and, when appropriate, that you have cited references accurately;
-3. For group work, all group members contributed to all parts of the assignment in a meaningful way.
+3. For all reflection assignments and the individual mastery project.
 
 Your instructors are required to report any suspected violations of the Honor Code to the Honor Committee. Independent of any deliberations of the Honor Committee, in this course suspected violations of the Honor Code may result in amendment of the grade contract to a D or F if appropriate. More information on the Oberlin Honor Code may be found here: https://www.oberlin.edu/dean-of-students/student-conduct/academic-integrity.
 
@@ -113,7 +115,7 @@ Read the following contract requirements carefully before filling out the Grade 
 If you have questions about the contract process, email or visit Angie to discuss.
 
 ### General Overview and Expectations
-In this course, you will determine your final grade based on the amount of work that you complete to a satisfactory level (as determined by the instructor). All passing grades will be expected to complete a baseline amount of work while higher grades will require additional work to be completed to satisfactory (thus, a higher level of mastery). Letter or number grades will not be assigned for any assignments. Instead, when work is returned to you it will be marked either "Satisfactory" or "Revise". Any work marked Satisfactory needs no more attention from you. Work marked Revise requires that you address the comments provided by the instructor and attempt to correct issues in the assignment, turning in a revised version of the assignment within one week. If that revision is sufficient, it will be returned as Satisfactory; if not, additional revisions may be needed or perhaps a meeting with the instructor. More than 1 revision requires a one-on-one meeting with the instructor before submitting the revision. At the end of the semester, you and I will determine your final grade depending on how many of each assignment you completed to Satisfactory.
+In this course, you will determine your final grade based on the amount of work that you complete to a satisfactory level (as determined by the instructor). All passing grades will be expected to complete a baseline amount of work while higher grades will require additional work to be completed to satisfactory (thus, a higher level of mastery). Letter or number grades will not be assigned for any assignments. Instead, when work is returned to you it will be marked either "Satisfactory" or "Revise". Any work marked Satisfactory needs no more attention from you. Work marked Revise requires that you address the comments provided by the instructor and attempt to correct issues in the assignment, turning in a revised version of the assignment within one week. If that revision is sufficient, it will be returned as Satisfactory; if not, additional revisions may be needed or perhaps a meeting with the instructor. More than 1 revision requires a one-on-one meeting with the instructor before submitting the revision. At the end of the semester, you and I will determine your final grade depending on how many of each assignment you completed to Satisfactory. Requested revisions that are not completed can count for partial credit.
 
 In addition to the above, you will be responsible for determining due dates for some assignments for this course (primarily exams). Generally, you must turn in quizzes or problem sets within 2 weeks of the due date though exceptions can be arranged individually with the instructor. Late assignments may carry consequences for you or impact your final grade.
 
@@ -121,7 +123,7 @@ I am choosing to use contract grading in order to provide you ownership over you
 
 Here is a breakdown of the work expected to be Satisfactory in order to achieve a grade of B. Applying +/- to the grades will be decided by you and I at the end of the term and can be used to adjust for discrepancies from the guidelines below (such as work turned in but not revised as requested). Grades of D and F are reserved for cases in which there is a systematic failure to meet contractual obligations.
 
-To complete the work required for a B, expectations are that you will spend at least 11 hours per week on this course.
+To complete the work required for a B, expectations are that you will spend at least 10 hours per week on this course.
 
 **Table of expectations**
 <table>
@@ -134,22 +136,22 @@ To complete the work required for a B, expectations are that you will spend at l
 <tr><td>Final Reflection (1)</td><td>1</td></tr>
 </table>
 
-Earning an A will require all of the work for a B plus completion of 1 additional project, exploring a course topic or topics in greater depth. Thus, an A represents a greater demonstration of mastery of course material than does a B. <text style="background-color:yellow">**Project goals and plan must be set by Oct 11 and completed by Dec 6.**</text>
+Earning an A will require all of the work for a B plus completion of 1 individual Mastery Project, exploring a course topic or topics in greater depth. Thus, an A represents a greater demonstration of mastery of course material than does a B. <text style="background-color:yellow">**Project goals and plan must be set by Oct 11 and completed by Dec 6.**</text>
 
 Earning a C will occur when work required for a B is not completed to Satisfactory or in a timely fashion (repeatedly late). Grades of D or F represent a breakdown of the contract.
 
 ### Assignment Descriptions and Guidelines
 
-#### (1) Class attendance and participation
+#### Class attendance and participation
 Class attendance is expected. Absences arranged in advance, with Angie’s agreement, and for which work is made up do not count against the allowed number of missed class periods.
 
-#### (2) Quizzes (weekly) – Due Saturdays by end of day.
+#### Quizzes (weekly) – Due Saturdays by end of day.
 A set of content videos is assigned for each week (videos less than 20m each), providing the content that you are learning in a lecture format. Live class meetings will focus on particular aspects of the content and explore them in greater depth via case studies. Weekly quizzes (about 10-20 multiple choice or true/false questions) practice the understanding you are learning in the videos and lecture meetings. You will receive your score on these quizzes immediately upon completion. **For any questions for which you did not achieve full credit, you will submit revisions explaining why you got the question wrong and how you know the correct answer is correct.** You are encouraged to ask Angie when you are not sure why an answer is considered correct or incorrect! Quizzes are due Saturdays and revisions are due one week after you complete the quiz.
 
-#### (3) Problem Sets (weekly) – Due Saturdays by end of day.
+#### Problem Sets (weekly) – Due Saturdays by end of day.
 In order to practice your understanding of the content video material and in-class materials, you will complete a weekly problem set focused on that week’s material. Optional supplemental readings will also be provided in most cases. You may use any source of information that you desire to complete these problem sets, including working with other students in the course (such as your assigned group). Once completed, you will check your answers against the key provided by Angie. For any incorrect responses, you will endeavor to correct them and provide a written explanation of what you think led you astray. **You will submit your responses and your corrections as a single document. If you had correct responses for all the questions, you will still be sure to reply to the reflection question on the submission form in order to achieve a Satisfactory assignment.** Revisions are not be requested for problem sets: all assignments that fit the above criteria are accepted as Satisfactory (you must respond to the reflection question on the submission form). Problem sets are due Saturdays by the end of the day.
 
-#### (4) Short-answer Exams (4 exams) – You choose due dates.
+#### Short-answer Exams (4 exams) – You choose due dates.
 In order to bring together your learning in live lecture meetings, during lab periods, and from the content videos, there will be 4 short-answer exams. These exams will be open-note, open-book, and untimed but designed to require 50 minutes to complete (if studied for). This means you may use any materials supplied by Angie to complete the exam but you should not discuss the exam with anyone other than Angie. There will be no time limit on completion of the exam and all exams will be available as of the first day of class. You am responsible for scheduling when you will take each exam. For responses that are not Satisfactory, Angie will give you feedback and you will revise your response(s) until achieving Satisfactory. I suggest you choose due dates no earlier than the following to ensure all material is covered in class before you work on the exam:
 
 * <text style="background-color:yellow">**Exam 1 after Sep 27**</text>
@@ -157,7 +159,7 @@ In order to bring together your learning in live lecture meetings, during lab pe
 * <text style="background-color:yellow">**Exam 3 after Nov 22**</text>
 * <text style="background-color:yellow">**Exam 4 must be after Dec 11 and before 4pm Dec 16**</text>
 
-#### (5) Self-reflections (mid-semester and final) - You choose due dates.
+#### Self-reflections (mid-semester and final) - You choose due dates.
 One important skill you will practice in this class is self-assessment, the idea that you develop your own standards for your work rather than merely hoping that your work meets someone else’s standards. To that end, it’s important that you engage in a process of self-reflection. It is only by examining how things have gone and comparing that to how you might like them to have gone, that you can plan for making adjustments in the future. <text style="background-color:yellow">**For this course, you will undertake one self-reflection in the middle of the semester (by Oct 11) and a second at the end of the term (by Dec 16).**</text> For each, you will complete and submit the provided form before attending a short meeting scheduled with Angie to discuss your responses.
 
 #### Independent Mastery Project (for an A)
