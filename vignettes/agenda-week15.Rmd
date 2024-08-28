@@ -24,7 +24,7 @@ pkgdown:
 
 # Assignments
 
-[Quiz 14](404.html)
+[Quiz 14](https://docs.google.com/forms/d/e/1FAIpQLSeeMx2DJL6hopi_OKirtelc6cExaqrhDR1hILCLpPFqkEfobw/viewform?usp=sf_link)
 
 [Problem Set 14](ps14.html)
 

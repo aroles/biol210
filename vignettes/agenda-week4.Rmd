@@ -25,7 +25,7 @@ pkgdown:
 
 # Assignments
 
-[Quiz 4](404.html)
+[Quiz 4](https://docs.google.com/forms/d/e/1FAIpQLSeBVYqOZ5Sk0CQkfxOqEj7_5bSjNN691eyE4f-34f41pWbaeQ/viewform?usp=sf_link)
 
 [Problem Set 4](ps4.html)
 

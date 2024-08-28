@@ -20,7 +20,7 @@ pkgdown:
 
 The first [problem set is available](ps1.html) and you may want to start it before Sep 4. You will also want to watch the week 1 content videos (see [agenda week 1](agenda-week1.html)).
 
-Problem Set 1 and Quiz 1 are due Saturday Sep 7 (end of day). However, it's beneficial for you to watch the content videos and begin the assignments before the week of class.
+[Problem Set 1](ps1.html) and [Quiz 1](https://docs.google.com/forms/d/e/1FAIpQLSclHEk-m9EhZvut1CZE3PJMxdoBZuJkcr-QTfRjAFbJAB4t5A/viewform?usp=sf_link) are due Saturday Sep 7 (end of day). However, it's beneficial for you to watch the content videos and begin the assignments before the week of class.
 
 # Class Meetings
 

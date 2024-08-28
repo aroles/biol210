@@ -25,7 +25,7 @@ pkgdown:
 
 # Assignments
 
-[Quiz 3](404.html)
+[Quiz 3](https://docs.google.com/forms/d/e/1FAIpQLSe1c7Kkf5UqH1QIzTxqHBlKg8oEZ75AH84ccSO_qiUPBsbKMA/viewform?usp=sf_link)
 
 [Problem Set 3](ps3.html)
 

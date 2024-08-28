@@ -31,9 +31,9 @@ navbar:
     - text: Exams
       href: articles/exams.html
     - text: Midterm Reflection
-      href: midtermReflection.html
+      href: articles/midtermReflection.html
     - text: Final Reflection
-      href: finalReflection.html
+      href: articles/finalReflection.html
     - text: QUAIL session info
       href: https://drive.google.com/drive/folders/1yKEEn8zpCMV7nXUnngNCCFMkezXpUCv4?usp=drive_link
     - text: BIOL 211 Lab

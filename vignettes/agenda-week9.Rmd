@@ -26,7 +26,7 @@ pkgdown:
 
 # Assignments
 
-[Quiz 8](404.html)
+[Quiz 8](https://docs.google.com/forms/d/e/1FAIpQLSex43fzpiJ9AkVFMBerrgbnmkuwhAzIPZgEgWY8yljhbb4v4Q/viewform?usp=sf_link)
 
 [Problem Set 8](ps8.html)
 

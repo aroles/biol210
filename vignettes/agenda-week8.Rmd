@@ -1,6 +1,6 @@
 ---
 title: "BIOL 210 Course Agenda"
-date: "Week 0, Aug 30"
+date: "Week 8, Oct 21-25"
 output: 
   html_document:
     toc: TRUE
