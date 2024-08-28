@@ -168,25 +168,23 @@ To earn an A in this class, you must complete all the B-level work plus an extra
 
 ## Expected Weekly Schedule
 
-<table>
-<tr><th>Week</th><th>Dates</th><th>Topics</th></tr>
-<tr><td>0</td><td>Aug 30</td><td>Course Introduction</td></tr>
-<tr><td>1</td><td>Sep 04-06</td><td>Biodiversity, Phylogenies, Cells</td></tr>
-<tr><td>2</td><td>Sep 09-13</td><td>Eukarya, Genomes, Eukaryotic genomes</td></tr>
-<tr><td>3</td><td>Sep 16-20</td><td>Mitosis, Meiosis, Life cycles</td></tr>
-<tr><td>4</td><td>Sep 23-27</td><td>Genes, Transcription, RNA processing</td></tr>
-<tr><td>5</td><td>Sep 30-Oct 04</td><td>Translation, Sex determination, Inheritance & segregation</td></tr>
-<tr><td>6</td><td>Oct 07-11</td><td>Dominance, Independent assortment, Linkage</td></tr>
-<tr><td>7</td><td>Oct 14-18</td><td>Hardy Weinberg, Detecting evolution, Genetic variation</td></tr>
-<tr><td>8</td><td>Oct 19-27</td><td>*Fall Break*</td></tr>
-<tr><td>9</td><td>Oct 28-Nov 01</td><td>Mutation, Gene flow, Genetic drift</td></tr>
-<tr><td>10</td><td>Nov 04-08</td><td>Nonrandom mating, Selection, Heritability</td></tr>
-<tr><td>11</td><td>Nov 11-15</td><td>Speciation, Population ecology, Life history</td></tr>
-<tr><td>12</td><td>Nov 18-22</td><td>Behavior, Learning, Genetics of behavior</td></tr>
-<tr><td>13</td><td>Nov 25-27</td><td>Interspecific interactions, Competition</td></tr>
-<tr><td>14</td><td>Dec 02-06</td><td>Community structure, Ecological succession, Energy flow</td></tr>
-<tr><td>15</td><td>Dec 09-11</td><td>Biodiversity patterns, Nutrient cycling</td></tr>
-<tr><td></td><td>Dec 12-15</td><td>Reading Period</td></tr>
-#<tr><td></td><td>Dec 16-20</td><td>Finals Period</td></tr>
-<tr><td></td><td>Dec 16, 2-4pm</td><td>Final Exam slot</td></tr>
-</table>
+| Week | Dates | Topics |
+| :--- | :----- | :------------------ |
+| 0 | Aug 30 | Course Introduction |
+| 1 | Sep 4-6 | Biodiversity, Phylogenies, Cells |
+| 2 | Sep 9-13 | Eukarya, Genomes, Eukaryotic genomes |
+| 3 | Sep 16-20 | Mitosis, Meiosis, Life cycles |
+| 4 | Sep 23-27 | Genes, Transcription, RNA processing |
+| 5 | Sep 30-Oct 4 | Translation, Sex determination, Inheritance and segregation |
+| 6 | Oct 7-11 | Dominance, Independent assortment, Linkage |
+| 7 | Oct 14-18 | Hardy Weinberg, Detecting evolution, Genetic variation |
+| 8 | Oct 19-27 | Fall Break |
+| 9 | Oct 28-Nov 1 | Mutation, Gene flow, Genetic drift |
+| 10 | Nov 4-8 | Nonrandom mating, Selection, Heritability |
+| 11 | Nov 11-15 | Speciation, Population Ecology, Life History |
+| 12 | Novv 18-22 | Behavior, Learning, Genetics of behavior |
+| 13 | Nov 25-27 | Interspecific interactions, Competition |
+| 14 | Dec 2-6 | Community structure, Ecological succession, Energy flow |
+| 15 | Dec 9-11 | Biodiversity patterns, Nutrient cycling |
+| - | Dec 12-15 | Reading Period |
+| - | Dec 16, 2pm | Final Exam slot |
