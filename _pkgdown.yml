@@ -2,6 +2,8 @@ url: https://aroles.github.io/biol210/
 template:
   bootstrap: 5
   bootswatch: zephyr
+  bslib: 
+      pkgdown-nav-height: 100px
 home:
   links:
   - text: Biology 211 Website
@@ -12,8 +14,6 @@ home:
     href: https://catalog.oberlin.edu/preview_program.php?catoid=49&poid=8753
   - text: Oberlin Biology Major Guidebook
     href: https://www.oberlin.edu/sites/default/files/content/arts-and-sciences/departments/biology/documents/guidebook_biology.majors_2023.2024.pdf
-  params:
-    bootswatch: sandstone
 navbar:
   left:
   - icon: fa-home fa-lg
