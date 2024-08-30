@@ -1,6 +1,7 @@
 url: https://aroles.github.io/biol210/
 template:
   bootstrap: 5
+  bootswatch: zephyr
 home:
   links:
   - text: Biology 211 Website
