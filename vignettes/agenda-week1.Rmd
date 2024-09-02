@@ -37,6 +37,21 @@ pkgdown:
 
 Materials presented in class are available in the [Slides and handouts folder](https://drive.google.com/drive/folders/17Fm-yEXqtlvGJfFaw6WqywIScW_eZ8m_?usp=drive_link).
 
+### Groups for first month
+
+For the first month, these will be your assigned groups. **You should sit at a table with these folks each day that class meets.**
+
+* <b>Coleoptera:</b> Amelia, Rhys, Wooldjina, Zoë
+* <b>Arachnida:</b> Anadi, Dut, Julian, Riley
+* <b>Hemiptera:</b> Audrey, Maeve, Meaghan, Samantha
+* <b>Myriapoda:</b> Colten, Holly, Meena, Sean
+* <b>Hymenoptera:</b> Hieu, Maria, Olivia, Savannah
+* <b>Lepidoptera:</b> Fay, Mia, Miles, William
+* <b>Diptera:</b> Julia, Maddy, Ryan, Tyler
+* <b>Odonata:</b> Angel, Isla, Jyothi, Malak
+* <b>Ephemeroptera:</b> Charlie, Grayson, Sophie
+* <b>Orthoptera:</b> Clara, Katie, Owen
+
 ## Wed Sep 4
 
 Cover case study "A tale of three lice" (about phylogenetic trees and their uses).
