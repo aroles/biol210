@@ -58,5 +58,5 @@ Cover case study "A tale of three lice" (about phylogenetic trees and their uses
 
 ## Fri Sep 6
 
-Begin UPGMA tree-building exercise with data from greenhouse plants.
+Finish case study "A tale of three lice".
 

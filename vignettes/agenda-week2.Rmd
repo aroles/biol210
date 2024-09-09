@@ -14,7 +14,7 @@ pkgdown:
 
 # Reminders
 
-* TBA
+* Biology Welcome Event, Thu 9/12, 4:30-6pm, SCTR Bowl. Enjoy donuts and cider, chat with profs and other bio-interested students.
 
 # Content Videos
 
@@ -36,14 +36,15 @@ Materials presented in class are available in the [Slides and handouts folder](h
 
 ## Mon Sep 9
 
-Finish UPGMA tree-building exercise from last week.
+Begin UPGMA tree-building exercise.
 
 ## Wed Sep 11
 
-Begin case study on Tasmanian Devils and DFTD.
+Finish UPGMA tree-building exercise.
+
 
 ## Fri Sep 13
 
-Finish case study of DFTD.
+Case study of Tasmanian Devils and DFTD.
 
 

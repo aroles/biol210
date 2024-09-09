@@ -23,6 +23,8 @@ navbar:
     - text: '----------------'
     - text: Syllabus PDF
       href: articles/sheets/sci_articles/BIOL210_Syllabus_Fall2024_Roles.pdf
+    - text: Grade Contract Form
+      href: https://docs.google.com/forms/d/e/1FAIpQLScJdD7yO7pAEkugUMRwGvSrYl5syahIyh271SzR2fy_mscIfA/viewform?usp=sf_link
     - text: Content Videos
       href: https://drive.google.com/drive/folders/1JYUwk8A0mCn_FV1q5LrELnBwP6ofVQwF?usp=drive_link
     - text: Problem Sets

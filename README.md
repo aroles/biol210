@@ -110,7 +110,7 @@ Angie is available for individual consultation during student hours or by appoin
 
 In this course, we use a form of contract grading, a method of assessment in which you complete a contract laying out the work you must complete to a satisfactory level in order to earn a specific letter grade.
 
-Read the following contract requirements carefully before filling out the Grade Contract form to complete your contract. <text style="background-color:yellow">**Contracts are due by Fri Sep 6.**</text>
+Read the following contract requirements carefully before filling out the [Grade Contract form](https://docs.google.com/forms/d/e/1FAIpQLScJdD7yO7pAEkugUMRwGvSrYl5syahIyh271SzR2fy_mscIfA/viewform?usp=sf_link) to complete your contract. <text style="background-color:yellow">**Contracts are due by Fri Sep 6.**</text>
 
 If you have questions about the contract process, email or visit Angie to discuss.
 
