@@ -46,7 +46,6 @@ Usually these readings will be optional for learning more about the topics we're
 <ol type="a">
 <li> fruit fly</li>
 <li> whale shark</li>
-<li> fruit fly</li>
 <li> Venus flytrap</li>
 <li> magic mushrooms </li>
 </ol>
