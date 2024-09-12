@@ -40,11 +40,11 @@ Begin UPGMA tree-building exercise.
 
 ## Wed Sep 11
 
-Finish UPGMA tree-building exercise.
+Continue UPGMA tree-building exercise.
 
 
 ## Fri Sep 13
 
-Case study of Tasmanian Devils and DFTD.
+Finish UPGMA tree-building!
 
 
