@@ -23,6 +23,8 @@ pkgdown:
 
 * GYP-NEXTGEN paid summer research internship in Spain: https://www.jcu.edu/ires (Contact Mike Moore for more info); applications due Nov 1.
 
+* Oberlin Public Health Society (OPHS) along with the Student Leadership and Involvement Office is hosting a University Hospitals CPR training session on Tuesday September 24th from 5-8pm in Wilder Main Lounge. Sign-up link is [here](https://www.signupgenius.com/go/10C0944AEA628A1FBC25-51493315-uhcprtraining#/) and the deadline to sign up is on Friday September 20th. There's a limit of 27 spots. 
+
 # Content Videos
 
 * [07-Mitosis and Binary Fission](https://drive.google.com/drive/folders/1TD2Kl1w4XfPaTKH-Rr4jARDMGWi5Oo9J?usp=drive_link)
