@@ -33,15 +33,15 @@ pkgdown:
 
 ## Mon Sep 23
 
-Begin case study on alternative splicing.
+Begin komodo dragon case study
 
 ## Wed Sep 25
 
-Finish case study on alternative splicing.
+Continue komodo dragon case study.
 
 ## Fri Sep 27
 
-TBD - Molecular phylogenetics exercise?
+Finish komodo dragon case study
 <br>
 
 ------------------------------------------------------------------------
