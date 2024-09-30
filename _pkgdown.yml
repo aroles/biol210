@@ -27,6 +27,8 @@ navbar:
       href: https://docs.google.com/forms/d/e/1FAIpQLScJdD7yO7pAEkugUMRwGvSrYl5syahIyh271SzR2fy_mscIfA/viewform?usp=sf_link
     - text: Content Videos
       href: https://drive.google.com/drive/folders/1JYUwk8A0mCn_FV1q5LrELnBwP6ofVQwF?usp=drive_link
+    - text: In-class slides and handouts
+      href: https://drive.google.com/drive/folders/17Fm-yEXqtlvGJfFaw6WqywIScW_eZ8m_?usp=drive_link
     - text: Problem Sets
       href: articles/problemsets.html
     - text: Quizzes
