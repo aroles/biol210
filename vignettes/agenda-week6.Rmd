@@ -13,7 +13,12 @@ pkgdown:
 ---
 # Reminders
 
-* something...
+* [Midterm Reflection](https://docs.google.com/document/d/1Vvhn4R1gUjuunrFFWENReMvucvyaIbzeEJFK0aUpw4M/edit?usp=drive_link) is available. Please make a copy of the doc for you to edit. Be sure to submit the doc before making an appointment with Angie to discuss.
+    * See my [gcal booking page](https://calendar.app.google/bUMHFsUwBxesE8Kn6) to make an appointment.
+* Exam 1 is available (see dropdown menu for Course Materials). Make a copy for you to edit.
+* [Link to in-class slides and handouts](https://drive.google.com/drive/folders/17Fm-yEXqtlvGJfFaw6WqywIScW_eZ8m_?usp=drive_link)
+* Greenhouse Study Break! Tue 10/15, 11am-1pm, at the greenhouse, roof of the Science Center (stairs by north-west door to Woodland St). Sponsored by Bio Majors Committee
+* Interested in Bio at Oberlin? Check out Major Committee's Linktree: https://linktr.ee/oberlinbiology
 
 # Content Videos
 
@@ -33,7 +38,7 @@ pkgdown:
 
 ## Mon Oct 7
 
-Finish/more inheritance problems.
+Finish case study on sex testing of female athletes.
 
 ## Wed Oct 9
 
@@ -41,7 +46,7 @@ Begin case study on methemoglobinemia.
 
 ## Fri Oct 11
 
-Finish case study.
+Finish case study on methemoglobinemia.
 
 <br>
 
