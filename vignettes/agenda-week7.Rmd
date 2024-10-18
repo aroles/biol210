@@ -13,7 +13,11 @@ pkgdown:
 ---
 # Reminders
 
-* something...
+* Next week is fall break so this week's PS and Quiz are due Sat Oct 26.
+* If you take a quiz on Fri 10/18, the revision is due Fri 11/1, we just skip the week of break.
+* Exam 2 material finishes this week -- remember to check your exam due date!
+* [Link to in-class slides and handouts](https://drive.google.com/drive/folders/17Fm-yEXqtlvGJfFaw6WqywIScW_eZ8m_?usp=drive_link)
+
 
 # Content Videos
 
