@@ -34,15 +34,16 @@ pkgdown:
 
 ## Mon Nov 4
 
-Begin case study on selection and oldfield mice.
+Finish case study on mutation and tuberculosis resistance.
 
 ## Wed Nov 6
 
-Finish case study.
+Begin case study on selection and oldfield mice.
 
 ## Fri Nov 8
 
-Do population genetics exercise with elephants.
+Finish case study.
+
 
 <br>
 

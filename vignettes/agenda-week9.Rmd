@@ -36,15 +36,15 @@ pkgdown:
 
 ## Mon Oct 28
 
-Begin case study on mutation and tuberculosis resistance.
+Continue problems with Hardy-Weinberg model.
 
 ## Wed Oct 30
 
-Finish case study on mutation and tuberculosis resistance.
+Finish problems with Hardy-Weinberg model.
 
 ## Fri Nov 1
 
-TBD
+Begin case study on mutation and tuberculosis resistance.
 <br>
 
 ------------------------------------------------------------------------
