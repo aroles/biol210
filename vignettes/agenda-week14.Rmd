@@ -14,6 +14,8 @@ pkgdown:
 
 # Reminders
 
+* Mastery project is due Sun 12/8 by end of day.
+
 * [Link to in-class slides and handouts](https://drive.google.com/drive/folders/17Fm-yEXqtlvGJfFaw6WqywIScW_eZ8m_?usp=drive_link)
 
 * All regular semester work should be completed by end-of-day on Wed 12/11.
