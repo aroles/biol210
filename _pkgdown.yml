@@ -6,8 +6,8 @@ template:
       pkgdown-nav-height: 100px
 home:
   links:
-  - text: Biology 211 Website
-    href: https://aroles.github.io/biol211/
+  # - text: Biology 211 Website
+  #   href: https://aroles.github.io/biol211/
   - text: Oberlin Biology Department
     href: https://www.oberlin.edu/arts-and-sciences/departments/biology
   - text: Oberlin Biology Major Overview
