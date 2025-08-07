@@ -1,6 +1,6 @@
 ---
 title: "BIOL 210 Course Agenda"
-date: "Week 6, Oct 7-11"
+date: "Week 6, Sep 29-Oct 3"
 output: 
   html_document:
     toc: TRUE
@@ -17,8 +17,6 @@ pkgdown:
     * See my [gcal booking page](https://calendar.app.google/bUMHFsUwBxesE8Kn6) to make an appointment.
 * Exam 1 is available (see dropdown menu for Course Materials). Make a copy for you to edit.
 * [Link to in-class slides and handouts](https://drive.google.com/drive/folders/17Fm-yEXqtlvGJfFaw6WqywIScW_eZ8m_?usp=drive_link)
-* Greenhouse Study Break! Tue 10/15, 11am-1pm, at the greenhouse, roof of the Science Center (stairs by north-west door to Woodland St). Sponsored by Bio Majors Committee
-* Interested in Bio at Oberlin? Check out Major Committee's Linktree: https://linktr.ee/oberlinbiology
 
 # Content Videos
 
@@ -36,18 +34,17 @@ pkgdown:
 
 # Class Meetings
 
-## Mon Oct 7
+## Mon Sep 29
 
-Finish case study on sex testing of female athletes.
+Case study on alternative splicing.
 
-## Wed Oct 9
+## Wed Oct 1
 
-Begin case study on methemoglobinemia.
+Begin case study of sex testing of female athletes.
 
-## Fri Oct 11
+## Fri Oct 3
 
-Finish case study on methemoglobinemia.
-
+Finish case study.
 <br>
 
 ------------------------------------------------------------------------

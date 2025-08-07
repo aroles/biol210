@@ -1,6 +1,6 @@
 ---
 title: "BIOL 210 Course Agenda"
-date: "Week 9, Oct 28-Nov 1"
+date: "Week 9, Oct 27-31"
 output: 
   html_document:
     toc: TRUE
@@ -20,29 +20,29 @@ pkgdown:
 
 # Content Videos
 
-* [22-Mutation](https://drive.google.com/drive/folders/1y7C8hpHev8ZOQKz9FEz9Y94z1Z_d6e6i?usp=drive_link)
+* [25-Nonrandom mating](https://drive.google.com/drive/folders/1yAMeqDLfKyyy2EN0ISzwUJCYjFUuCWfS?usp=drive_link)
 
-* [23-Gene flow](https://drive.google.com/drive/folders/1y8WU6b_MGTWYLZMbeIgJk_IaWRYFtRVP?usp=drive_link)
+* [26-Natural selection](https://drive.google.com/drive/folders/1yF_c17_TmT6H7cTYzmSMpSgmhq9K-8Er?usp=drive_link)
 
-* [24-Genetic drift](https://drive.google.com/drive/folders/1y9EuxzUNNCt0Dle-hwZofwlKfyd2mpRU?usp=drive_link)
+* [27-Heritability](https://drive.google.com/drive/folders/1yIpYqPx2neqqaZHJ19YQyElG9H-s63kH?usp=drive_link)
 
 # Assignments
 
-[Quiz 8](https://docs.google.com/forms/d/e/1FAIpQLSex43fzpiJ9AkVFMBerrgbnmkuwhAzIPZgEgWY8yljhbb4v4Q/viewform?usp=sf_link)
+[Quiz 9](https://docs.google.com/forms/d/e/1FAIpQLSfp1d9YnZaSSVDMj2SUnVVR_UHNP7zEDQ_wcDhLRYyXWtMTXw/viewform?usp=sf_link)
 
-[Problem Set 8](ps8.html)
+[Problem Set 9](ps9.html)
 
 # Class Meetings
 
-## Mon Oct 28
+## Mon Oct 27
 
 Continue problems with Hardy-Weinberg model.
 
-## Wed Oct 30
+## Wed Oct 29
 
 Finish problems with Hardy-Weinberg model.
 
-## Fri Nov 1
+## Fri Oct 31
 
 Begin case study on mutation and tuberculosis resistance.
 <br>

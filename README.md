@@ -175,9 +175,9 @@ To earn an A in this class, you must complete all the B-level work plus an extra
 | 9 | Oct 27-31 | Nonrandom mating, Selection, Heritability |
 | 10 | Nov 3-7 | Speciation, Population Ecology, Life History |
 | 11 | Nov 10-14 | Behavior, Learning, Genetics of behavior |
-| 12 | Nov 17-21 | Interspecific interactions, Competition |
-| 13 | Nov 26-28 | Thanksgiving |
-| 14 | Dec 1-5 | Community structure, Ecological succession, Energy flow |
-| 15 | Dec 8-10 | Biodiversity patterns, Nutrient cycling |
+| 12 | Nov 17-24 | Interspecific interactions, Competition |
+| | Nov 26-28 | Thanksgiving |
+| 13 | Dec 1-5 | Community structure, Ecological succession, Energy flow |
+| 14 | Dec 8-10 | Biodiversity patterns, Nutrient cycling |
 | - | Dec 12-15 | Reading Period |
 | - | Dec 16, 2pm | Final Exam slot |

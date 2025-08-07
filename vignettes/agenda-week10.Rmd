@@ -1,6 +1,6 @@
 ---
 title: "BIOL 210 Course Agenda"
-date: "Week 10, Nov 4-8"
+date: "Week 10, Nov 3-7"
 output: 
   html_document:
     toc: TRUE
@@ -18,29 +18,29 @@ pkgdown:
 
 # Content Videos
 
-* [25-Nonrandom mating](https://drive.google.com/drive/folders/1yAMeqDLfKyyy2EN0ISzwUJCYjFUuCWfS?usp=drive_link)
+* [28-Speciation](https://drive.google.com/drive/folders/1yJUnjnl7Bu8TINEYUvU6xeHLmUEyVjul?usp=drive_link)
 
-* [26-Natural selection](https://drive.google.com/drive/folders/1yF_c17_TmT6H7cTYzmSMpSgmhq9K-8Er?usp=drive_link)
+* [29-Population ecology](https://drive.google.com/drive/folders/1yLBey1NKFad6GZz7uX3QROpyiPI-ywC0?usp=drive_link)
 
-* [27-Heritability](https://drive.google.com/drive/folders/1yIpYqPx2neqqaZHJ19YQyElG9H-s63kH?usp=drive_link)
+* [30-Life history](https://drive.google.com/drive/folders/1yQFlYw4q84Ok8NijGkZUnMXSYuOSTHqR?usp=drive_link)
 
 # Assignments
 
-[Quiz 9](https://docs.google.com/forms/d/e/1FAIpQLSfp1d9YnZaSSVDMj2SUnVVR_UHNP7zEDQ_wcDhLRYyXWtMTXw/viewform?usp=sf_link)
+[Quiz 10](https://docs.google.com/forms/d/e/1FAIpQLScDyfJ9tm_FiCAtqjrvvldM6wafu48rRhwZC8qD8VQSCICp1w/viewform?usp=sf_link)
 
-[Problem Set 9](ps9.html)
+[Problem Set 10](ps10.html)
 
 # Class Meetings
 
-## Mon Nov 4
+## Mon Nov 3
 
 Finish case study on mutation and tuberculosis resistance.
 
-## Wed Nov 6
+## Wed Nov 5
 
 Begin case study on selection and oldfield mice.
 
-## Fri Nov 8
+## Fri Nov 7
 
 Finish case study.
 

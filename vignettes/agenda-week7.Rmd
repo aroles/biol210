@@ -1,6 +1,6 @@
 ---
 title: "BIOL 210 Course Agenda"
-date: "Week 7, Oct 14-18"
+date: "Week 7, Oct 6-10"
 output: 
   html_document:
     toc: TRUE
@@ -13,11 +13,12 @@ pkgdown:
 ---
 # Reminders
 
-* Next week is fall break so this week's PS and Quiz are due Sat Oct 26.
-* If you take a quiz on Fri 10/18, the revision is due Fri 11/1, we just skip the week of break.
-* Exam 2 material finishes this week -- remember to check your exam due date!
+* [Midterm Reflection](https://docs.google.com/document/d/1Vvhn4R1gUjuunrFFWENReMvucvyaIbzeEJFK0aUpw4M/edit?usp=drive_link) is available. Please make a copy of the doc for you to edit. Be sure to submit the doc before making an appointment with Angie to discuss.
+    * See my [gcal booking page](https://calendar.app.google/bUMHFsUwBxesE8Kn6) to make an appointment.
+* Exam 1 is available (see dropdown menu for Course Materials). Make a copy for you to edit.
 * [Link to in-class slides and handouts](https://drive.google.com/drive/folders/17Fm-yEXqtlvGJfFaw6WqywIScW_eZ8m_?usp=drive_link)
-
+* Greenhouse Study Break! Tue 10/15, 11am-1pm, at the greenhouse, roof of the Science Center (stairs by north-west door to Woodland St). Sponsored by Bio Majors Committee
+* Interested in Bio at Oberlin? Check out Major Committee's Linktree: https://linktr.ee/oberlinbiology
 
 # Content Videos
 
@@ -35,17 +36,18 @@ pkgdown:
 
 # Class Meetings
 
-## Mon Oct 14
+## Mon Oct 6
 
-Begin case study on GWAS.
+Finish case study on sex testing of female athletes.
 
-## Wed Oct 16
+## Wed Oct 8
 
-Finish case study on GWAS.
+Begin case study on methemoglobinemia.
 
-## Fri Oct 18
+## Fri Oct 10
 
-TBD -- molecular phylogenetics?
+Finish case study on methemoglobinemia.
+
 <br>
 
 ------------------------------------------------------------------------

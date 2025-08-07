@@ -1,6 +1,6 @@
 ---
 title: "BIOL 210 Course Agenda"
-date: "Week 14, Dec 2-6"
+date: "Week 14, Dec 8-10"
 output: 
   html_document:
     toc: TRUE
@@ -14,8 +14,6 @@ pkgdown:
 
 # Reminders
 
-* Mastery project is due Sun 12/8 by end of day.
-
 * [Link to in-class slides and handouts](https://drive.google.com/drive/folders/17Fm-yEXqtlvGJfFaw6WqywIScW_eZ8m_?usp=drive_link)
 
 * All regular semester work should be completed by end-of-day on Wed 12/11.
@@ -24,35 +22,29 @@ pkgdown:
 
 * [Set up a reflection meeting with Angie.](https://calendar.app.google/4pvCXX1hu8CCpEeHA) This meeting must be completed between Dec 12 and 15. If none of the available times works for you, please email Angie directly.
 
-* [Final Exam 4](https://docs.google.com/document/d/1g5xNaFgDjosCiYs94WgUOx2e1TLm5BsCIJZLHHa-4uc/edit?usp=drive_link) must be completed by 4pm on 12/16.
+* [Final Exam 3](https://docs.google.com/document/d/1g5xNaFgDjosCiYs94WgUOx2e1TLm5BsCIJZLHHa-4uc/edit?usp=drive_link) must be completed by 4pm on 12/16.
 
 # Content Videos
 
-* [36-Community structure](https://drive.google.com/drive/folders/1ybQ88SfnQc1fUHeUuw3n1XkoZxdJA72o?usp=drive_link)
+* [39-Biodiversity patterns](https://drive.google.com/drive/folders/1yk1bSIUVvq_bd5oAvv5VhSX_NzsThVC-?usp=drive_link)
 
-* [37-Ecological succession](https://drive.google.com/drive/folders/1yh9qCO88jMr__S8DLK3CrT08woxTr0xG?usp=drive_link)
-
-* [38-Energy flow](https://drive.google.com/drive/folders/1yjiYffYh4xKMQbIa7744cHF5epkcV5W9?usp=drive_link)
+* [40-Nutrient cycling](https://drive.google.com/drive/folders/1ypO3LersGapwi0DxzmVHffZUQEjHmd_-?usp=drive_link)
 
 # Assignments
 
-[Quiz 13](https://docs.google.com/forms/d/e/1FAIpQLSfqCi4R8v0RqjRI2nNgjfLm2oHn8ofbmZF7v6Fp1m_GABdmlA/viewform?usp=sf_link)
+[Quiz 14](https://docs.google.com/forms/d/e/1FAIpQLSeeMx2DJL6hopi_OKirtelc6cExaqrhDR1hILCLpPFqkEfobw/viewform?usp=sf_link)
 
-[Problem Set 13](ps13.html)
+[Problem Set 14](ps14.html)
 
 # Class Meetings
 
-## Mon Dec 2
+## Mon Dec 8
 
-Begin case study on food webs.
+Case study on spotted knapweed invasive species
 
-## Wed Dec 4
+## Wed Dec 10
 
-Finish case study on food webs.
-
-## Fri Dec 6
-
-Begin case study on algal blooms.
+Work on Final Reflections & complete Student Experience of Teaching.
 
 <br>
 

@@ -39,10 +39,8 @@ navbar:
       href: https://docs.google.com/document/d/1Vvhn4R1gUjuunrFFWENReMvucvyaIbzeEJFK0aUpw4M/edit?usp=drive_link
     - text: Final Reflection
       href: https://docs.google.com/document/d/1uDd48QS5ZeWfpClWL5Fbe-xXCigzw97MK6KX58WEbtg/edit?usp=drive_link
-    - text: QUAIL session info
-      href: https://drive.google.com/drive/folders/1yKEEn8zpCMV7nXUnngNCCFMkezXpUCv4?usp=drive_link
-    - text: BIOL 211 Lab
-      href: https://aroles.github.io/biol211/
+    # - text: BIOL 211 Lab
+    #   href: https://aroles.github.io/biol211/
     - text: Student Folders
       href: https://drive.google.com/drive/folders/1QmV9ipj560BxzW37AS_NAuRU9uN_waEt?usp=drive_link
     - text: Check Progress Spreadsheet
@@ -51,42 +49,45 @@ navbar:
   - text: Course Agenda
     menu:
     - text: '----------------'
-    - text: Week 0, Aug 30
+    - text: Week 1, Aug 27-29
       href: articles/agenda-week0.html
-    - text: Week 1, Sep 4-6
+    - text: Week 2, Sep 3-5
       href: articles/agenda-week1.html
-    - text: Week 2, Sep 9-13
+    - text: Week 3, Sep 8-12
       href: articles/agenda-week2.html
-    - text: Week 3, Sep 16-20
+    - text: Week 4, Sep 15-19
       href: articles/agenda-week3.html
-    - text: Week 4, Sep 23-27
+    - text: Week 5, Sep 22-26
       href: articles/agenda-week4.html
-    - text: Week 5, Sep 30-Oct 4
+    - text: Week 6, Sep 29-Oct 3
       href: articles/agenda-week5.html
-    - text: Week 6, Oct 7-11
+    - text: Week 7, Oct 6-10
       href: articles/agenda-week6.html
-    - text: Week 7, Oct 14-18
+    - text: Week 8, Oct 13-17
       href: articles/agenda-week7.html
     - text: '----------------'
-    - text: Week 8, Oct 21-25 - Fall Break
+    - text: Oct 20-24 - Fall Break
     - text: '----------------'
-    - text: Week 9, Oct 28-Nov 1
+    - text: Week 9, Oct 27-31
       href: articles/agenda-week9.html
-    - text: Week 10, Nov 4-8
+    - text: Week 10, Nov 3-7
       href: articles/agenda-week10.html
-    - text: Week 11, Nov 11-15
+    - text: Week 11, Nov 10-14
       href: articles/agenda-week11.html
-    - text: Week 12, Nov 18-22
+    - text: Week 12, Nov 17-24
       href: articles/agenda-week12.html
-    - text: Week 13, Nov 25-27
+    - text: '----------------'
+    - text: Nov 26-28 - Thanksgiving Break
+    - text: '----------------'
+    - text: Week 13, Dec 1-5
       href: articles/agenda-week13.html
-    - text: Week 14, Dec 2-6
+    - text: Week 14, Dec 8-10
       href: articles/agenda-week14.html
-    - text: Week 15, Dec 9-11
-      href: articles/agenda-week15.html
+    # - text: Week 15, Dec 9-11
+    #   href: articles/agenda-week15.html
     - text: '----------------'
   - text: Assignment Turn In
     href: https://docs.google.com/forms/d/e/1FAIpQLScJMEW72xvMW2KMuCenetBqUhi-AXqvbI5okDjlbV6hEdkIsQ/viewform?usp=sf_link
   right:
-    - text: BIOL 210 Fall 2024 Syllabus PDF
+    - text: BIOL 210 Fall 2025 Syllabus PDF
       href: articles/sheets/sci_articles/BIOL210_Syllabus_Fall2024_Roles.pdf

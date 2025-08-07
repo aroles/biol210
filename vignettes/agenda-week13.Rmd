@@ -1,6 +1,6 @@
 ---
 title: "BIOL 210 Course Agenda"
-date: "Week 13, Nov 25-27"
+date: "Week 13, Dec 1-5"
 output: 
   html_document:
     toc: TRUE
@@ -19,29 +19,32 @@ pkgdown:
 
 # Content Videos
 
-* [34-Interspecific interactions](https://drive.google.com/drive/folders/1yZ9NZvr-Xff9-Za4LcuwliBC5p6vryJB?usp=drive_link)
+* [36-Community structure](https://drive.google.com/drive/folders/1ybQ88SfnQc1fUHeUuw3n1XkoZxdJA72o?usp=drive_link)
 
-* [35-Competition](https://drive.google.com/drive/folders/1yaAP9waCrgnbLRBYmtN7CPwAyNDx1_U7?usp=drive_link)
+* [37-Ecological succession](https://drive.google.com/drive/folders/1yh9qCO88jMr__S8DLK3CrT08woxTr0xG?usp=drive_link)
+
+* [38-Energy flow](https://drive.google.com/drive/folders/1yjiYffYh4xKMQbIa7744cHF5epkcV5W9?usp=drive_link)
 
 # Assignments
 
-[Quiz 12](https://docs.google.com/forms/d/e/1FAIpQLSeAiVE22MJMSz7bLKy8jqcZD0eSz2uHoJO5W3AUuES-MV9aJQ/viewform?usp=sf_link)
+[Quiz 13](https://docs.google.com/forms/d/e/1FAIpQLSfqCi4R8v0RqjRI2nNgjfLm2oHn8ofbmZF7v6Fp1m_GABdmlA/viewform?usp=sf_link)
 
-[Problem Set 12](ps12.html)
+[Problem Set 13](ps13.html)
 
 # Class Meetings
 
-## Mon Nov 25
+## Mon Dec 1
 
 Begin case study on mycorrhizae and interactions.
 
-## Wed Nov 27
+## Wed Dec 3
 
 Finish case study.
 
-## Fri Nov 29 -- Thanksgiving Break
+## Fri Dec 5 
 
-No class for break.
+TBD
+
 <br>
 
 ------------------------------------------------------------------------

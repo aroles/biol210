@@ -1,6 +1,6 @@
 ---
 title: "BIOL 210 Course Agenda"
-date: "Week 8, Oct 21-25"
+date: "Week 8, Oct 13-17"
 output: 
   html_document:
     toc: TRUE
@@ -13,4 +13,39 @@ pkgdown:
 ---
 # Reminders
 
-This week is Fall Break, no class meetings or assignments are due.
+* Next week is fall break so this week's PS and Quiz are due Sat Oct 26.
+* If you take a quiz on Fri 10/18, the revision is due Fri 11/1, we just skip the week of break.
+* Exam 2 material finishes this week -- remember to check your exam due date!
+* [Link to in-class slides and handouts](https://drive.google.com/drive/folders/17Fm-yEXqtlvGJfFaw6WqywIScW_eZ8m_?usp=drive_link)
+
+
+# Content Videos
+
+* [22-Mutation](https://drive.google.com/drive/folders/1y7C8hpHev8ZOQKz9FEz9Y94z1Z_d6e6i?usp=drive_link)
+
+* [23-Gene flow](https://drive.google.com/drive/folders/1y8WU6b_MGTWYLZMbeIgJk_IaWRYFtRVP?usp=drive_link)
+
+* [24-Genetic drift](https://drive.google.com/drive/folders/1y9EuxzUNNCt0Dle-hwZofwlKfyd2mpRU?usp=drive_link)
+
+# Assignments
+
+[Quiz 8](https://docs.google.com/forms/d/e/1FAIpQLSex43fzpiJ9AkVFMBerrgbnmkuwhAzIPZgEgWY8yljhbb4v4Q/viewform?usp=sf_link)
+
+[Problem Set 8](ps8.html)
+
+# Class Meetings
+
+## Mon Oct 13
+
+Begin case study on GWAS.
+
+## Wed Oct 15
+
+Finish case study on GWAS.
+
+## Fri Oct 17
+
+TBD -- molecular phylogenetics?
+<br>
+
+------------------------------------------------------------------------

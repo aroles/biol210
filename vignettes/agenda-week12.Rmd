@@ -1,6 +1,6 @@
 ---
 title: "BIOL 210 Course Agenda"
-date: "Week 12, Nov 18-22"
+date: "Week 12, Nov 17-24"
 output: 
   html_document:
     toc: TRUE
@@ -19,30 +19,32 @@ pkgdown:
 
 # Content Videos
 
-* [31-Behavior](https://drive.google.com/drive/folders/1yRWAfJVfDEalk7Fva43soyIqrw7gMCTv?usp=drive_link)
+* [34-Interspecific interactions](https://drive.google.com/drive/folders/1yZ9NZvr-Xff9-Za4LcuwliBC5p6vryJB?usp=drive_link)
 
-* [32-Learning](https://drive.google.com/drive/folders/1yWF8c_eNaCuVEYLx1tUnMCQ28k_zyiR7?usp=drive_link)
-
-* [33-Genetics of behavior](https://drive.google.com/drive/folders/1yZ5AqPPyYVdMFwmJAJl_ak7Trm5W9tJL?usp=drive_link)
+* [35-Competition](https://drive.google.com/drive/folders/1yaAP9waCrgnbLRBYmtN7CPwAyNDx1_U7?usp=drive_link)
 
 
 # Assignments
 
-[Quiz 11](https://docs.google.com/forms/d/e/1FAIpQLSeRQFX6rspY9Z_MHYpADqDYgQzyEzxiGY1HJNvR2dUwOGeYDA/viewform?usp=sf_link)
+[Quiz 12](https://docs.google.com/forms/d/e/1FAIpQLSeAiVE22MJMSz7bLKy8jqcZD0eSz2uHoJO5W3AUuES-MV9aJQ/viewform?usp=sf_link)
 
-[Problem Set 11](ps11.html)
+[Problem Set 12](ps12.html)
 
 # Class Meetings
 
-## Mon Nov 18
+## Mon Nov 17
 
 Begin case study on marten population ecology.
 
-## Wed Nov 20
+## Wed Nov 19
 
 Finish case study on marten population ecology.
 
-## Fri Nov 22
+## Fri Nov 21
+
+TBD
+
+## Mon Nov 24
 
 TBD
 

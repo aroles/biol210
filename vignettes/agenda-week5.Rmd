@@ -1,6 +1,6 @@
 ---
 title: "BIOL 210 Course Agenda"
-date: "Week 5, Sep 30-Oct 4"
+date: "Week 5, Sep 22-26"
 output: 
   html_document:
     toc: TRUE
@@ -13,10 +13,8 @@ pkgdown:
 ---
 # Reminders
 
-* [Midterm Reflection](https://docs.google.com/document/d/1Vvhn4R1gUjuunrFFWENReMvucvyaIbzeEJFK0aUpw4M/edit?usp=drive_link) is available. Please make a copy of the doc for you to edit. Be sure to submit the doc before making an appointment with Angie to discuss.
-    * See my [gcal booking page](https://calendar.app.google/bUMHFsUwBxesE8Kn6) to make an appointment.
-* Exam 1 is available (see dropdown menu for Course Materials). Make a copy for you to edit.
 * [Link to in-class slides and handouts](https://drive.google.com/drive/folders/17Fm-yEXqtlvGJfFaw6WqywIScW_eZ8m_?usp=drive_link)
+
 
 # Content Videos
 
@@ -34,17 +32,17 @@ pkgdown:
 
 # Class Meetings
 
-## Mon Sep 30
+## Mon Sep 22
 
-Case study on alternative splicing.
+Begin komodo dragon case study
 
-## Wed Oct 2
+## Wed Sep 24
 
-Begin case study of sex testing of female athletes.
+Continue komodo dragon case study.
 
-## Fri Oct 4
+## Fri Sep 26
 
-Finish case study.
+Finish komodo dragon case study
 <br>
 
 ------------------------------------------------------------------------

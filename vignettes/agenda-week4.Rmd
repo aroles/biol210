@@ -1,6 +1,6 @@
 ---
 title: "BIOL 210 Course Agenda"
-date: "Week 4, Sep 23-27"
+date: "Week 4, Sep 15-29"
 output: 
   html_document:
     toc: TRUE
@@ -11,8 +11,11 @@ output:
 pkgdown:
   as_is: true
 ---
-# Reminders
+# Reminders & Events
 
+* Remember to do prob sets, quizzes, and revisions!
+* Check your progress using the link under Course Materials dropdown menu
+* See assignments handed back in the Student Folders link in Course Materials dropdown menu
 * [Link to in-class slides and handouts](https://drive.google.com/drive/folders/17Fm-yEXqtlvGJfFaw6WqywIScW_eZ8m_?usp=drive_link)
 
 
@@ -32,17 +35,16 @@ pkgdown:
 
 # Class Meetings
 
-## Mon Sep 23
+## Mon Sep 15
 
-Begin komodo dragon case study
+* Case study of Tasmanian devils and DFTD.
 
-## Wed Sep 25
+## Wed Sep 17
 
-Continue komodo dragon case study.
+* Finish case study of Tasmanian devils.
+* Begin case study of Sex and Komodo Dragon.
 
-## Fri Sep 27
+## Wed Sep 19
 
-Finish komodo dragon case study
-<br>
-
-------------------------------------------------------------------------
+* Finish case study of Sex & Komodo Dragon
+* Bead exercise to demonstrate meiosis, mitosis.

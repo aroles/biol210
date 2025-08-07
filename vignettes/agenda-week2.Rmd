@@ -1,6 +1,6 @@
 ---
 title: "BIOL 210 Course Agenda"
-date: "Week 2, Sep 9-13"
+date: "Week 2, Sep 3-5"
 output: 
   html_document:
     toc: TRUE
@@ -14,9 +14,9 @@ pkgdown:
 
 # Reminders
 
-* Biology Welcome Event, Thu 9/12, 4:30-6pm, SCTR Bowl. Enjoy donuts and cider, chat with profs and other bio-interested students.
-* [Link to in-class slides and handouts](https://drive.google.com/drive/folders/17Fm-yEXqtlvGJfFaw6WqywIScW_eZ8m_?usp=drive_link)
+* Please complete the [Getting to Know You](https://docs.google.com/forms/d/e/1FAIpQLScaPNVaX_waXgLUrAUYxIhIfUrhzBsRnpT38HXaxLQhJMlkxQ/viewform?usp=sf_link) form by Wed Sep 4.
 
+* Remember to complete your [grade contract](https://docs.google.com/forms/d/e/1FAIpQLScJdD7yO7pAEkugUMRwGvSrYl5syahIyh271SzR2fy_mscIfA/viewform?usp=sf_link) by Fri Sep 6. Submit via the Assignment Turn-in link above.
 
 # Content Videos
 
@@ -32,21 +32,31 @@ pkgdown:
 
 [Problem Set 2](ps2.html)
 
+
 # Class Meetings
 
 Materials presented in class are available in the [Slides and handouts folder](https://drive.google.com/drive/folders/17Fm-yEXqtlvGJfFaw6WqywIScW_eZ8m_?usp=drive_link).
 
-## Mon Sep 9
+### Groups for first month
 
-Begin UPGMA tree-building exercise.
+For the first month, these will be your assigned groups. **You should sit at a table with these folks each day that class meets.**
 
-## Wed Sep 11
+* <b>Coleoptera:</b> Amelia, Rhys, Wooldjina, Zoë
+* <b>Arachnida:</b> Anadi, Dut, Julian, Riley
+* <b>Hemiptera:</b> Audrey, Maeve, Meaghan, Samantha
+* <b>Myriapoda:</b> Colten, Holly, Meena, Sean
+* <b>Hymenoptera:</b> Hieu, Maria, Olivia, Savannah
+* <b>Lepidoptera:</b> Fay, Mia, Miles, William
+* <b>Diptera:</b> Julia, Maddy, Ryan, Tyler
+* <b>Odonata:</b> Angel, Isla, Jyothi, Malak
+* <b>Ephemeroptera:</b> Charlie, Grayson, Sophie
+* <b>Orthoptera:</b> Clara, Katie, Owen
 
-Continue UPGMA tree-building exercise.
+## Wed Sep 3
 
+Cover case study "A tale of three lice" (about phylogenetic trees and their uses).
 
-## Fri Sep 13
+## Fri Sep 5
 
-Finish UPGMA tree-building!
-
+Finish case study "A tale of three lice".
 

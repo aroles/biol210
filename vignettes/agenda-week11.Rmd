@@ -1,6 +1,6 @@
 ---
 title: "BIOL 210 Course Agenda"
-date: "Week 11, Nov 11-15"
+date: "Week 11, Nov 10-14"
 output: 
   html_document:
     toc: TRUE
@@ -19,30 +19,30 @@ pkgdown:
 
 # Content Videos
 
-* [28-Speciation](https://drive.google.com/drive/folders/1yJUnjnl7Bu8TINEYUvU6xeHLmUEyVjul?usp=drive_link)
+* [31-Behavior](https://drive.google.com/drive/folders/1yRWAfJVfDEalk7Fva43soyIqrw7gMCTv?usp=drive_link)
 
-* [29-Population ecology](https://drive.google.com/drive/folders/1yLBey1NKFad6GZz7uX3QROpyiPI-ywC0?usp=drive_link)
+* [32-Learning](https://drive.google.com/drive/folders/1yWF8c_eNaCuVEYLx1tUnMCQ28k_zyiR7?usp=drive_link)
 
-* [30-Life history](https://drive.google.com/drive/folders/1yQFlYw4q84Ok8NijGkZUnMXSYuOSTHqR?usp=drive_link)
+* [33-Genetics of behavior](https://drive.google.com/drive/folders/1yZ5AqPPyYVdMFwmJAJl_ak7Trm5W9tJL?usp=drive_link)
 
 
 # Assignments
 
-[Quiz 10](https://docs.google.com/forms/d/e/1FAIpQLScDyfJ9tm_FiCAtqjrvvldM6wafu48rRhwZC8qD8VQSCICp1w/viewform?usp=sf_link)
+[Quiz 11](https://docs.google.com/forms/d/e/1FAIpQLSeRQFX6rspY9Z_MHYpADqDYgQzyEzxiGY1HJNvR2dUwOGeYDA/viewform?usp=sf_link)
 
-[Problem Set 10](ps10.html)
+[Problem Set 11](ps11.html)
 
 # Class Meetings
 
-## Mon Nov 11
+## Mon Nov 10
 
 Begin case study on speciation and apple maggot flies.
 
-## Wed Nov 13
+## Wed Nov 12
 
 Finish case study on speciation.
 
-## Fri Nov 15
+## Fri Nov 14
 
 TBD
 

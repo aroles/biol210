@@ -1,6 +1,6 @@
 ---
 title: "BIOL 210 Course Agenda"
-date: "Week 1, Sep 4-6"
+date: "Week 1, Aug 27-29"
 output: 
   html_document:
     toc: TRUE
@@ -14,9 +14,9 @@ pkgdown:
 
 # Reminders
 
-* Please complete the [Getting to Know You](https://docs.google.com/forms/d/e/1FAIpQLScaPNVaX_waXgLUrAUYxIhIfUrhzBsRnpT38HXaxLQhJMlkxQ/viewform?usp=sf_link) form by Wed Sep 4.
+<!-- -   Lab will begin next week, Tue Sep 3 and Wed Sep 4. Lab meets in K119. See the [BIOL 211 Lab website](https://aroles.github.io/biol211/) for more information. -->
 
-* Remember to complete your [grade contract](https://docs.google.com/forms/d/e/1FAIpQLScJdD7yO7pAEkugUMRwGvSrYl5syahIyh271SzR2fy_mscIfA/viewform?usp=sf_link) by Fri Sep 6. Submit via the Assignment Turn-in link above.
+The first [problem set is available](ps1.html) and is due Sat Aug 30. You will also want to watch the week 1 content videos (see [agenda week 1](agenda-week1.html)).
 
 # Content Videos
 
@@ -28,35 +28,22 @@ pkgdown:
 
 # Assignments
 
-[Quiz 1](https://docs.google.com/forms/d/e/1FAIpQLSclHEk-m9EhZvut1CZE3PJMxdoBZuJkcr-QTfRjAFbJAB4t5A/viewform?usp=sf_link)
-
-[Problem Set 1](ps1.html)
-
+[Problem Set 1](ps1.html) and [Quiz 1](https://docs.google.com/forms/d/e/1FAIpQLSclHEk-m9EhZvut1CZE3PJMxdoBZuJkcr-QTfRjAFbJAB4t5A/viewform?usp=sf_link) are due Saturday Aug 30 (end of day). However, it's beneficial for you to watch the content videos and begin the assignments before the week of class.
 
 # Class Meetings
 
-Materials presented in class are available in the [Slides and handouts folder](https://drive.google.com/drive/folders/17Fm-yEXqtlvGJfFaw6WqywIScW_eZ8m_?usp=drive_link).
+## Wednesday Aug 27
 
-### Groups for first month
+-   First day of class -- go over syllabus, teaching philosophy, course expectations.
 
-For the first month, these will be your assigned groups. **You should sit at a table with these folks each day that class meets.**
+-   [Link to slides](https://drive.google.com/drive/folders/17Fm-yEXqtlvGJfFaw6WqywIScW_eZ8m_?usp=drive_link) Requires you to log into your Oberlin account to access.
 
-* <b>Coleoptera:</b> Amelia, Rhys, Wooldjina, Zoë
-* <b>Arachnida:</b> Anadi, Dut, Julian, Riley
-* <b>Hemiptera:</b> Audrey, Maeve, Meaghan, Samantha
-* <b>Myriapoda:</b> Colten, Holly, Meena, Sean
-* <b>Hymenoptera:</b> Hieu, Maria, Olivia, Savannah
-* <b>Lepidoptera:</b> Fay, Mia, Miles, William
-* <b>Diptera:</b> Julia, Maddy, Ryan, Tyler
-* <b>Odonata:</b> Angel, Isla, Jyothi, Malak
-* <b>Ephemeroptera:</b> Charlie, Grayson, Sophie
-* <b>Orthoptera:</b> Clara, Katie, Owen
+-   GRADE CONTRACTS: Read this part of the syllabus carefully before filling out the [Grade Contract Form](https://docs.google.com/forms/d/e/1FAIpQLScJdD7yO7pAEkugUMRwGvSrYl5syahIyh271SzR2fy_mscIfA/viewform?usp=sf_link) with your due dates and other info. You are welcome to consult with Angie before submitting your contract. Contracts should be submitted by Wednesday Sept 3rd, end of day.
 
-## Wed Sep 4
+-   Please fill out the [Getting to Know You](https://docs.google.com/forms/d/e/1FAIpQLScaPNVaX_waXgLUrAUYxIhIfUrhzBsRnpT38HXaxLQhJMlkxQ/viewform?usp=sf_link) form before Wed 9/3.
 
-Cover case study "A tale of three lice" (about phylogenetic trees and their uses).
+-   Note: I recommend you watch the videos for next week before Wed 9/3 (see [Week 2 agenda](agenda-week02.html)).
 
-## Fri Sep 6
+## Friday Aug 29
 
-Finish case study "A tale of three lice".
 

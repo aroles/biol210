@@ -6,14 +6,12 @@ articles:
   02_biol_211_invert_eco: 02_biol_211_invert_eco.html
   03_biol_211_invert_methods: 03_biol_211_invert_methods.html
   04_biol_211_data_hygiene: 04_biol_211_data_hygiene.html
-  agenda-week0: agenda-week0.html
   agenda-week1: agenda-week1.html
   agenda-week10: agenda-week10.html
   agenda-week11: agenda-week11.html
   agenda-week12: agenda-week12.html
   agenda-week13: agenda-week13.html
   agenda-week14: agenda-week14.html
-  agenda-week15: agenda-week15.html
   agenda-week2: agenda-week2.html
   agenda-week3: agenda-week3.html
   agenda-week4: agenda-week4.html
@@ -56,7 +54,7 @@ articles:
   ps9: ps9.html
   ps9key: ps9key.html
   quizzes: quizzes.html
-last_built: 2025-08-07T19:54Z
+last_built: 2025-08-07T20:39Z
 urls:
   reference: https://aroles.github.io/biol210/reference
   article: https://aroles.github.io/biol210/articles
