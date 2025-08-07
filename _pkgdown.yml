@@ -50,21 +50,21 @@ navbar:
     menu:
     - text: '----------------'
     - text: Week 1, Aug 27-29
-      href: articles/agenda-week0.html
-    - text: Week 2, Sep 3-5
       href: articles/agenda-week1.html
-    - text: Week 3, Sep 8-12
+    - text: Week 2, Sep 3-5
       href: articles/agenda-week2.html
-    - text: Week 4, Sep 15-19
+    - text: Week 3, Sep 8-12
       href: articles/agenda-week3.html
-    - text: Week 5, Sep 22-26
+    - text: Week 4, Sep 15-19
       href: articles/agenda-week4.html
-    - text: Week 6, Sep 29-Oct 3
+    - text: Week 5, Sep 22-26
       href: articles/agenda-week5.html
-    - text: Week 7, Oct 6-10
+    - text: Week 6, Sep 29-Oct 3
       href: articles/agenda-week6.html
-    - text: Week 8, Oct 13-17
+    - text: Week 7, Oct 6-10
       href: articles/agenda-week7.html
+    - text: Week 8, Oct 13-17
+      href: articles/agenda-week8.html
     - text: '----------------'
     - text: Oct 20-24 - Fall Break
     - text: '----------------'
@@ -83,8 +83,6 @@ navbar:
       href: articles/agenda-week13.html
     - text: Week 14, Dec 8-10
       href: articles/agenda-week14.html
-    # - text: Week 15, Dec 9-11
-    #   href: articles/agenda-week15.html
     - text: '----------------'
   - text: Assignment Turn In
     href: https://docs.google.com/forms/d/e/1FAIpQLScJMEW72xvMW2KMuCenetBqUhi-AXqvbI5okDjlbV6hEdkIsQ/viewform?usp=sf_link
