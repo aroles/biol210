@@ -33,12 +33,12 @@ Office: Science Center A134
 Email: <aroles@oberlin.edu>
 
 ### Drop-In Student Hours
-MTW 2:00-3:00pm, or email for appointment. [Sign up for student hours here.](https://calendar.app.google/QpTarPNUDy71jZ948)
+MTW 2:00-3:30pm, or email for appointment. [Sign up for student hours here.](https://calendar.app.google/QpTarPNUDy71jZ948)
 
 Student Hours are times that I have set aside specifically to meet with students. I will be in my office and available – you can sign up for a slot on my gcal or just stop by and give the door a knock! You can drop in by yourself or bring friends; you may have specific questions or just want to say hi – any reason is good enough. If you aren't available during these intervals, I'm happy to find another time that works -- just email me with some times you are available. 
 
 ## Lecture Class Meetings
-MWF 9:00-9:50 am in SCTR A155
+MWF 9:00-9:50 am in King 123.
 
 Enrollment in both 210 lecture and 211 lab are required of all students. All lab sections meet 1:30-4:20 pm in SCTR K119. More information will be provided in your first meeting of BIOL 211.
 
@@ -140,7 +140,9 @@ Class attendance is expected. Up to 6 absences, for any reason, are allowed with
 #### Quizzes (weekly) – Due Fridays by end of class.
 A set of content videos is assigned for each week (videos less than 20m each), providing the content that you are learning in a lecture format. Live class meetings will focus on particular aspects of the content and explore them in greater depth via case studies. Weekly quizzes (about 10-20 multiple choice or true/false questions) practice the understanding you are learning in the videos and lecture meetings.
 
-Quizzes will be completed on Fridays with your assigned team. You will receive your score on these quizzes immediately upon completion. **For any questions for which you did not achieve full credit, you will submit revisions explaining why you got the question wrong and how you know the correct answer is correct.** Only 1 submission of a revision is required per team. You are encouraged to ask Angie when you are not sure why an answer is considered correct or incorrect! While revisions are due 1 week after quiz completion, you are encouraged to submit them before the end of the class period.
+Quizzes must be completed before class on Fridays. In class, assigned teams will work together on completing revisions for any quiz questions that you got wrong. **For any questions for which you did not achieve full credit, you will submit revisions explaining why you got the question wrong and how you know the correct answer is correct.** You are encouraged to ask Angie when you are not sure why an answer is considered correct or incorrect! While revisions are due 1 week after quiz completion, you are encouraged to submit them before the end of the class period.
+
+If you miss class on Friday, you will be responsible for completing quiz corrections on your own, due a week from when you took the quiz.
 
 #### Problem Sets (weekly) – Due Saturdays by end of day.
 In order to practice your understanding of the content video material and in-class materials, you will complete a weekly problem set focused on that week’s material. Optional supplemental readings will also be provided in most cases. You may use any source of information that you desire to complete these problem sets, including working with other students in the course (such as your assigned group). Once completed, you will check your answers against the key provided by Angie. For any incorrect responses, you will endeavor to correct them and provide a written explanation of what you think led you astray. **You will submit your responses and your corrections as a single document. If you had correct responses for all the questions, you will still be sure to reply to the reflection question on the submission form in order to achieve a Satisfactory assignment.** Revisions are not be requested for problem sets: all assignments that fit the above criteria are accepted as Satisfactory (you must respond to the reflection question on the submission form). Problem sets are due Saturdays by the end of the day.

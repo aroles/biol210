@@ -14,9 +14,15 @@ pkgdown:
 
 # Reminders
 
+* Please complete the [Getting to Know You](https://docs.google.com/forms/d/e/1FAIpQLScaPNVaX_waXgLUrAUYxIhIfUrhzBsRnpT38HXaxLQhJMlkxQ/viewform?usp=sf_link) form by Sat Aug 30.
+
+* Remember to complete your [grade contract](https://docs.google.com/forms/d/e/1FAIpQLScJdD7yO7pAEkugUMRwGvSrYl5syahIyh271SzR2fy_mscIfA/viewform?usp=sf_link) by Wed Sep 4. Submit via the Assignment Turn-in link above.
+
 <!-- -   Lab will begin next week, Tue Sep 3 and Wed Sep 4. Lab meets in K119. See the [BIOL 211 Lab website](https://aroles.github.io/biol211/) for more information. -->
 
-The first [problem set is available](ps1.html) and is due Sat Aug 30. You will also want to watch the week 1 content videos (see [agenda week 1](agenda-week1.html)).
+* **The first [problem set is available](ps1.html) and is due Sat Aug 30. You will also want to watch the week 1 content videos (see [agenda week 1](agenda-week1.html)).**
+
+* **Quiz 1 will be due Fri Sep 5, at the same time as Quiz 2. Teams will work together on revisions in class on 9/5.**
 
 # Content Videos
 
@@ -28,7 +34,9 @@ The first [problem set is available](ps1.html) and is due Sat Aug 30. You will a
 
 # Assignments
 
-[Problem Set 1](ps1.html) and [Quiz 1](https://docs.google.com/forms/d/e/1FAIpQLSclHEk-m9EhZvut1CZE3PJMxdoBZuJkcr-QTfRjAFbJAB4t5A/viewform?usp=sf_link) are due Saturday Aug 30 (end of day). However, it's beneficial for you to watch the content videos and begin the assignments before the week of class.
+[Problem Set 1](ps1.html) is due Sat Aug 30. It is beneficial for you to complete the content videos and begin assignments before the week of class. 
+
+[Quiz 1](https://docs.google.com/forms/d/e/1FAIpQLSclHEk-m9EhZvut1CZE3PJMxdoBZuJkcr-QTfRjAFbJAB4t5A/viewform?usp=sf_link) is due Fri Sep 5 at 9:00am (before class).
 
 # Class Meetings
 
@@ -40,10 +48,10 @@ The first [problem set is available](ps1.html) and is due Sat Aug 30. You will a
 
 -   GRADE CONTRACTS: Read this part of the syllabus carefully before filling out the [Grade Contract Form](https://docs.google.com/forms/d/e/1FAIpQLScJdD7yO7pAEkugUMRwGvSrYl5syahIyh271SzR2fy_mscIfA/viewform?usp=sf_link) with your due dates and other info. You are welcome to consult with Angie before submitting your contract. Contracts should be submitted by Wednesday Sept 3rd, end of day.
 
--   Please fill out the [Getting to Know You](https://docs.google.com/forms/d/e/1FAIpQLScaPNVaX_waXgLUrAUYxIhIfUrhzBsRnpT38HXaxLQhJMlkxQ/viewform?usp=sf_link) form before Wed 9/3.
+-   Please fill out the [Getting to Know You](https://docs.google.com/forms/d/e/1FAIpQLScaPNVaX_waXgLUrAUYxIhIfUrhzBsRnpT38HXaxLQhJMlkxQ/viewform?usp=sf_link) form before Sat 8/30.
 
 -   Note: I recommend you watch the videos for next week before Wed 9/3 (see [Week 2 agenda](agenda-week02.html)).
 
 ## Friday Aug 29
 
-
+Begin case study "A Tale of Three Lice".

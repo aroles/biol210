@@ -14,9 +14,9 @@ pkgdown:
 
 # Reminders
 
-* Please complete the [Getting to Know You](https://docs.google.com/forms/d/e/1FAIpQLScaPNVaX_waXgLUrAUYxIhIfUrhzBsRnpT38HXaxLQhJMlkxQ/viewform?usp=sf_link) form by Wed Sep 4.
+* Please complete the [Getting to Know You](https://docs.google.com/forms/d/e/1FAIpQLScaPNVaX_waXgLUrAUYxIhIfUrhzBsRnpT38HXaxLQhJMlkxQ/viewform?usp=sf_link) form by Sat Aug 30.
 
-* Remember to complete your [grade contract](https://docs.google.com/forms/d/e/1FAIpQLScJdD7yO7pAEkugUMRwGvSrYl5syahIyh271SzR2fy_mscIfA/viewform?usp=sf_link) by Fri Sep 6. Submit via the Assignment Turn-in link above.
+* Remember to complete your [grade contract](https://docs.google.com/forms/d/e/1FAIpQLScJdD7yO7pAEkugUMRwGvSrYl5syahIyh271SzR2fy_mscIfA/viewform?usp=sf_link) by Wed Sep 3. Submit via the Assignment Turn-in link above.
 
 # Content Videos
 
@@ -39,24 +39,27 @@ Materials presented in class are available in the [Slides and handouts folder](h
 
 ### Groups for first month
 
-For the first month, these will be your assigned groups. **You should sit at a table with these folks each day that class meets.**
+For the first month, these will be your assigned groups. **You should sit at a table with these folks each day that class meets.** Note: This year's team theme is carnivores of North America.
 
-* <b>Coleoptera:</b> Amelia, Rhys, Wooldjina, Zoë
-* <b>Arachnida:</b> Anadi, Dut, Julian, Riley
-* <b>Hemiptera:</b> Audrey, Maeve, Meaghan, Samantha
-* <b>Myriapoda:</b> Colten, Holly, Meena, Sean
-* <b>Hymenoptera:</b> Hieu, Maria, Olivia, Savannah
-* <b>Lepidoptera:</b> Fay, Mia, Miles, William
-* <b>Diptera:</b> Julia, Maddy, Ryan, Tyler
-* <b>Odonata:</b> Angel, Isla, Jyothi, Malak
-* <b>Ephemeroptera:</b> Charlie, Grayson, Sophie
-* <b>Orthoptera:</b> Clara, Katie, Owen
+* <b>Foxes:</b> 
+* <b>Bears:</b> 
+* <b>Badgers:</b> 
+* <b>Bobcats:</b> 
+* <b>Lynx:</b> 
+* <b>Cougars:</b> 
+* <b>Wolves:</b> 
+* <b>Martens:</b> 
+* <b>Weasels:</b> 
+* <b>Coyotes:</b> 
+* <b>Otters:</b>
+* <b>Wolverines:</b>
+
 
 ## Wed Sep 3
 
-Cover case study "A tale of three lice" (about phylogenetic trees and their uses).
+Finish case study "A tale of three lice" (about phylogenetic trees and their uses).
 
 ## Fri Sep 5
 
-Finish case study "A tale of three lice".
+In teams, complete quizzes 1 and 2 plus corrections. 
 
