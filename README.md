@@ -107,9 +107,9 @@ Read the following contract requirements carefully before filling out the [Grade
 If you have questions about the contract process, email or visit Angie to discuss.
 
 ### General Overview and Expectations
-In this course, you will determine your final grade based on the amount of work that you complete to a satisfactory level (as determined by the instructor). All passing grades will be expected to complete a baseline amount of work while higher grades will require additional work to be completed to satisfactory (thus, a higher level of mastery). Letter or number grades will not be assigned for any assignments. Instead, when work is returned to you it will be marked either "Satisfactory" or "Revise". Any work marked Satisfactory needs no more attention from you. Work marked Revise requires that you address the comments provided by the instructor and attempt to correct issues in the assignment, turning in a revised version of the assignment within one week. If that revision is sufficient, it will be returned as Satisfactory; if not, additional revisions may be needed or perhaps a meeting with the instructor. More than 1 revision requires a one-on-one meeting with the instructor before submitting the revision. At the end of the semester, you and I will determine your final grade depending on how many of each assignment you completed to Satisfactory. Requested revisions that are not completed can count for partial credit.
+In this course, you will determine your final grade based on the amount of work that you complete to a satisfactory level (as determined by the instructor). All passing grades will be expected to complete a baseline amount of work while higher grades will require additional work to be completed to satisfactory (thus, a higher level of mastery). Letter or number grades will not be assigned for any assignments. Instead, when work is returned to you it will be marked either "Satisfactory" or "Revise". Any work marked Satisfactory needs no more attention from you. Work marked Revise requires that you address the comments provided by the instructor and attempt to correct issues in the assignment, turning in a revised version of the assignment within one week. If that revision is sufficient, it will be returned as Satisfactory; if not, additional revisions may be needed or perhaps a meeting with the instructor. More than 1 revision requires a one-on-one meeting with the instructor before submitting the revision. At the end of the semester, you and I will determine your final grade depending on how many of each assignment you completed to Satisfactory. Requested revisions that are not completed can count for partial credit. In addition to the above, you will be responsible for determining due dates for some assignments for this course (primarily exams). 
 
-In addition to the above, you will be responsible for determining due dates for some assignments for this course (primarily exams). **Late Work:** Generally, you must turn in quizzes or problem sets within 2 weeks of the due date though exceptions can be arranged individually with the instructor. A pattern of late work may result in a reduction in the final grade (for example, from a B+ to a B or B-).
+**Late Work:** Generally, you must turn in quizzes or problem sets within 2 weeks of the due date though exceptions can be arranged individually with the instructor. A pattern of late work may result in a reduction in the final grade (for example, from a B+ to a B or B-).
 
 I am choosing to use contract grading in order to provide you ownership over your grade and to enable you to focus more on what you are actually trying to learn. As a further benefit, contract grading helps you to develop and practice valuable life skills such as time management and the ability to assess the quality of your own work. Grades do not follow you into jobs after college (unless you do more schooling!), so it’s important to learn to assess yourself.
 
@@ -150,8 +150,8 @@ In order to practice your understanding of the content video material and in-cla
 #### Short-answer Exams (3 exams) – You choose due dates.
 In order to bring together your learning in live lecture meetings, during lab periods, and from the content videos, there will be 4 short-answer exams. These exams will be open-note, open-book, and untimed but designed to require 50 minutes to complete (if studied for). This means you may use any materials supplied by Angie to complete the exam but you should not discuss the exam with anyone other than Angie. There will be no time limit on completion of the exam and all exams will be available as of the first day of class. You am responsible for scheduling when you will take each exam. For responses that are not Satisfactory, Angie will give you feedback and you will revise your response(s) until achieving Satisfactory. I suggest you choose due dates no earlier than the following to ensure all material is covered in class before you work on the exam:
 
-* <text style="background-color:yellow">**Exam 1 after Oct 3**</text>
-* <text style="background-color:yellow">**Exam 2 after Nov 7**</text>
+* <text style="background-color:yellow">**Exam 1 after Oct 3 and before Oct 18**</text>
+* <text style="background-color:yellow">**Exam 2 after Nov 7 and before Nov 22**</text>
 * <text style="background-color:yellow">**Exam 3 must be after Dec 10 and before 4pm Dec 16**</text>
 
 #### Self-reflections (mid-semester and final) - You choose due dates.
@@ -173,12 +173,12 @@ To earn an A in this class, you must complete all the B-level work plus an extra
 | 6 | Sep 29-Oct 3 | Dominance, Independent assortment, Linkage |
 | 7 | Oct 6-10 | Hardy Weinberg, Detecting evolution, Genetic variation |
 | 8 | Oct 13-17 | Mutation, Gene flow, Genetic drift |
-|  | Oct 20-24 | Fall Break |
+| - | Oct 20-24 | Fall Break |
 | 9 | Oct 27-31 | Nonrandom mating, Selection, Heritability |
 | 10 | Nov 3-7 | Speciation, Population Ecology, Life History |
 | 11 | Nov 10-14 | Behavior, Learning, Genetics of behavior |
 | 12 | Nov 17-24 | Interspecific interactions, Competition |
-| | Nov 26-28 | Thanksgiving |
+| - | Nov 26-28 | Thanksgiving |
 | 13 | Dec 1-5 | Community structure, Ecological succession, Energy flow |
 | 14 | Dec 8-10 | Biodiversity patterns, Nutrient cycling |
 | - | Dec 12-15 | Reading Period |
