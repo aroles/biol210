@@ -1,7 +1,7 @@
 ---
 output:
-  pdf_document: default
   html_document: default
+  pdf_document: default
 ---
 Deployed site: https://aroles.github.io/biol210/
 
@@ -84,6 +84,12 @@ You are expected to adhere to and sign the Honor Code:
 
 Your instructors are required to report any suspected violations of the Honor Code to the Honor Committee. Independent of any deliberations of the Honor Committee, in this course suspected violations of the Honor Code may result in amendment of the grade contract to a D or F if appropriate. More information on the Oberlin Honor Code may be found here: https://www.oberlin.edu/dean-of-students/student-conduct/academic-integrity.
 
+### Use of Artificial Intelligence (AI)
+
+The Oberlin Honor Code charter specifies that using AI in courses is considered cheating when, "Utilizing artificial intelligence software or other related programs to create or assist with assignments on the behalf of a student unless otherwise specified by the faculty member and/or the Office of Disability & Access."
+
+Generally, using AI to complete any assignments in this course is not appropriate. This does not mean you cannot use Google Search to find information! We will discuss the nuances of this in class, considering the potential benefits, pitfalls, and abuses of AI.
+
 ## Resources Offering Support
 
 Angie is available for individual consultation during student hours or by appointment. If you are looking to improve your performance or are struggling in ways new to you but not sure how to proceed, I am happy to discuss and provide suggestions.
@@ -118,15 +124,16 @@ Here is a breakdown of the work expected to be Satisfactory in order to achieve 
 To complete the work required for a B, expectations are that you will spend at least 10 hours per week on this course.
 
 **Table of expectations**
-<table>
-<tr><th>Assignment (max number)</th><th>B contract requirement</th></tr>
-<tr><td>Lecture periods attended (41)</td><td>35</td></tr>
-<tr><td>Problem Sets (14)</td><td>12</td></tr>
-<tr><td>Quizzes (14)</td><td>12</td></tr>
-<tr><td>Exams (3)</td><td>3</td></tr>
-<tr><td>Mid-term Reflection (1)</td><td>1</td></tr>
-<tr><td>Final Reflection (1)</td><td>1</td></tr>
-</table>
+
+| Assignment (max number) | B contract requirement |
+| :--- | :-----: |
+| Lecture periods attended (41) | 35 | 
+| Problem Sets (14) | 12 | 
+| Quizzes (14) | 12 | 
+| Exams (3) | 3 | 
+| Mid-term Reflection (1) | 1 | 
+| Final Reflection (1) | 1 | 
+
 
 Earning an A will require all of the work for a B plus completion of 1 individual Mastery Project, exploring a course topic or topics in greater depth. Thus, an A represents a greater demonstration of mastery of course material than does a B. <text style="background-color:yellow">**Project goals and plan must be set by Oct 10 and completed by Dec 1.**</text>
 
