@@ -18,7 +18,7 @@ pkgdown:
 
 * Remember to complete your [grade contract](https://docs.google.com/forms/d/e/1FAIpQLScJdD7yO7pAEkugUMRwGvSrYl5syahIyh271SzR2fy_mscIfA/viewform?usp=sf_link) by Wed Sep 4. Submit via the Assignment Turn-in link above.
 
-<!-- -   Lab will begin next week, Tue Sep 3 and Wed Sep 4. Lab meets in K119. See the [BIOL 211 Lab website](https://aroles.github.io/biol211/) for more information. -->
+* BIOL 211 Lab will begin next week, Tue Sep 2 and Wed Sep 3. Lab meets in K119. See the [BIOL 211 Lab website](https://aroles.github.io/biol211/) for more information.
 
 * **The first [problem set is available](ps1.html) and is due Sat Aug 30. You will also want to watch the week 1 content videos (see [agenda week 1](agenda-week1.html)).**
 

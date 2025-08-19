@@ -126,7 +126,7 @@ To complete the work required for a B, expectations are that you will spend at l
 **Table of expectations**
 
 | Assignment (max number) | B contract requirement |
-| :--- | :-----: |
+| :--------------------- | :---------------------: |
 | Lecture periods attended (41) | 35 | 
 | Problem Sets (14) | 12 | 
 | Quizzes (14) | 12 | 

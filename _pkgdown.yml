@@ -13,7 +13,7 @@ home:
   - text: Oberlin Biology Major Overview
     href: https://catalog.oberlin.edu/preview_program.php?catoid=49&poid=8753
   - text: Oberlin Biology Major Guidebook
-    href: https://www.oberlin.edu/sites/default/files/content/arts-and-sciences/departments/biology/documents/guidebook_biology.majors_2023.2024.pdf
+    href: articles/sheets/sci_articles/Guidebook_Biology_Majors_2025_2026_final.pdf
 navbar:
   left:
   - icon: fa-home fa-lg
@@ -22,7 +22,7 @@ navbar:
     menu:
     - text: '----------------'
     - text: Syllabus PDF
-      href: articles/sheets/sci_articles/BIOL210_Syllabus_Fall2024_Roles.pdf
+      href: articles/sheets/sci_articles/BIOL210-syllabus-Roles-fall2025.pdf
     - text: Grade Contract Form
       href: https://docs.google.com/forms/d/e/1FAIpQLScJdD7yO7pAEkugUMRwGvSrYl5syahIyh271SzR2fy_mscIfA/viewform?usp=sf_link
     - text: Content Videos
