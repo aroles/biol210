@@ -55,3 +55,20 @@ pkgdown:
 ## Friday Aug 29
 
 Begin case study "A Tale of Three Lice".
+
+### Groups for first month
+
+For the first month, these will be your assigned groups. **You should sit in a cluster with these folks each day that class meets.** Note: This year's first team theme is carnivores of North America.
+
+* <b>Foxes:</b> Grant, Dylan, Cash, Toby
+* <b>Bears:</b> Milo, Bethany, Skylar, Shay
+* <b>Badgers:</b> Aurora, Cleo, Micah, Madeleine
+* <b>Bobcats:</b> Amy, Michael, Kylie, Arianna
+* <b>Lynx:</b> Solomon, Julia, Hailey, Matthew
+* <b>Cougars:</b> Ella, Ava, Gabriel, Danica
+* <b>Wolves:</b> Jeffrey, Lex, Koosh, Nina
+* <b>Martens:</b> Aimee, Oliver, Charlotte, Piers
+* <b>Weasels:</b> Natalie, Maddie, Chase, Bea
+* <b>Coyotes:</b> Devyn, Gabriela, Jarrod, Soomin
+* <b>Otters:</b> Griffin, Sophia, Mana, Liam
+* <b>Wolverines:</b> Amelia, Kristina, Riley, Iris

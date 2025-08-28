@@ -1,9 +1,9 @@
-url: https://aroles.github.io/biol210/
 template:
   bootstrap: 5
   bootswatch: zephyr
   bslib: 
       pkgdown-nav-height: 100px
+url: https://aroles.github.io/biol210/
 home:
   links:
   # - text: Biology 211 Website
