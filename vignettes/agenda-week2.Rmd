@@ -14,9 +14,9 @@ pkgdown:
 
 # Reminders
 
-* Please complete the [Getting to Know You](https://docs.google.com/forms/d/e/1FAIpQLScaPNVaX_waXgLUrAUYxIhIfUrhzBsRnpT38HXaxLQhJMlkxQ/viewform?usp=sf_link) form by Sat Aug 30.
-
 * Remember to complete your [grade contract](https://docs.google.com/forms/d/e/1FAIpQLScJdD7yO7pAEkugUMRwGvSrYl5syahIyh271SzR2fy_mscIfA/viewform?usp=sf_link) by Wed Sep 3. Submit via the Assignment Turn-in link above.
+
+* You can check how you are doing in the class using the Check Progress spreadsheet, linked under Course Materials (last item). Type in your T# and watch your results appear!
 
 # Content Videos
 
@@ -30,7 +30,7 @@ pkgdown:
 
 [Quiz 2](https://docs.google.com/forms/d/e/1FAIpQLSe03PkgqNcCk6QoPhslpzIQAD6EZWHpb6i-PcE7cla5Q9_7Fg/viewform?usp=sf_link): Complete before 9:00am Fri 9/5 so we can go over in our groups during class.
 
-[Problem Set 2](ps2.html)
+[Problem Set 2](ps2.html) is due Saturday.
 
 
 # Class Meetings
@@ -39,17 +39,17 @@ Materials presented in class are available in the [Slides and handouts folder](h
 
 ### Groups for first month
 
-For the first month, these will be your assigned groups. **You should sit at a table with these folks each day that class meets.** Note: This year's first team theme is carnivores of North America.
+For the first month, these will be your assigned groups. **You should sit in a cluster with these folks each day that class meets.** Note: This year's first team theme is carnivores of North America.
 
 * <b>Foxes:</b> Grant, Dylan, Cash, Toby
 * <b>Bears:</b> Milo, Bethany, Skylar, Shay
 * <b>Badgers:</b> Aurora, Cleo, Micah, Madeleine
 * <b>Bobcats:</b> Amy, Michael, Kylie, Arianna
-* <b>Lynx:</b> Solomon, Julia, Hailey, Matthew
+* <b>Lynx:</b> Eleanor, Julia, Hailey, Matthew
 * <b>Cougars:</b> Ella, Ava, Gabriel, Danica
 * <b>Wolves:</b> Jeffrey, Lex, Koosh, Nina
 * <b>Martens:</b> Aimee, Oliver, Charlotte, Piers
-* <b>Weasels:</b> Natalie, Maddie, Chase, Bea
+* <b>Weasels:</b> Natalie, Maddie, Charlie, Bea
 * <b>Coyotes:</b> Devyn, Gabriela, Jarrod, Soomin
 * <b>Otters:</b> Griffin, Sophia, Mana, Liam
 * <b>Wolverines:</b> Amelia, Kristina, Riley, Iris
