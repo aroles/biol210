@@ -16,6 +16,8 @@ pkgdown:
 
 * [Link to in-class slides and handouts](https://drive.google.com/drive/folders/17Fm-yEXqtlvGJfFaw6WqywIScW_eZ8m_?usp=drive_link)
 
+* [Mastery project guidelines](https://docs.google.com/document/d/1IUTTWkps2DtSqaLAJ9bqXMkZg3bKnIn96g-EgX5o1Ag/edit?usp=sharing) are now live!
+
 
 # Content Videos
 
@@ -42,11 +44,13 @@ Begin UPGMA tree-building exercise.
 
 ## Wed Sep 10
 
-Continue UPGMA tree-building exercise.
+Finish UPGMA tree-building exercise.
 
 
 ## Fri Sep 12
 
-Finish UPGMA tree-building!
+Work on chromosomes, meiosis, mitosis.
+
+Quiz 3 revisions with teams.
 
 
