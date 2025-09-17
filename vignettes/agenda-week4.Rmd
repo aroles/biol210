@@ -22,6 +22,15 @@ pkgdown:
 * See assignments handed back in the Student Folders link in Course Materials dropdown menu
 * [Link to in-class slides and handouts](https://drive.google.com/drive/folders/17Fm-yEXqtlvGJfFaw6WqywIScW_eZ8m_?usp=drive_link)
 
+* [Link to Shansi flyer](articles/sheets/sci_articles/Oberlin_Shansi_Fall2025.pdf)
+
+* [Link to NYT article](https://www.nytimes.com/2025/09/15/science/ants-species-babies.html) about ants that use another species' DNA to reproduce
+
+* Upcoming event: "Is Research Right for Me?" hosted by Office of Undergraduate Research. Sept 19, 12:15pm in Moffett Aud. Pizza lunch provided. Use the QR code below to RSVP.
+
+```{r our flyer img, fig.align = 'center', fig.height = 1, fig.width = 2, echo = FALSE, fig.alt="QR code to RSVP for OUR event"}
+knitr::include_graphics(file.path(here::here(), 'man', 'figures', 'OURflyer2025.png'), dpi = 100)
+```
 
 # Content Videos
 
