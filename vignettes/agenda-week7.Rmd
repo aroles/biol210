@@ -13,6 +13,8 @@ pkgdown:
 ---
 # Reminders
 
+* [Mastery project guidelines](https://docs.google.com/document/d/1IUTTWkps2DtSqaLAJ9bqXMkZg3bKnIn96g-EgX5o1Ag/edit?usp=sharing) are now live!
+
 * [Midterm Reflection](https://docs.google.com/document/d/1Vvhn4R1gUjuunrFFWENReMvucvyaIbzeEJFK0aUpw4M/edit?usp=drive_link) is available. Please make a copy of the doc for you to edit. Be sure to submit the doc before making an appointment with Angie to discuss.
     * See my [gcal booking page](https://calendar.app.google/bUMHFsUwBxesE8Kn6) to make an appointment.
 * Exam 1 is available (see dropdown menu for Course Materials). Make a copy for you to edit.
