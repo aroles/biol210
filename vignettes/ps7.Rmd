@@ -25,7 +25,7 @@ Use the link at the top of this page to turn in your completed assignment, inclu
 
 ### Required Readings about human genetic variation
 
-* Jorde, LB and SP Wooding. 2004. [Genetic variation, classification, and ‘race’.](https://www.nature.com/articles/ng1435) Nature Genetics Supplement 36:S28–S33. (6pp)
+* Jorde, LB and SP Wooding. 2004. [Genetic variation, classification, and ‘race’.](sheets/sci_articles/Genetic_variation_classification_and_race-Jorde-2004.pdf) Nature Genetics Supplement 36:S28–S33. (6pp)
 
 * Sankar, P and MK Cho. 2002. [Toward a new vocabulary of human genetic variation.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2271140/) Science 298:1337–1338. (2pp)
 
