@@ -14,7 +14,6 @@ pkgdown:
 
 # Reminders
 
-* Exam 2 is currently open -- check your due date!
 * [Link to in-class slides and handouts](https://drive.google.com/drive/folders/17Fm-yEXqtlvGJfFaw6WqywIScW_eZ8m_?usp=drive_link)
 
 
@@ -36,15 +35,15 @@ pkgdown:
 
 ## Mon Oct 27
 
-Continue problems with Hardy-Weinberg model.
+Begin case study on selection in oldfield mice.
 
 ## Wed Oct 29
 
-Finish problems with Hardy-Weinberg model.
+Finish case study on selection in oldfield mice.
 
 ## Fri Oct 31
 
-Begin case study on mutation and tuberculosis resistance.
+Work on problems related to this week's material; quiz corrections with teams.
 <br>
 
 ------------------------------------------------------------------------

@@ -13,9 +13,8 @@ pkgdown:
 ---
 # Reminders
 
-* Next week is fall break so this week's PS and Quiz are due Sat Oct 26.
-* If you take a quiz on Fri 10/18, the revision is due Fri 11/1, we just skip the week of break.
-* Exam 2 material finishes this week -- remember to check your exam due date!
+* From this point forward, problem sets are due on Sundays (end of day).
+* Next week is fall break so this week's PS is due Sun Oct 26. The Quiz is still due on Friday.
 * [Link to in-class slides and handouts](https://drive.google.com/drive/folders/17Fm-yEXqtlvGJfFaw6WqywIScW_eZ8m_?usp=drive_link)
 
 
@@ -37,15 +36,15 @@ pkgdown:
 
 ## Mon Oct 13
 
-Begin case study on GWAS.
+Begin case study on mutation and tuberculosis (TB).
 
 ## Wed Oct 15
 
-Finish case study on GWAS.
+Continue case study on mutation and TB
 
 ## Fri Oct 17
 
-TBD -- molecular phylogenetics?
+Finish mutation and TB case study, do quiz corrections with teams.
 <br>
 
 ------------------------------------------------------------------------
