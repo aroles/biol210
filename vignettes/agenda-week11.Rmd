@@ -36,15 +36,15 @@ pkgdown:
 
 ## Mon Nov 10
 
-Begin case study on speciation and apple maggot flies.
+Begin case study on marten population ecology.
 
 ## Wed Nov 12
 
-Finish case study on speciation.
+Finish case study.
 
 ## Fri Nov 14
 
-TBD
+Quiz corrections with teams.
 
 <br>
 

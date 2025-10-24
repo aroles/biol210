@@ -34,15 +34,15 @@ pkgdown:
 
 ## Mon Nov 3
 
-Finish case study on mutation and tuberculosis resistance.
+Begin case study on speciation and apple maggot flies.
 
 ## Wed Nov 5
 
-Begin case study on selection and oldfield mice.
+Finish case study.
 
 ## Fri Nov 7
 
-Finish case study.
+Quiz corrections with teams.
 
 
 <br>

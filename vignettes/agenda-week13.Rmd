@@ -35,7 +35,7 @@ pkgdown:
 
 ## Mon Dec 1
 
-Begin case study on mycorrhizae and interactions.
+Begin case study on moose and foodwebs.
 
 ## Wed Dec 3
 
@@ -43,7 +43,7 @@ Finish case study.
 
 ## Fri Dec 5 
 
-TBD
+Quiz corrections with teams.
 
 <br>
 

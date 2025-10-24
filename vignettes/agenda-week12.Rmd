@@ -34,19 +34,19 @@ pkgdown:
 
 ## Mon Nov 17
 
-Begin case study on marten population ecology.
+Case study on sexual cannibalism in Australian redback spiders.
 
 ## Wed Nov 19
 
-Finish case study on marten population ecology.
+Begin case study on mycorrhizae and interactions.
 
 ## Fri Nov 21
 
-TBD
+Finish case study.
 
 ## Mon Nov 24
 
-TBD
+Quiz corrections with teams.
 
 <br>
 
