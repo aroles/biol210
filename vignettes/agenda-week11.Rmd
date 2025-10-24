@@ -16,6 +16,9 @@ pkgdown:
 
 * [Link to in-class slides and handouts](https://drive.google.com/drive/folders/17Fm-yEXqtlvGJfFaw6WqywIScW_eZ8m_?usp=drive_link)
 
+* Conservation Ecology Job Candidate talks this week by Logan Billet
+    * Mon Nov 10, 12:10-1:20pm in Craig Aud, Research seminar (pizza available)
+    * Mon Nov 10, 4:45-5:30pm in SCTR A155, Teaching demonstration
 
 # Content Videos
 

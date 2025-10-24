@@ -16,6 +16,11 @@ pkgdown:
 
 * [Link to in-class slides and handouts](https://drive.google.com/drive/folders/17Fm-yEXqtlvGJfFaw6WqywIScW_eZ8m_?usp=drive_link)
 
+* Conservation Ecology Job Candidate talks this week by Eleanor Diamant
+    * Mon Nov 3, 12:10-1:20pm in Craig Aud, Research seminar (pizza available)
+    * Mon Nov 3, 4:45-5:30pm in SCTR A155, Teaching demonstration
+
+
 # Content Videos
 
 * [28-Speciation](https://drive.google.com/drive/folders/1yJUnjnl7Bu8TINEYUvU6xeHLmUEyVjul?usp=drive_link)

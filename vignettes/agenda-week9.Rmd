@@ -16,6 +16,10 @@ pkgdown:
 
 * [Link to in-class slides and handouts](https://drive.google.com/drive/folders/17Fm-yEXqtlvGJfFaw6WqywIScW_eZ8m_?usp=drive_link)
 
+* Conservation Ecology Job Candidate talks this week by Jason Gleditsch
+    * Wed Oct 29, 12:10-1:20pm in Craig Aud, Research seminar: "Understanding dynamics of and conserving biodiversity in a changing world" (pizza available)
+    * Wed Oct 29, 4:45-5:30pm in SCTR A155, Teaching demonstration: "Population ecology for wildlife conservation"
+
 
 # Content Videos
 
