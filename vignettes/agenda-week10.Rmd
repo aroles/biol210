@@ -14,6 +14,20 @@ pkgdown:
 
 # Reminders
 
+* New Teams!
+    * <b>Amaryllis:</b> Arianna, Gabi, Natalie, Jeffrey
+    * <b>Bluebell:</b> Mana, Matthew, Nina, Soomin
+    * <b>Camellia:</b> Amy, Gabriel, Julia, Sophia
+    * <b>Dahlia:</b> Ella, Griffin, Hailey, Koosh
+    * <b>Edelweiss:</b> Aimee, Bea, Devyn, Shay
+    * <b>Foxglove:</b> Skylar, Dylan, Maddie, Piers
+    * <b>Geranium:</b> Aurora, Eleanor, Grant, Liam
+    * <b>Hyacinth:</b> Ava, Cash, Iris, Madeleine
+    * <b>Iris:</b> Danica, Kristina, Milo, Michael
+    * <b>Jasmine:</b> Cleo, Jarrod, Oliver, Riley
+    * <b>Kalmia:</b> Amelia, Charlotte, Lex, Micah
+    * <b>Lily:</b> Kylie, Toby, Bethany, Charlie
+
 * [Link to in-class slides and handouts](https://drive.google.com/drive/folders/17Fm-yEXqtlvGJfFaw6WqywIScW_eZ8m_?usp=drive_link)
 
 * Conservation Ecology Job Candidate talks this week by Eleanor Diamant
