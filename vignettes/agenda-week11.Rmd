@@ -14,6 +14,8 @@ pkgdown:
 
 # Reminders
 
+* Exam 2 is available (covers through last week) -- check your due date; email Angie in advance if need to move.
+
 * [Link to in-class slides and handouts](https://drive.google.com/drive/folders/17Fm-yEXqtlvGJfFaw6WqywIScW_eZ8m_?usp=drive_link)
 
 * Conservation Ecology Job Candidate talks this week by Logan Billet
@@ -39,11 +41,11 @@ pkgdown:
 
 ## Mon Nov 10
 
-Begin case study on marten population ecology.
+Case study on sexual cannibalism in Australian redback spiders.
 
 ## Wed Nov 12
 
-Finish case study.
+Case study on insect-plant interactions in sunflowers.
 
 ## Fri Nov 14
 

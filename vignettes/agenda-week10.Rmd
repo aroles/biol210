@@ -34,6 +34,7 @@ pkgdown:
     * Mon Nov 3, 12:10-1:20pm in Craig Aud, Research seminar (pizza available)
     * Mon Nov 3, 4:45-5:30pm in SCTR A155, Teaching demonstration
 
+* Exam 2 material finishes this week.
 
 # Content Videos
 
@@ -53,11 +54,11 @@ pkgdown:
 
 ## Mon Nov 3
 
-Begin case study on speciation and apple maggot flies.
+Case study on speciation and apple maggot flies.
 
 ## Wed Nov 5
 
-Finish case study.
+Case study on population ecology of martens.
 
 ## Fri Nov 7
 
