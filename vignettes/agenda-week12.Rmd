@@ -35,15 +35,15 @@ pkgdown:
 
 ## Mon Nov 17
 
-Case study on sexual cannibalism in Australian redback spiders.
+Case study on mycorrhizae and interactions.
 
 ## Wed Nov 19
 
-Begin case study on mycorrhizae and interactions.
+Continue case study.
 
 ## Fri Nov 21
 
-Finish case study.
+Case study on knapweed invasion.
 
 ## Mon Nov 24
 

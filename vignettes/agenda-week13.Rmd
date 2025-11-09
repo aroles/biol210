@@ -36,11 +36,11 @@ pkgdown:
 
 ## Mon Dec 1
 
-Begin case study on moose and foodwebs.
+Case study on moose and foodwebs.
 
 ## Wed Dec 3
 
-Finish case study.
+Finish case study (or case study on toxic grazer adaptation)
 
 ## Fri Dec 5 
 
