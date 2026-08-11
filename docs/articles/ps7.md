@@ -1,0 +1,125 @@
+# BIOL 210 Problem Set 7
+
+## General Instructions for Problem Sets
+
+The goal of the problem sets is to give you practice thinking about and
+working with the concepts that we are covering. You may work with others
+to complete these assignments but should submit your own responses (not
+copied from someone else’s response).
+
+**Before completing a problem set, you should review the content videos
+for the week and it may be helpful to complete those before the related
+class periods as well.**
+
+Once you have answered the questions and before you turn in your
+responses, check your work against the answer key (linked for each
+problem set). If your responses are missing important information or
+incorrect, you need to correct them, using a different color font and
+explaining why your original answer was insufficient.
+
+Use the link at the top of this page to turn in your completed
+assignment, including corrections.
+
+## Related Readings
+
+#### Required Readings about human genetic variation
+
+- Jorde, LB and SP Wooding. 2004. [Genetic variation, classification,
+  and
+  ‘race’.](https://aroles.github.io/biol210/articles/sheets/sci_articles/Genetic_variation_classification_and_race-Jorde-2004.pdf)
+  Nature Genetics Supplement 36:S28–S33. (6pp)
+
+- Sankar, P and MK Cho. 2002. [Toward a new vocabulary of human genetic
+  variation.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2271140/)
+  Science 298:1337–1338. (2pp)
+
+#### Introducting Evolution, Hardy Weinberg, and Population Genetics
+
+- From Scitable: [Biological Complexity and Integrative Levels of
+  Organization](https://www.nature.com/scitable/topicpage/biological-complexity-and-integrative-levels-of-organization-468/)
+
+- From Scitable: [Mapping Genes to Chromosomes: Linkage and Genetic
+  Screens](https://www.nature.com/scitable/topicpage/mapping-genes-to-chromosomes-linkage-and-genetic-377/)
+
+- From Scitable: [Genetics and Statistical
+  Analysis](https://www.nature.com/scitable/topicpage/genetics-and-statistical-analysis-34592/)
+
+- Biology 2e: [Chapter 18. Evolution and the Origin of
+  Species](https://openstax.org/books/biology-2e/pages/18-1-understanding-evolution)
+
+- Biology 2e: [Chapter 19. The Evolution of
+  Populations](https://openstax.org/books/biology-2e/pages/19-introduction)
+
+## Questions
+
+1.  In humans, the MN blood group locus consists of 2 alleles: the M
+    allele and the N allele. These alleles encode antigens expressed on
+    the surface of red blood cells; the two alleles are codominant so
+    that a heterozygote (MN) has both the M-antigen and the N-antigen.
+    In a study in Poland, 3100 people were genotyped with the following
+    results:
+
+    1126 people were MM
+
+    1446 people were MN
+
+    528 people were NN
+
+    Calculate each of the following:
+
+    1.  the observed genotype frequencies
+          
+
+    2.  the allele frequencies
+          
+
+    3.  the expected number of individuals of each genotype (assuming
+        random mating)
+
+          
+
+    4.  carry out a Chi-square test for goodness of fit to random-mating
+        proportions (with 1 degree of freedom). Is this population in
+        Hardy-Weinberg Proportions for this locus? Explain.
+
+      
+
+2.  Consider the data presented by Jorde and Wooding (2004; only 6 pages
+    long). Do human populations differ genetically? How do we know?
+
+      
+
+3.  Refer to both Jorde and Wooding (2004) and/or Sankar and Cho (2002;
+    only 2 pages long) to answer the following questions:
+
+    1.  How might we define “race”? What does this term represent? Is it
+        useful? Harmful? Does it have any biological meaning? How might
+        we decide whether there’s biological relevance or what role
+        biology might play here? (I’m not looking for some right answer.
+        I would like you to reflect on this in light of the readings and
+        your experiences—and also as potential biologists!)
+
+          
+
+    2.  What might be benefits or costs of using a term like “race” (or
+        racial descriptors) when discussing human genetic variation? If
+        not by using a term like race, do you think there are better
+        ways we could describe groups of humans that differ genetically
+        from each other?
+
+      
+
+4.  Weekly Reflection. Consider this week’s material and reply to one or
+    more of the following prompts:
+    - What was confusing or interesting to you about this week’s
+      material?
+    - Did you have any key insights while studying this material?
+    - Does anything from this week’s material particularly stick with
+      you?
+
+  
+
+**When you are finished, check your responses on the [key for
+PS7](https://aroles.github.io/biol210/articles/ps7key.md).**
+
+Remember to sign the Honor Code on your assignment.

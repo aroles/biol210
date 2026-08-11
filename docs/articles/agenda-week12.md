@@ -1,0 +1,45 @@
+# BIOL 210 Course Agenda
+
+## Reminders
+
+- [Link to in-class slides and
+  handouts](https://drive.google.com/drive/folders/17Fm-yEXqtlvGJfFaw6WqywIScW_eZ8m_?usp=drive_link)
+
+- Note mastery projects are due Dec 1, end of day.
+
+## Content Videos
+
+- [34-Interspecific
+  interactions](https://drive.google.com/drive/folders/1yZ9NZvr-Xff9-Za4LcuwliBC5p6vryJB?usp=drive_link)
+
+- [35-Competition](https://drive.google.com/drive/folders/1yaAP9waCrgnbLRBYmtN7CPwAyNDx1_U7?usp=drive_link)
+
+## Assignments
+
+[Quiz
+12](https://docs.google.com/forms/d/e/1FAIpQLSeAiVE22MJMSz7bLKy8jqcZD0eSz2uHoJO5W3AUuES-MV9aJQ/viewform?usp=sf_link)
+
+[Problem Set 12](https://aroles.github.io/biol210/articles/ps12.md)
+
+## Class Meetings
+
+### Mon Nov 17
+
+Case study on mycorrhizae and interactions.
+
+### Wed Nov 19
+
+Continue case study.
+
+### Fri Nov 21
+
+Case study on knapweed invasion.
+
+### Mon Nov 24
+
+Quiz corrections with teams, working on mastery projects or other course
+work.
+
+  
+
+------------------------------------------------------------------------

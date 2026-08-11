@@ -1,0 +1,224 @@
+# BIOL 210 Problem Set 3 KEY
+
+This is the key for PS 3. Before reading this document, you should have
+completed the problems. Use this key to check and correct your work
+BEFORE submitting the corrected version via the google form.
+
+You should compare your responses with this key and make any changes in
+another font color. Be sure to explain why you got things wrong (showing
+that now you understand) as well as providing corrected responses.
+
+## Question Key
+
+1.  Consider the processes of cell reproduction.
+
+    1.  How is cell division similar and different in prokaryotic and
+        eukaryotice cells?
+
+        In both prokaryotic and eukaryotic cells, the basic steps are
+        the same: (1) a copy of the genetic information is created in
+        preparation for cell reproduction (and various other cellular
+        materials are produced that will be divided between the daughter
+        cells); (2) The genetic info and other cell contents are
+        segregated (separated) into 2 pools; (3) a membrane is formed to
+        separate the two pools into separate cytoplasms, each with their
+        own plasma membrane – the two daughter cells. As for
+        differences…
+
+        - In eukaryotes, linear chromosomes are organized such that each
+          daughter cell receives a copy of each chromosome and not a
+          random subset of all chromosomes. In contract, prokaryotes
+          that have a single circular major chromosome do not require
+          this added organization. For what it’s worth, archaeans may
+          have linear or circular chromosomes but so far do not seem to
+          have the organized process of mitosis, rather some archaeans
+          have a random division of genetic material. In this case, they
+          may have many copies of each different chromosome so that
+          daughter cells are likely to end up with at least one copy of
+          each unique chromosome.
+        - The eukaryotic nucleus also necessitates additional steps
+          compared to prokaryotes as the nucleus must be dissolved to
+          allow for segregation of genetic material and then later
+          reconsituted around the new daughter cell’s genetic info.
+        - Eukaryotes may do cellular reproduction either via mitosis or
+          meiosis. Mitosis maintains ploidy (haploid to haploid OR
+          diploid to diploid) while meiosis reduces ploidy from diploid
+          in the parent cell to haploid in the daughter cells.
+          Prokaryotes are considered haploid and thus do not undergo
+          ploidy changes.
+        - Prokaryotes may employ binary fission but sometimes the result
+          of this is genetically identical but phenotypically different
+          daughter cells (for example, in Caulobacter). Eukaryotes can
+          also produce phenotypically different daughter cells
+          (asymmetric cell division), but the types of cell phenotypes
+          vary depending on which prokaryote or eukaryote (and which
+          cell types, if a eukaryote).
+
+          
+
+    2.  What do you predict might happen if the spindle fibers did not
+        form during mitosis in a eukaryotic cell?
+
+        Spindle fibers are important in moving chromosomes and
+        separating sister chromatids, pulling them to opposite poles. If
+        they did not form, that could severely interfere with allocating
+        the genetic information so that each cell has one copy of each
+        chromosome. Instead, you could end up with some daughter cells
+        having an extra copy of some chromosomes while lacking others
+        entirely. Thus, malfunctioning spindle fibers would probably
+        cause mutations in chromosome numbers and copies per cell.
+
+    3.  What do you predict might happen in a prokaryotic cell if a
+        protein important in constricting the plasma membrane and cell
+        wall during cytokinesis was non-functional?
+
+        If a prokaryotic cell had a malfunctioning protein during
+        cytokinesis, then we might end up with only a single daughter
+        cell with two copies of the genetic information. This would be a
+        genome duplication event.
+
+      
+
+2.  In the fruit fly *Drosophila melanogaster*, a new zygote is created
+    when sperm fertilize eggs inside the female parent’s oviduct. The
+    sperm and eggs are haploid, the products of meiosis, while the new
+    zygote is diploid. The female parent then lays the fertilized egg
+    (zygote) on a suitable food source. Eggs are white, ovoid, and about
+    0.5 mm long. About 21 hours after they are laid, eggs hatch and the
+    larvae emerge. The larvae develop in stages known as instars, which
+    are common to many insect species. The newly emerged larvae, known
+    as the first instar, are voracious eaters. They are tiny and
+    difficult to see with the naked eye. The larvae grow rapidly, and
+    within about two days, the first instar will molt into the second
+    instar. These larvae will eat, grow, and molt again to become the
+    third instar. After the third instar crawls out of the food and onto
+    the surface, the larvae begin to pupate. In the pupal stage, the
+    larval body shortens and the cuticle hardens and becomes pigmented,
+    developing into the pupal case. Metamorphosis occurs within the
+    pupal case; dormant localized tissues that originated during the
+    embryonic stages develop into their adult forms, while the remaining
+    larval tissue is broken down to furnish both raw material and the
+    energy needed for adult development. After three days, the adult
+    emerges. The adult flies reach sexual maturity and begin producing
+    new gametes about eight hours after emerging from the pupae, and
+    then the cycle can begin again.
+
+    **For each of the following, indicate whether the situation
+    describes cells that are haploid or diploid and whether mitosis or
+    meiosis is occurring:**
+
+    - sperm produced in the male fly
+      haploid, meiosis produced the sperm cells
+    - unfertilized eggs produced in the female fly
+      haploid, meiosis produced the egg cells
+    - a new zygote before the egg has hatched
+      diploid, mitosis
+    - 1st instar larvae growing rapidly
+      diploid, mitosis
+    - 3rd instar larvae growing rapidly
+      diploid, mitosis
+    - a pupa develops into an adult
+      diploid, mitosis
+    - the body cells of an adult fly
+      diploid, mitosis
+
+      
+
+3.  On meiosis.
+    1.  What are three ways in which meiosis differs from mitosis?
+
+        There are more than three ways to describe the differences so
+        I’ll list some of them here:
+
+        - Meiosis occurs only in diploid (or higher ploidy) cells and
+          produces daughter cells that are haploid. Mitosis can occur in
+          cells of any ploidy but the daughter cells have the same
+          ploidy as the parent cell.
+        - In meiosis, homologous chromosomes undergo synapsis, allowing
+          for crossing-over between chromatids, thus possibly producing
+          new genetic combinations of information. In mitosis,
+          homologous chromosomes do not pair up and thus do not undergo
+          recombination.
+        - In meiosis, there are two rounds of segregation that
+          occur: (1) separation of homologous pairs and (2) separation
+          of sister chromatids. There’s only one in mitosis: separation
+          of sister chromatids.
+        - The starting state of diploid cells is the same for mitosis
+          and meiosis: there are pairs of replicated homologous
+          chromosomes. However, the end state is different b/c mitosis
+          here yields 2 diploid daughter cells while meiosis yields 4
+          haploid daughter cells.
+        - Meiosis produces genetically unique daughter cells, different
+          from the parent cell. Mitosis produces genetically identical
+          daughter cells, same as the parent cell.
+
+    2.  What two processes during meiosis result in genetically unique
+        daughter cells? Explain how they create genetically variable
+        daughter cells.
+
+        1\. Crossing-over during prophase I, occurring between
+        chromatids of replicated homologous pairs. This produces unique
+        (compared to parent) combinations of genetic material in a
+        chromatid as chromatids exchange pieces. This is variation in
+        the composition of individual chromosomes.
+
+        2\. Independent Assortment during Metaphase I, where which
+        chromosome of a homologous pair faces which pole is randomized.
+        That is, all the chromosomes inherited from one parent do not
+        just line up together, ending up all at one pole after anaphase
+        (this can happen but the chances are small when you have lots of
+        chromosomes).
+
+        You might have listed segregation during anaphase I but to me
+        this really only has the effect it does because of (2) above…
+        it’s the polarity of pairs that determines what the composition
+        of the daughter cell will be.
+
+      
+
+4.  Among the related readings are a couple of chapters from Gathering
+    Moss (The Advantages of Being Small and Back to the Pond). In Back
+    to the Pond, Kimmerer talks about the moss life cycle, which is
+    different from that of vascular plants. Check out the graphic of a
+    moss life cycle from Biology 2e
+    ([link](https://openstax.org/books/biology-2e/pages/25-3-bryophytes)).
+    Note that mosses belong to a group called the bryophytes. Then
+    examine the image below.
+
+    What can you tell me about the parts of the moss life cycle that are
+    visible to you in this image? How do moss life cycles differ from
+    those of vascular plants such as angiosperms and gymnosperms?
+
+    ![Image of a single chromatid](../reference/figures/moss2.png)
+
+    In this image, we can see the leafy green part of the moss, which is
+    the mature haploid gametophyte part of the moss. We can also see
+    some stalks with a capsule on top – those are the diploid moss
+    sporophyte. Inside of the capsules is where meiosis occurs to
+    produce haploid spores (which will go on to grow into leafy green
+    gametophytes). So, we can see that the diploid stage of mosses is
+    totally reliant on the haploid stage for nutrients and support, it
+    cannot live on its own. Meanwhile, the leafy green gametophyte stage
+    will mature to produce gametes (eggs or sperm) using mitosis.
+    Fertilization of eggs on the moss gametophyte then leads to the
+    growth of that diploid sporophyte.
+
+    Difference: In moss, the “plant body” that we think of is haploid
+    (it’s haploid-dominant). The diploid (sporophyte) depends on the
+    haploid for sustenance. This is the opposite of familiar plants like
+    angiosperms, gymnosperms, or ferns which are diploid-dominant.
+
+    Similarity: In plants, gametes (eggs, sperm) are produced by mitosis
+    not meiosis. The product of meiosis is a spore, not a gamete.
+
+    Similarity: Moss and other plants have multicellular bodies both as
+    haploids and as diploids (this is known as alternation of
+    generations).
+
+    Similar and Different: In mosses, ferns, and some gymnosperms, the
+    sperm are motile – they have flagella and swim to the egg. But in
+    angiosperms, the sperm cells aren’t able to move themselves. Other
+    cells in the pollen carry the sperm cell to the egg cell (or ovule).
+    The species with motile sperm all require water to enable
+    fertilization while those with non-motile sperm have evolved
+    mechanisms independent of water.

@@ -5,7 +5,7 @@ output:
 ---
 Deployed site: https://aroles.github.io/biol210/
 
-# Welcome to BIOL 210, Fall 2025!
+# Welcome to BIOL 210, Fall 2026!
 
 All course materials will be provided via this website or links therein.
 
@@ -33,14 +33,14 @@ Office: Science Center A134
 Email: <aroles@oberlin.edu>
 
 ### Drop-In Student Hours
-MTW 2:00-3:30pm, or email for appointment. [Sign up for student hours here.](https://calendar.app.google/QpTarPNUDy71jZ948)
+Mon, Tue 2:00-3:30pm or Thu 1:30-3:00pm, or email for appointment. You can drop in or [sign up for student hours here.](https://calendar.app.google/QpTarPNUDy71jZ948) 
 
 Student Hours are times that I have set aside specifically to meet with students. I will be in my office and available – you can sign up for a slot on my gcal or just stop by and give the door a knock! You can drop in by yourself or bring friends; you may have specific questions or just want to say hi – any reason is good enough. If you aren't available during these intervals, I'm happy to find another time that works -- just email me with some times you are available. 
 
 ## Lecture Class Meetings
-MWF 9:00-9:50 am in King 123.
+MWF 9:00-9:50 am in Science Center A154.
 
-Enrollment in both 210 lecture and 211 lab are required of all students. All lab sections meet 1:30-4:20 pm in SCTR K119. More information will be provided in your first meeting of BIOL 211.
+Enrollment in both 210 lecture and 211 lab (separate 2 credit course) are required of all students. All lab sections (Tue and Wed) meet 1:30-4:20 pm in SCTR K119. More information will be provided in your first meeting of BIOL 211.
 
 ## Course Description
 This course provides biology majors and others with an integrated introduction to key biological principles of genetics, ecology, and evolution, including principles of inheritance, structure and expression of genes, and gene-phenotype relationships, selection, drift, sources of variation, and patterns of diversity, as well as factors and processes governing biotic and abiotic interactions that influence distribution and abundance of organisms. Students must register for both the lecture and laboratory (BIOL 211) concurrently. Prerequisite(s): BIOL 100.
@@ -63,7 +63,7 @@ Central to this course is an understanding and appreciation of diversity across 
 **In case of emergency...** Should circumstances arise that prevent you from fulfilling your responsibilities, such as completing exams on time, you should contact Angie ASAP (email is fine). If you anticipate issues or conflicts arising, please contact Angie in advance so that we may make arrangements.
 
 ## Course Structure
-This course adopts a flipped classroom style for all lecture meetings and uses contract grading for assessment. Your performance depends on your responsibility in completing the assigned work to a satisfactory level. Each week, video recordings are provided, to be studied outside of class meeting times (replacing assigned readings; occasionally readings may also be assigned). During the MWF lecture meetings, we will work on case studies or problem sets relating to that week’s material. 
+This course adopts a flipped classroom style for all lecture meetings and uses specifications-based grading for assessment. Your performance depends on your responsibility in completing the assigned work to a satisfactory level. Each week, video recordings are provided, to be studied outside of class meeting times (occasionally readings may also be assigned). During the Mon and Wed lecture meetings, we will usually work on case studies or problem sets relating to that week’s material. Fridays may be devoted to another activity, including weekly quizzes and corrections.
 
 ## Reference Material and Textbooks
 
@@ -82,7 +82,7 @@ You are expected to adhere to and sign the Honor Code:
 3. On quizzes, affirming that the work is completed by you and your team, without external sources of information;
 4. For all reflection assignments and the individual mastery project.
 
-Your instructors are required to report any suspected violations of the Honor Code to the Honor Committee. Independent of any deliberations of the Honor Committee, in this course suspected violations of the Honor Code may result in amendment of the grade contract to a D or F if appropriate. More information on the Oberlin Honor Code may be found here: https://www.oberlin.edu/dean-of-students/student-conduct/academic-integrity.
+Your instructors are required to report any suspected violations of the Honor Code to the Honor Committee. Independent of any deliberations of the Honor Committee, in this course suspected violations of the Honor Code may result in amendment of the grade contract to a D or F if deemed appropriate. More information on the Oberlin Honor Code may be found here: https://www.oberlin.edu/dean-of-students/student-conduct/academic-integrity.
 
 ### Use of Artificial Intelligence (AI)
 
@@ -104,65 +104,101 @@ Angie is available for individual consultation during student hours or by appoin
 
 * Health & Wellbeing: The offices of [Student Health Services](https://www.oberlin.edu/student-health-services) and [Counseling and Psychological Services](https://www.oberlin.edu/counseling) are located in Dascomb Hall, Suite B. Services are free and drop-in hours are available.
 
-## Assessment via Contract Grading
+## Assessment via Specifications-Based Grading
 
-In this course, we use a form of contract grading, a method of assessment in which you complete a contract laying out the work you must complete to a satisfactory level in order to earn a specific letter grade.
+In this course, we use a form of specifications-based grading, a method of assessment in which you complete work to satisfactory level, earning a grade based on completion of bundles of work (see below). 
 
-Read the following contract requirements carefully before filling out the [Grade Contract form](https://docs.google.com/forms/d/e/1FAIpQLScJdD7yO7pAEkugUMRwGvSrYl5syahIyh271SzR2fy_mscIfA/viewform?usp=sf_link) to complete your contract. <text style="background-color:yellow">**Contracts are due by Wed Sep 3.**</text>
-
-If you have questions about the contract process, email or visit Angie to discuss.
+If you have questions about the specifications-based grading in this course, email or visit Angie to discuss.
 
 ### General Overview and Expectations
-In this course, you will determine your final grade based on the amount of work that you complete to a satisfactory level (as determined by the instructor). All passing grades will be expected to complete a baseline amount of work while higher grades will require additional work to be completed to satisfactory (thus, a higher level of mastery). Letter or number grades will not be assigned for any assignments. Instead, when work is returned to you it will be marked either "Satisfactory" or "Revise". Any work marked Satisfactory needs no more attention from you. Work marked Revise requires that you address the comments provided by the instructor and attempt to correct issues in the assignment, turning in a revised version of the assignment within one week. If that revision is sufficient, it will be returned as Satisfactory; if not, additional revisions may be needed or perhaps a meeting with the instructor. More than 1 revision requires a one-on-one meeting with the instructor before submitting the revision. At the end of the semester, you and I will determine your final grade depending on how many of each assignment you completed to Satisfactory. Requested revisions that are not completed can count for partial credit. In addition to the above, you will be responsible for determining due dates for some assignments for this course (primarily exams). 
+To earn a Satisfactory (S) mark, work must meet *all* listed specs for that assignment type. See below for details of the specifications to be met for each type of assignment.
 
-**Late Work:** Generally, you must turn in quizzes or problem sets within 2 weeks of the due date though exceptions can be arranged individually with the instructor. A pattern of late work may result in a reduction in the final grade (for example, from a B+ to a B or B-).
+You choose your target grade by completing the required bundle of Satisfactory work:
 
-I am choosing to use contract grading in order to provide you ownership over your grade and to enable you to focus more on what you are actually trying to learn. As a further benefit, contract grading helps you to develop and practice valuable life skills such as time management and the ability to assess the quality of your own work. Grades do not follow you into jobs after college (unless you do more schooling!), so it’s important to learn to assess yourself.
+| Component | A Bundle | B Bundle | C Bundle | D Bundle | 
+| :--------------------- | :---------------------: | :---------------------: | :---------------------: | :---------------------: |
+| Class attendance (41 days) | Miss <5 class periods | Miss <8 class periods | Miss <11 class periods | Miss <13 class periods |
+| Problem Sets (13 total) | Earn S on at least 12 | Earn S on at least 10 | Earn S on at least 8 | Earn S on at least 6 |
+| Quizzes (13 total) | Earn S on at least 12 | Earn S on at least 10 | Earn S on at least 8 | Earn S on at least 6 |
+| Exams (3 total) | Achieve High Pass on all exams | Achieve Pass on all exams | Achieve Pass on 2 exams | Attempt all exams | 
+| Reflections (2 total) | Earn S on both Midterm & Final | Earn S on both Midterm & Final | Earn S on at least 1 Reflection | Complete 1 Reflection | 
 
-Here is a breakdown of the work expected to be Satisfactory in order to achieve a grade of B. Applying +/- to the grades will be decided by you and I at the end of the term and can be used to adjust for discrepancies from the guidelines below (such as work turned in but not revised as requested). Grades of D and F are reserved for cases in which there is a systematic failure to meet contractual obligations.
+*Note: Plus/Minus (+/-) grades are determined by token balance at the end of the term or performance on optional advanced challenge problems.*
 
-To complete the work required for a B, expectations are that you will spend at least 10 hours per week on this course.
+#### The Token System
 
-**Table of expectations**
+Every student starts the semester with **3 Tokens**. Tokens can be spent to grant flexibility when work does not meet specifications on the first attempt.
 
-| Assignment (max number) | B contract requirement |
-| :--------------------- | :---------------------: |
-| Lecture periods attended (41) | 35 | 
-| Problem Sets (14) | 12 | 
-| Quizzes (14) | 12 | 
-| Exams (3) | 3 | 
-| Mid-term Reflection (1) | 1 | 
-| Final Reflection (1) | 1 | 
+You may spend **1 Token** to:
+* **Revise a Problem Set:** Submit a revised Problem Set within 5 days of receiving a "U" to bring it to "S" status.
+* **Retake a Quiz:** Submit second revisions for a Quiz with achieve an "S".
+* **Request an Extension:** Get a 24-hour deadline extension on any Problem Set (must be requested before the deadline).
+* **Exam Revision:** Submit a thorough test corrections reflection on an exam to upgrade a "U" to a "Pass".
 
+*Unused tokens at the end of the semester can boost a borderline grade (e.g., converting a B to a B+).*
 
-Earning an A will require all of the work for a B plus completion of 1 individual Mastery Project, exploring a course topic or topics in greater depth. Thus, an A represents a greater demonstration of mastery of course material than does a B. <text style="background-color:yellow">**Project goals and plan must be set by Oct 10 and completed by Dec 1.**</text>
+**Late Work:** Deadlines in BIOL 210 are set to keep you on track for our in-class case studies and active learning sessions. However, life happens! To accommodate unexpected busy weeks, every student starts the semester with 3 Flex Days.
 
-Earning a C will occur when work required for a B is not completed to Satisfactory or in a timely fashion (ex: repeatedly late). Grades of D or F represent a breakdown of the contract.
+* Using Flex Days: Each Flex Day extends an assignment deadline by 24 hours. You can use them one at a time or combine them on a single assignment (e.g., using 2 Flex Days for a 48-hour extension).
+
+* Tracking: Indicate on the Assignment Submission form that you are using a Flex Day (or more than one) when turning in your late work.
+
+* Exhausting Flex Days: Once your 3 Flex Days are used, late work will automatically receive an Unsatisfactory (U) unless cleared using a Token (1 Token = 24-hour late submission).
+
+* Exams & In-Class Quizzes: Flex Days cannot be used for exams or in-class assignments.
+
+**Note: No late work will be accepted after an answer key is published or the assignment is discussed in class.**
 
 ### Assignment Descriptions and Guidelines
 
 #### Class attendance and participation
-Class attendance is expected. Up to 6 absences, for any reason, are allowed with no consequence for the final grade. 
+Class attendance is expected. After the first class period, we will have a daily check-in question at the start of class that will serve to assess class attendance. If you arrive in class after this question has been completed, you will be marked as absent for that day.
 
-#### Quizzes (weekly) – Due Fridays by end of class.
+Our class periods will usually involve group work and you are expected to be an active participant with your assigned group. Not showing up to class on time disadvantages your group.
+
+#### Quizzes (weekly) – Fridays during class meeting.
 A set of content videos is assigned for each week (videos less than 20m each), providing the content that you are learning in a lecture format. Live class meetings will focus on particular aspects of the content and explore them in greater depth via case studies. Weekly quizzes (about 10-20 multiple choice or true/false questions) practice the understanding you are learning in the videos and lecture meetings.
 
-Quizzes must be completed before class on Fridays. In class, assigned teams will work together on completing revisions for any quiz questions that you got wrong. **For any questions for which you did not achieve full credit, you will submit revisions explaining why you got the question wrong and how you know the correct answer is correct.** You are encouraged to ask Angie when you are not sure why an answer is considered correct or incorrect! While revisions are due 1 week after quiz completion, you are encouraged to submit them before the end of the class period.
+Quizzes occur on Fridays and are divided into two parts:
+1. **Part 1 (Individual):** A quick 15 minute individual attempt to test your preparation.
+2. **Part 2 (Group Corrections):** Work with your group to compare answers, debate concepts, and correct any missed questions. Group corrections are turned in by the end of the period via the quiz corrections form.
 
-If you miss class on Friday, you will be responsible for completing quiz corrections on your own, due a week from when you took the quiz.
+#### Specifications for a Satisfactory (S) Quiz:
+To earn an **S** on a Friday Quiz, your submission must meet **ALL** of the following criteria:
 
-#### Problem Sets (weekly) – Due Saturdays by end of day.
-In order to practice your understanding of the content video material and in-class materials, you will complete a weekly problem set focused on that week’s material. Optional supplemental readings will also be provided in most cases. You may use any source of information that you desire to complete these problem sets, including working with other students in the course (such as your assigned group). Once completed, you will check your answers against the key provided by Angie. For any incorrect responses, you will endeavor to correct them and provide a written explanation of what you think led you astray. **You will submit your responses and your corrections as a single document. If you had correct responses for all the questions, you will still be sure to reply to the reflection question on the submission form in order to achieve a Satisfactory assignment.** Revisions are not be requested for problem sets: all assignments that fit the above criteria are accepted as Satisfactory (you must respond to the reflection question on the submission form). Problem sets are due Saturdays by the end of the day.
+* **Individual Preparation:** Complete and submit an on-time individual attempt in class showing active effort on all questions.
+* **Group Accuracy:** The final group submission achieves **85% or higher** accuracy across all questions.
+* **Explanation Quality:** For *every* question your group initially got wrong or debated during Part 1, your group submission includes a **1–2 sentence explanation** explaining:
+  * Why the initial answer/reasoning was incorrect.
+  * What biological concept/principle supports the correct answer.
 
-#### Short-answer Exams (3 exams) – You choose due dates.
-In order to bring together your learning in live lecture meetings, during lab periods, and from the content videos, there will be 4 short-answer exams. These exams will be open-note, open-book, and untimed but designed to require 50 minutes to complete (if studied for). This means you may use any materials supplied by Angie to complete the exam but you should not discuss the exam with anyone other than Angie. There will be no time limit on completion of the exam and all exams will be available as of the first day of class. You am responsible for scheduling when you will take each exam. For responses that are not Satisfactory, Angie will give you feedback and you will revise your response(s) until achieving Satisfactory. I suggest you choose due dates no earlier than the following to ensure all material is covered in class before you work on the exam:
+*Note: If your group submission fails to meet these specs, individual members can spend <b>1</b> Token to retake an alternate version of the quiz during Student Hours.*
 
-* <text style="background-color:yellow">**Exam 1 after Oct 3 and before Oct 18**</text>
-* <text style="background-color:yellow">**Exam 2 after Nov 7 and before Nov 22**</text>
-* <text style="background-color:yellow">**Exam 3 must be after Dec 10 and before 4pm Dec 16**</text>
+#### Problem Sets (weekly) – Due Sunday by end of day.
+In order to practice your understanding of the content video material and in-class materials, you will complete a weekly problem set focused on that week’s material. Optional supplemental readings will also be provided in most cases. You may use any source of information that you desire to complete these problem sets, including working with other students in the course (such as your assigned group). You will submit your responses for each problem set via the Assignment Submission form. Problem sets will be marked "S", "U", or "T" (Token used), corresponding with how well they meet the specifications for the assignment.
 
-#### Self-reflections (mid-semester and final) - You choose due dates.
-One important skill you will practice in this class is self-assessment, the idea that you develop your own standards for your work rather than merely hoping that your work meets someone else’s standards. To that end, it’s important that you engage in a process of self-reflection. It is only by examining how things have gone and comparing that to how you might like them to have gone, that you can plan for making adjustments in the future. <text style="background-color:yellow">**For this course, you will undertake one self-reflection after the first month of classes (by Oct 3) and a second at the end of the term (by Dec 16).**</text> For each, you will complete and submit the provided form before attending a short meeting scheduled with Angie to discuss your responses.
+Problem Set Specifications:
+* Completeness: Every question is thoroughly attempted.
+* Accuracy: At least 80% of responses demonstrate correct logical reasoning, accurate quantitative calculations, and correct use of biological terms.
+* Integrity & Sources: Citations are included where required, and work adheres to the Honor Code.
+
+Problem sets are due Sunday by end of day.
+
+
+#### Short-answer Exams (4 exams)
+In order to bring together your learning in live lecture meetings, during lab periods, and from the content videos, there will be 4 short-answer exams. These exams will be open-note, open-book, and untimed but designed to require 50 minutes to complete (if studied for). This means you may use any materials supplied by Angie to complete the exam but you should not discuss the exam with anyone other than Angie. There will be no time limit on completion of the exam. Exams will be available at least 1 week before they are due. 
+
+Exam Specifications:
+* Core Specs (Pass): Correctly answer at least 80% of Core conceptual questions.
+* Advanced Specs (High Pass): Meet the Core Spec *and* demonstrate satisfactory reasoning on at least 75% of Advanced analytical prompts.
+
+
+#### Self-reflections (mid-semester and final)
+One important skill you will practice in this class is self-assessment, the idea that you develop your own standards for your work rather than merely hoping that your work meets someone else’s standards. To that end, it’s important that you engage in a process of self-reflection. It is only by examining how things have gone and comparing that to how you might like them to have gone, that you can plan for making adjustments in the future. <text style="background-color:yellow">**For this course, you will undertake one self-reflection after the first month of classes (by Oct 2) and a second at the end of the term (by Dec 14).**</text> For each, you will complete and submit the provided form before attending a short meeting scheduled with Angie to discuss your responses.
+
+Reflection Specifications:
+* Depth & Honesty: Address all reflection prompts completely.
+* Evidence: Reference specific progress tracker data, strengths, and actionable goals for improvement.
 
 #### Independent Mastery Project (for an A)
 

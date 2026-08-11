@@ -1,0 +1,42 @@
+# BIOL 210 Course Agenda
+
+## Reminders
+
+- From this point forward, problem sets are due on Sundays (end of day).
+- Next week is fall break so this week’s PS is due Sun Oct 26. The Quiz
+  is still due on Friday.
+- [Link to in-class slides and
+  handouts](https://drive.google.com/drive/folders/17Fm-yEXqtlvGJfFaw6WqywIScW_eZ8m_?usp=drive_link)
+
+## Content Videos
+
+- [22-Mutation](https://drive.google.com/drive/folders/1y7C8hpHev8ZOQKz9FEz9Y94z1Z_d6e6i?usp=drive_link)
+
+- [23-Gene
+  flow](https://drive.google.com/drive/folders/1y8WU6b_MGTWYLZMbeIgJk_IaWRYFtRVP?usp=drive_link)
+
+- [24-Genetic
+  drift](https://drive.google.com/drive/folders/1y9EuxzUNNCt0Dle-hwZofwlKfyd2mpRU?usp=drive_link)
+
+## Assignments
+
+[Quiz
+8](https://docs.google.com/forms/d/e/1FAIpQLSex43fzpiJ9AkVFMBerrgbnmkuwhAzIPZgEgWY8yljhbb4v4Q/viewform?usp=sf_link)
+
+[Problem Set 8](https://aroles.github.io/biol210/articles/ps8.md)
+
+## Class Meetings
+
+### Mon Oct 13
+
+Begin case study on mutation and tuberculosis (TB).
+
+### Wed Oct 15
+
+Continue case study on mutation and TB
+
+### Fri Oct 17
+
+Finish mutation and TB case study, do quiz corrections with teams.  
+
+------------------------------------------------------------------------

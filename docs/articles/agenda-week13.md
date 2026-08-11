@@ -1,0 +1,44 @@
+# BIOL 210 Course Agenda
+
+## Reminders
+
+- [Link to in-class slides and
+  handouts](https://drive.google.com/drive/folders/17Fm-yEXqtlvGJfFaw6WqywIScW_eZ8m_?usp=drive_link)
+
+- Mastery projects are due Dec 1, end of day.
+
+## Content Videos
+
+- [36-Community
+  structure](https://drive.google.com/drive/folders/1ybQ88SfnQc1fUHeUuw3n1XkoZxdJA72o?usp=drive_link)
+
+- [37-Ecological
+  succession](https://drive.google.com/drive/folders/1yh9qCO88jMr__S8DLK3CrT08woxTr0xG?usp=drive_link)
+
+- [38-Energy
+  flow](https://drive.google.com/drive/folders/1yjiYffYh4xKMQbIa7744cHF5epkcV5W9?usp=drive_link)
+
+## Assignments
+
+[Quiz
+13](https://docs.google.com/forms/d/e/1FAIpQLSfqCi4R8v0RqjRI2nNgjfLm2oHn8ofbmZF7v6Fp1m_GABdmlA/viewform?usp=sf_link)
+
+[Problem Set 13](https://aroles.github.io/biol210/articles/ps13.md)
+
+## Class Meetings
+
+### Mon Dec 1
+
+Case study on moose and foodwebs.
+
+### Wed Dec 3
+
+Finish case study (or case study on toxic grazer adaptation)
+
+### Fri Dec 5
+
+Quiz corrections with teams, working on other course work.
+
+  
+
+------------------------------------------------------------------------

@@ -1,0 +1,50 @@
+# BIOL 210 Quizzes
+
+## Short-Answer Exams
+
+- All exams are take-home, open-note, open-book. This means that you may
+  use any materials provided by the instructor for class as you complete
+  the exam.
+
+- There is no time limit on the exam. You are free to ask Angie
+  questions as you complete the exam.
+
+- You are NOT allowed to discuss the exam with anyone except Angie
+  Roles, even after you have submitted it (people will complete it at
+  different times and may need to revise).
+
+- You are not allowed to use internet resources that were not provided
+  by the instructor.
+
+- Violation of any of the above will be reported as an Honor Code
+  violation.
+
+### Exam 1
+
+Exam 1 covers course material through the end of Week 6 (Oct 3).
+
+You can access [Exam 1
+here](https://docs.google.com/document/d/1tlh6gOynHN3jsrQlDlBSNCSHC-iDrr0kIgYzAowZL8Y/edit?usp=sharing).
+Make a copy for yourself and then type into the doc. Or you can create a
+separate doc for your responses. Use the link at the top of the website
+to submit the completed exam.
+
+### Exam 2
+
+Exam 2 covers course material through the end of Week 10 (Nov 7).
+
+You can access [Exam 2
+here](https://docs.google.com/document/d/1qPrOkMtPOAGQ6um0ryvucB-PUNtj23how6juzNthvCo/edit?usp=sharing).
+Make a copy for yourself and then type into the doc. Or you can create a
+separate doc for your responses. Use the link at the top of the website
+to submit the completed exam.
+
+### Exam 3
+
+Exam 3 covers course material through the end of Week 14 (Dec 10).
+
+You can access [Exam 3
+here](https://docs.google.com/document/d/1sq2LNsYKGekiI8ShUm-7_itd7B1G_b44FqmwaKKyd_s/edit?usp=sharing).
+Make a copy for yourself and then type into the doc. Or you can create a
+separate doc for your responses. Use the link at the top of the website
+to submit the completed exam.

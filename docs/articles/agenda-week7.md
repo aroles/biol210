@@ -1,0 +1,65 @@
+# BIOL 210 Course Agenda
+
+## Reminders
+
+- [Mastery project
+  guidelines](https://docs.google.com/document/d/1IUTTWkps2DtSqaLAJ9bqXMkZg3bKnIn96g-EgX5o1Ag/edit?usp=sharing)
+  are now live!
+
+- [Midterm
+  Reflection](https://docs.google.com/document/d/1Vvhn4R1gUjuunrFFWENReMvucvyaIbzeEJFK0aUpw4M/edit?usp=drive_link)
+  is available. Please make a copy of the doc for you to edit. Be sure
+  to submit the doc before making an appointment with Angie to discuss.
+
+  - See my [gcal booking
+    page](https://calendar.app.google/bUMHFsUwBxesE8Kn6) to make an
+    appointment.
+
+- Exam 1 is available (see dropdown menu for Course Materials). Make a
+  copy for you to edit.
+
+- [Link to in-class slides and
+  handouts](https://drive.google.com/drive/folders/17Fm-yEXqtlvGJfFaw6WqywIScW_eZ8m_?usp=drive_link)
+
+- Greenhouse Study Break! Tue 10/15, 11am-1pm, at the greenhouse, roof
+  of the Science Center (stairs by north-west door to Woodland St).
+  Sponsored by Bio Majors Committee
+
+- Interested in Bio at Oberlin? Check out Major Committee’s Linktree:
+  <https://linktr.ee/oberlinbiology>
+
+## Content Videos
+
+- [19-Hardy
+  Weinberg](https://drive.google.com/drive/folders/1xvkunHsgId4CdCz9wuEwAhGPOuWXRNq8?usp=drive_link)
+
+- [20-Detecting
+  evolution](https://drive.google.com/drive/folders/1y0bvaIrIMipt2848At1IHFvyg2SCVTvZ?usp=drive_link)
+
+- [21-Genetic
+  variation](https://drive.google.com/drive/folders/1y10YfBrOrRHZUftxzoOeXXbv9MlLfkmq?usp=drive_link)
+
+## Assignments
+
+[Quiz
+7](https://docs.google.com/forms/d/e/1FAIpQLSdsyuntG3PWAAQlI-ASCXVskIY13ppmWGKzyeOCwo7bRqTRqQ/viewform?usp=sf_link)
+
+[Problem Set 7](https://aroles.github.io/biol210/articles/ps7.md)
+
+## Class Meetings
+
+### Mon Oct 6
+
+Finish case study on sex testing of female athletes.
+
+### Wed Oct 8
+
+Begin case study on methemoglobinemia.
+
+### Fri Oct 10
+
+Finish case study on methemoglobinemia.
+
+  
+
+------------------------------------------------------------------------

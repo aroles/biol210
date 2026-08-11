@@ -1,0 +1,52 @@
+# BIOL 210 Course Agenda
+
+## Reminders
+
+- [Link to in-class slides and
+  handouts](https://drive.google.com/drive/folders/17Fm-yEXqtlvGJfFaw6WqywIScW_eZ8m_?usp=drive_link)
+
+- All regular semester work should be completed by end-of-day on Wed Dec
+  10.
+
+- [Link to Final
+  Reflection](https://docs.google.com/document/d/1uDd48QS5ZeWfpClWL5Fbe-xXCigzw97MK6KX58WEbtg/edit?usp=drive_link)
+  (complete before 12/16). Answer the questions and then set a meeting
+  with Angie (\<10 minutes).
+
+- [Set up a reflection meeting with
+  Angie.](https://calendar.app.google/4pvCXX1hu8CCpEeHA) This meeting
+  must be completed between Dec 11 and 16. If none of the available
+  times works for you, please email Angie directly.
+
+- [Final Exam
+  3](https://docs.google.com/document/d/1g5xNaFgDjosCiYs94WgUOx2e1TLm5BsCIJZLHHa-4uc/edit?usp=drive_link)
+  must be completed by 4pm on 12/16.
+
+## Content Videos
+
+- [39-Biodiversity
+  patterns](https://drive.google.com/drive/folders/1yk1bSIUVvq_bd5oAvv5VhSX_NzsThVC-?usp=drive_link)
+
+- [40-Nutrient
+  cycling](https://drive.google.com/drive/folders/1ypO3LersGapwi0DxzmVHffZUQEjHmd_-?usp=drive_link)
+
+## Assignments
+
+[Quiz
+14](https://docs.google.com/forms/d/e/1FAIpQLSeeMx2DJL6hopi_OKirtelc6cExaqrhDR1hILCLpPFqkEfobw/viewform?usp=sf_link)
+
+[Problem Set 14](https://aroles.github.io/biol210/articles/ps14.md)
+
+## Class Meetings
+
+### Mon Dec 8
+
+Case study on algal blooms and nutrients.
+
+### Wed Dec 10
+
+Quiz corrections with teams, working on other course work.
+
+  
+
+------------------------------------------------------------------------

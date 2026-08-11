@@ -22,9 +22,10 @@ navbar:
     menu:
     - text: '----------------'
     - text: Syllabus PDF
-      href: articles/sheets/sci_articles/BIOL210-syllabus-Roles-fall2025.pdf
-    - text: Grade Contract Form
-      href: https://docs.google.com/forms/d/e/1FAIpQLScJdD7yO7pAEkugUMRwGvSrYl5syahIyh271SzR2fy_mscIfA/viewform?usp=sf_link
+      href: 404.html
+#      href: articles/sheets/sci_articles/BIOL210-syllabus-Roles-fall2025.pdf
+#    - text: Grade Contract Form
+#      href: https://docs.google.com/forms/d/e/1FAIpQLScJdD7yO7pAEkugUMRwGvSrYl5syahIyh271SzR2fy_mscIfA/viewform?usp=sf_link
     - text: Content Videos
       href: https://drive.google.com/drive/folders/1JYUwk8A0mCn_FV1q5LrELnBwP6ofVQwF?usp=drive_link
     - text: In-class slides and handouts
@@ -32,19 +33,23 @@ navbar:
     - text: Problem Sets
       href: articles/problemsets.html
     - text: Quizzes
-      href: articles/quizzes.html
+      href: 404.html
+#      href: articles/quizzes.html
     - text: Exams
       href: articles/exams.html
     - text: Midterm Reflection
-      href: https://docs.google.com/document/d/1Vvhn4R1gUjuunrFFWENReMvucvyaIbzeEJFK0aUpw4M/edit?usp=drive_link
+      href: 404.html
+#      href: https://docs.google.com/document/d/1Vvhn4R1gUjuunrFFWENReMvucvyaIbzeEJFK0aUpw4M/edit?usp=drive_link
     - text: Final Reflection
-      href: https://docs.google.com/document/d/1uDd48QS5ZeWfpClWL5Fbe-xXCigzw97MK6KX58WEbtg/edit?usp=drive_link
+      href: 404.html
+#      href: https://docs.google.com/document/d/1uDd48QS5ZeWfpClWL5Fbe-xXCigzw97MK6KX58WEbtg/edit?usp=drive_link
     # - text: BIOL 211 Lab
     #   href: https://aroles.github.io/biol211/
     - text: Student Folders
       href: https://drive.google.com/drive/folders/1QmV9ipj560BxzW37AS_NAuRU9uN_waEt?usp=drive_link
     - text: Check Progress Spreadsheet
-      href: https://docs.google.com/spreadsheets/d/1OHOpksRrvnDebY0Sy5ALFL6Pvb5j0NEFvAcbDdM77eM/edit?usp=drive_link
+      href: 404.html
+#      href: https://docs.google.com/spreadsheets/d/1OHOpksRrvnDebY0Sy5ALFL6Pvb5j0NEFvAcbDdM77eM/edit?usp=drive_link
     - text: '----------------'
   - text: Course Agenda
     menu:

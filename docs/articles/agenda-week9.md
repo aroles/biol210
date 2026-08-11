@@ -1,0 +1,48 @@
+# BIOL 210 Course Agenda
+
+## Reminders
+
+- [Link to in-class slides and
+  handouts](https://drive.google.com/drive/folders/17Fm-yEXqtlvGJfFaw6WqywIScW_eZ8m_?usp=drive_link)
+
+- Conservation Ecology Job Candidate talks this week by Jason Gleditsch
+
+  - Wed Oct 29, 12:10-1:20pm in Craig Aud, Research seminar:
+    “Understanding dynamics of and conserving biodiversity in a changing
+    world” (pizza available)
+  - Wed Oct 29, 4:45-5:30pm in SCTR A155, Teaching demonstration:
+    “Population ecology for wildlife conservation”
+
+## Content Videos
+
+- [25-Nonrandom
+  mating](https://drive.google.com/drive/folders/1yAMeqDLfKyyy2EN0ISzwUJCYjFUuCWfS?usp=drive_link)
+
+- [26-Natural
+  selection](https://drive.google.com/drive/folders/1yF_c17_TmT6H7cTYzmSMpSgmhq9K-8Er?usp=drive_link)
+
+- [27-Heritability](https://drive.google.com/drive/folders/1yIpYqPx2neqqaZHJ19YQyElG9H-s63kH?usp=drive_link)
+
+## Assignments
+
+[Quiz
+9](https://docs.google.com/forms/d/e/1FAIpQLSfp1d9YnZaSSVDMj2SUnVVR_UHNP7zEDQ_wcDhLRYyXWtMTXw/viewform?usp=sf_link)
+
+[Problem Set 9](https://aroles.github.io/biol210/articles/ps9.md)
+
+## Class Meetings
+
+### Mon Oct 27
+
+Begin case study on selection in oldfield mice.
+
+### Wed Oct 29
+
+Finish case study on selection in oldfield mice.
+
+### Fri Oct 31
+
+Work on problems related to this week’s material; quiz corrections with
+teams.  
+
+------------------------------------------------------------------------
