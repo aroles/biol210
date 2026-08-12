@@ -23,32 +23,31 @@ Use the link at the top of this page to turn in any quiz corrections.
 
 ## Weekly Quizzes
 
-- [Quiz 1 - Sep
-  4-6](https://docs.google.com/forms/d/e/1FAIpQLSclHEk-m9EhZvut1CZE3PJMxdoBZuJkcr-QTfRjAFbJAB4t5A/viewform?usp=sf_link)
-- [Quiz 2 - Sep
-  9-13](https://docs.google.com/forms/d/e/1FAIpQLSe03PkgqNcCk6QoPhslpzIQAD6EZWHpb6i-PcE7cla5Q9_7Fg/viewform?usp=sf_link)
-- [Quiz 3 - Sep
-  16-20](https://docs.google.com/forms/d/e/1FAIpQLSe1c7Kkf5UqH1QIzTxqHBlKg8oEZ75AH84ccSO_qiUPBsbKMA/viewform?usp=sf_link)
-- [Quiz 4 - Sep
-  23-27](https://docs.google.com/forms/d/e/1FAIpQLSeBVYqOZ5Sk0CQkfxOqEj7_5bSjNN691eyE4f-34f41pWbaeQ/viewform?usp=sf_link)
-- [Quiz 5 - Sep 30-Oct
-  4](https://docs.google.com/forms/d/e/1FAIpQLSeDuXksXt8wSRQ0nKPyrW4tMbE9hry2FbhNveSg0Ik3Afh5UA/viewform?usp=sf_link)
-- [Quiz 6 - Oct
-  7-11](https://docs.google.com/forms/d/e/1FAIpQLSf5Esb7eB_kXaExmGJXlsoplvHj0tyL9wmsnc_Rv6APmNpZnQ/viewform?usp=sf_link)
-- [Quiz 7 - Oct
-  14-18](https://docs.google.com/forms/d/e/1FAIpQLSdsyuntG3PWAAQlI-ASCXVskIY13ppmWGKzyeOCwo7bRqTRqQ/viewform?usp=sf_link)
-- Oct 21-25 – FALL BREAK NO ASSIGNMENT
-- [Quiz 8 - Oct 28-Nov
-  1](https://docs.google.com/forms/d/e/1FAIpQLSex43fzpiJ9AkVFMBerrgbnmkuwhAzIPZgEgWY8yljhbb4v4Q/viewform?usp=sf_link)
-- [Quiz 9 - Nov
-  4-8](https://docs.google.com/forms/d/e/1FAIpQLSfp1d9YnZaSSVDMj2SUnVVR_UHNP7zEDQ_wcDhLRYyXWtMTXw/viewform?usp=sf_link)
-- [Quiz 10 - Nov
-  11-15](https://docs.google.com/forms/d/e/1FAIpQLScDyfJ9tm_FiCAtqjrvvldM6wafu48rRhwZC8qD8VQSCICp1w/viewform?usp=sf_link)
-- [Quiz 11 - Nov
-  18-22](https://docs.google.com/forms/d/e/1FAIpQLSeRQFX6rspY9Z_MHYpADqDYgQzyEzxiGY1HJNvR2dUwOGeYDA/viewform?usp=sf_link)
-- [Quiz 12 - Nov
-  25-27](https://docs.google.com/forms/d/e/1FAIpQLSeAiVE22MJMSz7bLKy8jqcZD0eSz2uHoJO5W3AUuES-MV9aJQ/viewform?usp=sf_link)
-- [Quiz 13 - Dec
-  2-6](https://docs.google.com/forms/d/e/1FAIpQLSfqCi4R8v0RqjRI2nNgjfLm2oHn8ofbmZF7v6Fp1m_GABdmlA/viewform?usp=sf_link)
-- [Quiz 14 - Dec
-  9-11](https://docs.google.com/forms/d/e/1FAIpQLSeeMx2DJL6hopi_OKirtelc6cExaqrhDR1hILCLpPFqkEfobw/viewform?usp=sf_link)
+- [Quiz
+  1](https://docs.google.com/forms/d/e/1FAIpQLSclHEk-m9EhZvut1CZE3PJMxdoBZuJkcr-QTfRjAFbJAB4t5A/viewform?usp=sf_link) -
+  in class Sep 4
+- [Quiz 2](https://aroles.github.io/biol210/articles/404.md) - in class
+  Sep 4
+- [Quiz 3](https://aroles.github.io/biol210/articles/404.md) - in class
+  Sep 11
+- [Quiz 4](https://aroles.github.io/biol210/articles/404.md) - in class
+  Sep 18
+- [Quiz 5](https://aroles.github.io/biol210/articles/404.md) - in class
+  Sep 25
+- [Quiz 6](https://aroles.github.io/biol210/articles/404.md) - in class
+  Oct 2
+- [Quiz 7](https://aroles.github.io/biol210/articles/404.md) - in class
+  Oct 9
+- [Quiz 8](https://aroles.github.io/biol210/articles/404.md) - in class
+  Oct 16
+- Oct 17-25 – FALL BREAK NO ASSIGNMENT
+- [Quiz 9](https://aroles.github.io/biol210/articles/404.md) - in class
+  Oct 30
+- [Quiz 10](https://aroles.github.io/biol210/articles/404.md) - in class
+  Nov 6
+- [Quiz 11](https://aroles.github.io/biol210/articles/404.md) - in class
+  Nov 13
+- [Quiz 12](https://aroles.github.io/biol210/articles/404.md) - in class
+  Nov 23
+- [Quiz 13](https://aroles.github.io/biol210/articles/404.md) - in class
+  Dec 4

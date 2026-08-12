@@ -6,21 +6,18 @@
   You](https://docs.google.com/forms/d/e/1FAIpQLScaPNVaX_waXgLUrAUYxIhIfUrhzBsRnpT38HXaxLQhJMlkxQ/viewform?usp=sf_link)
   form by Sat Aug 30.
 
-- Remember to complete your [grade
-  contract](https://docs.google.com/forms/d/e/1FAIpQLScJdD7yO7pAEkugUMRwGvSrYl5syahIyh271SzR2fy_mscIfA/viewform?usp=sf_link)
-  by Wed Sep 3. Submit via the Assignment Turn-in link above.
-
-- BIOL 211 Lab will begin next week, Tue Sep 2 and Wed Sep 3. Lab meets
+- BIOL 211 Lab will begin next week, Tue Sep 1 and Wed Sep 2. Lab meets
   in K119.
 
 - **The first [problem set is
   available](https://aroles.github.io/biol210/articles/ps1.md) and is
-  due Sat Aug 30. You will also want to watch the week 1 content videos
+  due Sun Aug 29. You will also want to watch the week 1 content videos
   (see [agenda week
   1](https://aroles.github.io/biol210/articles/agenda-week1.md)).**
 
-- **Quiz 1 will be due Fri Sep 5, at the same time as Quiz 2. Teams will
-  work together on revisions in class on 9/5.**
+- **Quiz 1 will be Fri Sep 4, at the same time as Quiz 2. You will take
+  the quiz in class and then teams will work together on revisions in
+  class.**
 
 ## Content Videos
 
@@ -33,16 +30,16 @@
 ## Assignments
 
 [Problem Set 1](https://aroles.github.io/biol210/articles/ps1.md) is due
-Sat Aug 30. It is beneficial for you to complete the content videos and
+Sun Aug 30. It is beneficial for you to complete the content videos and
 begin assignments before the week of class.
 
 [Quiz
 1](https://docs.google.com/forms/d/e/1FAIpQLSclHEk-m9EhZvut1CZE3PJMxdoBZuJkcr-QTfRjAFbJAB4t5A/viewform?usp=sf_link)
-is due Fri Sep 5 at 9:00am (before class).
+is due Fri Sep 5 during class.
 
 ## Class Meetings
 
-### Wednesday Aug 27
+### Wednesday Aug 26
 
 - First day of class – go over syllabus, teaching philosophy, course
   expectations.
@@ -66,7 +63,7 @@ is due Fri Sep 5 at 9:00am (before class).
   (see [Week 2
   agenda](https://aroles.github.io/biol210/articles/agenda-week02.md)).
 
-### Friday Aug 29
+### Friday Aug 28
 
 Begin case study “A Tale of Three Lice”.
 
@@ -76,15 +73,13 @@ For the first month, these will be your assigned groups. **You should
 sit in a cluster with these folks each day that class meets.** Note:
 This year’s first team theme is carnivores of North America.
 
-- **Foxes:** Grant, Dylan, Cash, Toby
-- **Bears:** Milo, Bethany, Skylar, Shay
-- **Badgers:** Aurora, Cleo, Micah, Madeleine
-- **Bobcats:** Amy, Michael, Kylie, Arianna
-- **Lynx:** Solomon, Julia, Hailey, Matthew
-- **Cougars:** Ella, Ava, Gabriel, Danica
-- **Wolves:** Jeffrey, Lex, Koosh, Nina
-- **Martens:** Aimee, Oliver, Charlotte, Piers
-- **Weasels:** Natalie, Maddie, Chase, Bea
-- **Coyotes:** Devyn, Gabriela, Jarrod, Soomin
-- **Otters:** Griffin, Sophia, Mana, Liam
-- **Wolverines:** Amelia, Kristina, Riley, Iris
+- **Anemones:**
+- **Barnacles:**
+- **Chitons:**
+- **Hermit crabs:**
+- **Limpets:**
+- **Mussels:**
+- **Periwinkles:**
+- **Sea lettuces:**
+- **Sea stars:**
+- **Sea urchins:**

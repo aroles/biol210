@@ -16,7 +16,8 @@ All course materials will be provided via this website or links therein.
 - [Reference Material and Textbooks](#reference-material-and-textbooks)
 - [Honor Code](#honor-code)
 - [Support Resources](#resources-offering-support)
-- [Assessment via Contract Grading](#assessment-via-contract-grading)
+- [Assessment via Specifications-Based
+  Grading](#assessment-via-specifications-based-grading)
 - [Expected Weekly Schedule](#expected-weekly-schedule)
 
 ------------------------------------------------------------------------
@@ -147,7 +148,7 @@ You are expected to adhere to and sign the Honor Code:
 Your instructors are required to report any suspected violations of the
 Honor Code to the Honor Committee. Independent of any deliberations of
 the Honor Committee, in this course suspected violations of the Honor
-Code may result in amendment of the grade contract to a D or F if deemed
+Code may result in amendment of the final grade to a D or F if deemed
 appropriate. More information on the Oberlin Honor Code may be found
 here:
 <https://www.oberlin.edu/dean-of-students/student-conduct/academic-integrity>.
@@ -223,10 +224,11 @@ Satisfactory work:
 | Component | A Bundle | B Bundle | C Bundle | D Bundle |
 |:---|:--:|:--:|:--:|:--:|
 | Class attendance (41 days) | Miss \<5 class periods | Miss \<8 class periods | Miss \<11 class periods | Miss \<13 class periods |
-| Problem Sets (13 total) | Earn S on at least 12 | Earn S on at least 10 | Earn S on at least 8 | Earn S on at least 6 |
+| Problem Sets (14 total) | Earn S on at least 12 | Earn S on at least 10 | Earn S on at least 8 | Earn S on at least 6 |
 | Quizzes (13 total) | Earn S on at least 12 | Earn S on at least 10 | Earn S on at least 8 | Earn S on at least 6 |
 | Exams (3 total) | Achieve High Pass on all exams | Achieve Pass on all exams | Achieve Pass on 2 exams | Attempt all exams |
 | Reflections (2 total) | Earn S on both Midterm & Final | Earn S on both Midterm & Final | Earn S on at least 1 Reflection | Complete 1 Reflection |
+| Master Project | Achieve Pass on project | \- | \- | \- |
 
 *Note: Plus/Minus (+/-) grades are determined by token balance at the
 end of the term or performance on optional advanced challenge problems.*
@@ -237,13 +239,14 @@ Every student starts the semester with **3 Tokens**. Tokens can be spent
 to grant flexibility when work does not meet specifications on the first
 attempt.
 
-You may spend **1 Token** to: \* **Revise a Problem Set:** Submit a
-revised Problem Set within 5 days of receiving a “U” to bring it to “S”
-status. \* **Retake a Quiz:** Submit second revisions for a Quiz with
-achieve an “S”. \* **Request an Extension:** Get a 24-hour deadline
-extension on any Problem Set (must be requested before the deadline). \*
-**Exam Revision:** Submit a thorough test corrections reflection on an
-exam to upgrade a “U” to a “Pass”.
+You may spend **1 Token** to:
+
+- **Revise a Problem Set:** Submit a revised Problem Set within 5 days
+  of receiving a “U” to bring it to “S” status.
+- **Revise a Quiz:** Submit second revisions (after initial group
+  revisions) for a Quiz with achieve an “S”.
+- **Exam Revision:** Submit a thorough test corrections reflection on an
+  exam to upgrade a “U” to a “Pass”.
 
 *Unused tokens at the end of the semester can boost a borderline grade
 (e.g., converting a B to a B+).*
@@ -276,8 +279,9 @@ or the assignment is discussed in class.**
 
 Class attendance is expected. After the first class period, we will have
 a daily check-in question at the start of class that will serve to
-assess class attendance. If you arrive in class after this question has
-been completed, you will be marked as absent for that day.
+assess class attendance (responses will be turned in). If you arrive in
+class after this question has been completed, you will be marked as
+absent for that day.
 
 Our class periods will usually involve group work and you are expected
 to be an active participant with your assigned group. Not showing up to
@@ -292,12 +296,14 @@ explore them in greater depth via case studies. Weekly quizzes (about
 10-20 multiple choice or true/false questions) practice the
 understanding you are learning in the videos and lecture meetings.
 
-Quizzes occur on Fridays and are divided into two parts: 1. **Part 1
-(Individual):** A quick 15 minute individual attempt to test your
-preparation. 2. **Part 2 (Group Corrections):** Work with your group to
-compare answers, debate concepts, and correct any missed questions.
-Group corrections are turned in by the end of the period via the quiz
-corrections form.
+Quizzes occur on Fridays and are divided into two parts:
+
+1.  **Part 1 (Individual):** A quick 15 minute individual attempt to
+    test your preparation.
+2.  **Part 2 (Group Corrections):** Work with your group to compare
+    answers, debate concepts, and correct any missed questions. Group
+    corrections are turned in by the end of the period via the quiz
+    corrections form.
 
 #### Specifications for a Satisfactory (S) Quiz:
 
@@ -307,7 +313,7 @@ the following criteria:
 - **Individual Preparation:** Complete and submit an on-time individual
   attempt in class showing active effort on all questions.
 - **Group Accuracy:** The final group submission achieves **85% or
-  higher** accuracy across all questions.
+  higher** accuracy across all corrections.
 - **Explanation Quality:** For *every* question your group initially got
   wrong or debated during Part 1, your group submission includes a **1–2
   sentence explanation** explaining:
@@ -315,8 +321,9 @@ the following criteria:
   - What biological concept/principle supports the correct answer.
 
 *Note: If your group submission fails to meet these specs, individual
-members can spend **1** Token to retake an alternate version of the quiz
-during Student Hours.*
+members can spend **1** Token to resubmit corrections after consulting
+with Prof. Roles during Student Hours. Resubmissions must be completed
+by 1 week after the quiz is taken in class.*
 
 #### Problem Sets (weekly) – Due Sunday by end of day.
 
@@ -324,35 +331,40 @@ In order to practice your understanding of the content video material
 and in-class materials, you will complete a weekly problem set focused
 on that week’s material. Optional supplemental readings will also be
 provided in most cases. You may use any source of information that you
-desire to complete these problem sets, including working with other
-students in the course (such as your assigned group). You will submit
-your responses for each problem set via the Assignment Submission form.
-Problem sets will be marked “S”, “U”, or “T” (Token used), corresponding
-with how well they meet the specifications for the assignment.
+desire to complete these problem sets, except working with other
+students in the course. You will submit your responses for each problem
+set via the Assignment Submission form. Problem sets will be marked “S”,
+“U”, or “T” (Token used), corresponding with how well they meet the
+specifications for the assignment.
 
-Problem Set Specifications: \* Completeness: Every question is
-thoroughly attempted. \* Accuracy: At least 80% of responses demonstrate
-correct logical reasoning, accurate quantitative calculations, and
-correct use of biological terms. \* Integrity & Sources: Citations are
-included where required, and work adheres to the Honor Code.
+Problem Set Specifications:
+
+- Completeness: Every question is thoroughly attempted.
+- Accuracy: At least 80% of responses demonstrate correct logical
+  reasoning, accurate quantitative calculations, and correct use of
+  biological terms.
+- Integrity & Sources: Citations are included where required, and work
+  adheres to the Honor Code.
 
 Problem sets are due Sunday by end of day.
 
-#### Short-answer Exams (4 exams)
+#### Short-answer Exams (3 exams)
 
 In order to bring together your learning in live lecture meetings,
-during lab periods, and from the content videos, there will be 4
+during lab periods, and from the content videos, there will be 3
 short-answer exams. These exams will be open-note, open-book, and
-untimed but designed to require 50 minutes to complete (if studied for).
+untimed but designed to require 75 minutes to complete (if studied for).
 This means you may use any materials supplied by Angie to complete the
 exam but you should not discuss the exam with anyone other than Angie.
 There will be no time limit on completion of the exam. Exams will be
 available at least 1 week before they are due.
 
-Exam Specifications: \* Core Specs (Pass): Correctly answer at least 80%
-of Core conceptual questions. \* Advanced Specs (High Pass): Meet the
-Core Spec *and* demonstrate satisfactory reasoning on at least 75% of
-Advanced analytical prompts.
+Exam Specifications:
+
+- Core Specs (Pass): Correctly answer at least 80% of Core conceptual
+  questions.
+- Advanced Specs (High Pass): Meet the Core Spec *and* demonstrate
+  satisfactory reasoning on at least 75% of Advanced analytical prompts.
 
 #### Self-reflections (mid-semester and final)
 
@@ -368,42 +380,87 @@ the term (by Dec 14).** For each, you will complete and submit the
 provided form before attending a short meeting scheduled with Angie to
 discuss your responses.
 
-Reflection Specifications: \* Depth & Honesty: Address all reflection
-prompts completely. \* Evidence: Reference specific progress tracker
-data, strengths, and actionable goals for improvement.
+Reflection Specifications:
 
-#### Independent Mastery Project (for an A)
+- Depth & Honesty: Address all reflection prompts completely.
+- Evidence: Reference specific progress tracker data, strengths, and
+  actionable goals for improvement.
 
-To earn an A in this class, you must complete all the B-level work plus
+#### Independent Mastery Project
+
+To complete the A Bundle, you must complete all the B Bundle work plus
 an extra project that demonstrates your mastery of a topic or topics
 closely related to the course material. You must submit a project plan
 for Angie’s review by Oct 10 and the final project is due by Dec 1.
 Projects can take a variety of forms; papers (15-20 pages,
-double-spaced, 12pt) and videos presentations (10-15 min) are two
+double-spaced, 12pt) and video presentations (10-15 min) are two
 examples. Discuss with Angie if you would like to propose an alternate
 type of project. Topics from any point in the course, including the
 second half, are suitable topics; please see Angie if you are unsure or
 would like to brainstorm topics.
 
+Phase 1: Project Proposal Specs (Due Oct 10)
+
+- Timeline: Submitted by October 10 via the assignment submission
+  form.  
+- Components: Includes a draft project title, a single paragraph
+  describing the project’s scope, and at least 3 scholarly references.  
+- Citation Style: References in the proposal use Council of Science
+  Editors (CSE) citation format.  
+- Topic Alignment: Focuses on a topic in genetics, evolution, or ecology
+  (preferably spanning at least two of these areas) that is largely new
+  to you rather than familiar territory.  
+- Approval: Reviewed and approved by Prof. Roles (if revisions are
+  needed, they must be completed promptly).
+
+Phase 2: Final Project Specs (Due Dec 1)
+
+1.  Research & Content Depth
+
+- Individual Effort: Work is completed entirely independently.  
+- Scholarly Foundation: Cites a minimum of 10 scholarly sources.  
+- Target Audience & Depth: Content demonstrates advanced,
+  biology-major-level understanding beyond standard course coverage.  
+- Citation Standards: In-text citations and reference lists adhere to
+  CSE format.
+
+2.  Format Specifications (Choose ONE option)
+
+- Option A: Research Paper
+  - Page Count: Length is 12–15 pages of body text. (Note: Title page,
+    figures, tables, images, and bibliography do not count toward this
+    limit).  
+  - Formatting: Typed, double-spaced, using standard 12pt font.  
+- Option B: Informational Video Presentation
+  - Duration: Video runtime is 10–15 minutes long.  
+  - Accompanying Deliverables: Submitted along with a full reference
+    list and a 1 page or less narrative description summarizing the work
+    carried out.
+
+3.  Final Submission
+
+- Deadline: Submitted via the official Assignment Submission Form by
+  December 1.
+
 ## Expected Weekly Schedule
 
 | Week | Dates | Topics |
 |:---|:---|:---|
-| 1 | Aug 27-29 | Course Introduction; Biodiversity, Phylogenies, Cells |
-| 2 | Sep 1-5 | Eukarya, Genomes, Eukaryotic genomes |
-| 3 | Sep 8-12 | Mitosis, Meiosis, Life cycles |
-| 4 | Sep 15-19 | Genes, Transcription, RNA processing |
-| 5 | Sep 22-26 | Translation, Sex determination, Inheritance and segregation |
-| 6 | Sep 29-Oct 3 | Dominance, Independent assortment, Linkage |
-| 7 | Oct 6-10 | Hardy Weinberg, Detecting evolution, Genetic variation |
-| 8 | Oct 13-17 | Mutation, Gene flow, Genetic drift |
-| \- | Oct 20-24 | Fall Break |
-| 9 | Oct 27-31 | Nonrandom mating, Selection, Heritability |
-| 10 | Nov 3-7 | Speciation, Population Ecology, Life History |
-| 11 | Nov 10-14 | Behavior, Learning, Genetics of behavior |
-| 12 | Nov 17-24 | Interspecific interactions, Competition |
-| \- | Nov 26-28 | Thanksgiving |
-| 13 | Dec 1-5 | Community structure, Ecological succession, Energy flow |
-| 14 | Dec 8-10 | Biodiversity patterns, Nutrient cycling |
-| \- | Dec 12-15 | Reading Period |
-| \- | Dec 16, 2pm | Final Exam slot |
+| 1 | Aug 26-28 | Course Introduction; Biodiversity, Phylogenies, Cells |
+| 2 | Sep 02-04 | Eukarya, Genomes, Eukaryotic genomes |
+| 3 | Sep 07-11 | Mitosis, Meiosis, Life cycles |
+| 4 | Sep 14-18 | Genes, Transcription, RNA processing |
+| 5 | Sep 21-25 | Translation, Sex determination, Inheritance and segregation |
+| 6 | Sep 28-Oct 02 | Dominance, Independent assortment, Linkage |
+| 7 | Oct 05-09 | Hardy Weinberg, Detecting evolution, Genetic variation |
+| 8 | Oct 12-16 | Mutation, Gene flow, Genetic drift |
+| \- | Oct 19-23 | Fall Break |
+| 9 | Oct 26-30 | Nonrandom mating, Selection, Heritability |
+| 10 | Nov 02-06 | Speciation, Population Ecology, Life History |
+| 11 | Nov 09-13 | Interspecific interactions, Competition |
+| 12 | Nov 16-23 | Community structure, Ecological succession, Energy flow |
+| \- | Nov 26-28 | Thanksgiving Break |
+| 13 | Nov 30-Dec 04 | Biodiversity patterns, Nutrient cycling |
+| 14 | Dec 07-09 | Behavior, Learning, Genetics of behavior |
+| \- | Dec 10-13 | Reading Period |
+| \- | Dec 14, 2pm | Final Exam slot |

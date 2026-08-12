@@ -2,6 +2,7 @@ pandoc: 3.8.3
 pkgdown: 2.2.1
 pkgdown_sha: ~
 articles:
+  agenda-overview: agenda-overview.html
   agenda-week1: agenda-week1.html
   agenda-week10: agenda-week10.html
   agenda-week11: agenda-week11.html
@@ -50,7 +51,7 @@ articles:
   ps9: ps9.html
   ps9key: ps9key.html
   quizzes: quizzes.html
-last_built: 2026-08-11T20:19Z
+last_built: 2026-08-12T19:08Z
 urls:
   reference: https://aroles.github.io/biol210/reference
   article: https://aroles.github.io/biol210/articles

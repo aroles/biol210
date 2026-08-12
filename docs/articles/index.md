@@ -2,6 +2,8 @@
 
 ### All vignettes
 
+- [BIOL 210 Course Agenda
+  Overview](https://aroles.github.io/biol210/articles/agenda-overview.md):
 - [BIOL 210 Course
   Agenda](https://aroles.github.io/biol210/articles/agenda-week1.md):
 - [BIOL 210 Course
