@@ -4,14 +4,14 @@
 
 - Please complete the [Getting to Know
   You](https://docs.google.com/forms/d/e/1FAIpQLScaPNVaX_waXgLUrAUYxIhIfUrhzBsRnpT38HXaxLQhJMlkxQ/viewform?usp=sf_link)
-  form by Sat Aug 30.
+  form by Sun Aug 30.
 
 - BIOL 211 Lab will begin next week, Tue Sep 1 and Wed Sep 2. Lab meets
   in K119.
 
 - **The first [problem set is
   available](https://aroles.github.io/biol210/articles/ps1.md) and is
-  due Sun Aug 29. You will also want to watch the week 1 content videos
+  due Sun Aug 30. You will also want to watch the week 1 content videos
   (see [agenda week
   1](https://aroles.github.io/biol210/articles/agenda-week1.md)).**
 
@@ -33,9 +33,8 @@
 Sun Aug 30. It is beneficial for you to complete the content videos and
 begin assignments before the week of class.
 
-[Quiz
-1](https://docs.google.com/forms/d/e/1FAIpQLSclHEk-m9EhZvut1CZE3PJMxdoBZuJkcr-QTfRjAFbJAB4t5A/viewform?usp=sf_link)
-is due Fri Sep 5 during class.
+The first quiz will not occur until the end of week 2 but it will cover
+both week 1 and week 2 material.
 
 ## Class Meetings
 
@@ -48,18 +47,11 @@ is due Fri Sep 5 during class.
   slides](https://drive.google.com/drive/folders/17Fm-yEXqtlvGJfFaw6WqywIScW_eZ8m_?usp=drive_link)
   Requires you to log into your Oberlin account to access.
 
-- GRADE CONTRACTS: Read this part of the syllabus carefully before
-  filling out the [Grade Contract
-  Form](https://docs.google.com/forms/d/e/1FAIpQLScJdD7yO7pAEkugUMRwGvSrYl5syahIyh271SzR2fy_mscIfA/viewform?usp=sf_link)
-  with your due dates and other info. You are welcome to consult with
-  Angie before submitting your contract. Contracts should be submitted
-  by Wednesday Sept 3rd, end of day.
-
 - Please fill out the [Getting to Know
   You](https://docs.google.com/forms/d/e/1FAIpQLScaPNVaX_waXgLUrAUYxIhIfUrhzBsRnpT38HXaxLQhJMlkxQ/viewform?usp=sf_link)
   form before Sat 8/30.
 
-- Note: I recommend you watch the videos for next week before Wed 9/3
+- Note: I recommend you watch the videos for next week before Wed 9/2
   (see [Week 2
   agenda](https://aroles.github.io/biol210/articles/agenda-week02.md)).
 

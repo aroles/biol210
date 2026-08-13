@@ -1,10 +1,10 @@
 # BIOL 210 Course Agenda Overview
 
-## Weekly Agendas w/topics
+## Weekly Agenda Links
 
 | Agenda | Dates | Topics |
 |:---|:---|:---|
-| [Week 1](https://aroles.github.io/biol210/articles/articles/agenda-week1.md) | Aug 26-28 | Course Introduction; Biodiversity, Phylogenies, Cells |
+| [Week 1](https://aroles.github.io/biol210/articles/agenda-week1.md) | Aug 26-28 | Course Introduction; Biodiversity, Phylogenies, Cells |
 | Week 2 | Sep 02-04 | Eukarya, Genomes, Eukaryotic genomes |
 | Week 3 | Sep 07-11 | Mitosis, Meiosis, Life cycles |
 | Week 4 | Sep 14-18 | Genes, Transcription, RNA processing |
@@ -21,11 +21,11 @@
 | Week 13 | Nov 30-Dec 04 | Biodiversity patterns, Nutrient cycling |
 | Week 14 | Dec 07-09 | Behavior, Learning, Genetics of behavior |
 
-#### Groups for first month
+## Groups for first month
 
 For the first month, these will be your assigned groups. **You should
 sit in a cluster with these folks each day that class meets.** Note:
-This year’s first team theme is carnivores of North America.
+This year’s first team theme is creatures of the intertidal zone.
 
 - **Anemones:**
 - **Barnacles:**

@@ -2,52 +2,72 @@
 
 ## General Instructions for Quizzes
 
-You should watch the content videos and it’s suggested you complete the
-problem set before attempting the week’s quiz.
+You should watch the content videos and it’s suggested you work on the
+problem set before taking the quiz in class.
 
 Similar to the problem sets, quizzes give you practice thinking about
-and working with the concepts that we are covering. They are not timed
-but should be completed solo, without consulting anyone else. It’s also
-suggested that you try to take the quiz without looking anything up –
-this tells you something about how well you are learning the week’s
+and working with the concepts that we are covering. You will have 15
+minutes to complete the quiz at the start of class and you must complete
+it solo, without consulting anyone else or looking up information. This
+can tell you something about how well you are learning the week’s
 material.
 
-You will get your result for the quiz immediately. If you get any
-responses incorrect, you must submit quiz corrections (within a week of
-completing the quiz). For quiz corrections, you need to explain WHY you
-got the question wrong and demonstrate that you understand the correct
-answer. Simply giving the correct answer is not sufficient, you need to
-show that you understand why that is the correct response.
+Quizzes occur on Fridays and are divided into two parts:
 
-Use the link at the top of this page to turn in any quiz corrections.
+1.  **Part 1 (Individual):** A quick 15 minute individual attempt to
+    test your preparation.
+2.  **Part 2 (Group Corrections):** Work with your group to compare
+    answers, debate concepts, and correct any missed questions. Group
+    corrections are turned in by the end of the period via the quiz
+    corrections form.
+
+##### Specifications for a Satisfactory (S) Quiz:
+
+To earn an **S** on a Friday Quiz, your submission must meet **ALL** of
+the following criteria:
+
+- **Individual Preparation:** Complete and submit an on-time individual
+  attempt in class showing active effort on all questions.
+- **Group Accuracy:** The final group submission achieves **85% or
+  higher** accuracy across all corrections.
+- **Explanation Quality:** For *every* question your group initially got
+  wrong or debated during Part 1, your group submission includes a **1–2
+  sentence explanation** explaining:
+  - Why the initial answer/reasoning was incorrect.
+  - What biological concept/principle supports the correct answer.
+
+*Note: If your group submission fails to meet these specs, individual
+members can spend **1** Token to resubmit corrections after consulting
+with Prof. Roles during Student Hours. Resubmissions must be completed
+by 1 week after the quiz is taken in class.*
+
+Use the link at the top of this page to turn in any quiz corrections,
+being sure to specify the names of your group members.
 
 ## Weekly Quizzes
 
-- [Quiz
-  1](https://docs.google.com/forms/d/e/1FAIpQLSclHEk-m9EhZvut1CZE3PJMxdoBZuJkcr-QTfRjAFbJAB4t5A/viewform?usp=sf_link) -
-  in class Sep 4
-- [Quiz 2](https://aroles.github.io/biol210/articles/404.md) - in class
+- [Quiz 1](https://aroles.github.io/biol210/articles/404.md) - in class
   Sep 4
-- [Quiz 3](https://aroles.github.io/biol210/articles/404.md) - in class
+- [Quiz 2](https://aroles.github.io/biol210/articles/404.md) - in class
   Sep 11
-- [Quiz 4](https://aroles.github.io/biol210/articles/404.md) - in class
+- [Quiz 3](https://aroles.github.io/biol210/articles/404.md) - in class
   Sep 18
-- [Quiz 5](https://aroles.github.io/biol210/articles/404.md) - in class
+- [Quiz 4](https://aroles.github.io/biol210/articles/404.md) - in class
   Sep 25
-- [Quiz 6](https://aroles.github.io/biol210/articles/404.md) - in class
+- [Quiz 5](https://aroles.github.io/biol210/articles/404.md) - in class
   Oct 2
-- [Quiz 7](https://aroles.github.io/biol210/articles/404.md) - in class
+- [Quiz 6](https://aroles.github.io/biol210/articles/404.md) - in class
   Oct 9
-- [Quiz 8](https://aroles.github.io/biol210/articles/404.md) - in class
+- [Quiz 7](https://aroles.github.io/biol210/articles/404.md) - in class
   Oct 16
 - Oct 17-25 – FALL BREAK NO ASSIGNMENT
-- [Quiz 9](https://aroles.github.io/biol210/articles/404.md) - in class
+- [Quiz 8](https://aroles.github.io/biol210/articles/404.md) - in class
   Oct 30
-- [Quiz 10](https://aroles.github.io/biol210/articles/404.md) - in class
+- [Quiz 9](https://aroles.github.io/biol210/articles/404.md) - in class
   Nov 6
-- [Quiz 11](https://aroles.github.io/biol210/articles/404.md) - in class
+- [Quiz 10](https://aroles.github.io/biol210/articles/404.md) - in class
   Nov 13
-- [Quiz 12](https://aroles.github.io/biol210/articles/404.md) - in class
+- [Quiz 11](https://aroles.github.io/biol210/articles/404.md) - in class
   Nov 23
-- [Quiz 13](https://aroles.github.io/biol210/articles/404.md) - in class
+- [Quiz 12](https://aroles.github.io/biol210/articles/404.md) - in class
   Dec 4
