@@ -1,6 +1,6 @@
 ---
 title: "BIOL 210 Course Agenda"
-date: "Week 6, Sep 29-Oct 3"
+date: "Week 6, Sep 28-Oct 2"
 output: 
   html_document:
     toc: TRUE
@@ -52,15 +52,15 @@ pkgdown:
 
 # Class Meetings
 
-## Mon Sep 29
+## Mon Sep 28
 
 Case study on alternative splicing.
 
-## Wed Oct 1
+## Wed Sep 30
 
 Finish case study on alternative splicing.
 
-## Fri Oct 3
+## Fri Oct 2
 
 Quiz Corrections with teams.
 <br>

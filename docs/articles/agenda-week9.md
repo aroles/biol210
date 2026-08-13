@@ -32,15 +32,15 @@
 
 ## Class Meetings
 
-### Mon Oct 27
+### Mon Oct 26
 
 Begin case study on selection in oldfield mice.
 
-### Wed Oct 29
+### Wed Oct 28
 
 Finish case study on selection in oldfield mice.
 
-### Fri Oct 31
+### Fri Oct 30
 
 Work on problems related to this week’s material; quiz corrections with
 teams.  

@@ -48,15 +48,15 @@
 
 ## Class Meetings
 
-### Mon Oct 6
+### Mon Oct 5
 
 Finish case study on sex testing of female athletes.
 
-### Wed Oct 8
+### Wed Oct 7
 
 Begin case study on methemoglobinemia.
 
-### Fri Oct 10
+### Fri Oct 9
 
 Finish case study on methemoglobinemia.
 

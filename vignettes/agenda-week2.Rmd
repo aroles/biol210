@@ -1,6 +1,6 @@
 ---
 title: "BIOL 210 Course Agenda"
-date: "Week 2, Sep 3-5"
+date: "Week 2, Aug 31-Sep 4"
 output: 
   html_document:
     toc: TRUE
@@ -54,12 +54,13 @@ For the first month, these will be your assigned groups. **You should sit in a c
 * <b>Otters:</b> Griffin, Sophia, Mana, Liam
 * <b>Wolverines:</b> Amelia, Kristina, Riley, Iris
 
+## Mon Aug 31
 
-## Wed Sep 3
+## Wed Sep 2
 
 Finish case study "A tale of three lice" (about phylogenetic trees and their uses).
 
-## Fri Sep 5
+## Fri Sep 4
 
 In teams, complete quizzes 1 and 2 plus corrections. 
 

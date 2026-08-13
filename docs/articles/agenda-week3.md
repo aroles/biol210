@@ -31,15 +31,15 @@
 Materials presented in class are available in the [Slides and handouts
 folder](https://drive.google.com/drive/folders/17Fm-yEXqtlvGJfFaw6WqywIScW_eZ8m_?usp=drive_link).
 
-### Mon Sep 8
+### Mon Sep 7
 
-Begin UPGMA tree-building exercise.
+LABOR DAY NO CLASS
 
-### Wed Sep 10
+### Wed Sep 9
 
 Finish UPGMA tree-building exercise.
 
-### Fri Sep 12
+### Fri Sep 11
 
 Work on chromosomes, meiosis, mitosis.
 

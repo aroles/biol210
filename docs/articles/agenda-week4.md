@@ -48,15 +48,15 @@
 
 ## Class Meetings
 
-### Mon Sep 15
+### Mon Sep 14
 
 - Case study of Tasmanian devils and DFTD.
 
-### Wed Sep 17
+### Wed Sep 16
 
 - Finish case study of Tasmanian devils.
 
-### Wed Sep 19
+### Wed Sep 18
 
 - Bead exercise to practice meiosis, mitosis.
 

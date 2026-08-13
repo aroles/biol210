@@ -53,11 +53,13 @@ This year’s first team theme is carnivores of North America.
 - **Otters:** Griffin, Sophia, Mana, Liam
 - **Wolverines:** Amelia, Kristina, Riley, Iris
 
-### Wed Sep 3
+### Mon Aug 31
+
+### Wed Sep 2
 
 Finish case study “A tale of three lice” (about phylogenetic trees and
 their uses).
 
-### Fri Sep 5
+### Fri Sep 4
 
 In teams, complete quizzes 1 and 2 plus corrections.

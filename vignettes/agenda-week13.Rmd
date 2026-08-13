@@ -1,6 +1,6 @@
 ---
 title: "BIOL 210 Course Agenda"
-date: "Week 13, Dec 1-5"
+date: "Week 13, Nov 23-Dec 4"
 output: 
   html_document:
     toc: TRUE
@@ -16,35 +16,39 @@ pkgdown:
 
 * [Link to in-class slides and handouts](https://drive.google.com/drive/folders/17Fm-yEXqtlvGJfFaw6WqywIScW_eZ8m_?usp=drive_link)
 
-* Mastery projects are due Dec 1, end of day.
+* All regular semester work should be completed by end-of-day on Wed Dec 10.
+
+* [Link to Final Reflection](https://docs.google.com/document/d/1uDd48QS5ZeWfpClWL5Fbe-xXCigzw97MK6KX58WEbtg/edit?usp=drive_link) (complete before 12/16). Answer the questions and then set a meeting with Angie (<10 minutes).
+
+* [Set up a reflection meeting with Angie.](https://calendar.app.google/4pvCXX1hu8CCpEeHA) This meeting must be completed between Dec 11 and 16. If none of the available times works for you, please email Angie directly.
+
+* [Final Exam 3](https://docs.google.com/document/d/1g5xNaFgDjosCiYs94WgUOx2e1TLm5BsCIJZLHHa-4uc/edit?usp=drive_link) must be completed by 4pm on 12/16.
 
 # Content Videos
 
-* [36-Community structure](https://drive.google.com/drive/folders/1ybQ88SfnQc1fUHeUuw3n1XkoZxdJA72o?usp=drive_link)
+* [36-Biodiversity patterns](https://drive.google.com/drive/folders/1yk1bSIUVvq_bd5oAvv5VhSX_NzsThVC-?usp=drive_link)
 
-* [37-Ecological succession](https://drive.google.com/drive/folders/1yh9qCO88jMr__S8DLK3CrT08woxTr0xG?usp=drive_link)
-
-* [38-Energy flow](https://drive.google.com/drive/folders/1yjiYffYh4xKMQbIa7744cHF5epkcV5W9?usp=drive_link)
+* [37-Nutrient cycling](https://drive.google.com/drive/folders/1ypO3LersGapwi0DxzmVHffZUQEjHmd_-?usp=drive_link)
 
 # Assignments
 
-[Quiz 13](https://docs.google.com/forms/d/e/1FAIpQLSfqCi4R8v0RqjRI2nNgjfLm2oHn8ofbmZF7v6Fp1m_GABdmlA/viewform?usp=sf_link)
+[Quiz 14](https://docs.google.com/forms/d/e/1FAIpQLSeeMx2DJL6hopi_OKirtelc6cExaqrhDR1hILCLpPFqkEfobw/viewform?usp=sf_link)
 
-[Problem Set 13](ps13.html)
+[Problem Set 14](ps14.html)
 
 # Class Meetings
 
-## Mon Dec 1
+## Mon Nov 23
 
-Case study on moose and foodwebs.
+## Mon Nov 30
 
-## Wed Dec 3
+Case study on algal blooms and nutrients.
 
-Finish case study (or case study on toxic grazer adaptation)
-
-## Fri Dec 5 
+## Wed Dec 2
 
 Quiz corrections with teams, working on other course work.
+
+## Fri Dec 4
 
 <br>
 

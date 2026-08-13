@@ -27,15 +27,15 @@
 
 ## Class Meetings
 
-### Mon Oct 13
+### Mon Oct 12
 
 Begin case study on mutation and tuberculosis (TB).
 
-### Wed Oct 15
+### Wed Oct 14
 
 Continue case study on mutation and TB
 
-### Fri Oct 17
+### Fri Oct 16
 
 Finish mutation and TB case study, do quiz corrections with teams.  
 

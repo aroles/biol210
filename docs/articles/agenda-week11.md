@@ -2,51 +2,38 @@
 
 ## Reminders
 
-- Exam 2 is available (covers through last week) – check your due date;
-  email Angie in advance if need to move.
-
 - [Link to in-class slides and
   handouts](https://drive.google.com/drive/folders/17Fm-yEXqtlvGJfFaw6WqywIScW_eZ8m_?usp=drive_link)
 
-- Conservation Ecology Job Candidate talks this week by Logan Billet
-
-  - Mon Nov 10, 12:10-1:20pm in Craig Aud, Research seminar (pizza
-    available)
-  - Mon Nov 10, 4:45-5:30pm in SCTR A155, Teaching demonstration
+- Note mastery projects are due Dec 1, end of day.
 
 ## Content Videos
 
-- [31-Behavior](https://drive.google.com/drive/folders/1yRWAfJVfDEalk7Fva43soyIqrw7gMCTv?usp=drive_link)
+- [31-Interspecific
+  interactions](https://drive.google.com/drive/folders/1yZ9NZvr-Xff9-Za4LcuwliBC5p6vryJB?usp=drive_link)
 
-- [32-Learning](https://drive.google.com/drive/folders/1yWF8c_eNaCuVEYLx1tUnMCQ28k_zyiR7?usp=drive_link)
-
-- [33-Genetics of
-  behavior](https://drive.google.com/drive/folders/1yZ5AqPPyYVdMFwmJAJl_ak7Trm5W9tJL?usp=drive_link)
+- [32-Competition](https://drive.google.com/drive/folders/1yaAP9waCrgnbLRBYmtN7CPwAyNDx1_U7?usp=drive_link)
 
 ## Assignments
 
 [Quiz
-11](https://docs.google.com/forms/d/e/1FAIpQLSeRQFX6rspY9Z_MHYpADqDYgQzyEzxiGY1HJNvR2dUwOGeYDA/viewform?usp=sf_link)
+12](https://docs.google.com/forms/d/e/1FAIpQLSeAiVE22MJMSz7bLKy8jqcZD0eSz2uHoJO5W3AUuES-MV9aJQ/viewform?usp=sf_link)
 
-[Problem Set 11](https://aroles.github.io/biol210/articles/ps11.md)
+[Problem Set 12](https://aroles.github.io/biol210/articles/ps12.md)
 
 ## Class Meetings
 
-### Mon Nov 10
+### Mon Nov 9
 
-Case study on sexual cannibalism in Australian redback spiders.
+Case study on mycorrhizae and interactions.
 
-### Wed Nov 12
+### Wed Nov 11
 
-Case study on guarding behavior in meerkats.
+Continue case study.
 
-[Video introducing
-meerkats](https://www.youtube.com/watch?v=9L2XIR4tiF8)
+### Fri Nov 13
 
-### Fri Nov 14
-
-Quiz corrections with teams and working on mastery projects or other
-course work.
+Case study on knapweed invasion.
 
   
 

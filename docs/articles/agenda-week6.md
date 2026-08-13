@@ -66,15 +66,15 @@
 
 ## Class Meetings
 
-### Mon Sep 29
+### Mon Sep 28
 
 Case study on alternative splicing.
 
-### Wed Oct 1
+### Wed Sep 30
 
 Finish case study on alternative splicing.
 
-### Fri Oct 3
+### Fri Oct 2
 
 Quiz Corrections with teams.  
 

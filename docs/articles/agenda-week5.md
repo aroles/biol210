@@ -28,15 +28,15 @@
 
 ## Class Meetings
 
-### Mon Sep 22
+### Mon Sep 21
 
 Begin komodo dragon case study
 
-### Wed Sep 24
+### Wed Sep 23
 
 Finish komodo dragon case study.
 
-### Fri Sep 26
+### Fri Sep 25
 
 Quiz 5 revisions.
 

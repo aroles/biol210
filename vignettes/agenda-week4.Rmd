@@ -1,6 +1,6 @@
 ---
 title: "BIOL 210 Course Agenda"
-date: "Week 4, Sep 15-19"
+date: "Week 4, Sep 14-18"
 output: 
   html_document:
     toc: TRUE
@@ -48,16 +48,16 @@ knitr::include_graphics(file.path(here::here(), 'man', 'figures', 'OURflyer2025.
 
 # Class Meetings
 
-## Mon Sep 15
+## Mon Sep 14
 
 * Case study of Tasmanian devils and DFTD.
 
-## Wed Sep 17
+## Wed Sep 16
 
 * Finish case study of Tasmanian devils.
 
 
-## Wed Sep 19
+## Wed Sep 18
 
 * Bead exercise to practice meiosis, mitosis.
 

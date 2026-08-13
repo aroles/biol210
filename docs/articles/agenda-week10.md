@@ -47,15 +47,15 @@
 
 ## Class Meetings
 
-### Mon Nov 3
+### Mon Nov 2
 
 Case study on speciation and apple maggot flies.
 
-### Wed Nov 5
+### Wed Nov 4
 
 Case study on population ecology of martens.
 
-### Fri Nov 7
+### Fri Nov 6
 
 Quiz corrections with teams.
 

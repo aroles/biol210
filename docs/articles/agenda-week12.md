@@ -5,40 +5,39 @@
 - [Link to in-class slides and
   handouts](https://drive.google.com/drive/folders/17Fm-yEXqtlvGJfFaw6WqywIScW_eZ8m_?usp=drive_link)
 
-- Note mastery projects are due Dec 1, end of day.
+- Mastery projects are due Dec 1, end of day.
 
 ## Content Videos
 
-- [34-Interspecific
-  interactions](https://drive.google.com/drive/folders/1yZ9NZvr-Xff9-Za4LcuwliBC5p6vryJB?usp=drive_link)
+- [33-Community
+  structure](https://drive.google.com/drive/folders/1ybQ88SfnQc1fUHeUuw3n1XkoZxdJA72o?usp=drive_link)
 
-- [35-Competition](https://drive.google.com/drive/folders/1yaAP9waCrgnbLRBYmtN7CPwAyNDx1_U7?usp=drive_link)
+- [34-Ecological
+  succession](https://drive.google.com/drive/folders/1yh9qCO88jMr__S8DLK3CrT08woxTr0xG?usp=drive_link)
+
+- [35-Energy
+  flow](https://drive.google.com/drive/folders/1yjiYffYh4xKMQbIa7744cHF5epkcV5W9?usp=drive_link)
 
 ## Assignments
 
 [Quiz
-12](https://docs.google.com/forms/d/e/1FAIpQLSeAiVE22MJMSz7bLKy8jqcZD0eSz2uHoJO5W3AUuES-MV9aJQ/viewform?usp=sf_link)
+13](https://docs.google.com/forms/d/e/1FAIpQLSfqCi4R8v0RqjRI2nNgjfLm2oHn8ofbmZF7v6Fp1m_GABdmlA/viewform?usp=sf_link)
 
-[Problem Set 12](https://aroles.github.io/biol210/articles/ps12.md)
+[Problem Set 13](https://aroles.github.io/biol210/articles/ps13.md)
 
 ## Class Meetings
 
-### Mon Nov 17
+### Mon Nov 16
 
-Case study on mycorrhizae and interactions.
+Case study on moose and foodwebs.
 
-### Wed Nov 19
+### Wed Nov 18
 
-Continue case study.
+Finish case study (or case study on toxic grazer adaptation)
 
-### Fri Nov 21
+### Fri Nov 20
 
-Case study on knapweed invasion.
-
-### Mon Nov 24
-
-Quiz corrections with teams, working on mastery projects or other course
-work.
+Quiz corrections with teams, working on other course work.
 
   
 

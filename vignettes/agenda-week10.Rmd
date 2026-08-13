@@ -1,6 +1,6 @@
 ---
 title: "BIOL 210 Course Agenda"
-date: "Week 10, Nov 3-7"
+date: "Week 10, Nov 2-6"
 output: 
   html_document:
     toc: TRUE
@@ -52,15 +52,15 @@ pkgdown:
 
 # Class Meetings
 
-## Mon Nov 3
+## Mon Nov 2
 
 Case study on speciation and apple maggot flies.
 
-## Wed Nov 5
+## Wed Nov 4
 
 Case study on population ecology of martens.
 
-## Fri Nov 7
+## Fri Nov 6
 
 Quiz corrections with teams.
 

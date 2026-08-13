@@ -1,6 +1,6 @@
 ---
 title: "BIOL 210 Course Agenda"
-date: "Week 14, Dec 8-10"
+date: "Week 11, Dec 7-9"
 output: 
   html_document:
     toc: TRUE
@@ -14,37 +14,41 @@ pkgdown:
 
 # Reminders
 
+* Exam 2 is available (covers through last week) -- check your due date; email Angie in advance if need to move.
+
 * [Link to in-class slides and handouts](https://drive.google.com/drive/folders/17Fm-yEXqtlvGJfFaw6WqywIScW_eZ8m_?usp=drive_link)
 
-* All regular semester work should be completed by end-of-day on Wed Dec 10.
-
-* [Link to Final Reflection](https://docs.google.com/document/d/1uDd48QS5ZeWfpClWL5Fbe-xXCigzw97MK6KX58WEbtg/edit?usp=drive_link) (complete before 12/16). Answer the questions and then set a meeting with Angie (<10 minutes).
-
-* [Set up a reflection meeting with Angie.](https://calendar.app.google/4pvCXX1hu8CCpEeHA) This meeting must be completed between Dec 11 and 16. If none of the available times works for you, please email Angie directly.
-
-* [Final Exam 3](https://docs.google.com/document/d/1g5xNaFgDjosCiYs94WgUOx2e1TLm5BsCIJZLHHa-4uc/edit?usp=drive_link) must be completed by 4pm on 12/16.
+* Conservation Ecology Job Candidate talks this week by Logan Billet
+    * Mon Nov 10, 12:10-1:20pm in Craig Aud, Research seminar (pizza available)
+    * Mon Nov 10, 4:45-5:30pm in SCTR A155, Teaching demonstration
 
 # Content Videos
 
-* [39-Biodiversity patterns](https://drive.google.com/drive/folders/1yk1bSIUVvq_bd5oAvv5VhSX_NzsThVC-?usp=drive_link)
+* [38-Behavior](https://drive.google.com/drive/folders/1yRWAfJVfDEalk7Fva43soyIqrw7gMCTv?usp=drive_link)
 
-* [40-Nutrient cycling](https://drive.google.com/drive/folders/1ypO3LersGapwi0DxzmVHffZUQEjHmd_-?usp=drive_link)
+* [39-Learning](https://drive.google.com/drive/folders/1yWF8c_eNaCuVEYLx1tUnMCQ28k_zyiR7?usp=drive_link)
+
+* [40-Genetics of behavior](https://drive.google.com/drive/folders/1yZ5AqPPyYVdMFwmJAJl_ak7Trm5W9tJL?usp=drive_link)
+
 
 # Assignments
 
-[Quiz 14](https://docs.google.com/forms/d/e/1FAIpQLSeeMx2DJL6hopi_OKirtelc6cExaqrhDR1hILCLpPFqkEfobw/viewform?usp=sf_link)
+[Quiz 11](https://docs.google.com/forms/d/e/1FAIpQLSeRQFX6rspY9Z_MHYpADqDYgQzyEzxiGY1HJNvR2dUwOGeYDA/viewform?usp=sf_link)
 
-[Problem Set 14](ps14.html)
+[Problem Set 11](ps11.html)
 
 # Class Meetings
 
-## Mon Dec 8
+## Mon Dec 7
 
-Case study on algal blooms and nutrients.
+Case study on sexual cannibalism in Australian redback spiders.
 
-## Wed Dec 10
+## Wed Dec 9
 
-Quiz corrections with teams, working on other course work.
+Case study on guarding behavior in meerkats.
+
+[Video introducing meerkats](https://www.youtube.com/watch?v=9L2XIR4tiF8)
+
 
 <br>
 
