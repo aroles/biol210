@@ -1,5 +1,8 @@
 # BIOL 210 Problem Set 1
 
+[You can download an editable version of this Problem Set
+here](https://aroles.github.io/biol210/articles/sheets/ps1.docx).
+
 ## General Instructions for Problem Sets
 
 The goal of the problem sets is to give you practice thinking about and
@@ -17,7 +20,7 @@ problem set). If your responses are missing important information or
 incorrect, you need to correct them, using a different color font and
 explaining why your original answer was insufficient.
 
-Use the link at the top of this page to turn in your completed
+Use the link at the top of this webpage to turn in your completed
 assignment, including corrections.
 
 ## Related Readings
@@ -28,7 +31,7 @@ answer some problems.
 
 - **REQUIRED READING:** Before attempting the problem set, watch the
   content videos (see agenda) and [read this background
-  information](https://aroles.github.io/biol210/articles/ps1reading.md).
+  information](https://aroles.github.io/biol210/articles/ps1reading.html).
 
 - Background reading from the open textbook [Biology
   2e](https://openstax.org/books/biology-2e/pages/1-introduction) at
@@ -43,7 +46,7 @@ answer some problems.
 - **READ AT LEAST ONE OF THESE:** Readings from Gathering Moss by Robin
   Wall Kimmerer (15 pages total)
 
-  - [Preface: Seeng the World Through Moss-Colored
+  - [Preface: Seeing the World Through Moss-Colored
     Glasses](https://drive.google.com/file/d/1rGV8pRe6PxKJuwb80-qzgYzPylFf_X3l/view?usp=drive_link)
   - [The Standing
     Stones](https://drive.google.com/file/d/1qMr25Uu6sXQD1mfKNg31AOde4yP_48tg/view?usp=drive_link)
@@ -59,7 +62,7 @@ answer some problems.
     1.  fruit fly
     2.  whale shark
     3.  Venus flytrap
-    4.  magic mushrooms
+    4.  fluted bird’s nest fungus
 
       
 
@@ -107,10 +110,10 @@ answer some problems.
       
 
 8.  Now find all of the clades in Tree 1. How many are there? List them,
-    using the node to define the clade (so clade defined by node A would
-    be everything on the tree). (Remember that the clade is defined by
-    an ancestor and all of its descendants, so all should be contained
-    in the grouping.)
+    using the node to define the clade (so the clade defined by node A
+    would be everything on the tree). Remember that the clade is defined
+    by an ancestor and all of its descendants, so all should be
+    contained in the grouping.
       
 
 9.  Below are several groups of taxa, some of which form clades in Tree
@@ -146,7 +149,7 @@ answer some problems.
     number corresponds to which of the following taxa, giving an example
     species, and listing defining features of the taxon (not the
     specific species but the larger taxonomic group). **Note the
-    additional question after the table.**
+    additional reflection question after the table.**
 
       
 
@@ -187,7 +190,7 @@ answer some problems.
 
   
 
-**When you are finished, check your responses on the [key for
-PS1](https://aroles.github.io/biol210/articles/ps1key.md).**
+Turn in your completed Problem Set to the [Assignment Submission
+Form](https://docs.google.com/forms/d/e/1FAIpQLScJMEW72xvMW2KMuCenetBqUhi-AXqvbI5okDjlbV6hEdkIsQ/viewform?usp=sf_link).
 
 Remember to sign the Honor Code on your assignment.

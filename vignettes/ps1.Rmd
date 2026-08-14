@@ -1,19 +1,21 @@
 ---
 title: "BIOL 210 Problem Set 1"
-date: "Week 1, Sep 4-6"
+date: "Week 1, due Aug 30"
 output:
-  word_document:
-    toc: true
-    toc_depth: '3'
-  pdf_document:
-    toc: true
-    toc_depth: 3
   html_document:
     toc: true
     toc_depth: 3
+  pdf_document:
+    toc: true
+    toc_depth: 3
+  word_document:
+    toc: true
+    toc_depth: '3'
 pkgdown:
   as_is: true
 ---
+[You can download an editable version of this Problem Set here](https://aroles.github.io/biol210/articles/sheets/ps1.docx).
+
 # General Instructions for Problem Sets
 
 The goal of the problem sets is to give you practice thinking about and working with the concepts that we are covering. You may work with others to complete these assignments but should submit your own responses (not copied from someone else's response). 
@@ -22,13 +24,13 @@ The goal of the problem sets is to give you practice thinking about and working 
 
 Once you have answered the questions and before you turn in your responses, check your work against the answer key (linked for each problem set). If your responses are missing important information or incorrect, you need to correct them, using a different color font and explaining why your original answer was insufficient.
 
-Use the link at the top of this page to turn in your completed assignment, including corrections.
+Use the link at the top of this webpage to turn in your completed assignment, including corrections.
 
 # Related Readings
 
 Usually these readings will be optional for learning more about the topics we're covering. Occasionally, some readings will be required to answer some problems.
 
-* **REQUIRED READING:** Before attempting the problem set, watch the content videos (see agenda) and [read this background information](ps1reading.html).
+* **REQUIRED READING:** Before attempting the problem set, watch the content videos (see agenda) and [read this background information](https://aroles.github.io/biol210/articles/ps1reading.html).
 
 * Background reading from the open textbook [Biology 2e](https://openstax.org/books/biology-2e/pages/1-introduction) at Openstax -- you can read online or download a PDF.
     * Unit 1: Chapter 1. The Study of Life
@@ -37,7 +39,7 @@ Usually these readings will be optional for learning more about the topics we're
     <br><br>
     
 * <b>READ AT LEAST ONE OF THESE:</b> Readings from Gathering Moss by Robin Wall Kimmerer (15 pages total)
-    * [Preface: Seeng the World Through Moss-Colored Glasses](https://drive.google.com/file/d/1rGV8pRe6PxKJuwb80-qzgYzPylFf_X3l/view?usp=drive_link)
+    * [Preface: Seeing the World Through Moss-Colored Glasses](https://drive.google.com/file/d/1rGV8pRe6PxKJuwb80-qzgYzPylFf_X3l/view?usp=drive_link)
     * [The Standing Stones](https://drive.google.com/file/d/1qMr25Uu6sXQD1mfKNg31AOde4yP_48tg/view?usp=drive_link)
     * [Learning to See](https://drive.google.com/file/d/1OSLuu2vlIzyyGz22jsnAHFpt7OKfpvk6/view?usp=drive_link)
 
@@ -50,7 +52,7 @@ Usually these readings will be optional for learning more about the topics we're
 <li> fruit fly</li>
 <li> whale shark</li>
 <li> Venus flytrap</li>
-<li> magic mushrooms </li>
+<li> fluted bird's nest fungus </li>
 </ol>
 <br>
 <li> As a reminder about the proper formatting, for each of the examples below, describe what is incorrect about the binomial nomenclature.</li>
@@ -61,7 +63,7 @@ Usually these readings will be optional for learning more about the topics we're
 <li> *Sapiens*</li>
 </ol>
 <br>
-<li>Use the [Oak Phylogeny Sheet](sheets/sci_articles/Oak.Phylogeny.Worksheet.pdf) for questions 3-9. List the terminal taxon or taxa (in this case, species) identified by their most recent common ancestor, that are sister to each oak below.</li>
+<li>Use the [Oak Phylogeny Sheet](https://aroles.github.io/biol210/articles/sheets/sci_articles/Oak.Phylogeny.Worksheet.pdf) for questions 3-9. List the terminal taxon or taxa (in this case, species) identified by their most recent common ancestor, that are sister to each oak below.</li>
 <ol type="a">
 <li> northern red oak is sister to... </li>
 <li> post oak is sister to...</li>
@@ -83,7 +85,7 @@ Usually these readings will be optional for learning more about the topics we're
 
 <li> Which terminal taxa are in the clade that is defined by node E?</li>
 <br>
-<li> Now find all of the clades in Tree 1. How many are there? List them, using the node to define the clade (so clade defined by node A would be everything on the tree). (Remember that the clade is defined by an ancestor and all of its descendants, so all should be contained in the grouping.)</li>
+<li> Now find all of the clades in Tree 1. How many are there? List them, using the node to define the clade (so the clade defined by node A would be everything on the tree). Remember that the clade is defined by an ancestor and all of its descendants, so all should be contained in the grouping.</li>
 <br>
 <li> Below are several groups of taxa, some of which form clades in Tree 1 and others of which do not. Place an X next to each group of taxa below that collectively form a clade in Tree 1.
 <ol type="a">
@@ -94,7 +96,7 @@ Usually these readings will be optional for learning more about the topics we're
 <li> post oak, overcup oak</li>
 </ol>
 <br>
-<li>Referring to the [Tree of Life sheet](sheets/sci_articles/tolblank.pdf) (before filled out):
+<li>Referring to the [Tree of Life sheet](https://aroles.github.io/biol210/articles/sheets/sci_articles/tolblank.pdf) (before filled out):
 <ol type="a">
 <li> How many taxa on this tree possess vertebrae?</li>
 <li> Find the branch where “segmentation” evolved. Is this trait present in all of the descendants of this ancestor?</li>
@@ -102,7 +104,7 @@ Usually these readings will be optional for learning more about the topics we're
 <li> Which taxa on the tree are segmented but lack a collagen cuticle?</li>
 </ol>
 <br>
-<li>Complete the table below, using the [Tree of Life sheet](sheets/sci_articles/tolblank.pdf) and other resources (texts, internet, etc) to figure out which number corresponds to which of the following taxa, giving an example species, and listing defining features of the taxon (not the specific species but the larger taxonomic group). <b>Note the additional question after the table.</b></li>
+<li>Complete the table below, using the [Tree of Life sheet](https://aroles.github.io/biol210/articles/sheets/sci_articles/tolblank.pdf) and other resources (texts, internet, etc) to figure out which number corresponds to which of the following taxa, giving an example species, and listing defining features of the taxon (not the specific species but the larger taxonomic group). <b>Note the additional reflection question after the table.</b></li>
 <br>
 
 ```{r tab, echo = FALSE, results = 'asis', message = FALSE, warning = FALSE}
@@ -124,7 +126,6 @@ knitr::kable(tab)
 </ol>
 <br>
 
-
-<b>When you are finished, check your responses on the [key for PS1](ps1key.html).</b>
+Turn in your completed Problem Set to the [Assignment Submission Form](https://docs.google.com/forms/d/e/1FAIpQLScJMEW72xvMW2KMuCenetBqUhi-AXqvbI5okDjlbV6hEdkIsQ/viewform?usp=sf_link).
 
 Remember to sign the Honor Code on your assignment.

@@ -23,20 +23,17 @@ assignment. Problem Sets are due on Sundays.
 ## Weekly Problem Sets
 
 - [PS 1 - due Aug 30](https://aroles.github.io/biol210/articles/ps1.md)
-- [PS 2 - due Sep 6](https://aroles.github.io/biol210/articles/ps2.md)
-- [PS 3 - due Sep 13](https://aroles.github.io/biol210/articles/ps3.md)
-- [PS 4 - due Sep 20](https://aroles.github.io/biol210/articles/ps4.md)
-- [PS 5 - due Sep 27](https://aroles.github.io/biol210/articles/ps5.md)
-- [PS 6 - due Oct 4](https://aroles.github.io/biol210/articles/ps6.md)
-- [PS 7 - due Oct 11](https://aroles.github.io/biol210/articles/ps7.md)
+- [PS 2 - due Sep 6](https://aroles.github.io/biol210/articles/404.md)
+- [PS 3 - due Sep 13](https://aroles.github.io/biol210/articles/404.md)
+- [PS 4 - due Sep 20](https://aroles.github.io/biol210/articles/404.md)
+- [PS 5 - due Sep 27](https://aroles.github.io/biol210/articles/404.md)
+- [PS 6 - due Oct 4](https://aroles.github.io/biol210/articles/404.md)
+- [PS 7 - due Oct 11](https://aroles.github.io/biol210/articles/404.md)
 - Oct 21-25 – FALL BREAK NO ASSIGNMENT
-- [PS 8 - due Oct 25](https://aroles.github.io/biol210/articles/ps8.md)
-- [PS 9 - due Nov 1](https://aroles.github.io/biol210/articles/ps9.md)
-- [PS 10 - due Nov 8](https://aroles.github.io/biol210/articles/ps10.md)
-- [PS 11 - due Nov
-  15](https://aroles.github.io/biol210/articles/ps11.md)
-- [PS 12 - due Nov
-  22](https://aroles.github.io/biol210/articles/ps12.md)
-- [PS 13 - due Nov
-  29](https://aroles.github.io/biol210/articles/ps13.md)
-- [PS 14 - due Dec 9](https://aroles.github.io/biol210/articles/ps14.md)
+- [PS 8 - due Oct 25](https://aroles.github.io/biol210/articles/404.md)
+- [PS 9 - due Nov 1](https://aroles.github.io/biol210/articles/404.md)
+- [PS 10 - due Nov 8](https://aroles.github.io/biol210/articles/404.md)
+- [PS 11 - due Nov 15](https://aroles.github.io/biol210/articles/404.md)
+- [PS 12 - due Nov 22](https://aroles.github.io/biol210/articles/404.md)
+- [PS 13 - due Nov 29](https://aroles.github.io/biol210/articles/404.md)
+- [PS 14 - due Dec 9](https://aroles.github.io/biol210/articles/404.md)

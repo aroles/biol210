@@ -1,6 +1,6 @@
 # Authors@R: person("Prof. A. Roles", email = "", role = c("aut", "cre"))
 
- remotes::install_github("aroles/biol210")
+ # remotes::install_github("aroles/biol210")
 # run above if updated R otherwise package will not be found
 # also install any packages needed, check ps7key
  # pkgs remotes, pkgdown, here, gt, kableExtra
