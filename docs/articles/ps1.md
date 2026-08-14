@@ -1,7 +1,7 @@
 # BIOL 210 Problem Set 1
 
 [You can download an editable version of this Problem Set
-here](https://aroles.github.io/biol210/articles/sheets/ps1.docx).
+here](https://docs.google.com/document/d/1_k2rgIxbo_gg6jAWREVBvZFDi5lDPXLT/edit?usp=drive_link&ouid=107508568211857334485&rtpof=true&sd=true).
 
 ## General Instructions for Problem Sets
 

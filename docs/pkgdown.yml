@@ -23,35 +23,21 @@ articles:
   problemsets: problemsets.html
   ps1: ps1.html
   ps10: ps10.html
-  ps10key: ps10key.html
   ps11: ps11.html
-  ps11key: ps11key.html
   ps12: ps12.html
-  ps12key: ps12key.html
   ps13: ps13.html
-  ps13key: ps13key.html
   ps14: ps14.html
-  ps14key: ps14key.html
-  ps1key: ps1key.html
   ps1reading: ps1reading.html
   ps2: ps2.html
-  ps2key: ps2key.html
   ps3: ps3.html
-  ps3key: ps3key.html
   ps4: ps4.html
-  ps4key: ps4key.html
   ps5: ps5.html
-  ps5key: ps5key.html
   ps6: ps6.html
-  ps6key: ps6key.html
   ps7: ps7.html
-  ps7key: ps7key.html
   ps8: ps8.html
-  ps8key: ps8key.html
   ps9: ps9.html
-  ps9key: ps9key.html
   quizzes: quizzes.html
-last_built: 2026-08-14T14:01Z
+last_built: 2026-08-14T14:09Z
 urls:
   reference: https://aroles.github.io/biol210/reference
   article: https://aroles.github.io/biol210/articles
