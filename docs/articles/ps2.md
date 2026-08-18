@@ -1,24 +1,32 @@
 # BIOL 210 Problem Set 2
 
+[You can download an editable version of this Problem Set
+here](https://drive.google.com/drive/folders/1nRUFpZG5hHVy7_ULW9vdnKwHFUj5iW7l?usp=drive_link).
+
 ## General Instructions for Problem Sets
 
 The goal of the problem sets is to give you practice thinking about and
-working with the concepts that we are covering. You may work with others
-to complete these assignments but should submit your own responses (not
-copied from someone else’s response).
+working with the concepts that we are covering. You should work solo to
+complete these assignments though you may want to do internet searches
+sometimes.
 
 **Before completing a problem set, you should review the content videos
 for the week and it may be helpful to complete those before the related
 class periods as well.**
 
-Once you have answered the questions and before you turn in your
-responses, check your work against the answer key (linked for each
-problem set). If your responses are missing important information or
-incorrect, you need to correct them, using a different color font and
-explaining why your original answer was insufficient.
+Use the link at the top of this webpage to turn in your completed
+assignment.
 
-Use the link at the top of this page to turn in your completed
-assignment, including corrections.
+### Problem Set Specifications
+
+To earn an “S”:
+
+- Completeness: Every question is thoroughly attempted.
+- Accuracy: At least 80% of responses demonstrate correct logical
+  reasoning, accurate quantitative calculations, and correct use of
+  biological terms.
+- Integrity & Sources: Citations are included where required, and work
+  adheres to the Honor Code.
 
 ## Related Readings
 
@@ -76,36 +84,49 @@ would be helpful.
 
 #### About Genomes
 
+Many of the following are short and useful:
+
 - [Developing the Chromosome
   Theory](https://www.nature.com/scitable/topicpage/developing-the-chromosome-theory-164/)
+
 - [Genome Packaging in Prokaryotes: the Circular Chromosome of E.
   coli](https://www.nature.com/scitable/topicpage/genome-packaging-in-prokaryotes-the-circular-chromosome-9113/)
+
 - [DNA Packaging: Nucleosomes and
   Chromatin](https://www.nature.com/scitable/topicpage/dna-packaging-nucleosomes-and-chromatin-310/)
+
 - [Chromosome Mapping:
   Idiograms](https://www.nature.com/scitable/topicpage/chromosome-mapping-idiograms-302/)
+
 - [Chromosomal Abnormalities:
   Aneuploidies](https://www.nature.com/scitable/topicpage/chromosomal-abnormalities-aneuploidies-290/)
+
 - [Transposons: The Jumping
   Genes](https://www.nature.com/scitable/topicpage/transposons-the-jumping-genes-518/)
+
 - The Learn.Genetics site at University of Utah has a lot of good info;
   [What are Chromosomes?](https://aroles.github.io/biol210/articles/)
+
 - Pavelka, N, G Rancati, J Zhu, WD Bradford, A Saraf, L Florens, BW
   Sanderson, GL Hattem, and R Li. 2010. [Aneuploidy confers quantitative
   proteome changes and phenotypic variation in budding
   yeast.](https://www.nature.com/articles/nature09529) Nature
-  468:321-325 *This is a primary research article accompanied by a less
-  technical synopsis. In this work, the authors experimentally
-  manipulate chromosome numbers in budding yeast, demonstrating that
-  having “abnormal” numbers of chromosomes is not necessarily a bad
-  thing.*
+  468:321-325
+
+  *This is a primary research article accompanied by a less technical
+  synopsis. In this work, the authors experimentally manipulate
+  chromosome numbers in budding yeast, demonstrating that having
+  “abnormal” numbers of chromosomes is not necessarily a bad thing.*
+
 - Nosek, J, P Kosa, and L Tomaska. 2006. [On the origin of telomeres: a
   glimpse at the pre-telomerase
   world.](https://onlinelibrary.wiley.com/doi/pdf/10.1002/bies.20355)
-  BioEssays 28:182-190. *In this review, the authors describe variation
-  in chromosomal structure (e.g., linear versus circular chromosomes)
-  and how telomeres are important in solving problems that arise when
-  chromosomes become linearized.*
+  BioEssays 28:182-190.
+
+  *In this review, the authors describe variation in chromosomal
+  structure (e.g., linear versus circular chromosomes) and how telomeres
+  are important in solving problems that arise when chromosomes become
+  linearized.*
 
 ## Questions
 
@@ -116,15 +137,15 @@ would be helpful.
     so I can make sure they are suitable. Do not use direct quotes to
     answer the questions, rephrase to put the answers into your own
     words.
-    1.  What’s so different about eukaryotes that makes it hard to
-        figure out how they evolved? Why do you think eukaryotes are
-        sometimes referred to as a chimera?
+    1.  Why are eukaryotes sometimes referred to as a chimera? Why is it
+        hard to figure out how they evolved?
     2.  Why do you think scientists at first concluded that each of the
         three domains is monophyletic? What evidence led them to that
         conclusion?
-    3.  What changed and led to the suggestion that there are only 2
-        domains and Archaea is not a monophyletic group? Did evidence
-        support this idea?
+    3.  What more recent evidence led to the suggestion that there are
+        only 2 domains and Archaea is not a monophyletic group? Do all
+        biologists agree that Eukaryotes are a sub-group of Archaea?
+        Explain.
 
       
 
@@ -133,10 +154,9 @@ would be helpful.
     different from an autosome?
       
 
-3.  Draw and describe each of the following structures. What is the
-    ploidy of each? How many copies of the chromosome are present?
-    (Note: We go over this exercise in content videos BUT you should be
-    able to complete it without consulting any references.)
+3.  Draw and describe each of the following structures. (Note: We go
+    over this exercise in content videos BUT you should be able to
+    complete it without consulting any references.)
     1.  one chromatid
     2.  a replicated chromosome
     3.  a pair of homologous chromosomes
@@ -144,6 +164,9 @@ would be helpful.
     5.  a pair of sister chromatids
     6.  two non-homologous chromosomes
 
+    For each, indicate (1) the ploidy of the structure and (2) how many
+    copies of the chromosome are present. Please insert images into your
+    document or use Insert –\> Drawing in Google Docs or Draw in Word.  
       
 
 4.  Within a species, the number of chromosomes is usually fixed, or
@@ -154,8 +177,8 @@ would be helpful.
     chromosome numbers vary widely among species (e.g., yeast has 2n =
     32, fruit flies have 2n = 8, carp have 2n = 104). If losing or
     gaining chromosomal information is such a problem, even sometimes
-    fatal, how can we understand how the large variation in chromosome
-    number among different taxa could have arisen?
+    fatal, **how can we understand how the large variation in chromosome
+    number among different taxa could have arisen?**
 
       
 
@@ -168,8 +191,5 @@ would be helpful.
       you?
 
   
-
-**When you are finished, check your responses on the [key for
-PS2](https://aroles.github.io/biol210/articles/ps2key.md).**
 
 Remember to sign the Honor Code on your assignment.

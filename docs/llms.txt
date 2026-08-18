@@ -146,11 +146,12 @@ You are expected to adhere to and sign the Honor Code:
 4.  For all reflection assignments and the individual mastery project.
 
 Your instructors are required to report any suspected violations of the
-Honor Code to the Honor Committee. Independent of any deliberations of
+Honor Code to the Honor Committee. **Independent of any deliberations of
 the Honor Committee, in this course suspected violations of the Honor
 Code may result in amendment of the final grade to a D or F if deemed
-appropriate. More information on the Oberlin Honor Code may be found
-here:
+appropriate.**
+
+More information on the Oberlin Honor Code may be found here:
 <https://www.oberlin.edu/dean-of-students/student-conduct/academic-integrity>.
 
 ### Use of Artificial Intelligence (AI)
@@ -223,15 +224,12 @@ Satisfactory work:
 
 | Component | A Bundle | B Bundle | C Bundle | D Bundle |
 |:---|:--:|:--:|:--:|:--:|
-| Class attendance (41 days) | Miss \<5 class periods | Miss \<8 class periods | Miss \<11 class periods | Miss \<13 class periods |
+| Class attendance (41 days) | Miss \<3 class periods | Miss \<6 class periods | Miss \<9 class periods | Miss \<12 class periods |
 | Problem Sets (14 total) | Earn S on at least 12 | Earn S on at least 10 | Earn S on at least 8 | Earn S on at least 6 |
-| Quizzes (13 total) | Earn S on at least 12 | Earn S on at least 10 | Earn S on at least 8 | Earn S on at least 6 |
+| Quizzes (12 total) | Earn S on at least 11 | Earn S on at least 9 | Earn S on at least 7 | Earn S on at least 5 |
 | Exams (3 total) | Achieve High Pass on all exams | Achieve Pass on all exams | Achieve Pass on 2 exams | Attempt all exams |
 | Reflections (2 total) | Earn S on both Midterm & Final | Earn S on both Midterm & Final | Earn S on at least 1 Reflection | Complete 1 Reflection |
-| Master Project | Achieve Pass on project | \- | \- | \- |
-
-*Note: Plus/Minus (+/-) grades are determined by token balance at the
-end of the term or performance on optional advanced challenge problems.*
+| Mastery Project | Achieve Pass on project | \- | \- | \- |
 
 #### The Token System
 
@@ -243,8 +241,8 @@ You may spend **1 Token** to:
 
 - **Revise a Problem Set:** Submit a revised Problem Set within 5 days
   of receiving a “U” to bring it to “S” status.
-- **Revise a Quiz:** Submit second revisions (after initial group
-  revisions) for a Quiz with achieve an “S”.
+- **Revise a Quiz:** Submit individual second revisions (after initial
+  group revisions) for a Quiz to achieve an “S”.
 - **Exam Revision:** Submit a thorough test corrections reflection on an
   exam to upgrade a “U” to a “Pass”.
 
@@ -264,11 +262,10 @@ semester with 3 Flex Days.
   using a Flex Day (or more than one) when turning in your late work.
 
 - Exhausting Flex Days: Once your 3 Flex Days are used, late work will
-  automatically receive an Unsatisfactory (U) unless cleared using a
-  Token (1 Token = 24-hour late submission).
+  automatically receive an Unsatisfactory (U).
 
 - Exams & In-Class Quizzes: Flex Days cannot be used for exams or
-  in-class assignments.
+  in-class quizzes.
 
 **Note: No late work will be accepted after an answer key is published
 or the assignment is discussed in class.**
@@ -292,9 +289,8 @@ class on time disadvantages your group.
 A set of content videos is assigned for each week (videos less than 20m
 each), providing the content that you are learning in a lecture format.
 Live class meetings will focus on particular aspects of the content and
-explore them in greater depth via case studies. Weekly quizzes (about
-10-20 multiple choice or true/false questions) practice the
-understanding you are learning in the videos and lecture meetings.
+explore them in greater depth via case studies. Weekly quizzes practice
+the understanding you are learning in the videos and lecture meetings.
 
 Quizzes occur on Fridays and are divided into two parts:
 
@@ -305,7 +301,7 @@ Quizzes occur on Fridays and are divided into two parts:
     corrections are turned in by the end of the period via the quiz
     corrections form.
 
-#### Specifications for a Satisfactory (S) Quiz:
+##### Quiz Specifications:
 
 To earn an **S** on a Friday Quiz, your submission must meet **ALL** of
 the following criteria:
@@ -334,10 +330,10 @@ provided in most cases. You may use any source of information that you
 desire to complete these problem sets, except working with other
 students in the course. You will submit your responses for each problem
 set via the Assignment Submission form. Problem sets will be marked “S”,
-“U”, or “T” (Token used), corresponding with how well they meet the
-specifications for the assignment.
+“U”, corresponding with how well they meet the specifications for the
+assignment.
 
-Problem Set Specifications:
+##### Problem Set Specifications:
 
 - Completeness: Every question is thoroughly attempted.
 - Accuracy: At least 80% of responses demonstrate correct logical
@@ -359,7 +355,11 @@ exam but you should not discuss the exam with anyone other than Angie.
 There will be no time limit on completion of the exam. Exams will be
 available at least 1 week before they are due.
 
-Exam Specifications:
+Exam 1 is due Oct 2, end of day.  
+Exam 2 is due Nov 13, end of day.  
+Exam 3 is due Dec 14 at 4pm.
+
+##### Exam Specifications:
 
 - Core Specs (Pass): Correctly answer at least 80% of Core conceptual
   questions.
@@ -374,13 +374,15 @@ merely hoping that your work meets someone else’s standards. To that
 end, it’s important that you engage in a process of self-reflection. It
 is only by examining how things have gone and comparing that to how you
 might like them to have gone, that you can plan for making adjustments
-in the future. **For this course, you will undertake one self-reflection
-after the first month of classes (by Oct 2) and a second at the end of
-the term (by Dec 14).** For each, you will complete and submit the
-provided form before attending a short meeting scheduled with Angie to
-discuss your responses.
+in the future.
 
-Reflection Specifications:
+**For this course, you will undertake one self-reflection after the
+first month of classes (by Oct 2) and a second at the end of the term
+(by Dec 14).** For each, you will complete and submit the provided form
+before attending a short meeting scheduled with Angie to discuss your
+responses.
+
+##### Reflection Specifications:
 
 - Depth & Honesty: Address all reflection prompts completely.
 - Evidence: Reference specific progress tracker data, strengths, and
@@ -399,7 +401,7 @@ type of project. Topics from any point in the course, including the
 second half, are suitable topics; please see Angie if you are unsure or
 would like to brainstorm topics.
 
-Phase 1: Project Proposal Specs (Due Oct 10)
+##### Phase 1: Project Proposal Specs (Due Oct 10)
 
 - Timeline: Submitted by October 10 via the assignment submission
   form.  
@@ -413,42 +415,38 @@ Phase 1: Project Proposal Specs (Due Oct 10)
 - Approval: Reviewed and approved by Prof. Roles (if revisions are
   needed, they must be completed promptly).
 
-Phase 2: Final Project Specs (Due Dec 1)
+##### Phase 2: Final Project Specs (Due Dec 1)
 
 1.  Research & Content Depth
-
-- Individual Effort: Work is completed entirely independently.  
-- Scholarly Foundation: Cites a minimum of 10 scholarly sources.  
-- Target Audience & Depth: Content demonstrates advanced,
-  biology-major-level understanding beyond standard course coverage.  
-- Citation Standards: In-text citations and reference lists adhere to
-  CSE format.
-
+    - Individual Effort: Work is completed entirely independently.  
+    - Scholarly Foundation: Cites a minimum of 10 scholarly sources.  
+    - Target Audience & Depth: Content demonstrates advanced,
+      biology-major-level understanding beyond standard course
+      coverage.  
+    - Citation Standards: In-text citations and reference lists adhere
+      to CSE format.  
 2.  Format Specifications (Choose ONE option)
-
-- Option A: Research Paper
-  - Page Count: Length is 12–15 pages of body text. (Note: Title page,
-    figures, tables, images, and bibliography do not count toward this
-    limit).  
-  - Formatting: Typed, double-spaced, using standard 12pt font.  
-- Option B: Informational Video Presentation
-  - Duration: Video runtime is 10–15 minutes long.  
-  - Accompanying Deliverables: Submitted along with a full reference
-    list and a 1 page or less narrative description summarizing the work
-    carried out.
-
+    - Option A: Research Paper
+      - Page Count: Length is 12–15 pages of body text. (Note: Title
+        page, figures, tables, images, and bibliography do not count
+        toward this limit).  
+      - Formatting: Typed, double-spaced, using standard 12pt font.  
+    - Option B: Informational Video Presentation
+      - Duration: Video runtime is 10–15 minutes long.  
+      - Accompanying Deliverables: Submitted along with a full reference
+        list and a 1 page or less narrative description summarizing the
+        work carried out.  
 3.  Final Submission
-
-- Deadline: Submitted via the official Assignment Submission Form by
-  December 1.
+    - Deadline: Submitted via the official Assignment Submission Form by
+      December 1.
 
 ## Expected Weekly Schedule
 
 | Week | Dates | Topics |
 |:---|:---|:---|
 | 1 | Aug 26-28 | Course Introduction; Biodiversity, Phylogenies, Cells |
-| 2 | Sep 02-04 | Eukarya, Genomes, Eukaryotic genomes |
-| 3 | Sep 07-11 | Mitosis, Meiosis, Life cycles |
+| 2 | Aug 31-Sep 04 | Eukarya, Genomes, Eukaryotic genomes |
+| 3 | Sep 09-11 | Mitosis, Meiosis, Life cycles |
 | 4 | Sep 14-18 | Genes, Transcription, RNA processing |
 | 5 | Sep 21-25 | Translation, Sex determination, Inheritance and segregation |
 | 6 | Sep 28-Oct 02 | Dominance, Independent assortment, Linkage |
@@ -458,9 +456,9 @@ Phase 2: Final Project Specs (Due Dec 1)
 | 9 | Oct 26-30 | Nonrandom mating, Selection, Heritability |
 | 10 | Nov 02-06 | Speciation, Population Ecology, Life History |
 | 11 | Nov 09-13 | Interspecific interactions, Competition |
-| 12 | Nov 16-23 | Community structure, Ecological succession, Energy flow |
+| 12 | Nov 16-20 | Community structure, Ecological succession, Energy flow |
 | \- | Nov 26-28 | Thanksgiving Break |
-| 13 | Nov 30-Dec 04 | Biodiversity patterns, Nutrient cycling |
+| 13 | Nov 23-Dec 04 | Biodiversity patterns, Nutrient cycling |
 | 14 | Dec 07-09 | Behavior, Learning, Genetics of behavior |
 | \- | Dec 10-13 | Reading Period |
 | \- | Dec 14, 2pm | Final Exam slot |
@@ -501,8 +499,7 @@ Phase 2: Final Project Specs (Due Dec 1)
   Agenda](https://aroles.github.io/biol210/articles/agenda-week8.md):
 - [BIOL 210 Course
   Agenda](https://aroles.github.io/biol210/articles/agenda-week9.md):
-- [BIOL 210
-  Quizzes](https://aroles.github.io/biol210/articles/exams.md):
+- [BIOL 210 Exams](https://aroles.github.io/biol210/articles/exams.md):
 - [BIOL 210 Final
   Reflection](https://aroles.github.io/biol210/articles/finalReflection.md):
 - [BIOL 210 Midterm

@@ -31,7 +31,7 @@ the following criteria:
 - **Group Accuracy:** The final group submission achieves **85% or
   higher** accuracy across all corrections.
 - **Explanation Quality:** For *every* question your group initially got
-  wrong or debated during Part 1, your group submission includes a **1–2
+  wrong or debated during Part 1, your group submission includes a **1–3
   sentence explanation** explaining:
   - Why the initial answer/reasoning was incorrect.
   - What biological concept/principle supports the correct answer.
@@ -46,28 +46,6 @@ being sure to specify the names of your group members.
 
 ## Weekly Quizzes
 
-- [Quiz 1](https://aroles.github.io/biol210/articles/404.md) - in class
-  Sep 4
-- [Quiz 2](https://aroles.github.io/biol210/articles/404.md) - in class
-  Sep 11
-- [Quiz 3](https://aroles.github.io/biol210/articles/404.md) - in class
-  Sep 18
-- [Quiz 4](https://aroles.github.io/biol210/articles/404.md) - in class
-  Sep 25
-- [Quiz 5](https://aroles.github.io/biol210/articles/404.md) - in class
-  Oct 2
-- [Quiz 6](https://aroles.github.io/biol210/articles/404.md) - in class
-  Oct 9
-- [Quiz 7](https://aroles.github.io/biol210/articles/404.md) - in class
-  Oct 16
-- Oct 17-25 – FALL BREAK NO ASSIGNMENT
-- [Quiz 8](https://aroles.github.io/biol210/articles/404.md) - in class
-  Oct 30
-- [Quiz 9](https://aroles.github.io/biol210/articles/404.md) - in class
-  Nov 6
-- [Quiz 10](https://aroles.github.io/biol210/articles/404.md) - in class
-  Nov 13
-- [Quiz 11](https://aroles.github.io/biol210/articles/404.md) - in class
-  Nov 23
-- [Quiz 12](https://aroles.github.io/biol210/articles/404.md) - in class
-  Dec 4
+- [Quiz
+  1](https://docs.google.com/forms/d/e/1FAIpQLSclHEk-m9EhZvut1CZE3PJMxdoBZuJkcr-QTfRjAFbJAB4t5A/viewform?usp=header) -
+  in class Sep 4

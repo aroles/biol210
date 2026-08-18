@@ -12,12 +12,11 @@
 - **The first [problem set is
   available](https://aroles.github.io/biol210/articles/ps1.md) and is
   due Sun Aug 30. You will also want to watch the week 1 content videos
-  (see [agenda week
-  1](https://aroles.github.io/biol210/articles/agenda-week1.md)).**
+  (see links below).**
 
-- **Quiz 1 will be Fri Sep 4, at the same time as Quiz 2. You will take
-  the quiz in class and then teams will work together on revisions in
-  class.**
+- **Quiz 1 will be Fri Sep 4, covering both week 1 and week 2 material.
+  You will take the quiz in class and then teams will work together on
+  revisions in class.**
 
 ## Content Videos
 
@@ -63,7 +62,7 @@ Begin case study “A Tale of Three Lice”.
 
 For the first month, these will be your assigned groups. **You should
 sit in a cluster with these folks each day that class meets.** Note:
-This year’s first team theme is carnivores of North America.
+This year’s first team theme is intertidal zone creatures.
 
 - **Anemones:**
 - **Barnacles:**

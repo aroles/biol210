@@ -18,9 +18,9 @@ pkgdown:
 
 * BIOL 211 Lab will begin next week, Tue Sep 1 and Wed Sep 2. Lab meets in K119. 
 
-* **The first [problem set is available](ps1.html) and is due Sun Aug 30. You will also want to watch the week 1 content videos (see [agenda week 1](agenda-week1.html)).**
+* **The first [problem set is available](ps1.html) and is due Sun Aug 30. You will also want to watch the week 1 content videos (see links below).**
 
-* **Quiz 1 will be Fri Sep 4, at the same time as Quiz 2. You will take the quiz in class and then teams will work together on revisions in class.**
+* **Quiz 1 will be Fri Sep 4, covering both week 1 and week 2 material. You will take the quiz in class and then teams will work together on revisions in class.**
 
 # Content Videos
 
@@ -54,7 +54,7 @@ Begin case study "A Tale of Three Lice".
 
 ### Groups for first month
 
-For the first month, these will be your assigned groups. **You should sit in a cluster with these folks each day that class meets.** Note: This year's first team theme is carnivores of North America.
+For the first month, these will be your assigned groups. **You should sit in a cluster with these folks each day that class meets.** Note: This year's first team theme is intertidal zone creatures.
 
 * <b>Anemones:</b> 
 * <b>Barnacles:</b> 

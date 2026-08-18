@@ -1,27 +1,32 @@
 # BIOL 210 Problem Set 1
 
 [You can download an editable version of this Problem Set
-here](https://docs.google.com/document/d/1_k2rgIxbo_gg6jAWREVBvZFDi5lDPXLT/edit?usp=drive_link&ouid=107508568211857334485&rtpof=true&sd=true).
+here](https://drive.google.com/drive/folders/1nRUFpZG5hHVy7_ULW9vdnKwHFUj5iW7l?usp=drive_link).
 
 ## General Instructions for Problem Sets
 
 The goal of the problem sets is to give you practice thinking about and
-working with the concepts that we are covering. You may work with others
-to complete these assignments but should submit your own responses (not
-copied from someone else’s response).
+working with the concepts that we are covering. You should work solo to
+complete these assignments though you may want to do internet searches
+sometimes.
 
 **Before completing a problem set, you should review the content videos
 for the week and it may be helpful to complete those before the related
 class periods as well.**
 
-Once you have answered the questions and before you turn in your
-responses, check your work against the answer key (linked for each
-problem set). If your responses are missing important information or
-incorrect, you need to correct them, using a different color font and
-explaining why your original answer was insufficient.
-
 Use the link at the top of this webpage to turn in your completed
-assignment, including corrections.
+assignment.
+
+### Problem Set Specifications
+
+To earn an “S”:
+
+- Completeness: Every question is thoroughly attempted.
+- Accuracy: At least 80% of responses demonstrate correct logical
+  reasoning, accurate quantitative calculations, and correct use of
+  biological terms.
+- Integrity & Sources: Citations are included where required, and work
+  adheres to the Honor Code.
 
 ## Related Readings
 

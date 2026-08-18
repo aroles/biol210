@@ -32,8 +32,7 @@
   Agenda](https://aroles.github.io/biol210/articles/agenda-week8.md):
 - [BIOL 210 Course
   Agenda](https://aroles.github.io/biol210/articles/agenda-week9.md):
-- [BIOL 210
-  Quizzes](https://aroles.github.io/biol210/articles/exams.md):
+- [BIOL 210 Exams](https://aroles.github.io/biol210/articles/exams.md):
 - [BIOL 210 Final
   Reflection](https://aroles.github.io/biol210/articles/finalReflection.md):
 - [BIOL 210 Midterm
