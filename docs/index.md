@@ -224,7 +224,7 @@ Satisfactory work:
 
 | Component | A Bundle | B Bundle | C Bundle | D Bundle |
 |:---|:--:|:--:|:--:|:--:|
-| Class attendance (41 days) | Miss \<3 class periods | Miss \<6 class periods | Miss \<9 class periods | Miss \<12 class periods |
+| Class attendance (41 days) | Miss no more than 3 class periods | Miss no more than 6 class periods | Miss no more than 9 class periods | Miss no more than 12 class periods |
 | Problem Sets (14 total) | Earn S on at least 12 | Earn S on at least 10 | Earn S on at least 8 | Earn S on at least 6 |
 | Quizzes (12 total) | Earn S on at least 11 | Earn S on at least 9 | Earn S on at least 7 | Earn S on at least 5 |
 | Exams (3 total) | Achieve High Pass on all exams | Achieve Pass on all exams | Achieve Pass on 2 exams | Attempt all exams |
