@@ -58,7 +58,7 @@ both week 1 and week 2 material.
 
 Begin case study “A Tale of Three Lice”.
 
-#### Groups for first month
+#### Groups for first month - to update Thu 8/27
 
 For the first month, these will be your assigned groups. **You should
 sit in a cluster with these folks each day that class meets.** Note:

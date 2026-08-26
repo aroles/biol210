@@ -24,10 +24,10 @@
 Exam 1 covers course material through the end of Week 5 (Sep 25).
 
 You can access [Exam 1
-here](https://docs.google.com/document/d/1tlh6gOynHN3jsrQlDlBSNCSHC-iDrr0kIgYzAowZL8Y/edit?usp=sharing).
-Make a copy for yourself and then type into the doc. Or you can create a
-separate doc for your responses. Use the link at the top of the website
-to submit the completed exam.
+here](https://aroles.github.io/biol210/articles/404.md). Make a copy for
+yourself and then type into the doc. Or you can create a separate doc
+for your responses. Use the link at the top of the website to submit the
+completed exam.
 
 ### Exam 2 - due Nov 13
 
