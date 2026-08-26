@@ -22,7 +22,7 @@ navbar:
     menu:
     - text: '----------------'
     - text: Syllabus PDF
-      href: 404.html
+      href: https://drive.google.com/file/d/1Q87iyIbhCxhbu6GXESxOAsjcro8eRJ0Y/view?usp=drive_link
 #      href: articles/sheets/sci_articles/BIOL210-syllabus-Roles-fall2025.pdf
     - text: Content Videos
       href: https://drive.google.com/drive/folders/1JYUwk8A0mCn_FV1q5LrELnBwP6ofVQwF?usp=drive_link
@@ -45,8 +45,7 @@ navbar:
     - text: Student Folders
       href: https://drive.google.com/drive/folders/1QmV9ipj560BxzW37AS_NAuRU9uN_waEt?usp=drive_link
     - text: Check Progress Spreadsheet
-      href: 404.html
-#      href: https://docs.google.com/spreadsheets/d/1OHOpksRrvnDebY0Sy5ALFL6Pvb5j0NEFvAcbDdM77eM/edit?usp=drive_link
+      href: https://docs.google.com/spreadsheets/d/1OHOpksRrvnDebY0Sy5ALFL6Pvb5j0NEFvAcbDdM77eM/edit?usp=drive_link
     - text: '----------------'
   - text: Course Agenda
     href: articles/agenda-overview.html
@@ -54,5 +53,5 @@ navbar:
     href: https://docs.google.com/forms/d/e/1FAIpQLScJMEW72xvMW2KMuCenetBqUhi-AXqvbI5okDjlbV6hEdkIsQ/viewform?usp=sf_link
   right:
     - text: BIOL 210 Fall 2026 Syllabus PDF
-      href: 404.html
+      href: https://drive.google.com/file/d/1Q87iyIbhCxhbu6GXESxOAsjcro8eRJ0Y/view?usp=drive_link
       # href: articles/sheets/sci_articles/BIOL210-syllabus-Roles-fall2025.pdf
