@@ -14,7 +14,11 @@ pkgdown:
 
 # Reminders
 
-* You can check how you are doing in the class using the Check Progress spreadsheet, linked under Course Materials (last item). Type in your name and watch your results appear!
+* Remember to watch content videos early in the week, start the problem set, and be ready for the quiz on Friday.
+
+* You can check how you are doing in the class using the Check Progress spreadsheet, linked under Course Materials (last item). Type in your T# and watch your results appear! (Be sure to delete your T# afterwards.)
+
+* The [2027 Oberlin-in-London program](https://www.oberlin.edu/oberlin-in-london) will be entitled “Evolving London: Ways of Knowing a Changing World,” offering a sensory, place, and object-based “field guide” to the city through the lens of Charles Darwin’s Origin of Species. Applications open in September.
 
 # Content Videos
 

@@ -42,7 +42,7 @@ would be helpful.
 - Williams, TA, PG Foster, CJ Cox, and TM Embley. 2013. [An archaeal
   origin of eukaryotes supports only two primary domains of
   life.](https://www.nature.com/articles/nature12779) Nature
-  504:231–236.
+  504:231-236.
 
   *This is a scientific paper, specifically a review paper, which
   summarizes current knowledge about a particular topic. In this case,
@@ -131,7 +131,7 @@ Many of the following are short and useful:
 ## Questions
 
 1.  The following questions draw upon the Eukarya video lecture and
-    related suggested reading materials (none required however the
+    related suggested reading materials (none required; however, the
     Williams et al. 2013 paper or the one from the Atlantic might be
     useful). If you find other readings you’d like to use, please ask me
     so I can make sure they are suitable. Do not use direct quotes to
@@ -149,9 +149,13 @@ Many of the following are short and useful:
 
       
 
-2.  What is a chromosome? What’s it mean for two chromosomes to be
-    “homologous” versus “non-homologous”? How is an X-chromosome
-    different from an autosome?
+2.  Let’s think carefully about chromosomes and what they represent.
+    1.  What is a chromosome?
+    2.  What’s it mean for two chromosomes to be “homologous” versus
+        “non-homologous”? Another way to say this would be to ask what
+        makes human chromosome 1 different from human chromosome 2?
+    3.  How is an X-chromosome different from an autosome?
+
       
 
 3.  Draw and describe each of the following structures. (Note: We go
@@ -191,5 +195,8 @@ Many of the following are short and useful:
       you?
 
   
+
+Turn in your completed Problem Set to the [Assignment Submission
+Form](https://docs.google.com/forms/d/e/1FAIpQLScJMEW72xvMW2KMuCenetBqUhi-AXqvbI5okDjlbV6hEdkIsQ/viewform?usp=sf_link).
 
 Remember to sign the Honor Code on your assignment.

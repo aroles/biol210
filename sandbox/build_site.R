@@ -5,9 +5,12 @@
 # also install any packages needed, check ps7key
  # pkgs remotes, pkgdown, here, gt, kableExtra
 
+# remember to knit to html before running the below; if knit to word then you may have character conversion issues
+
 pkgdown::build_site_github_pages()
 
 base_sheets <- file.path(here::here(), 'sheets')
 articles_sheets <- file.path(here::here(), 'docs', 'articles', 'sheets')
 
 fs::dir_copy(base_sheets, articles_sheets)
+
