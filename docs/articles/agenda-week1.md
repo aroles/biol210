@@ -64,13 +64,13 @@ For the first month, these will be your assigned groups. **You should
 sit in a cluster with these folks each day that class meets.** Note:
 This year’s first team theme is intertidal zone creatures.
 
-- **Anemones:**
-- **Barnacles:**
-- **Chitons:**
-- **Hermit crabs:**
-- **Limpets:**
-- **Mussels:**
-- **Periwinkles:**
-- **Sea lettuces:**
-- **Sea stars:**
-- **Sea urchins:**
+- **Anemones:** Bobby, Devin, Giulia, Lii
+- **Barnacles:** Andrea, August, David, Eleana
+- **Chitons:** Ava, Maeve, Zach, Kingston
+- **Hermit crabs:** Rose, Phoebe, Shaswat, Tyreece
+- **Limpets:** Aoife, Leo S. Manolis, Ashlyn
+- **Mussels:** Ari, Chaya, Nolan, Olivia
+- **Periwinkles:** Leo D., Max, Sylvia, Zoe
+- **Sea lettuces:** Ryan, Bix, Izzy, Marko
+- **Sea stars:** Hannah, Maggi, Peyton, John
+- **Sea urchins:** Asha, Bird, James, Rafael

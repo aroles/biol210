@@ -46,7 +46,16 @@ folder](https://drive.google.com/drive/folders/17Fm-yEXqtlvGJfFaw6WqywIScW_eZ8m_
 For the first month, these will be your assigned groups. **You should
 sit in a cluster with these folks each day that class meets.**
 
-ANGIE: COPY GROUPS FROM WEEK 1 AGENDA
+- **Anemones:** Bobby, Devin, Giulia, Lii
+- **Barnacles:** Andrea, August, David, Eleana
+- **Chitons:** Ava, Maeve, Zach, Kingston
+- **Hermit crabs:** Rose, Phoebe, Shaswat, Tyreece
+- **Limpets:** Aoife, Leo S. Manolis, Ashlyn
+- **Mussels:** Ari, Chaya, Nolan, Olivia
+- **Periwinkles:** Leo D., Max, Sylvia, Zoe
+- **Sea lettuces:** Ryan, Bix, Izzy, Marko
+- **Sea stars:** Hannah, Maggi, Peyton, John
+- **Sea urchins:** Asha, Bird, James, Rafael
 
 ### Mon Aug 31
 
