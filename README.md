@@ -33,7 +33,7 @@ Office: Science Center A134
 Email: <aroles@oberlin.edu>
 
 ### Drop-In Student Hours
-Mon, Tue 2:00-3:30pm or Thu 1:30-3:00pm, or email for appointment. You can drop in or [sign up for student hours here.](https://calendar.app.google/QpTarPNUDy71jZ948) 
+Mon, Tue 2:00-3:30pm or Thu 1:30-3:00pm, or email for appointment. You can drop in or [sign up for student hours here.](https://calendar.app.google/vruCwg5Mh6uG3pQNA) 
 
 Student Hours are times that I have set aside specifically to meet with students. I will be in my office and available – you can sign up for a slot on my gcal or just stop by and give the door a knock! You can drop in by yourself or bring friends; you may have specific questions or just want to say hi – any reason is good enough. If you aren't available during these intervals, I'm happy to find another time that works -- just email me with some times you are available. 
 

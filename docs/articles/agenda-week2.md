@@ -10,6 +10,10 @@
   T# and watch your results appear! (Be sure to delete your T#
   afterwards.)
 
+- [Sign up to meet with
+  Angie](https://calendar.app.google/vruCwg5Mh6uG3pQNA) (email with
+  options if none of the available times work)
+
 - The [2027 Oberlin-in-London
   program](https://www.oberlin.edu/oberlin-in-london) will be entitled
   “Evolving London: Ways of Knowing a Changing World,” offering a

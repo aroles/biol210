@@ -34,7 +34,7 @@ Email: <aroles@oberlin.edu>
 
 Mon, Tue 2:00-3:30pm or Thu 1:30-3:00pm, or email for appointment. You
 can drop in or [sign up for student hours
-here.](https://calendar.app.google/QpTarPNUDy71jZ948)
+here.](https://calendar.app.google/vruCwg5Mh6uG3pQNA)
 
 Student Hours are times that I have set aside specifically to meet with
 students. I will be in my office and available – you can sign up for a

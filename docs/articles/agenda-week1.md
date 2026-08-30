@@ -18,6 +18,10 @@
   You will take the quiz in class and then teams will work together on
   revisions in class.**
 
+- [Sign up to meet with
+  Angie](https://calendar.app.google/vruCwg5Mh6uG3pQNA) (email with
+  options if none of the available times work)
+
 ## Content Videos
 
 - [01-Biodiversity](https://drive.google.com/drive/folders/13zUXCk4qz2xeb_P53ceg8WtmSEPc9tcy?usp=drive_link)
