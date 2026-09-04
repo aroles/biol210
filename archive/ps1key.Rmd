@@ -24,6 +24,7 @@ pkgdown:
 <li> whale shark, <br><text style="background-color:lightcyan"><i>Rhincodon typus</i></text></li>
 <li> Venus flytrap, <br><text style="background-color:lightcyan"><i>Dionaea muscipula</i></text></li>
 <li> magic mushrooms,<br><text style="background-color:lightcyan"><i>Psilocybe semilanceata</i> or other species (many species in different genera are known by the name magic mushrooms)</text> </li>
+<li>fluted bird’s nest fungus<br><text style="background-color:lightcyan"><i>Cyathus striatus</i></text> </li>
 </ol>
 <br>
 <li> As a reminder about the proper formatting, for each of the examples below, describe what is incorrect about the binomial nomenclature.</li>
@@ -72,9 +73,9 @@ pkgdown:
 <li>Referring to the Tree of Life sheet (before filled out):
 <ol type="a">
 <li> How many taxa on this tree possess vertebrae?  <br><text style="background-color:lightcyan">4 (numbers 2-5, Lepidosaur, Aves, Mammalia, Actinopterygii)</text></li>
-<li> Find the branch where “segmentation” evolved. Is this trait present in all of the descendants of this ancestor?  <br><text style="background-color:lightcyan">No, Nematoda have lost segmentation</text></li>
+<li> Find the branch where “segmentation” evolved. Is this trait present in all of the descendants of this ancestor?  <br><text style="background-color:lightcyan">No, Nematoda (17) have lost segmentation</text></li>
 <li> Which taxa have alternation of generations but lack vascular tissue?  <br><text style="background-color:lightcyan">Moss, taxon number 16</text></li>
-<li> Which taxa on the tree are segmented but lack a collagen cuticle?  <br><text style="background-color:lightcyan">Arthropoda and Annelida</text></li>
+<li> Which taxa on the tree are segmented but lack a collagen cuticle?  <br><text style="background-color:lightcyan">Arthropoda (18) and Annelida (13). Note they are the 8th and 10th from the top. </text></li>
 </ol>
 <br>
 <li>Finally, complete the table below, using the Tree of Life sheet and other resources (texts, internet, etc) to figure out which number corresponds to which of the following taxa, giving an example species, and listing defining features of the taxon (not the specific species but the larger taxonomic group).</li>

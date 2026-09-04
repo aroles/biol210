@@ -38,7 +38,7 @@ Complete in class on Fri 9/4 individually and then go over with your
 group.
 
 [Problem Set 2](https://aroles.github.io/biol210/articles/ps2.md) is due
-Saturday.
+Sunday Sep 6.
 
 ## Class Meetings
 

@@ -1,24 +1,32 @@
 # BIOL 210 Problem Set 3
 
+[You can download an editable version of this Problem Set
+here](https://drive.google.com/drive/folders/1nRUFpZG5hHVy7_ULW9vdnKwHFUj5iW7l?usp=drive_link).
+
 ## General Instructions for Problem Sets
 
 The goal of the problem sets is to give you practice thinking about and
-working with the concepts that we are covering. You may work with others
-to complete these assignments but should submit your own responses (not
-copied from someone else’s response).
+working with the concepts that we are covering. You should work solo to
+complete these assignments though you may want to do internet searches
+sometimes.
 
 **Before completing a problem set, you should review the content videos
 for the week and it may be helpful to complete those before the related
 class periods as well.**
 
-Once you have answered the questions and before you turn in your
-responses, check your work against the answer key (linked for each
-problem set). If your responses are missing important information or
-incorrect, you need to correct them, using a different color font and
-explaining why your original answer was insufficient.
+Use the link at the top of this webpage to turn in your completed
+assignment.
 
-Use the link at the top of this page to turn in your completed
-assignment, including corrections.
+### Problem Set Specifications
+
+To earn an “S”:
+
+- Completeness: Every question is thoroughly attempted.
+- Accuracy: At least 80% of responses demonstrate correct logical
+  reasoning, accurate quantitative calculations, and correct use of
+  biological terms.
+- Integrity & Sources: Citations are included where required, and work
+  adheres to the Honor Code.
 
 ## Related Readings
 
@@ -78,90 +86,55 @@ assignment, including corrections.
 
 ## Questions
 
-1.  Consider the processes of cell reproduction.
+1.  Mitosis evolved before meiosis. What two specific molecular or
+    structural changes to standard mitotic cell division had to occur
+    for the eukaryotic ancestor to achieve meiotic reduction division
+    (\\2n \rightarrow n\\)?
 
-    1.  How is cell division similar and different in prokaryotic and
-        eukaryotice cells?
-    2.  What do you predict might happen if the spindle fibers did not
-        form during mitosis in a eukaryotic cell?
-    3.  What do you predict might happen in a prokaryotic cell if a
-        protein important in constricting the plasma membrane and cell
-        wall during cytokinesis was non-functional?
+2.  Why is homolog synapsis (pairing) critical during Prophase I of
+    meiosis, but completely absent during mitotic prophase?
 
-      
+3.  Consider the potential evolutionary trade-offs of haploid-dominant
+    vs. diploid-dominant life cycles:
 
-2.  In the fruit fly *Drosophila melanogaster*, a new zygote is created
-    when sperm fertilize eggs inside the female parent’s oviduct. The
-    sperm and eggs are haploid, the products of meiosis, while the new
-    zygote is diploid. The female parent then lays the fertilized egg
-    (zygote) on a suitable food source. Eggs are white, ovoid, and about
-    0.5 mm long. About 21 hours after they are laid, eggs hatch and the
-    larvae emerge. The larvae develop in stages known as instars, which
-    are common to many insect species. The newly emerged larvae, known
-    as the first instar, are voracious eaters. They are tiny and
-    difficult to see with the naked eye. The larvae grow rapidly, and
-    within about two days, the first instar will molt into the second
-    instar. These larvae will eat, grow, and molt again to become the
-    third instar. After the third instar crawls out of the food and onto
-    the surface, the larvae begin to pupate. In the pupal stage, the
-    larval body shortens and the cuticle hardens and becomes pigmented,
-    developing into the pupal case. Metamorphosis occurs within the
-    pupal case; dormant localized tissues that originated during the
-    embryonic stages develop into their adult forms, while the remaining
-    larval tissue is broken down to furnish both raw material and the
-    energy needed for adult development. After three days, the adult
-    emerges. The adult flies reach sexual maturity and begin producing
-    new gametes about eight hours after emerging from the pupae, and
-    then the cycle can begin again.
+    1.  What could be one advantage of spending most of a life cycle in
+        the haploid (\\n\\) state regarding exposure to natural
+        selection?
+    2.  What could be one advantage of spending most of a life cycle in
+        the diploid (\\2n\\) state regarding harmful recessive
+        mutations?  
+          
 
-    **For each of the following, indicate whether the situation
-    describes cells that are haploid or diploid and whether mitosis or
-    meiosis is occurring:**
+4.  From the list below, identify which of the following stages of the
+    fly life cycle are haploid and which are diploid. Additionally, tell
+    me whether the cells are produced using mitosis or meiosis.
 
-    - sperm produced in the male fly
-    - unfertilized eggs produced in the female fly
-    - a new zygote before the egg has hatched
-    - 1st instar larvae growing rapidly
-    - 3rd instar larvae growing rapidly
-    - a pupa develops into an adult
-    - the body cells of an adult fly
+    1.  wing cells in an adult fly
+    2.  unfertilized eggs in a female fly
+    3.  a newly fertilized fly egg
+    4.  a young (2nd instar) fly larva body cell
+    5.  the epidermal cells inside a fly pupa before it hatches into an
+        adult
+    6.  sperm cells in a male fly’s reproductive tract  
+          
 
-      
-
-3.  On meiosis.
-    1.  What are three ways in which meiosis differs from mitosis?
-    2.  What two processes during meiosis result in genetically unique
-        daughter cells? Explain how they create genetically variable
-        daughter cells.
-
-      
-
-4.  Among the related readings are a couple of chapters from Gathering
+5.  Among the related readings are a couple of chapters from Gathering
     Moss (The Advantages of Being Small and Back to the Pond). In Back
     to the Pond, Kimmerer talks about the moss life cycle, which is
-    different from that of vascular plants. Check out the graphic of a
-    moss life cycle from Biology 2e
+    different from that of vascular plants and allows it to adapt to
+    different conditions. Check out the graphic of a moss life cycle
+    from Biology 2e
     ([link](https://openstax.org/books/biology-2e/pages/25-3-bryophytes)).
-    Note that mosses belong to a group called the bryophytes. Then
-    examine the image below.
+    **Describe two ways in which mosses are adapted to their specific
+    environments, compared to larger plants or other organisms.**
 
-    What can you tell me about the parts of the moss life cycle that are
-    visible to you in this image? How do moss life cycles differ from
-    those of vascular plants such as angiosperms and gymnosperms?
-
-    ![Image of a single chromatid](../reference/figures/moss2.png)  
-
-5.  Weekly Reflection. Consider this week’s material and reply to one or
+6.  Weekly Reflection. Consider this week’s material and reply to one or
     more of the following prompts:
+
     - What was confusing or interesting to you about this week’s
       material?
     - Did you have any key insights while studying this material?
     - Does anything from this week’s material particularly stick with
-      you?
-
-  
-
-**When you are finished, check your responses on the [key for
-PS3](https://aroles.github.io/biol210/articles/ps3key.md).**
+      you?  
 
 Remember to sign the Honor Code on your assignment.

@@ -16,7 +16,7 @@ pkgdown:
 
 * [Link to in-class slides and handouts](https://drive.google.com/drive/folders/17Fm-yEXqtlvGJfFaw6WqywIScW_eZ8m_?usp=drive_link)
 
-* [Mastery project guidelines](https://docs.google.com/document/d/1IUTTWkps2DtSqaLAJ9bqXMkZg3bKnIn96g-EgX5o1Ag/edit?usp=sharing) are now live!
+* [Mastery project guidelines](404.html) are now live!
 
 
 # Content Videos
@@ -30,7 +30,7 @@ pkgdown:
 
 # Assignments
 
-[Quiz 3](https://docs.google.com/forms/d/e/1FAIpQLSe1c7Kkf5UqH1QIzTxqHBlKg8oEZ75AH84ccSO_qiUPBsbKMA/viewform?usp=sf_link)
+[Quiz 2](https://docs.google.com/forms/d/e/1FAIpQLSe1c7Kkf5UqH1QIzTxqHBlKg8oEZ75AH84ccSO_qiUPBsbKMA/viewform?usp=sf_link)
 
 [Problem Set 3](ps3.html)
 
@@ -49,8 +49,8 @@ Finish UPGMA tree-building exercise.
 
 ## Fri Sep 11
 
-Work on chromosomes, meiosis, mitosis.
+Quiz 2 - covers this week's material (week 3, see videos above). Solo then corrections with team.
 
-Quiz 3 revisions with teams.
+With remaining time, we will work on chromosomes, meiosis, mitosis.
 
 

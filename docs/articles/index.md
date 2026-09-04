@@ -71,3 +71,5 @@
   9](https://aroles.github.io/biol210/articles/ps9.md):
 - [BIOL 210
   Quizzes](https://aroles.github.io/biol210/articles/quizzes.md):
+- [BIOL 210 Problem Set
+  3](https://aroles.github.io/biol210/articles/test.md):
