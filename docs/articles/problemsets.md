@@ -18,3 +18,4 @@ assignment. Problem Sets are due on Sundays.
 
 - [PS 1 - due Aug 30](https://aroles.github.io/biol210/articles/ps1.md)
 - [PS 2 - due Sep 6](https://aroles.github.io/biol210/articles/ps2.md)
+- [PS 3 - due Sep 13](https://aroles.github.io/biol210/articles/ps3.md)

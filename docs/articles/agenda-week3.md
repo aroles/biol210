@@ -24,7 +24,8 @@
 [Quiz
 2](https://docs.google.com/forms/d/e/1FAIpQLSe1c7Kkf5UqH1QIzTxqHBlKg8oEZ75AH84ccSO_qiUPBsbKMA/viewform?usp=sf_link)
 
-[Problem Set 3](https://aroles.github.io/biol210/articles/ps3.md)
+[Problem Set 3](https://aroles.github.io/biol210/articles/ps3.md) due
+Sunday Sep 13.
 
 ## Class Meetings
 

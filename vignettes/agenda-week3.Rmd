@@ -32,7 +32,7 @@ pkgdown:
 
 [Quiz 2](https://docs.google.com/forms/d/e/1FAIpQLSe1c7Kkf5UqH1QIzTxqHBlKg8oEZ75AH84ccSO_qiUPBsbKMA/viewform?usp=sf_link)
 
-[Problem Set 3](ps3.html)
+[Problem Set 3](ps3.html) due Sunday Sep 13.
 
 # Class Meetings
 

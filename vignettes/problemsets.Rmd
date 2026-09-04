@@ -25,7 +25,7 @@ Use the link at the top of this page to turn in your completed assignment. Probl
 
 * [PS 1 - due Aug 30](ps1.html)
 * [PS 2 - due Sep 6](ps2.html)
-<!-- * [PS 3 - due Sep 13](ps3.html) -->
+* [PS 3 - due Sep 13](ps3.html)
 <!-- * [PS 4 - due Sep 20](ps4.html) -->
 <!-- * [PS 5 - due Sep 27](ps5.html) -->
 <!-- * [PS 6 - due Oct 4](ps6.html) -->

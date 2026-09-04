@@ -6,7 +6,7 @@
 |:---|:---|:---|
 | [Week 1](https://aroles.github.io/biol210/articles/agenda-week1.md) | Aug 26-28 | Course Introduction; Biodiversity, Phylogenies, Cells |
 | [Week 2](https://aroles.github.io/biol210/articles/agenda-week2.md) | Aug 31-Sep 04 | Eukarya, Genomes, Eukaryotic genomes |
-| Week 3 | Sep 09-11 | Mitosis, Meiosis, Life cycles |
+| [Week 3](https://aroles.github.io/biol210/articles/agenda-week3.md) | Sep 07-11 | Mitosis, Meiosis, Life cycles |
 | Week 4 | Sep 14-18 | Genes, Transcription, RNA processing |
 | Week 5 | Sep 21-25 | Translation, Sex determination, Inheritance and segregation |
 | Week 6 | Sep 28-Oct 02 | Dominance, Independent assortment, Linkage |
