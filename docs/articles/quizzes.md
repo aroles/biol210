@@ -49,3 +49,6 @@ being sure to specify the names of your group members.
 - [Quiz
   1](https://docs.google.com/forms/d/e/1FAIpQLSclHEk-m9EhZvut1CZE3PJMxdoBZuJkcr-QTfRjAFbJAB4t5A/viewform?usp=header) -
   in class Sep 4
+- [Quiz
+  2](https://docs.google.com/forms/d/e/1FAIpQLSe1c7Kkf5UqH1QIzTxqHBlKg8oEZ75AH84ccSO_qiUPBsbKMA/viewform?usp=dialog) -
+  in class Sep 11

@@ -89,7 +89,7 @@ To earn an “S”:
 1.  Mitosis evolved before meiosis. What two specific molecular or
     structural changes to standard mitotic cell division had to occur
     for the eukaryotic ancestor to achieve meiotic reduction division
-    (\\2n \rightarrow n\\)?
+    (2n to n)?
 
 2.  Why is homolog synapsis (pairing) critical during Prophase I of
     meiosis, but completely absent during mitotic prophase?
@@ -98,11 +98,9 @@ To earn an “S”:
     vs. diploid-dominant life cycles:
 
     1.  What could be one advantage of spending most of a life cycle in
-        the haploid (\\n\\) state regarding exposure to natural
-        selection?
+        the haploid (n) state regarding exposure to natural selection?
     2.  What could be one advantage of spending most of a life cycle in
-        the diploid (\\2n\\) state regarding harmful recessive
-        mutations?  
+        the diploid (2n) state regarding harmful recessive mutations?  
           
 
 4.  From the list below, identify which of the following stages of the

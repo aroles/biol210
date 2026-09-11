@@ -65,14 +65,14 @@ To earn an "S":
 
 # Questions
 
-1. Mitosis evolved before meiosis. What two specific molecular or structural changes to standard mitotic cell division had to occur for the eukaryotic ancestor to achieve meiotic reduction division ($2n \rightarrow n$)?
+1. Mitosis evolved before meiosis. What two specific molecular or structural changes to standard mitotic cell division had to occur for the eukaryotic ancestor to achieve meiotic reduction division (2n to n)?
 
 2. Why is homolog synapsis (pairing) critical during Prophase I of meiosis, but completely absent during mitotic prophase?
 
 3. Consider the potential evolutionary trade-offs of haploid-dominant vs. diploid-dominant life cycles:
 
-    a. What could be one advantage of spending most of a life cycle in the haploid ($n$) state regarding exposure to natural selection?
-    b. What could be one advantage of spending most of a life cycle in the diploid ($2n$) state regarding harmful recessive mutations?<br><br>
+    a. What could be one advantage of spending most of a life cycle in the haploid (n) state regarding exposure to natural selection?
+    b. What could be one advantage of spending most of a life cycle in the diploid (2n) state regarding harmful recessive mutations?<br><br>
 
 4. From the list below, identify which of the following stages of the fly life cycle are haploid and which are diploid. Additionally, tell me whether the cells are produced using mitosis or meiosis.
 

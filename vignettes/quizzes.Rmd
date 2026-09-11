@@ -39,7 +39,7 @@ Use the link at the top of this page to turn in any quiz corrections, being sure
 # Weekly Quizzes
 
 * [Quiz 1](https://docs.google.com/forms/d/e/1FAIpQLSclHEk-m9EhZvut1CZE3PJMxdoBZuJkcr-QTfRjAFbJAB4t5A/viewform?usp=header) - in class Sep 4
-<!-- * [Quiz 2](404.html) - in class Sep 11 -->
+* [Quiz 2](https://docs.google.com/forms/d/e/1FAIpQLSe1c7Kkf5UqH1QIzTxqHBlKg8oEZ75AH84ccSO_qiUPBsbKMA/viewform?usp=dialog) - in class Sep 11
 <!-- * [Quiz 3](404.html) - in class Sep 18 -->
 <!-- * [Quiz 4](404.html) - in class Sep 25 -->
 <!-- * [Quiz 5](404.html) - in class Oct 2 -->
