@@ -1,6 +1,6 @@
 ---
 title: "BIOL 210 Problem Set 3"
-date: "Week 3, Sep 7-11"
+date: "Week 3, due Sep 13"
 output:
   html_document:
     toc: true

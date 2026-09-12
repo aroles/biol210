@@ -15,22 +15,14 @@ pkgdown:
 
 * [Mastery project guidelines](https://docs.google.com/document/d/1IUTTWkps2DtSqaLAJ9bqXMkZg3bKnIn96g-EgX5o1Ag/edit?usp=sharing) are now live!
 
-* Remember to do prob sets, quizzes, and revisions!
-
 * Check your progress using the link under Course Materials dropdown menu
 
 * See assignments handed back in the Student Folders link in Course Materials dropdown menu
-* [Link to in-class slides and handouts](https://drive.google.com/drive/folders/17Fm-yEXqtlvGJfFaw6WqywIScW_eZ8m_?usp=drive_link)
 
-* [Link to Shansi flyer](articles/sheets/sci_articles/Oberlin_Shansi_Fall2025.pdf)
+* [Link to in-class slides and handouts](https://drive.google.com/drive/folders/17Fm-yEXqtlvGJfFaw6WqywIScW_eZ8m_?usp=drive_link)
 
 * [Link to NYT article](https://www.nytimes.com/2025/09/15/science/ants-species-babies.html) about ants that use another species' DNA to reproduce
 
-* Upcoming event: "Is Research Right for Me?" hosted by Office of Undergraduate Research. Sept 19, 12:15pm in Moffett Aud. Pizza lunch provided. Use the QR code below to RSVP.
-
-```{r our flyer img, fig.align = 'center', fig.height = 1, fig.width = 2, echo = FALSE, fig.alt="QR code to RSVP for OUR event"}
-knitr::include_graphics(file.path(here::here(), 'man', 'figures', 'OURflyer2025.png'), dpi = 100)
-```
 
 # Content Videos
 
@@ -50,7 +42,8 @@ knitr::include_graphics(file.path(here::here(), 'man', 'figures', 'OURflyer2025.
 
 ## Mon Sep 14
 
-* Case study of Tasmanian devils and DFTD.
+* Finish UPGMA exercise (Angie review process).
+* Begin case study of Tasmanian devils and DFTD.
 
 ## Wed Sep 16
 
@@ -59,6 +52,4 @@ knitr::include_graphics(file.path(here::here(), 'man', 'figures', 'OURflyer2025.
 
 ## Wed Sep 18
 
-* Bead exercise to practice meiosis, mitosis.
-
-* Revise Quiz 4 with team (complete quiz before class)
+* Quiz 3 solo then corrections with team

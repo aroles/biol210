@@ -1,24 +1,32 @@
 # BIOL 210 Problem Set 4
 
+[You can download an editable version of this Problem Set
+here](https://drive.google.com/drive/folders/1nRUFpZG5hHVy7_ULW9vdnKwHFUj5iW7l?usp=drive_link).
+
 ## General Instructions for Problem Sets
 
 The goal of the problem sets is to give you practice thinking about and
-working with the concepts that we are covering. You may work with others
-to complete these assignments but should submit your own responses (not
-copied from someone else’s response).
+working with the concepts that we are covering. You should work solo to
+complete these assignments though you may want to do internet searches
+sometimes.
 
 **Before completing a problem set, you should review the content videos
 for the week and it may be helpful to complete those before the related
 class periods as well.**
 
-Once you have answered the questions and before you turn in your
-responses, check your work against the answer key (linked for each
-problem set). If your responses are missing important information or
-incorrect, you need to correct them, using a different color font and
-explaining why your original answer was insufficient.
+Use the link at the top of this webpage to turn in your completed
+assignment.
 
-Use the link at the top of this page to turn in your completed
-assignment, including corrections.
+### Problem Set Specifications
+
+To earn an “S”:
+
+- Completeness: Every question is thoroughly attempted.
+- Accuracy: At least 80% of responses demonstrate correct logical
+  reasoning, accurate quantitative calculations, and correct use of
+  biological terms.
+- Integrity & Sources: Citations are included where required, and work
+  adheres to the Honor Code.
 
 ## Related Readings
 
@@ -103,24 +111,17 @@ assignment, including corrections.
         the BarH1 gene. Why do you think the Bar allele (*X^(B)*) leads
         to a misshapen adult eye?
 
-        Resources to read about the BarH1 gene, if you don’t remember
-        from lab/videos:
-
-        <https://www.ndsu.edu/pubweb/~mcclean/plsc431/chromstruct/chrmo2.htm>
-
-        <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5105861/>
-
-        <https://www.sdbonline.org/sites/fly/gene/barh1-4.htm>
-
-      
+    Resources to read about the BarH1 gene, if you don’t remember from
+    videos:
+    <https://www.ndsu.edu/pubweb/~mcclean/plsc431/chromstruct/chrmo2.htm>
+    <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5105861/>
+    <https://www.sdbonline.org/sites/fly/gene/barh1-4.htm>
 
 2.  Describe the similarities and the differences in gene structure and
     gene expression (or regulation thereof) between prokaryotes and
     eukaryotes. Remember that eukaryotes includes plants, fungi, and
     animals so make sure your response is general and not
     animal-specific.
-
-      
 
 3.  The human genome contains an estimated 25,000 genes and our bodies
     include about 200 different types of cells. On average, a cell in
@@ -138,50 +139,42 @@ assignment, including corrections.
         regulate gene expression to lead to cell differentiation. Think
         of describing what makes a heart cell look and act differently
         from a skin cell even though they have the same genome.
-          
+
     2.  Once a cell has acquired a fate (such as “I’m a skin cell”),
         what prevents the cell from changing its fate (say, to become a
         liver cell instead)? How is cell identity maintained through
         regulation of gene expression?
 
-      
-
 4.  In chapter 3 of Richard Francis’ *Epigenetics*, he describes a
     dramatic example of social interactions influencing the phenotype of
     male African cichlids. Some animal species take this even further.
-    For example, in some fish species, such as the blue-headed wrasse
-    (*Thalassoma bifasciatum*), the biological sex an immature
-    individual develops will depend on the other fish it encounters. A
-    juvenile wrasse that finds a coral reef not defended by an adult
-    male will develop into a male, with sperm-producing gonads. But a
-    juvenile wrasse on a male-defended coral reef will develop into a
-    female, with egg-producing gonads. In some taxa, an individual may
-    even change biological sex (i.e., gamete production) multiple times
-    in its lifetime. Examples such as the wrasse abound among animals,
-    as unfamiliar as they may be to us. While we sometimes think of
-    biological sex being genetically pre-determined, these examples make
-    clear that it is not so simple or deterministic.
-
+    For example, Francis’ talks about the blue-headed wrasse, juveniles
+    develop as male or female depending on whether their reef is already
+    defended by a male – they do not have sex chromosomes. In some taxa,
+    an individual may even change biological sex (i.e., gamete
+    production) multiple times in its lifetime. Examples such as these
+    abound among animals, as unfamiliar as they may be to us. While we
+    sometimes think of biological sex being genetically pre-determined,
+    these examples make clear that it is not so simple or deterministic.
     How could we alter our understanding of biological “sex
     determination” in order to better represent what we see in the world
-    around us? That is, can you describe a possible mechanism or
+    around us? That is, **can you describe a possible mechanism or
     mechanisms by which sex determination (i.e., type of gametes
-    produced) occurs in eukaryotes? (More on variation in sex
-    determination next week!)
-
-      
+    produced) occurs in eukaryotes?**
 
 5.  Weekly Reflection. Consider this week’s material and reply to one or
     more of the following prompts:
+
     - What was confusing or interesting to you about this week’s
       material?
+
     - Did you have any key insights while studying this material?
+
     - Does anything from this week’s material particularly stick with
-      you?
+      you?  
+        
 
-  
-
-**When you are finished, check your responses on the [key for
-PS4](https://aroles.github.io/biol210/articles/ps4key.md).**
+Turn in your completed Problem Set to the [Assignment Submission
+Form](https://docs.google.com/forms/d/e/1FAIpQLScJMEW72xvMW2KMuCenetBqUhi-AXqvbI5okDjlbV6hEdkIsQ/viewform?usp=sf_link).
 
 Remember to sign the Honor Code on your assignment.
