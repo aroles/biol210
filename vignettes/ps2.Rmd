@@ -67,7 +67,7 @@ Many of the following are short and useful:
 * [Chromosome Mapping: Idiograms](https://www.nature.com/scitable/topicpage/chromosome-mapping-idiograms-302/)
 * [Chromosomal Abnormalities: Aneuploidies](https://www.nature.com/scitable/topicpage/chromosomal-abnormalities-aneuploidies-290/)
 * [Transposons: The Jumping Genes](https://www.nature.com/scitable/topicpage/transposons-the-jumping-genes-518/)
-* The Learn.Genetics site at University of Utah has a lot of good info; [What are Chromosomes?]()
+* The Learn.Genetics site at University of Utah has a lot of good info; [What are Chromosomes?](https://learn.genetics.utah.edu/content/genetics/chromosomes/)
 * Pavelka, N, G Rancati, J Zhu, WD Bradford, A Saraf, L Florens, BW Sanderson, GL Hattem, and R Li. 2010. [Aneuploidy confers quantitative proteome changes and phenotypic variation in budding yeast.](https://www.nature.com/articles/nature09529) Nature 468:321-325
 
     <i>This is a primary research article accompanied by a less technical synopsis. In this work, the authors experimentally manipulate chromosome numbers in budding yeast, demonstrating that having "abnormal" numbers of chromosomes is not necessarily a bad thing.</i>

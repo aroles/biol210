@@ -105,7 +105,8 @@ Many of the following are short and useful:
   Genes](https://www.nature.com/scitable/topicpage/transposons-the-jumping-genes-518/)
 
 - The Learn.Genetics site at University of Utah has a lot of good info;
-  [What are Chromosomes?](https://aroles.github.io/biol210/articles/)
+  [What are
+  Chromosomes?](https://learn.genetics.utah.edu/content/genetics/chromosomes/)
 
 - Pavelka, N, G Rancati, J Zhu, WD Bradford, A Saraf, L Florens, BW
   Sanderson, GL Hattem, and R Li. 2010. [Aneuploidy confers quantitative
