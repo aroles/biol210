@@ -52,3 +52,6 @@ being sure to specify the names of your group members.
 - [Quiz
   2](https://docs.google.com/forms/d/e/1FAIpQLSe1c7Kkf5UqH1QIzTxqHBlKg8oEZ75AH84ccSO_qiUPBsbKMA/viewform?usp=dialog) -
   in class Sep 11
+- \[Quiz
+  3\](<https://docs.google.com/forms/d/e/1FAIpQLSeBVYqOZ5Sk0CQkfxOqEj7_5bSjNN691eyE4f-34f41pWbaeQ/viewform?usp=sharing&ouid=107508568211857334485> -
+  in class Sep 18

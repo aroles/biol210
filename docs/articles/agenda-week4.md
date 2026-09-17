@@ -31,7 +31,7 @@
 ## Assignments
 
 [Quiz
-4](https://docs.google.com/forms/d/e/1FAIpQLSeBVYqOZ5Sk0CQkfxOqEj7_5bSjNN691eyE4f-34f41pWbaeQ/viewform?usp=sf_link)
+3](https://docs.google.com/forms/d/e/1FAIpQLSeBVYqOZ5Sk0CQkfxOqEj7_5bSjNN691eyE4f-34f41pWbaeQ/viewform?usp=sharing&ouid=107508568211857334485)
 
 [Problem Set 4](https://aroles.github.io/biol210/articles/ps4.md)
 
@@ -46,6 +46,20 @@
 
 - Finish case study of Tasmanian devils.
 
-### Wed Sep 18
+- If you want to learn more, there are lots of scientific papers on the
+  subject of DFTD and the devils. Here are a few good overviews of what
+  we know:
+
+  - Storfer et al. 2018. [The devil is in the details: Genomics of
+    transmissible cancers in Tasmanian
+    devils.](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1007098)
+    PLOS Pathogens 14(8):e1007098.
+  - Storfer et al. 2025. [The devil in more detail: Eco-evolutionary
+    genomics of Tasmanian devil persistence despite range-wide spread of
+    a fatal, transmissible
+    cancer.](https://doi.org/10.1371/journal.ppat.1013523) PLOS
+    Pathogens 21(9):e1013523.
+
+### Fri Sep 18
 
 - Quiz 3 solo then corrections with team
