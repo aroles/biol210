@@ -6,8 +6,35 @@
   guidelines](https://docs.google.com/document/d/1IUTTWkps2DtSqaLAJ9bqXMkZg3bKnIn96g-EgX5o1Ag/edit?usp=sharing)
   are now live!
 
+  - Note that the project proposal is due Oct 10.  
+      
+
 - [Link to in-class slides and
   handouts](https://drive.google.com/drive/folders/17Fm-yEXqtlvGJfFaw6WqywIScW_eZ8m_?usp=drive_link)
+
+- Exam 1 material finishes this week. Exam 1 is due Oct 2, end of day.
+  Will be available Sep 25.
+
+  - Exams are short-answer, open-note, open-book, untimed.
+  - Use of internet searches not permitted.
+  - Do not discuss with anyone but Angie.
+  - Designed to be completed within 75 minutes for a well-prepared
+    student.  
+      
+
+- Biology Seminar: Wendy Uhlmann (OC ’83), MS, LCGC  
+  “Unwinding your DNA: Genetic counseling, genetic testing, and ethical
+  issues”, 12:10pm Fri Sep 25, Craig Lecture Hall, *Pizza available.*
+
+- Oberlin Shansi (<http://www.shansi.org>) funds learning experiences
+  between Oberlin and partners in Asia.
+
+  - Fellowships in India, China, Indonesia, Japan, and Vietnam.
+    Applications due Jan 4, 2027 for summer/fall 2027 experiences.
+  - AAPI Experience Grants highlight experiences and voices of AAPI
+    communities in North America.
+  - In-Asia Grants program applications open for WT and summer 2027; WT
+    project applications due Oct 26.
 
 ## Content Videos
 
@@ -21,8 +48,7 @@
 
 ## Assignments
 
-[Quiz
-5](https://docs.google.com/forms/d/e/1FAIpQLSeDuXksXt8wSRQ0nKPyrW4tMbE9hry2FbhNveSg0Ik3Afh5UA/viewform?usp=sf_link)
+[Quiz 5](https://aroles.github.io/biol210/articles/404.md)
 
 [Problem Set 5](https://aroles.github.io/biol210/articles/ps5.md)
 
@@ -30,17 +56,16 @@
 
 ### Mon Sep 21
 
-Begin komodo dragon case study
+No classes (Yom Kippur).
 
 ### Wed Sep 23
 
-Finish komodo dragon case study.
+Komodo dragon case study.
 
 ### Fri Sep 25
 
-Quiz 5 revisions.
+Quiz 4 solo then corrections with team.
 
-Talk about human variation in sex determination, role of gene regulation
-in sex determination.  
+  
 
 ------------------------------------------------------------------------

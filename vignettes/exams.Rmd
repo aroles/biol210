@@ -14,7 +14,7 @@ pkgdown:
 
 # Short-Answer Exams
 
-* All exams are take-home, open-note, open-book. This means that you may use any materials provided by the instructor for class as you complete the exam. 
+* All exams are take-home, open-note, open-book. This means that you may use any materials provided by the instructor for class as you complete the exam.
 
 * There is no time limit on the exam. You are free to ask Angie questions as you complete the exam. You can email or speak with me in person.
 
