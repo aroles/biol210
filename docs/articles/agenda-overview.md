@@ -8,7 +8,7 @@
 | [Week 2](https://aroles.github.io/biol210/articles/agenda-week2.md) | Aug 31-Sep 04 | Eukarya, Genomes, Eukaryotic genomes |
 | [Week 3](https://aroles.github.io/biol210/articles/agenda-week3.md) | Sep 07-11 | Mitosis, Meiosis, Life cycles |
 | [Week 4](https://aroles.github.io/biol210/articles/agenda-week4.md) | Sep 14-18 | Genes, Transcription, RNA processing |
-| Week 5 | Sep 21-25 | Translation, Sex determination, Inheritance and segregation |
+| [Week 5](https://aroles.github.io/biol210/articles/agenda-week5.md) | Sep 21-25 | Translation, Sex determination, Inheritance and segregation |
 | Week 6 | Sep 28-Oct 02 | Dominance, Independent assortment, Linkage |
 | Week 7 | Oct 05-09 | Hardy Weinberg, Detecting evolution, Genetic variation |
 | Week 8 | Oct 12-16 | Mutation, Gene flow, Genetic drift |
