@@ -19,7 +19,8 @@
   discuss your responses.
 
 - Exam 1 material finishes this week. Exam 1 is due Oct 2, end of day.
-  Will be available Sep 25.
+  [Exam 1 available
+  here.](https://docs.google.com/document/d/1X0N-TC_iPrui603tfLdMv-AssXTBiAGCyMsRqdE-Auo/edit?usp=sharing)
 
   - Exams are short-answer, open-note, open-book, untimed.
   - Use of internet searches not permitted.

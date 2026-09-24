@@ -41,7 +41,7 @@ pkgdown:
 <text style="background-color:lightcyan">The "parts" of a gene include:</text>
 
 <ul>
-<li><text style="background-color:lightcyan">>Exons = the part of the gene’s DNA sequence that encodes amino acids. Most genes have more than one exon sequence. The exons are the “coding region” of the gene.</text</li>
+<li><text style="background-color:lightcyan">Exons = the part of the gene’s DNA sequence that encodes amino acids. Most genes have more than one exon sequence. The exons are the “coding region” of the gene.</text></li>
 
 <li><text style="background-color:lightcyan">Introns = this part of the gene’s DNA does NOT encode amino acids and is usually excised from the RNA before protein is made. This is considered “non-coding” DNA even though sometimes it contains sequences that act as signals of where to splice the RNA. Most genes have more than one intron sequence.</text></li>
 
