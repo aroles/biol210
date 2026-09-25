@@ -83,7 +83,6 @@ To earn an "S":
     c. Explain the slit-shaped eye phenotype found in female fruit flies that have two copies of the Bar allele (<i>X<sup>B</sup>X<sup>B</sup></i>) for the BarH1 gene. Why do you think the Bar allele (<i>X<sup>B</sup></i>) leads to a misshapen adult eye?
 
     Resources to read about the BarH1 gene, if you don’t remember from videos:
-    https://www.ndsu.edu/pubweb/~mcclean/plsc431/chromstruct/chrmo2.htm
     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5105861/
     https://www.sdbonline.org/sites/fly/gene/barh1-4.htm
 

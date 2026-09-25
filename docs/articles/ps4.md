@@ -112,9 +112,7 @@ To earn an “S”:
         to a misshapen adult eye?
 
     Resources to read about the BarH1 gene, if you don’t remember from
-    videos:
-    <https://www.ndsu.edu/pubweb/~mcclean/plsc431/chromstruct/chrmo2.htm>
-    <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5105861/>
+    videos: <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5105861/>
     <https://www.sdbonline.org/sites/fly/gene/barh1-4.htm>
 
 2.  Describe the similarities and the differences in gene structure and
