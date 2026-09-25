@@ -65,7 +65,8 @@
 
 ## Assignments
 
-[Quiz 5](https://aroles.github.io/biol210/articles/404.md)
+[Quiz
+4](https://docs.google.com/forms/d/e/1FAIpQLSeDuXksXt8wSRQ0nKPyrW4tMbE9hry2FbhNveSg0Ik3Afh5UA/viewform?usp=sharing&ouid=107508568211857334485)
 
 [Problem Set 5](https://aroles.github.io/biol210/articles/ps5.md)
 
