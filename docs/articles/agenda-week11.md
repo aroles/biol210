@@ -17,9 +17,9 @@
 ## Assignments
 
 [Quiz
-12](https://docs.google.com/forms/d/e/1FAIpQLSeAiVE22MJMSz7bLKy8jqcZD0eSz2uHoJO5W3AUuES-MV9aJQ/viewform?usp=sf_link)
+10](https://docs.google.com/forms/d/e/1FAIpQLSeRQFX6rspY9Z_MHYpADqDYgQzyEzxiGY1HJNvR2dUwOGeYDA/viewform?usp=dialog)
 
-[Problem Set 12](https://aroles.github.io/biol210/articles/ps12.md)
+[Problem Set 11](https://aroles.github.io/biol210/articles/ps12.md)
 
 ## Class Meetings
 

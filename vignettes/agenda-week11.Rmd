@@ -27,9 +27,9 @@ pkgdown:
 
 # Assignments
 
-[Quiz 12](https://docs.google.com/forms/d/e/1FAIpQLSeAiVE22MJMSz7bLKy8jqcZD0eSz2uHoJO5W3AUuES-MV9aJQ/viewform?usp=sf_link)
+[Quiz 10](https://docs.google.com/forms/d/e/1FAIpQLSeRQFX6rspY9Z_MHYpADqDYgQzyEzxiGY1HJNvR2dUwOGeYDA/viewform?usp=dialog)
 
-[Problem Set 12](ps12.html)
+[Problem Set 11](ps12.html)
 
 # Class Meetings
 

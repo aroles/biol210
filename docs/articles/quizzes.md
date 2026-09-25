@@ -58,3 +58,28 @@ being sure to specify the names of your group members.
 - [Quiz
   4](https://docs.google.com/forms/d/e/1FAIpQLSeDuXksXt8wSRQ0nKPyrW4tMbE9hry2FbhNveSg0Ik3Afh5UA/viewform?usp=sharing&ouid=107508568211857334485) -
   in class Sep 25
+- [Quiz
+  5](https://docs.google.com/document/d/1nDCl4QiLlyYf7ejYQkAaCKIRqK_1BXKkiVoA5xDwAT0/edit?usp=sharing) -
+  in class Oct 2
+- [Quiz
+  6](https://docs.google.com/forms/d/e/1FAIpQLSdsyuntG3PWAAQlI-ASCXVskIY13ppmWGKzyeOCwo7bRqTRqQ/viewform?usp=dialog) -
+  in class Oct 9
+- [Quiz
+  7](https://docs.google.com/forms/d/e/1FAIpQLSex43fzpiJ9AkVFMBerrgbnmkuwhAzIPZgEgWY8yljhbb4v4Q/viewform?usp=dialog) -
+  in class Oct 16
+- Oct 17-25 – FALL BREAK NO ASSIGNMENT
+- [Quiz
+  8](https://docs.google.com/forms/d/e/1FAIpQLSfp1d9YnZaSSVDMj2SUnVVR_UHNP7zEDQ_wcDhLRYyXWtMTXw/viewform?usp=dialog) -
+  in class Oct 30
+- [Quiz
+  9](https://docs.google.com/forms/d/e/1FAIpQLScDyfJ9tm_FiCAtqjrvvldM6wafu48rRhwZC8qD8VQSCICp1w/viewform?usp=dialog) -
+  in class Nov 6
+- [Quiz
+  10](https://docs.google.com/forms/d/e/1FAIpQLSeRQFX6rspY9Z_MHYpADqDYgQzyEzxiGY1HJNvR2dUwOGeYDA/viewform?usp=dialog) -
+  in class Nov 13
+- [Quiz
+  11](https://docs.google.com/forms/d/e/1FAIpQLSeAiVE22MJMSz7bLKy8jqcZD0eSz2uHoJO5W3AUuES-MV9aJQ/viewform?usp=dialog) -
+  in class Nov 20
+- [Quiz
+  12](https://docs.google.com/forms/d/e/1FAIpQLSfqCi4R8v0RqjRI2nNgjfLm2oHn8ofbmZF7v6Fp1m_GABdmlA/viewform?usp=dialog) -
+  in class Dec 4

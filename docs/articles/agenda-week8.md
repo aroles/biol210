@@ -21,7 +21,7 @@
 ## Assignments
 
 [Quiz
-8](https://docs.google.com/forms/d/e/1FAIpQLSex43fzpiJ9AkVFMBerrgbnmkuwhAzIPZgEgWY8yljhbb4v4Q/viewform?usp=sf_link)
+7](https://docs.google.com/forms/d/e/1FAIpQLSex43fzpiJ9AkVFMBerrgbnmkuwhAzIPZgEgWY8yljhbb4v4Q/viewform?usp=dialog)
 
 [Problem Set 8](https://aroles.github.io/biol210/articles/ps8.md)
 

@@ -31,7 +31,7 @@ pkgdown:
 
 # Assignments
 
-[Quiz 9](https://docs.google.com/forms/d/e/1FAIpQLSfp1d9YnZaSSVDMj2SUnVVR_UHNP7zEDQ_wcDhLRYyXWtMTXw/viewform?usp=sf_link)
+[Quiz 8](https://docs.google.com/forms/d/e/1FAIpQLSfp1d9YnZaSSVDMj2SUnVVR_UHNP7zEDQ_wcDhLRYyXWtMTXw/viewform?usp=dialog)
 
 [Problem Set 9](ps9.html)
 

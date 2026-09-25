@@ -33,9 +33,9 @@
 ## Assignments
 
 [Quiz
-14](https://docs.google.com/forms/d/e/1FAIpQLSeeMx2DJL6hopi_OKirtelc6cExaqrhDR1hILCLpPFqkEfobw/viewform?usp=sf_link)
+12](https://docs.google.com/forms/d/e/1FAIpQLSfqCi4R8v0RqjRI2nNgjfLm2oHn8ofbmZF7v6Fp1m_GABdmlA/viewform?usp=dialog)
 
-[Problem Set 14](https://aroles.github.io/biol210/articles/ps14.md)
+[Problem Set 13](https://aroles.github.io/biol210/articles/ps14.md)
 
 ## Class Meetings
 

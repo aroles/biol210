@@ -41,7 +41,7 @@
 ## Assignments
 
 [Quiz
-10](https://docs.google.com/forms/d/e/1FAIpQLScDyfJ9tm_FiCAtqjrvvldM6wafu48rRhwZC8qD8VQSCICp1w/viewform?usp=sf_link)
+9](https://docs.google.com/forms/d/e/1FAIpQLScDyfJ9tm_FiCAtqjrvvldM6wafu48rRhwZC8qD8VQSCICp1w/viewform?usp=dialog)
 
 [Problem Set 10](https://aroles.github.io/biol210/articles/ps10.md)
 

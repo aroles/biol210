@@ -42,7 +42,7 @@
 ## Assignments
 
 [Quiz
-7](https://docs.google.com/forms/d/e/1FAIpQLSdsyuntG3PWAAQlI-ASCXVskIY13ppmWGKzyeOCwo7bRqTRqQ/viewform?usp=sf_link)
+6](https://docs.google.com/forms/d/e/1FAIpQLSdsyuntG3PWAAQlI-ASCXVskIY13ppmWGKzyeOCwo7bRqTRqQ/viewform?usp=dialog)
 
 [Problem Set 7](https://aroles.github.io/biol210/articles/ps7.md)
 

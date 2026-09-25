@@ -6,46 +6,41 @@
   guidelines](https://docs.google.com/document/d/1IUTTWkps2DtSqaLAJ9bqXMkZg3bKnIn96g-EgX5o1Ag/edit?usp=sharing)
   are now live!
 
-- [Midterm
-  Reflection](https://docs.google.com/document/d/1Vvhn4R1gUjuunrFFWENReMvucvyaIbzeEJFK0aUpw4M/edit?usp=drive_link)
-  is available. Please make a copy of the doc for you to edit. Be sure
-  to submit the doc before making an appointment with Angie to discuss.
-
-  - See my [gcal booking
-    page](https://calendar.google.com/calendar/appointments/schedules/AcZssZ13c4kxrNqqz4TVPsSeRau7eRLLSLV9GoeCHlJX0ZvTNkbfOzvVkFwCi0GKK-kbi9ZRFFpTgg4o)
-    to make an appointment.
-
-- Exam 1 is available (see dropdown menu for Course Materials). Make a
-  copy for you to edit.
+  - Note that the project proposal is due Oct 10.  
+      
 
 - [Link to in-class slides and
   handouts](https://drive.google.com/drive/folders/17Fm-yEXqtlvGJfFaw6WqywIScW_eZ8m_?usp=drive_link)
 
-- NEW TEAMS are assigned. Here they are:
+- Midterm Reflection is coming up – complete and meet with me by Oct 9.
+  You can access the [reflection document
+  here](https://docs.google.com/document/d/1Vvhn4R1gUjuunrFFWENReMvucvyaIbzeEJFK0aUpw4M/edit?usp=sharing).
+  The link to my reflection calendar is in the doc. We’ll have a 5-min
+  meeting to discuss your responses.
 
-- **Ash:** Aurora, Jeffrey, Bea, Soomin
+- Exam 1 material finished Sep 25. Exam 1 is due Oct 2, end of day.
+  [Exam 1 available
+  here.](https://docs.google.com/document/d/1X0N-TC_iPrui603tfLdMv-AssXTBiAGCyMsRqdE-Auo/edit?usp=sharing)
 
-- **Beech:** Gabriel, Oliver, Maddie, Gabriela
+  - Exams are short-answer, open-note, open-book, untimed.
+  - Use of internet searches not permitted.
+  - Do not discuss with anyone but Angie.
+  - Designed to be completed within 75 minutes for a well-prepared
+    student.  
+      
 
-- **Buckeye:** Cash, Arianna, Devyn, Liam
+- NEW TEAMS are assigned. Here they are (coral reef themed):
 
-- **Catalpa:** Toby, Milo, Micah, Jarrod
-
-- **Elm:** Nina, Aimee, Charlie, Iris
-
-- **Hemlock:** Skylar, Madeleine, Mana, Amelia
-
-- **Hickory:** Grant, Hailey, Ava, Sophia
-
-- **Maple:** Bethany, Matthew, Griffin, Riley
-
-- **Oak:** Cleo, Kylie, Lex, Natalie
-
-- **Pawpaw:** Dylan, Shay, Michael, Eleanor
-
-- **Redbud:** Amy, Danica, Koosh, Piers
-
-- **Walnut:** Julia, Ella, Charlotte, Kristina
+  - **Clownfish:** Kingston, Chaya, Maggi, Marko
+  - **Corals:** Devin, Olivia, Bix, Shaswat
+  - **Giant clams:** Ari, Rafael, Andrea, Hannah
+  - **Moray eels:** Lii, John, Maeve
+  - **Parrotfish:** Leo S., Leo D., Eleana, Phoebe
+  - **Pufferfish:** Zach, Bobby, Sylvia, Bird
+  - **Sea cucumbers:** Asha, Aoife, Zoe, Ryan
+  - **Sea lions:** David, Rose, Max, Izzy
+  - **Sea turtles:** Ava, Nolan, Peyton, Ashlyn
+  - **Wrasse:** Manolis, Giulia, August, James
 
 ## Content Videos
 
@@ -60,7 +55,7 @@
 ## Assignments
 
 [Quiz
-6](https://docs.google.com/forms/d/e/1FAIpQLSf5Esb7eB_kXaExmGJXlsoplvHj0tyL9wmsnc_Rv6APmNpZnQ/viewform?usp=sf_link)
+5](https://docs.google.com/document/d/1nDCl4QiLlyYf7ejYQkAaCKIRqK_1BXKkiVoA5xDwAT0/edit?usp=sharing)
 
 [Problem Set 6](https://aroles.github.io/biol210/articles/ps6.md)
 
@@ -74,8 +69,10 @@ Case study on alternative splicing.
 
 Finish case study on alternative splicing.
 
+If time allows, work on genetics problems.
+
 ### Fri Oct 2
 
-Quiz Corrections with teams.  
+Quiz 5, first solo then corrections with teams.  
 
 ------------------------------------------------------------------------

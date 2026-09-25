@@ -32,7 +32,7 @@ pkgdown:
 
 # Assignments
 
-[Quiz 7](https://docs.google.com/forms/d/e/1FAIpQLSdsyuntG3PWAAQlI-ASCXVskIY13ppmWGKzyeOCwo7bRqTRqQ/viewform?usp=sf_link)
+[Quiz 6](https://docs.google.com/forms/d/e/1FAIpQLSdsyuntG3PWAAQlI-ASCXVskIY13ppmWGKzyeOCwo7bRqTRqQ/viewform?usp=dialog)
 
 [Problem Set 7](ps7.html)
 
