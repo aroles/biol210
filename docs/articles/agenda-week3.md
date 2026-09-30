@@ -6,8 +6,8 @@
   handouts](https://drive.google.com/drive/folders/17Fm-yEXqtlvGJfFaw6WqywIScW_eZ8m_?usp=drive_link)
 
 - [Mastery project
-  guidelines](https://aroles.github.io/biol210/articles/404.md) are now
-  live!
+  guidelines](https://docs.google.com/document/d/1IUTTWkps2DtSqaLAJ9bqXMkZg3bKnIn96g-EgX5o1Ag/edit?usp=sharing)
+  are now live!
 
 ## Content Videos
 

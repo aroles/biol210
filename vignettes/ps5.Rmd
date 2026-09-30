@@ -114,11 +114,8 @@ To earn an "S":
     b. Furthermore, given that the parents of XYY or XXX were XX and XY, what happened during meiosis to yield a YY or XX gamete (thus giving XXX or XYY zygotes)?<br>
 
 5. Consider a diploid organism (2n = 4) that is heterozygous for two unlinked genes located on different non-homologous chromosome pairs (AaBb). Gene A is located on a large metacentric chromosome pair, and Gene B is located on a small acrocentric chromosome pair.
-
     a. Draw 2 separate diagrams representing the two ways that homologous chromosome pairs can align at the metaphase plate in Metaphase I. Clearly distinguish chromosome sizes, indicate duplicated sister chromatids, and label the location of all alleles on the chromatids.
-    
-    b. Independent Assortment: Explain how having two equally likely Metaphase I arrangements physically demonstrates Mendel's Law of Independent Assortment. List the four gamete genotypes produced across both arrangements and state their expected phenotypic ratio.
-    
+    b. Independent Assortment: Explain how having two equally likely Metaphase I arrangements physically demonstrates Mendel's Law of Independent Assortment. List the four gamete types produced across both arrangements and state their expected ratio.
     c. Segregation: Describe the specific physical event occurring in Anaphase I that represents Mendel's Law of Segregation. Which alleles are being separated from each other?
 
 6. From Epigenetics: Provide one genetic and one epigenetic explanation for an individual having increased risk of obesity. If we are doing an experiment, for example with rats or mice, how can we distinguish between an individual that is obese due primarily to genetic factors and one that is obese due primarily to epigenetic factors? Consider what variables you need to control to tell whether a difference is due to genetics compared to due to the environment influencing epigenetics.

@@ -187,13 +187,10 @@ To earn an “S”:
         Metaphase I. Clearly distinguish chromosome sizes, indicate
         duplicated sister chromatids, and label the location of all
         alleles on the chromatids.
-
     2.  Independent Assortment: Explain how having two equally likely
         Metaphase I arrangements physically demonstrates Mendel’s Law of
-        Independent Assortment. List the four gamete genotypes produced
-        across both arrangements and state their expected phenotypic
-        ratio.
-
+        Independent Assortment. List the four gamete types produced
+        across both arrangements and state their expected ratio.
     3.  Segregation: Describe the specific physical event occurring in
         Anaphase I that represents Mendel’s Law of Segregation. Which
         alleles are being separated from each other?
