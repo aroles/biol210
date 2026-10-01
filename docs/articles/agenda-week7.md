@@ -6,27 +6,17 @@
   guidelines](https://docs.google.com/document/d/1IUTTWkps2DtSqaLAJ9bqXMkZg3bKnIn96g-EgX5o1Ag/edit?usp=sharing)
   are now live!
 
-- [Midterm
-  Reflection](https://docs.google.com/document/d/1Vvhn4R1gUjuunrFFWENReMvucvyaIbzeEJFK0aUpw4M/edit?usp=drive_link)
-  is available. Please make a copy of the doc for you to edit. Be sure
-  to submit the doc before making an appointment with Angie to discuss.
-
-  - See my [gcal booking
-    page](https://calendar.app.google/bUMHFsUwBxesE8Kn6) to make an
-    appointment.
-
-- Exam 1 is available (see dropdown menu for Course Materials). Make a
-  copy for you to edit.
+  - Note that the project proposal is due Oct 10.  
+      
 
 - [Link to in-class slides and
   handouts](https://drive.google.com/drive/folders/17Fm-yEXqtlvGJfFaw6WqywIScW_eZ8m_?usp=drive_link)
 
-- Greenhouse Study Break! Tue 10/15, 11am-1pm, at the greenhouse, roof
-  of the Science Center (stairs by north-west door to Woodland St).
-  Sponsored by Bio Majors Committee
-
-- Interested in Bio at Oberlin? Check out Major Committee’s Linktree:
-  <https://linktr.ee/oberlinbiology>
+- Midterm Reflection is coming up – complete questionnaire and meet with
+  me by Oct 9. You can access the [reflection document
+  here](https://docs.google.com/document/d/1Vvhn4R1gUjuunrFFWENReMvucvyaIbzeEJFK0aUpw4M/edit?usp=sharing).
+  The link to my reflection calendar is in the doc. We’ll have a 5-min
+  meeting to discuss your responses.
 
 ## Content Videos
 
@@ -50,15 +40,16 @@
 
 ### Mon Oct 5
 
-Finish case study on sex testing of female athletes.
+Begin case study on methemoglobinemia.
 
 ### Wed Oct 7
 
-Begin case study on methemoglobinemia.
+Finish case study on methemoglobinemia and/or genetics practice
+problems.
 
 ### Fri Oct 9
 
-Finish case study on methemoglobinemia.
+Quiz 6 (solo) then team corrections.
 
   
 
