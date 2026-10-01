@@ -55,7 +55,7 @@
 ## Assignments
 
 [Quiz
-5](https://docs.google.com/document/d/1nDCl4QiLlyYf7ejYQkAaCKIRqK_1BXKkiVoA5xDwAT0/edit?usp=sharing)
+5](https://docs.google.com/forms/d/e/1FAIpQLSf5Esb7eB_kXaExmGJXlsoplvHj0tyL9wmsnc_Rv6APmNpZnQ/viewform?usp=dialog)
 
 [Problem Set 6](https://aroles.github.io/biol210/articles/ps6.md)
 
@@ -73,6 +73,8 @@ If time allows, work on genetics problems.
 
 ### Fri Oct 2
 
-Quiz 5, first solo then corrections with teams.  
+[Quiz
+5](https://docs.google.com/forms/d/e/1FAIpQLSf5Esb7eB_kXaExmGJXlsoplvHj0tyL9wmsnc_Rv6APmNpZnQ/viewform?usp=dialog),
+first solo then corrections with teams.  
 
 ------------------------------------------------------------------------
