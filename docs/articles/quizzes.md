@@ -1,0 +1,85 @@
+# BIOL 210 Quizzes
+
+## General Instructions for Quizzes
+
+You should watch the content videos and it’s suggested you work on the
+problem set before taking the quiz in class.
+
+Similar to the problem sets, quizzes give you practice thinking about
+and working with the concepts that we are covering. You will have 15
+minutes to complete the quiz at the start of class and you must complete
+it solo, without consulting anyone else or looking up information. This
+can tell you something about how well you are learning the week’s
+material.
+
+Quizzes occur on Fridays and are divided into two parts:
+
+1.  **Part 1 (Individual):** A quick 15 minute individual attempt to
+    test your preparation.
+2.  **Part 2 (Group Corrections):** Work with your group to compare
+    answers, debate concepts, and correct any missed questions. Group
+    corrections are turned in by the end of the period via the quiz
+    corrections form.
+
+##### Specifications for a Satisfactory (S) Quiz:
+
+To earn an **S** on a Friday Quiz, your submission must meet **ALL** of
+the following criteria:
+
+- **Individual Preparation:** Complete and submit an on-time individual
+  attempt in class showing active effort on all questions.
+- **Group Accuracy:** The final group submission achieves **85% or
+  higher** accuracy across all corrections.
+- **Explanation Quality:** For *every* question your group initially got
+  wrong or debated during Part 1, your group submission includes a **1–3
+  sentence explanation** explaining:
+  - Why the initial answer/reasoning was incorrect.
+  - What biological concept/principle supports the correct answer.
+
+*Note: If your group submission fails to meet these specs, individual
+members can spend **1** Token to resubmit corrections after consulting
+with Prof. Roles during Student Hours. Resubmissions must be completed
+by 1 week after the quiz is taken in class.*
+
+Use the link at the top of this page to turn in any quiz corrections,
+being sure to specify the names of your group members.
+
+## Weekly Quizzes
+
+- [Quiz
+  1](https://docs.google.com/forms/d/e/1FAIpQLSclHEk-m9EhZvut1CZE3PJMxdoBZuJkcr-QTfRjAFbJAB4t5A/viewform?usp=header) -
+  in class Sep 4
+- [Quiz
+  2](https://docs.google.com/forms/d/e/1FAIpQLSe1c7Kkf5UqH1QIzTxqHBlKg8oEZ75AH84ccSO_qiUPBsbKMA/viewform?usp=dialog) -
+  in class Sep 11
+- [Quiz
+  3](https://docs.google.com/forms/d/e/1FAIpQLSeBVYqOZ5Sk0CQkfxOqEj7_5bSjNN691eyE4f-34f41pWbaeQ/viewform?usp=sharing&ouid=107508568211857334485) -
+  in class Sep 18
+- [Quiz
+  4](https://docs.google.com/forms/d/e/1FAIpQLSeDuXksXt8wSRQ0nKPyrW4tMbE9hry2FbhNveSg0Ik3Afh5UA/viewform?usp=sharing&ouid=107508568211857334485) -
+  in class Sep 25
+- [Quiz
+  5](https://docs.google.com/forms/d/e/1FAIpQLSf5Esb7eB_kXaExmGJXlsoplvHj0tyL9wmsnc_Rv6APmNpZnQ/viewform?usp=dialog) -
+  in class Oct 2
+- [Quiz
+  6](https://docs.google.com/forms/d/e/1FAIpQLSdsyuntG3PWAAQlI-ASCXVskIY13ppmWGKzyeOCwo7bRqTRqQ/viewform?usp=dialog) -
+  in class Oct 9
+- [Quiz
+  7](https://docs.google.com/forms/d/e/1FAIpQLSex43fzpiJ9AkVFMBerrgbnmkuwhAzIPZgEgWY8yljhbb4v4Q/viewform?usp=dialog) -
+  in class Oct 16
+- Oct 17-25 – FALL BREAK NO ASSIGNMENT
+- [Quiz
+  8](https://docs.google.com/forms/d/e/1FAIpQLSfp1d9YnZaSSVDMj2SUnVVR_UHNP7zEDQ_wcDhLRYyXWtMTXw/viewform?usp=dialog) -
+  in class Oct 30
+- [Quiz
+  9](https://docs.google.com/forms/d/e/1FAIpQLScDyfJ9tm_FiCAtqjrvvldM6wafu48rRhwZC8qD8VQSCICp1w/viewform?usp=dialog) -
+  in class Nov 6
+- [Quiz
+  10](https://docs.google.com/forms/d/e/1FAIpQLSeRQFX6rspY9Z_MHYpADqDYgQzyEzxiGY1HJNvR2dUwOGeYDA/viewform?usp=dialog) -
+  in class Nov 13
+- [Quiz
+  11](https://docs.google.com/forms/d/e/1FAIpQLSeAiVE22MJMSz7bLKy8jqcZD0eSz2uHoJO5W3AUuES-MV9aJQ/viewform?usp=dialog) -
+  in class Nov 20
+- [Quiz
+  12](https://docs.google.com/forms/d/e/1FAIpQLSfqCi4R8v0RqjRI2nNgjfLm2oHn8ofbmZF7v6Fp1m_GABdmlA/viewform?usp=dialog) -
+  in class Dec 4

@@ -1,0 +1,127 @@
+# BIOL 210 Problem Set 7
+
+[You can download an editable version of this Problem Set
+here](https://drive.google.com/drive/folders/1nRUFpZG5hHVy7_ULW9vdnKwHFUj5iW7l?usp=drive_link).
+
+## General Instructions for Problem Sets
+
+The goal of the problem sets is to give you practice thinking about and
+working with the concepts that we are covering. You should work solo to
+complete these assignments though you may want to do internet searches
+sometimes.
+
+**Before completing a problem set, you should review the content videos
+for the week and it may be helpful to complete those before the related
+class periods as well.**
+
+Use the link at the top of this webpage to turn in your completed
+assignment.
+
+### Problem Set Specifications
+
+To earn an “S”:
+
+- Completeness: Every question is thoroughly attempted.
+- Accuracy: At least 80% of responses demonstrate correct logical
+  reasoning, accurate quantitative calculations, and correct use of
+  biological terms.
+- Integrity & Sources: Citations are included where required, and work
+  adheres to the Honor Code.
+
+## Related Readings
+
+#### Required Readings about human genetic variation
+
+- Jorde, LB and SP Wooding. 2004. [Genetic variation, classification,
+  and
+  ‘race’.](https://drive.google.com/file/d/18ReeKA2AdSuL1TyWvt2X8nvRvzA-ciUC/view?usp=drive_link)
+  Nature Genetics Supplement 36:S28–S33. (6pp)
+
+- Sankar, P and MK Cho. 2002. [Toward a new vocabulary of human genetic
+  variation.](https://drive.google.com/file/d/1fChF3--ghPjj9IEsetNLxWDuw5MtTd_o/view?usp=drive_link)
+  Science 298:1337–1338. (2pp)
+
+#### Introducing Evolution, Hardy Weinberg, and Population Genetics
+
+- From Scitable: [Biological Complexity and Integrative Levels of
+  Organization](https://www.nature.com/scitable/topicpage/biological-complexity-and-integrative-levels-of-organization-468/)
+
+- From Scitable: [Mapping Genes to Chromosomes: Linkage and Genetic
+  Screens](https://www.nature.com/scitable/topicpage/mapping-genes-to-chromosomes-linkage-and-genetic-377/)
+
+- From Scitable: [Genetics and Statistical
+  Analysis](https://www.nature.com/scitable/topicpage/genetics-and-statistical-analysis-34592/)
+
+- Biology 2e: [Chapter 18. Evolution and the Origin of
+  Species](https://openstax.org/books/biology-2e/pages/18-1-understanding-evolution)
+
+- Biology 2e: [Chapter 19. The Evolution of
+  Populations](https://openstax.org/books/biology-2e/pages/19-introduction)
+
+## Questions
+
+1.  In snapdragons, flower color is controlled by a single gene. A cross
+    between a true-breeding red-flowered plant (RR) and a true-breeding
+    white-flowered plant (WW) produces all pink-flowered offspring. This
+    is an example of incomplete dominance, where the heterozygote’s
+    phenotype is intermediate between the two homozygotes.
+
+    1.  If you cross two of the pink-flowered (RW) F1 generation plants,
+        what are the expected genotypic and phenotypic ratios in the F2
+        generation? Show your work with a Punnett square.
+    2.  Why do we get pink flowers in this example rather than red or
+        white? Explain the concept of haploinsufficiency and how it
+        might apply to this example of pink flowers.
+
+2.  In humans, the MN blood group locus consists of 2 alleles: the M
+    allele and the N allele. These alleles encode antigens expressed on
+    the surface of red blood cells; the two alleles are codominant so
+    that a heterozygote (MN) expresses both the M-antigen and the
+    N-antigen. In a study in Poland, 3100 people were genotyped with the
+    following results:  
+      
+    1126 people were MM  
+    1446 people were MN  
+    528 people were NN  
+
+    1.  Is one of these alleles dominant to the other one? How do we
+        know?
+    2.  Calculate the observed genotype frequencies to at least 3
+        decimals.
+    3.  Calculate the allele frequencies to at least 3 decimals.
+    4.  Calculate the Hardy-Weinberg expected number of individuals of
+        each genotype (assuming random mating).
+    5.  Carry out a Chi-square test for goodness of fit to random-mating
+        proportions (with 1 degree of freedom). Is this population in
+        Hardy-Weinberg Proportions for this locus? Explain.
+
+3.  Consider the data presented by Jorde and Wooding (2004; only 6 pages
+    long). Do human populations differ genetically? How do we know?
+    Describe at least 1 piece of specific data that describe variation
+    among human populations.
+
+4.  Refer to both Jorde and Wooding (2004) and/or Sankar and Cho (2002;
+    only 2 pages long) to answer the following questions:
+
+    1.  How might we define “race”? What does this term represent? Is it
+        useful? Harmful? Does it have any biological meaning? How might
+        we decide whether there’s biological relevance or what role
+        biology might play here? (I’m not looking for some right answer.
+        I would like you to reflect on this in light of the readings and
+        your experiences—and also as potential biologists!)
+    2.  What might be benefits or costs of using a term like “race” (or
+        racial descriptors) when discussing human genetic variation? If
+        not by using a term like race, do you think there are better
+        ways we could describe groups of humans that differ genetically
+        from each other?
+
+5.  Weekly Reflection. Consider this week’s material and reply to one or
+    more of the following prompts:
+
+    - What was confusing or interesting to you about this week’s
+      material?
+    - Did you have any key insights while studying this material?
+    - Does anything from this week’s material particularly stick with
+      you?
+
+Remember to sign the Honor Code on your assignment.

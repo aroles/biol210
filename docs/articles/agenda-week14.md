@@ -1,0 +1,45 @@
+# BIOL 210 Course Agenda
+
+## Reminders
+
+- Exam 2 is available (covers through last week) – check your due date;
+  email Angie in advance if need to move.
+
+- [Link to in-class slides and
+  handouts](https://drive.google.com/drive/folders/17Fm-yEXqtlvGJfFaw6WqywIScW_eZ8m_?usp=drive_link)
+
+- Conservation Ecology Job Candidate talks this week by Logan Billet
+
+  - Mon Nov 10, 12:10-1:20pm in Craig Aud, Research seminar (pizza
+    available)
+  - Mon Nov 10, 4:45-5:30pm in SCTR A155, Teaching demonstration
+
+## Content Videos
+
+- [38-Behavior](https://drive.google.com/drive/folders/1yRWAfJVfDEalk7Fva43soyIqrw7gMCTv?usp=drive_link)
+
+- [39-Learning](https://drive.google.com/drive/folders/1yWF8c_eNaCuVEYLx1tUnMCQ28k_zyiR7?usp=drive_link)
+
+- [40-Genetics of
+  behavior](https://drive.google.com/drive/folders/1yZ5AqPPyYVdMFwmJAJl_ak7Trm5W9tJL?usp=drive_link)
+
+## Assignments
+
+[Problem Set 14](https://aroles.github.io/biol210/articles/ps11.md)
+
+## Class Meetings
+
+### Mon Dec 7
+
+Case study on sexual cannibalism in Australian redback spiders.
+
+### Wed Dec 9
+
+Case study on guarding behavior in meerkats.
+
+[Video introducing
+meerkats](https://www.youtube.com/watch?v=9L2XIR4tiF8)
+
+  
+
+------------------------------------------------------------------------

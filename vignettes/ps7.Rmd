@@ -2,15 +2,15 @@
 title: "BIOL 210 Problem Set 7"
 date: "Week 7, Oct 5-9"
 output:
-  word_document:
-    toc: true
-    toc_depth: '3'
-  pdf_document:
-    toc: true
-    toc_depth: 3
   html_document:
     toc: true
     toc_depth: 3
+  pdf_document:
+    toc: true
+    toc_depth: 3
+  word_document:
+    toc: true
+    toc_depth: '3'
 pkgdown:
   as_is: true
 ---
@@ -43,9 +43,9 @@ To earn an "S":
 
 ### Required Readings about human genetic variation
 
-* Jorde, LB and SP Wooding. 2004. [Genetic variation, classification, and ‘race’.](sheets/sci_articles/Genetic_variation_classification_and_race-Jorde-2004.pdf) Nature Genetics Supplement 36:S28–S33. (6pp)
+* Jorde, LB and SP Wooding. 2004. [Genetic variation, classification, and ‘race’.](https://drive.google.com/file/d/18ReeKA2AdSuL1TyWvt2X8nvRvzA-ciUC/view?usp=drive_link) Nature Genetics Supplement 36:S28–S33. (6pp)
 
-* Sankar, P and MK Cho. 2002. [Toward a new vocabulary of human genetic variation.](sheets/sci_articles/Sankar-and-Cho-2002.pdf) Science 298:1337–1338. (2pp)
+* Sankar, P and MK Cho. 2002. [Toward a new vocabulary of human genetic variation.](https://drive.google.com/file/d/1fChF3--ghPjj9IEsetNLxWDuw5MtTd_o/view?usp=drive_link) Science 298:1337–1338. (2pp)
 
 ### Introducing Evolution, Hardy Weinberg, and Population Genetics
 
