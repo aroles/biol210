@@ -213,7 +213,7 @@ One important skill you will practice in this class is self-assessment, the idea
 
 #### Independent Mastery Project
 
-To complete the A Bundle, you must complete all the B Bundle work plus an extra project that demonstrates your mastery of a topic or topics closely related to the course material. You must submit a project plan for Angie's review by Oct 10 and the final project is due by Dec 1. Projects can take a variety of forms; papers (15-20 pages, double-spaced, 12pt) and video presentations (10-15 min) are two examples. Discuss with Angie if you would like to propose an alternate type of project. Topics from any point in the course, including the second half, are suitable topics; please see Angie if you are unsure or would like to brainstorm topics.
+To complete the A Bundle, you must complete an extra project that demonstrates your mastery of a topic or topics closely related to the course material. You must submit a project plan for Angie's review by Oct 10 and the final project is due by Dec 1. Projects can take a variety of forms; papers (15-20 pages, double-spaced, 12pt) and video presentations (10-15 min) are two examples. Discuss with Angie if you would like to propose an alternate type of project. Topics from any point in the course, including the second half, are suitable topics; please see Angie if you are unsure or would like to brainstorm topics.
 
 ##### Phase 1: Project Proposal Specs (Due Oct 10)
 
