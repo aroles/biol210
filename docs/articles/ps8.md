@@ -1,24 +1,32 @@
 # BIOL 210 Problem Set 8
 
+[You can download an editable version of this Problem Set
+here](https://drive.google.com/drive/folders/1nRUFpZG5hHVy7_ULW9vdnKwHFUj5iW7l?usp=drive_link).
+
 ## General Instructions for Problem Sets
 
 The goal of the problem sets is to give you practice thinking about and
-working with the concepts that we are covering. You may work with others
-to complete these assignments but should submit your own responses (not
-copied from someone else’s response).
+working with the concepts that we are covering. You should work solo to
+complete these assignments though you may want to do internet searches
+sometimes.
 
 **Before completing a problem set, you should review the content videos
 for the week and it may be helpful to complete those before the related
 class periods as well.**
 
-Once you have answered the questions and before you turn in your
-responses, check your work against the answer key (linked for each
-problem set). If your responses are missing important information or
-incorrect, you need to correct them, using a different color font and
-explaining why your original answer was insufficient.
+Use the link at the top of this webpage to turn in your completed
+assignment.
 
-Use the link at the top of this page to turn in your completed
-assignment, including corrections.
+### Problem Set Specifications
+
+To earn an “S”:
+
+- Completeness: Every question is thoroughly attempted.
+- Accuracy: At least 80% of responses demonstrate correct logical
+  reasoning, accurate quantitative calculations, and correct use of
+  biological terms.
+- Integrity & Sources: Citations are included where required, and work
+  adheres to the Honor Code.
 
 ## Related Readings
 
@@ -50,82 +58,62 @@ assignment, including corrections.
 
 ## Questions
 
-1.  When we think about how evolutionary forces cause genetic change in
-    populations, we need to consider their effects at multiple levels.
-    Let’s do this with the evolutionary force of mutation.
-      
-    1.  When a new mutation occurs in an individual, how does it impact
-        variation within that individual’s population (consider average
-        heterozygosity)? Explain.
+1.  Let’s consider how mutations cause genetic change in populations -
+    we need to consider effects at multiple levels. Consider two
+    populations, A and B. A new mutation occurs in an individual in
+    population A.
 
-          
+    1.  How does this new mutation impact variation within population A
+        (consider average heterozygosity)? Explain.
+    2.  Does this new mutation make populations A and B more genetically
+        alike or more genetically divergent? Explain.
 
-    2.  When a new mutation occurs in an individual in a population,
-        does it make different populations more genetically alike or
-        more genetically divergent? Explain.
-          
+2.  Different types of mutations might occur and have different effects
+    on an organism’s phenotype via an effect on gene expression.
 
-2.  When we think about the types of mutations that may occur and their
-    possible effects on the organism’s phenotype, we need to consider
-    mutations in light of what we know about gene expression.
-      
-    1.  What types of mutations might be likely to be neutral, having no
-        effect on the organism’s phenotype?
-
-          
-
-    2.  What types of mutations are likely to have an effect on
-        phenotype even when you only have one copy? What about those
+    1.  Can we assume that a new mutation, anywhere in the genome, will
+        always reduce an individual’s survival or reproduction? Explain.
+    2.  What types of nucleotide mutations might be likely to be
+        neutral, having no effect on the organism’s phenotype? Explain.
+    3.  What types of nucleotide mutations are likely to have an effect
+        on phenotype even when you only have one copy? What about those
         only likely to have an effect on phenotype if you have two
-        copies?
-          
+        copies? Explain.
 
-3.  We think of gene flow as a force that keeps populations genetically
-    similar and preserves genetic variation within a population. Is this
+3.  Gene flow is a force that keeps populations genetically similar and
+    will usually preserve genetic variation within a population. Is this
     always a good thing? Can you think of scenarios where gene flow
     might not be the best thing for the average survival and
-    reproduction of a population?
-
-      
+    reproduction of a population? Explain.
 
 4.  Why is the loss of genetic variation due to genetic drift in small
     populations considered such a serious problem in conservation? Small
     populations are still experiencing spontaneous mutations, so won’t
     they be increasing genetic variation that way?
 
-      
-
 5.  What is a genetic bottleneck? What is the founder effect? How are
-    these phenomena different?
+    these phenomena different? If a population does not experience a
+    genetic bottleneck or a founder effect, will it still change due to
+    genetic drift? Explain.
 
-      
-
-6.  If a population does not experience a genetic bottleneck or a
-    founder effect, will it still change due to genetic drift? Explain.
-
-      
-
-7.  Genetic drift leads to the loss of genetic variation within
+6.  Genetic drift leads to the loss of genetic variation within
     populations, increasing the difference from other populations. We
     often view drift as a force that leads to problems for a population
-    due to the loss of variation. But we should think carefully. Will
-    genetic drift always lead to the loss of genetic variation? Since
-    genetic drift causes populations to become more different from each
-    other, what might be the long-term consequence of that process?
+    due to the loss of variation. But we should think carefully.
 
-      
+    1.  Will genetic drift always lead to the loss of genetic variation?
+        Explain.
+    2.  Since genetic drift causes populations to become more different
+        from each other, what might be the long-term consequence of that
+        process? Explain.
 
-8.  Weekly Reflection. Consider this week’s material and reply to one or
+7.  Weekly Reflection. Consider this week’s material and reply to one or
     more of the following prompts:
+
     - What was confusing or interesting to you about this week’s
       material?
     - Did you have any key insights while studying this material?
     - Does anything from this week’s material particularly stick with
-      you?
-
-  
-
-**When you are finished, check your responses on the [key for
-PS8](https://aroles.github.io/biol210/articles/ps8key.md).**
+      you?  
 
 Remember to sign the Honor Code on your assignment.

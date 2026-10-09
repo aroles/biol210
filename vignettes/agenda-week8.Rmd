@@ -13,8 +13,7 @@ pkgdown:
 ---
 # Reminders
 
-* From this point forward, problem sets are due on Sundays (end of day).
-* Next week is fall break so this week's PS is due Sun Oct 26. The Quiz is still due on Friday.
+* Next week is fall break so this week's PS is due Sun Oct 25. The Quiz is still on Friday Oct 16.
 * [Link to in-class slides and handouts](https://drive.google.com/drive/folders/17Fm-yEXqtlvGJfFaw6WqywIScW_eZ8m_?usp=drive_link)
 
 
@@ -44,7 +43,7 @@ Continue case study on mutation and TB
 
 ## Fri Oct 16
 
-Finish mutation and TB case study, do quiz corrections with teams.
+Quiz 7 solo then corrections with teams.
 <br>
 
 ------------------------------------------------------------------------

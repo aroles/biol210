@@ -11,7 +11,7 @@
 | [Week 5](https://aroles.github.io/biol210/articles/agenda-week5.md) | Sep 21-25 | Translation, Sex determination, Inheritance and segregation |
 | [Week 6](https://aroles.github.io/biol210/articles/agenda-week6.md) | Sep 28-Oct 02 | Dominance, Independent assortment, Linkage |
 | [Week 7](https://aroles.github.io/biol210/articles/agenda-week7.md) | Oct 05-09 | Hardy Weinberg, Detecting evolution, Genetic variation |
-| Week 8 | Oct 12-16 | Mutation, Gene flow, Genetic drift |
+| [Week 8](https://aroles.github.io/biol210/articles/agenda-week8.md) | Oct 12-16 | Mutation, Gene flow, Genetic drift |
 | \- | Oct 19-23 | Fall Break |
 | Week 9 | Oct 26-30 | Nonrandom mating, Selection, Heritability |
 | Week 10 | Nov 02-06 | Speciation, Population Ecology, Life History |

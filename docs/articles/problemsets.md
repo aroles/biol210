@@ -23,3 +23,4 @@ assignment. Problem Sets are due on Sundays.
 - [PS 5 - due Sep 27](https://aroles.github.io/biol210/articles/ps5.md)
 - [PS 6 - due Oct 4](https://aroles.github.io/biol210/articles/ps6.md)
 - [PS 7 - due Oct 11](https://aroles.github.io/biol210/articles/ps7.md)
+- [PS 8 - due Oct 25](https://aroles.github.io/biol210/articles/ps8.md)
