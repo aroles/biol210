@@ -42,7 +42,5 @@ Finish case study on selection in oldfield mice.
 
 ### Fri Oct 30
 
-Work on problems related to this week’s material; quiz corrections with
-teams.  
-
-------------------------------------------------------------------------
+- Quiz solo then corrections with team.
+- Work on problems related to this week’s material.

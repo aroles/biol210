@@ -1,6 +1,6 @@
 ---
 title: "BIOL 210 Problem Set 9"
-date: "Week 10, Nov 4-8"
+date: "Week 9, due Nov 1"
 output: 
   html_document:
     toc: TRUE
@@ -11,15 +11,30 @@ output:
 pkgdown:
   as_is: true
 ---
+```{css, echo=FALSE}
+/* Increase spacing between bullet points */
+ul li, ol li {
+  margin-bottom: 10px; /* Adjust number of pixels as needed */
+}
+```
+
+[You can download an editable version of this Problem Set here](https://drive.google.com/drive/folders/1nRUFpZG5hHVy7_ULW9vdnKwHFUj5iW7l?usp=drive_link).
+
 # General Instructions for Problem Sets
 
-The goal of the problem sets is to give you practice thinking about and working with the concepts that we are covering. You may work with others to complete these assignments but should submit your own responses (not copied from someone else's response). 
+The goal of the problem sets is to give you practice thinking about and working with the concepts that we are covering. You may work together to complete these assignments. 
 
 <b>Before completing a problem set, you should review the content videos for the week and it may be helpful to complete those before the related class periods as well.</b>
 
-Once you have answered the questions and before you turn in your responses, check your work against the answer key (linked for each problem set). If your responses are missing important information or incorrect, you need to correct them, using a different color font and explaining why your original answer was insufficient.
+Use the link at the top of this webpage to turn in your completed assignment.
 
-Use the link at the top of this page to turn in your completed assignment, including corrections.
+## Problem Set Specifications
+
+To earn an "S":
+
+* Completeness: Every question is thoroughly attempted.
+* Accuracy: At least 80% of responses demonstrate correct logical reasoning, accurate quantitative calculations, and correct use of biological terms.
+* Integrity & Sources: Citations are included where required, and work adheres to the Honor Code.
 
 # Related Readings
 
@@ -50,24 +65,19 @@ Use the link at the top of this page to turn in your completed assignment, inclu
 
 # Questions
 
-<ol>
-<li>As we have seen, inbreeding can reduce offspring fitness by exposing deleterious recessive alleles. However, some animal breeders practice generations of careful inbreeding within a family, or “line-breeding,” and surprisingly many of the line-bred animals, from champion dogs to prize cows, have normal health and fertility. How can it be possible to continue inbreeding for many generations without experiencing inbreeding depression due to recessive alleles? (Hint: Consider some of the differences between animal breeders and natural selection in the wild.) Generally, if a small population continues to inbreed for many generations, what will happen to the frequency of the deleterious recessive alleles over time?
+1. As we have seen, inbreeding can reduce offspring fitness by exposing deleterious recessive alleles. However, some animal breeders practice generations of careful inbreeding within a family, or “line-breeding,” and surprisingly many of the line-bred animals, from champion dogs to prize cows, have normal health and fertility.
+    a. How can it be possible to continue inbreeding for many generations without experiencing inbreeding depression due to recessive alleles? (Hint: Consider some of the differences between animal breeders and natural selection in the wild.) 
+    b. Generally, if a small population continues to inbreed for many generations, what will happen to the frequency of the deleterious recessive alleles over time?
 
-</ol><br>
+2. A beetle species is introduced to an island covered with dark basaltic rock. On this dark background, dark beetles, TT or Tt, are much more resistant to predation than are light-colored beetles, tt. The dark beetles have a large selective advantage. Both alleles are relatively common in the group of beetles released on the new island. What evolutionary process or processes are described? How are allele frequencies likely to change over time? Explain.
 
-<b>For the next five questions, name the evolutionary process(es) being described in each (hypothetical) example, and describe how allele frequencies are likely to change in succeeding generations.</b>
+3. Another beetle population, this time consisting of mostly light beetles and just a few dark beetles, is introduced onto a different island with a mixed substrate of light sand, vegetation, and black basalt. On this island, dark beetles have a selective advantage only on the black basalt. What evolutionary process or processes are described? How are allele frequencies likely to change over time? Explain.
 
-<ol start=2>
-<li>A beetle species is introduced to an island covered with dark basaltic rock. On this dark background, dark beetles, TT or Tt, are much more resistant to predation than are light-colored beetles, tt. The dark beetles have a large selective advantage. Both alleles are relatively common in the group of beetles released on the new island.</li><br>
+4. A coral reef fish has two genetically determined types of male, one of which is much smaller (aa) and “sneaks” into larger males’ (AA or Aa) nests to fertilize their females’ eggs. When small males are rare, they have a selective advantage over large males. However, if there are too many small males, large males switch to a more aggressive strategy of nest defense, and small males lose their advantage. What evolutionary process or processes are described? How are allele frequencies likely to change over time? Explain.
 
-<li>Another beetle population, this time consisting of mostly light beetles and just a few dark beetles, is introduced onto a different island with a mixed substrate of light sand, vegetation, and black basalt. On this island, dark beetles have a selective advantage only on the black basalt.</li><br>
+5. In a tropical plant, CC and Cc plants have red flowers and cc plants have yellow flowers. However, Cc plants have defective flower development and produce very few flowers. What evolutionary process or processes are described? How are allele frequencies likely to change over time? Explain.
 
-<li>A coral reef fish has two genetically determined types of male, one of which is much smaller (aa) and “sneaks” into larger males’ (AA or Aa) nests to fertilize their females’ eggs. When small males are rare, they have a selective advantage over large males. However, if there are too many small males, large males switch to a more aggressive strategy of nest defense, and small males lose their advantage.</li><br>
-
-<li>In a tropical plant, CC and Cc plants have red flowers and cc plants have yellow flowers. However, Cc plants have defective flower development and produce very few flowers.</li><br>
-
-<li>In a species of bird, individuals with genotype MM are susceptible to avian malaria, Mm and mm birds are resistant to avian malaria, but the mm birds are also vulnerable to avian pox.</li><br>
-</ol>
+6. In a species of bird, individuals with genotype MM are susceptible to avian malaria, Mm and mm birds are resistant to avian malaria, but the mm birds are also vulnerable to avian pox. What evolutionary process or processes are described? How are allele frequencies likely to change over time? Explain.
 
 <b>The next four questions are about the evolution of resistance to tetrodotoxin in garter snakes. Use the following info to help you answer the questions.</b><br>
 
@@ -80,31 +90,19 @@ The toxic newt <i>Taricha granulosa</i> and its predator, the garter snake <i>Th
 * *Experimental attempts to induce resistance by exposing sensitive garter snakes to small amounts of TTX have had no effect.*
 
 * *Resistant snakes have amino acid changes in the SCN4A gene encoding a skeletal muscle voltage-gated sodium channel protein (Nav1.4). These amino acid changes result in greatly reduced binding by TTX in snakes with resistant genotypes.*
-<br><br>
 
-<ol start=7>
-<li>Is TTX resistance caused by genetic differences or by the environment? How do we know? Be as specific as possible, using the given information.</li><br>
+7. Is TTX resistance caused by genetic differences or by the environment? How do we know? Be as specific as possible, using the given information.
 
-<li>What might explain why the Tenmile (h2 = 0.8) and Benton (h2 = 0.65) populations have different values of heritability for TTX resistance? Do you think all of the snakes in a single population have the same level of resistance?</li><br>
+8. What might explain why the Tenmile (h<sup>2</sup> = 0.8) and Benton (h<sup>2</sup> = 0.65) populations have different values of heritability for TTX resistance? Do you think all of the snakes in a single population have the same level of resistance?
 
-<li>Do you think there is evidence that natural selection is acting (or has acted) on the garter snake populations in terms of resistance to TTX? Explain. (Perhaps discuss the criteria for selection...)</li><br>
+9. Do you think there is evidence that natural selection is acting (or has acted) on the garter snake populations in terms of resistance to TTX? Explain. (Perhaps discuss the criteria for selection...)
 
-<li>What do you think would happen to the frequency of resistance in the Tenmile and Benton populations if the toxic newt went extinct? Explain.</li>
-
-<br>
-
-<li>Weekly Reflection. Consider this week’s material and reply to one or more of the following prompts:
-<ul>
-<li> What was confusing or interesting to you about this week’s material?</li>
- 
-<li> Did you have any key insights while studying this material?</li>
-
-<li> Does anything from this week’s material particularly stick with you?</li>
-</ul>
-</ol>
-<br>
+10. What do you think would happen to the frequency of resistance in the Tenmile and Benton populations if the toxic newt went extinct? Explain.
 
 
-<b>When you are finished, check your responses on the [key for PS9](ps9key.html).</b>
+11. Weekly Reflection. Consider this week’s material and reply to one or more of the following prompts:
+    a. What was confusing or interesting to you about this week’s material?
+    b. Did you have any key insights while studying this material?
+    c. Does anything from this week’s material particularly stick with you?
 
 Remember to sign the Honor Code on your assignment.

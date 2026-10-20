@@ -32,10 +32,8 @@ Begin case study on mutation and tuberculosis (TB).
 
 ### Wed Oct 14
 
-Continue case study on mutation and TB
+Continue case study on mutation and TB.
 
 ### Fri Oct 16
 
-Quiz 7 solo then corrections with teams.  
-
-------------------------------------------------------------------------
+Quiz 7 solo then corrections with teams.

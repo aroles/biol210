@@ -1,24 +1,31 @@
 # BIOL 210 Problem Set 9
 
+[You can download an editable version of this Problem Set
+here](https://drive.google.com/drive/folders/1nRUFpZG5hHVy7_ULW9vdnKwHFUj5iW7l?usp=drive_link).
+
 ## General Instructions for Problem Sets
 
 The goal of the problem sets is to give you practice thinking about and
-working with the concepts that we are covering. You may work with others
-to complete these assignments but should submit your own responses (not
-copied from someone else’s response).
+working with the concepts that we are covering. You may work together to
+complete these assignments.
 
 **Before completing a problem set, you should review the content videos
 for the week and it may be helpful to complete those before the related
 class periods as well.**
 
-Once you have answered the questions and before you turn in your
-responses, check your work against the answer key (linked for each
-problem set). If your responses are missing important information or
-incorrect, you need to correct them, using a different color font and
-explaining why your original answer was insufficient.
+Use the link at the top of this webpage to turn in your completed
+assignment.
 
-Use the link at the top of this page to turn in your completed
-assignment, including corrections.
+### Problem Set Specifications
+
+To earn an “S”:
+
+- Completeness: Every question is thoroughly attempted.
+- Accuracy: At least 80% of responses demonstrate correct logical
+  reasoning, accurate quantitative calculations, and correct use of
+  biological terms.
+- Integrity & Sources: Citations are included where required, and work
+  adheres to the Honor Code.
 
 ## Related Readings
 
@@ -66,35 +73,30 @@ assignment, including corrections.
     practice generations of careful inbreeding within a family, or
     “line-breeding,” and surprisingly many of the line-bred animals,
     from champion dogs to prize cows, have normal health and fertility.
-    How can it be possible to continue inbreeding for many generations
-    without experiencing inbreeding depression due to recessive alleles?
-    (Hint: Consider some of the differences between animal breeders and
-    natural selection in the wild.) Generally, if a small population
-    continues to inbreed for many generations, what will happen to the
-    frequency of the deleterious recessive alleles over time?
 
-  
-
-**For the next five questions, name the evolutionary process(es) being
-described in each (hypothetical) example, and describe how allele
-frequencies are likely to change in succeeding generations.**
+    1.  How can it be possible to continue inbreeding for many
+        generations without experiencing inbreeding depression due to
+        recessive alleles? (Hint: Consider some of the differences
+        between animal breeders and natural selection in the wild.)
+    2.  Generally, if a small population continues to inbreed for many
+        generations, what will happen to the frequency of the
+        deleterious recessive alleles over time?
 
 2.  A beetle species is introduced to an island covered with dark
     basaltic rock. On this dark background, dark beetles, TT or Tt, are
     much more resistant to predation than are light-colored beetles, tt.
     The dark beetles have a large selective advantage. Both alleles are
     relatively common in the group of beetles released on the new
-    island.
-
-      
+    island. What evolutionary process or processes are described? How
+    are allele frequencies likely to change over time? Explain.
 
 3.  Another beetle population, this time consisting of mostly light
     beetles and just a few dark beetles, is introduced onto a different
     island with a mixed substrate of light sand, vegetation, and black
     basalt. On this island, dark beetles have a selective advantage only
-    on the black basalt.
-
-      
+    on the black basalt. What evolutionary process or processes are
+    described? How are allele frequencies likely to change over time?
+    Explain.
 
 4.  A coral reef fish has two genetically determined types of male, one
     of which is much smaller (aa) and “sneaks” into larger males’ (AA or
@@ -102,20 +104,20 @@ frequencies are likely to change in succeeding generations.**
     rare, they have a selective advantage over large males. However, if
     there are too many small males, large males switch to a more
     aggressive strategy of nest defense, and small males lose their
-    advantage.
-
-      
+    advantage. What evolutionary process or processes are described? How
+    are allele frequencies likely to change over time? Explain.
 
 5.  In a tropical plant, CC and Cc plants have red flowers and cc plants
     have yellow flowers. However, Cc plants have defective flower
-    development and produce very few flowers.
-
-      
+    development and produce very few flowers. What evolutionary process
+    or processes are described? How are allele frequencies likely to
+    change over time? Explain.
 
 6.  In a species of bird, individuals with genotype MM are susceptible
     to avian malaria, Mm and mm birds are resistant to avian malaria,
-    but the mm birds are also vulnerable to avian pox.
-      
+    but the mm birds are also vulnerable to avian pox. What evolutionary
+    process or processes are described? How are allele frequencies
+    likely to change over time? Explain.
 
 **The next four questions are about the evolution of resistance to
 tetrodotoxin in garter snakes. Use the following info to help you answer
@@ -145,45 +147,32 @@ have found the following:
 - *Resistant snakes have amino acid changes in the SCN4A gene encoding a
   skeletal muscle voltage-gated sodium channel protein (Nav1.4). These
   amino acid changes result in greatly reduced binding by TTX in snakes
-  with resistant genotypes.*  
-    
+  with resistant genotypes.*
 
 7.  Is TTX resistance caused by genetic differences or by the
     environment? How do we know? Be as specific as possible, using the
     given information.
 
-      
-
-8.  What might explain why the Tenmile (h2 = 0.8) and Benton (h2 = 0.65)
+8.  What might explain why the Tenmile (h² = 0.8) and Benton (h² = 0.65)
     populations have different values of heritability for TTX
     resistance? Do you think all of the snakes in a single population
     have the same level of resistance?
-
-      
 
 9.  Do you think there is evidence that natural selection is acting (or
     has acted) on the garter snake populations in terms of resistance to
     TTX? Explain. (Perhaps discuss the criteria for selection…)
 
-      
-
 10. What do you think would happen to the frequency of resistance in the
     Tenmile and Benton populations if the toxic newt went extinct?
     Explain.
 
-      
-
 11. Weekly Reflection. Consider this week’s material and reply to one or
     more of the following prompts:
-    - What was confusing or interesting to you about this week’s
-      material?
-    - Did you have any key insights while studying this material?
-    - Does anything from this week’s material particularly stick with
-      you?
 
-  
-
-**When you are finished, check your responses on the [key for
-PS9](https://aroles.github.io/biol210/articles/ps9key.md).**
+    1.  What was confusing or interesting to you about this week’s
+        material?
+    2.  Did you have any key insights while studying this material?
+    3.  Does anything from this week’s material particularly stick with
+        you?
 
 Remember to sign the Honor Code on your assignment.
