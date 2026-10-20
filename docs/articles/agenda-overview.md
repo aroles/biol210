@@ -13,7 +13,7 @@
 | [Week 7](https://aroles.github.io/biol210/articles/agenda-week7.md) | Oct 05-09 | Hardy Weinberg, Detecting evolution, Genetic variation |
 | [Week 8](https://aroles.github.io/biol210/articles/agenda-week8.md) | Oct 12-16 | Mutation, Gene flow, Genetic drift |
 | \- | Oct 19-23 | Fall Break |
-| \[Week 9\[(agenda-week9.html)\] | Oct 26-30 | Nonrandom mating, Selection, Heritability |
+| [Week 9](https://aroles.github.io/biol210/articles/agenda-week9.md) | Oct 26-30 | Nonrandom mating, Selection, Heritability |
 | Week 10 | Nov 02-06 | Speciation, Population Ecology, Life History |
 | Week 11 | Nov 09-13 | Interspecific interactions, Competition |
 | Week 12 | Nov 16-20 | Community structure, Ecological succession, Energy flow |
