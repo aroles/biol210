@@ -632,21 +632,23 @@ When you are heterozygous, you produce both antigens.</text></li>
 decimals.<br> <text style="background-color:lightcyan">To get the
 observed genotype frequencies, we just divide the number of individuals
 of that genotype by the total number of individuals. Here’s the
-calculation for MM: obs freq MM = 1126 / 3100 = 0.36</text></li>
+calculation for MM: obs freq MM = Pobs = 1126 / 3100 = 0.363. Hobs =
+0.467, Qobs = 0.170</text></li>
 <li>Calculate the allele frequencies to at least 3 decimals.<br>
-<text style="background-color:lightcyan">p = freq M = 0.36*1 + 0.47*0.5
-= 0.6<br> q = freq N = 0.17*1 + 0.47*0.5 = 0.4</text></li>
+<text style="background-color:lightcyan">p = freq M = 0.363*1 +
+0.467*0.5 = 0.5965<br> q = freq N = 0.17*1 + 0.467*0.5 =
+0.4035</text></li>
 <li>Calculate the Hardy-Weinberg expected number of individuals of each
 genotype (assuming random mating).<br>
-<text style="background-color:lightcyan">exp(MM) = p<sup>2</sup> = 0.36
-x 3100 = 1116 individuals expected to be MM.<br> exp(MN) = 2pq =
-2x0.6x0.4= 0.48 x 3100 = 1488 MN<br> exp(NN) = q<sup>2</sup> = 0.16 x
-3100 = 496.</text></li>
+<text style="background-color:lightcyan">exp(MM) = p<sup>2</sup> = 0.356
+x 3100 = 1104 individuals expected to be MM.<br> exp(MN) = 2pq =
+2x0.5965x0.4035= 0.481 x 3100 = 1491 MN<br> exp(NN) = q<sup>2</sup> =
+0.163 x 3100 = 505.</text></li>
 <li>Carry out a Chi-square test for goodness of fit to random-mating
 proportions (with 1 degree of freedom). Is this population in
 Hardy-Weinberg Proportions for this locus? Explain.
-<text style="background-color:lightcyan">(1126 - 1116)<sup>2</sup>/1116
-= 10<sup>2</sup>/1116 = 0.089</text></li>
+<text style="background-color:lightcyan">(1126 - 1104)<sup>2</sup>/1116
+= 10<sup>2</sup>/1116 = 0.434</text></li>
 </ol></li>
 </ol>
 <p><text style="background-color:lightcyan">We perform the calculation
@@ -685,16 +687,16 @@ MM
 1126
 </td>
 <td style="text-align:right;color: blue !important;">
-0.36
+0.363
 </td>
 <td style="text-align:right;color: blue !important;">
-0.36
+0.356
 </td>
 <td style="text-align:right;color: blue !important;">
-1116
+1104
 </td>
 <td style="text-align:right;color: blue !important;">
-0.089
+0.434
 </td>
 </tr>
 <tr>
@@ -705,16 +707,16 @@ MN
 1446
 </td>
 <td style="text-align:right;color: blue !important;">
-0.47
+0.467
 </td>
 <td style="text-align:right;color: blue !important;">
-0.48
+0.481
 </td>
 <td style="text-align:right;color: blue !important;">
-1488
+1491
 </td>
 <td style="text-align:right;color: blue !important;">
-1.185
+1.358
 </td>
 </tr>
 <tr>
@@ -725,16 +727,16 @@ NN
 528
 </td>
 <td style="text-align:right;color: blue !important;">
-0.17
+0.170
 </td>
 <td style="text-align:right;color: blue !important;">
-0.16
+0.163
 </td>
 <td style="text-align:right;color: blue !important;">
-496
+505
 </td>
 <td style="text-align:right;color: blue !important;">
-2.065
+1.048
 </td>
 </tr>
 <tr>
@@ -745,16 +747,16 @@ Total
 3100
 </td>
 <td style="text-align:right;color: blue !important;">
-1.00
+1.000
 </td>
 <td style="text-align:right;color: blue !important;">
-1.00
+1.000
 </td>
 <td style="text-align:right;color: blue !important;">
 3100
 </td>
 <td style="text-align:right;color: blue !important;">
-3.339
+2.840
 </td>
 </tr>
 </tbody>

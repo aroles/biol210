@@ -34,16 +34,16 @@ ul li, ol li {
     a. Is one of these alleles dominant to the other one? How do we know?<br>
         <text style="background-color:lightcyan">No, this is codominance, where each allele causes production of an antigen (M or N). When you are heterozygous, you produce both antigens.</text>
     b. Calculate the observed genotype frequencies to at least 3 decimals.<br>
-        <text style="background-color:lightcyan">To get the observed genotype frequencies, we just divide the number of individuals of that genotype by the total number of individuals. Here's the calculation for MM: obs freq MM = 1126 / 3100 = 0.36</text>
+        <text style="background-color:lightcyan">To get the observed genotype frequencies, we just divide the number of individuals of that genotype by the total number of individuals. Here's the calculation for MM: obs freq MM = Pobs = 1126 / 3100 = 0.363. Hobs = 0.467, Qobs = 0.170</text>
     c. Calculate the allele frequencies to at least 3 decimals.<br>
-    <text style="background-color:lightcyan">p = freq M = 0.36\*1 + 0.47\*0.5 = 0.6<br>
-    q = freq N = 0.17\*1 + 0.47\*0.5 = 0.4</text>
+    <text style="background-color:lightcyan">p = freq M = 0.363\*1 + 0.467\*0.5 = 0.5965<br>
+    q = freq N = 0.17\*1 + 0.467\*0.5 = 0.4035</text>
     d. Calculate the Hardy-Weinberg expected number of individuals of each genotype (assuming random mating).<br>
-    <text style="background-color:lightcyan">exp(MM) = p<sup>2</sup> = 0.36 x 3100 = 1116 individuals expected to be MM.<br>
-    exp(MN) = 2pq = 2x0.6x0.4= 0.48 x 3100 = 1488 MN<br>
-    exp(NN) = q<sup>2</sup> = 0.16 x 3100 = 496.</text>
+    <text style="background-color:lightcyan">exp(MM) = p<sup>2</sup> = 0.356 x 3100 = 1104 individuals expected to be MM.<br>
+    exp(MN) = 2pq = 2x0.5965x0.4035= 0.481 x 3100 = 1491 MN<br>
+    exp(NN) = q<sup>2</sup> = 0.163 x 3100 = 505.</text>
     e. Carry out a Chi-square test for goodness of fit to random-mating proportions (with 1 degree of freedom). Is this population in Hardy-Weinberg Proportions for this locus? Explain.
-    <text style="background-color:lightcyan">(1126 - 1116)<sup>2</sup>/1116 = 10<sup>2</sup>/1116 = 0.089</text>
+    <text style="background-color:lightcyan">(1126 - 1104)<sup>2</sup>/1116 = 10<sup>2</sup>/1116 = 0.434</text>
 
 <text style="background-color:lightcyan">We perform the calculation for each genotype and then sum them up, as in the table below, to get our $\chi^2$ value of 3.339.</text>
 
@@ -52,10 +52,10 @@ library(gt)
 library(kableExtra)
 library(tidyverse)
 tab <- tribble(~Genotype, ~ObsNo, ~ObsFreq, ~ExpFreq, ~ExpNo, ~'(O-E)^2/E',
-               "MM", 1126, 0.36, 0.36, 1116, 0.089,
-               "MN", 1446, 0.47, 0.48, 1488, 1.185,
-               "NN", 528, 0.17, 0.16, 496, 2.065,
-               "Total", 3100, 1, 1, 3100, 3.339)
+               "MM", 1126, 0.363, 0.356, 1104, 0.434,
+               "MN", 1446, 0.467, 0.481, 1491, 1.358,
+               "NN", 528, 0.170, 0.163, 505, 1.048,
+               "Total", 3100, 1, 1, 3100, 2.84)
 
 tab %>% kbl() %>%
       kable_paper() %>% column_spec(3:6, color="blue")

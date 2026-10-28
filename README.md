@@ -1,7 +1,7 @@
 ---
 output:
-  pdf_document: default
   html_document: default
+  pdf_document: default
 ---
 Deployed site: https://aroles.github.io/biol210/
 
@@ -120,11 +120,14 @@ You choose your target grade by completing the required bundle of Satisfactory w
 | Component | A Bundle | B Bundle | C Bundle | D Bundle | 
 | :--------------------- | :---------------------: | :---------------------: | :---------------------: | :---------------------: |
 | Class attendance (41 days) | Miss no more than 3 class periods | Miss no more than 6 class periods | Miss no more than 9 class periods | Miss no more than 12 class periods |
-| Problem Sets (14 total) | Earn S on at least 12 | Earn S on at least 10 | Earn S on at least 8 | Earn S on at least 6 |
+| Problem Sets (13 total) | Earn S on at least 11 | Earn S on at least 19 | Earn S on at least 7 | Earn S on at least 5 |
 | Quizzes (12 total) | Earn S on at least 11 | Earn S on at least 9 | Earn S on at least 7 | Earn S on at least 5 |
-| Exams (3 total) | Achieve High Pass on all exams | Achieve Pass on all exams | Achieve Pass on 2 exams | Attempt all exams | 
+| Exams (3 total) | <mark>Achieve High Pass on 2 exams, Pass on 1</mark> | Achieve Pass on all exams | Achieve Pass on 2 exams | Attempt all exams | 
 | Reflections (2 total) | Earn S on both Midterm & Final | Earn S on both Midterm & Final | Earn S on at least 1 Reflection | Complete 1 Reflection |
 | Mastery Project | Achieve Pass on project | - | - | - |
+
+
+<mark>Note: Changed A Bundle Exam spec on 10/26/2026 from Achieve High Pass on all exams to High Pass on 2 exams, Pass on 1 exam.</mark>
 
 #### The Token System
 
