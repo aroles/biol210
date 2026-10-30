@@ -1,12 +1,15 @@
 ---
 title: "BIOL 210 Problem Set 10"
 date: "Week 10, due Nov 8"
-output: 
+output:
   html_document:
-    toc: TRUE
+    toc: true
     toc_depth: 3
+  word_document:
+    toc: true
+    toc_depth: '3'
   pdf_document:
-    toc: TRUE
+    toc: true
     toc_depth: 3
 pkgdown:
   as_is: true

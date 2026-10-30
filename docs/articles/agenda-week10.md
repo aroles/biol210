@@ -2,7 +2,7 @@
 
 ## Reminders
 
-- New Teams!
+- New Teams! (Theme: Desert life)
 
   - **Saguaro Cacti:** Chaya, Eleana, Rafael, Manolis
   - **Kangaroo Rats:** Leo D., Peyton, Bird, Giulia
@@ -26,6 +26,9 @@
     Amazonia” (pizza available)
   - Mon Nov 2, 4:45-5:30pm in SCTR A154, Teaching: “Wildlife ecology and
     management: population dynamics”
+
+- Conservation Ecology Job Candidate Troy Neptune talks this week
+
   - Thu Nov 5, 12:20-1:20pm in Craig Aud, Research: “A trick of the
     light? How light shapes frog development and physiology” (pizza
     available)
