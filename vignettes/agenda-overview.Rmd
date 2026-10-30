@@ -26,7 +26,7 @@ pkgdown:
 | [Week 8](agenda-week8.html) | Oct 12-16 | Mutation, Gene flow, Genetic drift |
 | - | Oct 19-23 | Fall Break |
 | [Week 9](agenda-week9.html) | Oct 26-30 | Nonrandom mating, Selection, Heritability |
-| Week 10 | Nov 02-06 | Speciation, Population Ecology, Life History |
+| [Week 10](agenda-week10.html) | Nov 02-06 | Speciation, Population Ecology, Life History |
 | Week 11 | Nov 09-13 | Interspecific interactions, Competition |
 | Week 12 | Nov 16-20 | Community structure, Ecological succession, Energy flow |
 | - | Nov 26-28 | Thanksgiving Break |

@@ -33,8 +33,8 @@ Use the link at the top of this page to turn in your completed assignment. Probl
 * Oct 21-25 -- FALL BREAK NO ASSIGNMENT
 * [PS 8 - due Oct 25](ps8.html)
 * [PS 9 - due Nov 1](ps9.html)
-<!-- * [PS 10 - due Nov 8](ps10.html) -->
-<!-- * [PS 11 - due Nov 15](ps11.html) -->
-<!-- * [PS 12 - due Nov 22](ps12.html) -->
-<!-- * [PS 13 - due Nov 29](ps13.html) -->
-<!-- * [PS 14 - due Dec 9](ps14.html) -->
+* [PS 10 - due Nov 8](ps10.html)
+<!-- 2026: Take old PS 11 and combine with PS12 (new PS11) -->
+<!-- * [PS 11 - due Nov 22](ps11a.html) -->
+<!-- * [PS 12 - due Nov 29](ps12a.html) -->
+<!-- * [PS 13 - due Dec 9](ps13a.html) -->
