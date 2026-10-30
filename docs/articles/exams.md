@@ -1,0 +1,58 @@
+# BIOL 210 Exams
+
+## Short-Answer Exams
+
+- All exams are take-home, open-note, open-book. This means that you may
+  use any materials provided by the instructor for class as you complete
+  the exam.
+
+- There is no time limit on the exam. You are free to ask Angie
+  questions as you complete the exam. You can email or speak with me in
+  person.
+
+- You are NOT allowed to discuss the exam with anyone except Angie
+  Roles, even after you have submitted it.
+
+- You are not allowed to use internet resources that were not provided
+  by the instructor.
+
+- Violation of any of the above will be reported as an Honor Code
+  violation.
+
+- Exam Specifications:
+
+  - Core Specs (Pass): Correctly answer at least 80% of Core conceptual
+    questions.
+  - Advanced Specs (High Pass): Meet the Core Spec and demonstrate
+    satisfactory reasoning on at least 75% of Advanced analytical
+    prompts.
+
+### Exam 1 - due Oct 2
+
+Exam 1 covers course material through the end of Week 5 (Sep 25).
+
+You can access [Exam 1
+here](https://docs.google.com/document/d/1X0N-TC_iPrui603tfLdMv-AssXTBiAGCyMsRqdE-Auo/edit?usp=sharing).
+Make a copy for yourself and then type into the doc. Or you can create a
+separate doc for your responses. Use the link at the top of the website
+to submit the completed exam.
+
+### Exam 2 - due Nov 13
+
+Exam 2 covers course material through the end of Week 10 (Nov 6).
+
+You can access [Exam 2
+here](https://aroles.github.io/biol210/articles/404.md). Make a copy for
+yourself and then type into the doc. Or you can create a separate doc
+for your responses. Use the link at the top of the website to submit the
+completed exam.
+
+### Exam 3 - due Dec 14, 4pm
+
+Exam 3 covers course material through the end of Week 14 (Dec 9).
+
+You can access [Exam 3
+here](https://aroles.github.io/biol210/articles/404.md). Make a copy for
+yourself and then type into the doc. Or you can create a separate doc
+for your responses. Use the link at the top of the website to submit the
+completed exam.
