@@ -36,8 +36,9 @@
     Organismal responses to a changing climate”  
       
 
-- Exam 2 material finishes this week; Exam will be posted by Fri Nov 6
-  and is due Fri Nov 13 (end of day).
+- Exam 2 material finishes this week; [Exam
+  2](https://docs.google.com/document/d/13_jFQ47Bncn98IUWDFaXUoDz4XaI2nkvQz8jO2l0ZWw/edit?usp=sharing)
+  is posted (Nov 1) and is due Fri Nov 13 (end of day).
 
 ## Content Videos
 

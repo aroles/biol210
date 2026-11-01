@@ -42,10 +42,10 @@ to submit the completed exam.
 Exam 2 covers course material through the end of Week 10 (Nov 6).
 
 You can access [Exam 2
-here](https://aroles.github.io/biol210/articles/404.md). Make a copy for
-yourself and then type into the doc. Or you can create a separate doc
-for your responses. Use the link at the top of the website to submit the
-completed exam.
+here](https://docs.google.com/document/d/13_jFQ47Bncn98IUWDFaXUoDz4XaI2nkvQz8jO2l0ZWw/edit?usp=sharing).
+Make a copy for yourself and then type into the doc. Or you can create a
+separate doc for your responses. Use the link at the top of the website
+to submit the completed exam.
 
 ### Exam 3 - due Dec 14, 4pm
 
