@@ -19,6 +19,10 @@
 - [Link to in-class slides and
   handouts](https://drive.google.com/drive/folders/17Fm-yEXqtlvGJfFaw6WqywIScW_eZ8m_?usp=drive_link)
 
+- Exam 2 material finishes this week; [Exam
+  2](https://docs.google.com/document/d/13_jFQ47Bncn98IUWDFaXUoDz4XaI2nkvQz8jO2l0ZWw/edit?usp=sharing)
+  is posted (Nov 1) and is due Fri Nov 13 (end of day).
+
 - Conservation Ecology Job Candidate Brian Griffiths talks this week
 
   - Mon Nov 2, 12:15-1:15pm in Craig Aud, Research: “From mineral licks
@@ -35,10 +39,6 @@
   - Thu Nov 5, 4:45-5:30pm in A155, Teaching: “Shift or adapt?
     Organismal responses to a changing climate”  
       
-
-- Exam 2 material finishes this week; [Exam
-  2](https://docs.google.com/document/d/13_jFQ47Bncn98IUWDFaXUoDz4XaI2nkvQz8jO2l0ZWw/edit?usp=sharing)
-  is posted (Nov 1) and is due Fri Nov 13 (end of day).
 
 ## Content Videos
 
