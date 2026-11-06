@@ -5,9 +5,8 @@
 # also install any packages needed, check ps7key
  # pkgs remotes, pkgdown, here, gt, kableExtra
 
-library(here)
-library(fs)
-library(pkgdown)
+# library(here)
+# library(pkgdown)
 
 # remember to knit to html before running the below; if knit to word then you may have character conversion issues
 
@@ -25,6 +24,7 @@ pkgdown::build_site_github_pages(clean = FALSE, lazy = TRUE)
 base_sheets <- here::here('sheets')
 articles_sheets <- here::here('docs', 'articles', 'sheets')
 
+library(fs)
 if (!dir_exists(articles_sheets) || 
     file_info(base_sheets)$modification_time > file_info(articles_sheets)$modification_time) {
       dir_copy(base_sheets, articles_sheets, overwrite = TRUE)

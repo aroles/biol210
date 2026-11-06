@@ -29,6 +29,24 @@
 - [Quiz
   10](https://docs.google.com/forms/d/e/1FAIpQLSeRQFX6rspY9Z_MHYpADqDYgQzyEzxiGY1HJNvR2dUwOGeYDA/viewform?usp=dialog)
 
+- Watch the following videos before class on Monday:
+
+  - [Cytoplasmic Streaming in Fungal
+    Hyphae](https://youtu.be/Ry0E5YTEazs), Run time: 0:47 min. This
+    video shows how particles move in both directions in the thin hyphal
+    cells of fungi.
+  - [Mycorrhiza I—Mycorrhiza and
+    Environment](https://youtu.be/lZVniNFTWh4), Run time: 4:33 min. This
+    video covers the early evolution of life on land showing coevolution
+    of plants and mycorrhizae. It begins the description of how the two
+    symbionts form an interdependent network.
+  - [Mycorrhiza II—What Is It and How Does It
+    Work?](https://youtu.be/QYmrOrTM-FA) Run time: 10:06 min. This video
+    considers how fungi and plants recognize one another, how they each
+    contribute to the partnership, and the different types of
+    mycorrhizae, some living inside of cells and others on the surface
+    and between cells.
+
 - No problem set this week due to exam being due on Friday.
 
 ## Class Meetings
