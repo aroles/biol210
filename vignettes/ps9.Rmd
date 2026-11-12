@@ -70,7 +70,7 @@ To earn an "S":
 
 1. As we have seen, inbreeding can reduce offspring fitness by exposing deleterious recessive alleles. However, some animal breeders practice generations of careful inbreeding within a family, or “line-breeding,” and surprisingly many of the line-bred animals, from champion dogs to prize cows, have normal health and fertility.
     a. How can it be possible to continue inbreeding for many generations without experiencing inbreeding depression due to recessive alleles? (Hint: Consider some of the differences between animal breeders and natural selection in the wild.) 
-    b. Generally, if a small population continues to inbreed for many generations, what will happen to the frequency of the deleterious recessive alleles over time?
+    b. Generally, if a small population continues to inbreed for many generations, what will happen to the frequency of the deleterious recessive alleles over time? How does this differ from what you expect to happen when animal breeders control inbreeding?
 
 2. A beetle species is introduced to an island covered with dark basaltic rock. On this dark background, dark beetles, TT or Tt, are much more resistant to predation than are light-colored beetles, tt. The dark beetles have a large selective advantage. Both alleles are relatively common in the group of beetles released on the new island. What evolutionary process or processes are described? How are allele frequencies likely to change over time? Explain.
 

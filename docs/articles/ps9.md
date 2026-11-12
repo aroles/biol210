@@ -80,7 +80,9 @@ To earn an “S”:
         between animal breeders and natural selection in the wild.)
     2.  Generally, if a small population continues to inbreed for many
         generations, what will happen to the frequency of the
-        deleterious recessive alleles over time?
+        deleterious recessive alleles over time? How does this differ
+        from what you expect to happen when animal breeders control
+        inbreeding?
 
 2.  A beetle species is introduced to an island covered with dark
     basaltic rock. On this dark background, dark beetles, TT or Tt, are
