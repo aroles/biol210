@@ -10,12 +10,20 @@
 
 # remember to knit to html before running the below; if knit to word then you may have character conversion issues
 
-pkgdown::build_site_github_pages()
+# pkgdown::build_site_github_pages()
+# 
+# base_sheets <- file.path(here::here(), 'sheets')
+# articles_sheets <- file.path(here::here(), 'docs', 'articles', 'sheets')
+# 
+# fs::dir_copy(base_sheets, articles_sheets)
 
-base_sheets <- file.path(here::here(), 'sheets')
-articles_sheets <- file.path(here::here(), 'docs', 'articles', 'sheets')
+# Weekly update the following:
+# PS for week
+# prob sets page
+# make prob set doc version
+# update weekly agenda
+# add week's agenda to agenda overview
 
-fs::dir_copy(base_sheets, articles_sheets)
 
 # 1. Rebuild only changed files without wiping the docs directory
 pkgdown::build_site_github_pages(clean = FALSE, lazy = TRUE)

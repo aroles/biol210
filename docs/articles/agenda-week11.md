@@ -27,7 +27,7 @@
 ## Assignments
 
 - [Quiz
-  10](https://docs.google.com/forms/d/e/1FAIpQLSeRQFX6rspY9Z_MHYpADqDYgQzyEzxiGY1HJNvR2dUwOGeYDA/viewform?usp=dialog)
+  10](https://docs.google.com/forms/d/e/1FAIpQLSeAiVE22MJMSz7bLKy8jqcZD0eSz2uHoJO5W3AUuES-MV9aJQ/viewform?usp=sharing&ouid=107508568211857334485)
 
 - Watch the following videos before class on Monday:
 
