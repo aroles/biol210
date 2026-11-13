@@ -10,12 +10,12 @@
 
 # remember to knit to html before running the below; if knit to word then you may have character conversion issues
 
-# pkgdown::build_site_github_pages()
-# 
-# base_sheets <- file.path(here::here(), 'sheets')
-# articles_sheets <- file.path(here::here(), 'docs', 'articles', 'sheets')
-# 
-# fs::dir_copy(base_sheets, articles_sheets)
+pkgdown::build_site_github_pages()
+
+base_sheets <- file.path(here::here(), 'sheets')
+articles_sheets <- file.path(here::here(), 'docs', 'articles', 'sheets')
+
+fs::dir_copy(base_sheets, articles_sheets)
 
 # 1. Rebuild only changed files without wiping the docs directory
 pkgdown::build_site_github_pages(clean = FALSE, lazy = TRUE)

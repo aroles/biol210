@@ -3,7 +3,7 @@
 [You can download an editable version of this Problem Set
 here](https://drive.google.com/drive/folders/1nRUFpZG5hHVy7_ULW9vdnKwHFUj5iW7l?usp=drive_link).
 
-## General Instructions for Problem Sets
+# General Instructions for Problem Sets
 
 The goal of the problem sets is to give you practice thinking about and
 working with the concepts that we are covering. You should work solo to
@@ -17,7 +17,7 @@ class periods as well.**
 Use the link at the top of this webpage to turn in your completed
 assignment.
 
-### Problem Set Specifications
+## Problem Set Specifications
 
 To earn an “S”:
 
@@ -28,9 +28,9 @@ To earn an “S”:
 - Integrity & Sources: Citations are included where required, and work
   adheres to the Honor Code.
 
-## Related Readings
+# Related Readings
 
-#### About Information Transmission (Mitosis and Meiosis)
+### About Information Transmission (Mitosis and Meiosis)
 
 - Background reading from the open textbook [Biology
   2e](https://openstax.org/books/biology-2e/pages/1-introduction) at
@@ -49,7 +49,7 @@ To earn an “S”:
   mitosis.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2621177/)
   Genetics 181:3-12.
 
-#### About Life Cycles
+### About Life Cycles
 
 - Background reading from the open textbook [Biology
   2e](https://openstax.org/books/biology-2e/pages/1-introduction) at
@@ -69,7 +69,7 @@ To earn an “S”:
   phases.](https://www.zoology.ubc.ca/~otto/Reprints/Mable1998.pdf)
   BioEssays 20:453-462.
 
-## Questions
+# Questions
 
 1.  **Cell Division Mechanisms and Disruptions**
 
@@ -118,4 +118,5 @@ To earn an “S”:
     base and slender stalks topped with capsules extending upward. Refer
     to Chapter 25.3 in OpenStax and *Gathering Moss*.
 
-    ![Moss life cycle structures](../reference/figures/moss2.png)
+    ![Moss life cycle
+    structures](/Users/aroles/Documents/GitHub/biol210/man/figures/moss2.png)
