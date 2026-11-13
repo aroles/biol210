@@ -18,12 +18,20 @@
 - [35-Energy
   flow](https://drive.google.com/drive/folders/1yjiYffYh4xKMQbIa7744cHF5epkcV5W9?usp=drive_link)
 
+**Also from last week, the following will be on this week’s problem
+set:**
+
+- [31-Interspecific
+  interactions](https://drive.google.com/drive/folders/1yZ9NZvr-Xff9-Za4LcuwliBC5p6vryJB?usp=drive_link)
+
+- [32-Competition](https://drive.google.com/drive/folders/1yaAP9waCrgnbLRBYmtN7CPwAyNDx1_U7?usp=drive_link)
+
 ## Assignments
 
 [Quiz
-11](https://docs.google.com/forms/d/e/1FAIpQLSeAiVE22MJMSz7bLKy8jqcZD0eSz2uHoJO5W3AUuES-MV9aJQ/viewform?usp=dialog)
+11](https://docs.google.com/forms/d/e/1FAIpQLSfqCi4R8v0RqjRI2nNgjfLm2oHn8ofbmZF7v6Fp1m_GABdmlA/viewform?usp=sharing&ouid=107508568211857334485)
 
-[Problem Set 12](https://aroles.github.io/biol210/articles/ps13.md)
+[Problem Set 11](https://aroles.github.io/biol210/articles/ps11.md)
 
 ## Class Meetings
 
@@ -37,8 +45,4 @@ Finish case study (or case study on toxic grazer adaptation)
 
 ### Fri Nov 20
 
-Quiz corrections with teams, working on other course work.
-
-  
-
-------------------------------------------------------------------------
+Solo quiz then corrections with teams.

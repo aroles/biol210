@@ -61,8 +61,3 @@ ul li, ol li {
 ## Fri Nov 13
 
 * Quiz 10, first solo then team corrections.
-
-
-<br>
-
-------------------------------------------------------------------------

@@ -33,7 +33,7 @@
 ## Assignments
 
 [Quiz
-12](https://docs.google.com/forms/d/e/1FAIpQLSfqCi4R8v0RqjRI2nNgjfLm2oHn8ofbmZF7v6Fp1m_GABdmlA/viewform?usp=dialog)
+12](https://docs.google.com/forms/d/e/1FAIpQLSeeMx2DJL6hopi_OKirtelc6cExaqrhDR1hILCLpPFqkEfobw/viewform?usp=sharing&ouid=107508568211857334485)
 
 [Problem Set 13](https://aroles.github.io/biol210/articles/ps14.md)
 
@@ -41,15 +41,20 @@
 
 ### Mon Nov 23
 
+Case study on algal blooms and nutrients.
+
 ### Mon Nov 30
 
-Case study on algal blooms and nutrients.
+Continue algal blooms case study OR start Conservation Concerns case
+study
 
 ### Wed Dec 2
 
-Quiz corrections with teams, working on other course work.
+Conservation Concerns case study
 
 ### Fri Dec 4
+
+Solo quiz then corrections with teams.
 
   
 
