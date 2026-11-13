@@ -7,8 +7,8 @@
 
 - Note mastery projects are due Dec 1, end of day.
 
-- Exam 2 is due Friday Nov 13 by end of day (see drop-down menu for
-  link).
+- **Exam 2 is now due Sunday Nov 15 by end of day** (see drop-down menu
+  for link).
 
 - Job candidate seminars on Mon Nov 9, Dr. Martina Muller:
 

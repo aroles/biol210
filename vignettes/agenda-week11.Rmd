@@ -24,7 +24,7 @@ ul li, ol li {
 
 * Note mastery projects are due Dec 1, end of day.
 
-* Exam 2 is due Friday Nov 13 by end of day (see drop-down menu for link).
+* <b>Exam 2 is now due Sunday Nov 15 by end of day</b> (see drop-down menu for link).
 
 * Job candidate seminars on Mon Nov 9, Dr. Martina Muller:
     * 12:10pm, Craig Lecture Hall, Research seminar: "From the egg to the landscape: What determines which birds succeed in human-altered habitats?"

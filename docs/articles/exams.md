@@ -37,7 +37,7 @@ Make a copy for yourself and then type into the doc. Or you can create a
 separate doc for your responses. Use the link at the top of the website
 to submit the completed exam.
 
-### Exam 2 - due Nov 13
+### Exam 2 - due Nov 15
 
 Exam 2 covers course material through the end of Week 10 (Nov 6).
 
@@ -46,6 +46,8 @@ here](https://docs.google.com/document/d/13_jFQ47Bncn98IUWDFaXUoDz4XaI2nkvQz8jO2
 Make a copy for yourself and then type into the doc. Or you can create a
 separate doc for your responses. Use the link at the top of the website
 to submit the completed exam.
+
+**Exam 2 due date shifted to Sun Nov 15 by end of day**
 
 ### Exam 3 - due Dec 14, 4pm
 
