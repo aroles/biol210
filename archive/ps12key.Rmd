@@ -1,6 +1,6 @@
 ---
-title: "BIOL 210 Problem Set 12 KEY"
-date: "Week 13, Nov 25-27"
+title: "BIOL 210 Problem Set 12"
+date: "Week 13, due Dec 6"
 output: 
   html_document:
     toc: TRUE
@@ -11,45 +11,132 @@ output:
 pkgdown:
   as_is: true
 ---
-<text style="background-color:lightcyan">This is the key for PS 12. Before reading this document, you should have completed the problems. Use this key to check and correct your work BEFORE submitting the corrected version via the google form.</text>
+```{css, echo=FALSE}
+/* Increase spacing between bullet points */
+ul li, ol li {
+  margin-bottom: 10px; /* Adjust number of pixels as needed */
+}
+```
 
-<text style="background-color:lightcyan">You should compare your responses with this key and make any changes in another font color. Be sure to explain why you got things wrong (showing that now you understand) as well as providing corrected responses.</text>
+<text style="background-color:lightcyan">This is the key for PS 11.</text>
 
 
-# Question Key
-<ol>
-<li>Refer to one or more of the following readings from Gathering Moss to answer the following questions. Gathering Moss readings are: In the Forest of the Waterbear; Choices; Portrait of Splachnum.</li>
-<ol type="a">
-<li>Provide 3 examples of non-competitive interspecific interactions that are described in the moss readings. Identify the type of interaction (e.g., commensalism? predation? parasitism?) and which organisms play which roles in the interaction.</li>
+# General Instructions for Problem Sets
 
-<text style="background-color:lightcyan">Lots of possible responses here!</text><br>
+The goal of the problem sets is to give you practice thinking about and working with the concepts that we are covering. You may work together to complete these assignments. 
 
-<li>How would you describe the niche of a moss? Does it vary for different species of mosses?</li>
+<b>Before completing a problem set, you should review the content videos for the week and it may be helpful to complete those before the related class periods as well.</b>
 
-<text style="background-color:lightcyan">This is most clearly covered in the Portrait of Splachnum chapter; what follows is my response but yours may vary! Mosses can live in very cold places and some very hot places but only if there’s enough water (at least periodically). Many species can survive drought periods in a dormant state and then perk up again when water becomes available. They can’t compete with faster growing angiosperms or gymnosperms but can grow in places with fewer nutrients than most of those competitors. Some mosses are generalists, growing in a wide variety of habitats and conditions while others are specialists, such as the Splachnum ampullulaceum species described in this chapter. Splachnum requires the dung of particular deer species in order to germinate spores, having a preference for “animal nitrogen”. This species then also requires the help of a fly to transport its spores to new dung piles. So yes, the specifics of the niche do differ for different moss species!</text><br>
+Use the link at the top of this webpage to turn in your completed assignment.
 
-<li>In these readings from Gathering Moss, do you notice any connections to other topics we’ve covered this semester?</li>
+## Problem Set Specifications
 
-<text style="background-color:lightcyan">Lots of possible responses here!</text></ol><br>
+To earn an "S":
 
-<li>As described in the content video on Competition, in Gauss’ experiments with competition in Paramecium, the same species always drove the other to extinction. Why is this consistent result expected from competition theory?</li>
+* Completeness: Every question is thoroughly attempted.
+* Accuracy: At least 80% of responses demonstrate correct logical reasoning, accurate quantitative calculations, and correct use of biological terms.
+* Integrity & Sources: Citations are included where required, and work adheres to the Honor Code.
 
-<text style="background-color:lightcyan">Each species has its own specific resource needs and efficiency in acquiring and using those resources. Along with that, that means each different species will have its own carrying capacity (K) for a given environment, containing particular amounts of the resources it needs. As a result, when two species need the same resources but one of them is able to grow more on the same amount of resource (higher resource-use efficiency), then we expect that the more efficient user of resources (more individuals per unit resource per unit time) will “win” in competition. As long as conditions remain the same, we always expect this interaction to end the same way. HOWEVER, if the amount of different resources is changed, that could lead to a different outcome, if the most limited resource now favors the other species. The basic underlying issue is that resources are limited – the same atom of carbon or nitrogen cannot be used for two different purposes at the same time.</text><br>
 
-<li>Consider the different effects of intraspecific versus interspecific competition. Intraspecific competition occurs between members of the same species and tends to result in increased niche breadth of the species. In contrast, interspecific competition (between individuals of different species) is more likely to lead to each competitor species having narrower niches. Explain why intraspecific competition and interspecific competition lead to opposite effects on a species’ niche breadth.</li>
+# Related Readings
 
-<text style="background-color:lightcyan">Consider competition within one species (intraspecific). In that case, everyone has extremely similar resource needs so competition is likely to be strong between individuals for any of the most important or most limited resources. As a result, any individual who can use a resource (such as a different food source) that cannot be used by everyone else in that species will have an advantage. This means competition with others of your own species favors broadening your niche, being able to use parts of the environment with less competition.</text>
+### About Global Biodiversity Patterns
 
-<text style="background-color:lightcyan">Now, when we consider competition between two species A and B (interspecific), each species has its own resource needs and efficiency of using those resources. When there are alternative ways to acquire resources within the niche, and some parts of the niche overlap with that of species B, whichever species has higher resource-use efficiency in the niche overlap space will do better in that area. So, if species A only does better than species B at temperatures above 75 deg F, then species A is likely to dominate when the temperature is higher. This will favor species A becoming even better above that temperature, narrowing its niche. Similarly, species B is then at a disadvantage above 75 deg F and it will be favorable for species B to use niche space below that temperature, narrowing its niche.</text><br>
+* Biology 2e, [Chapter 44. Ecology and the Biosphere](https://openstax.org/books/biology-2e/pages/44-introduction)
 
-<li>We think of invasive species as a human-facilitated phenomenon (and in many cases that’s totally accurate), but is it really true that the geographic range of a given species has been constant over time? That is, surely natural species have expanded their ranges in the past, such that range expansion is not inherently unnatural. After all, the species that are considered native in this part of Ohio could not have lived here 13,000 years ago when this place was covered with a mile of ice—they must have moved here from elsewhere, without human intervention. <b>Given this, what do you think happens in a community when a new species is introduced? Discuss what types of species interactions might occur and how that might influence the ability of the introduced species to persist in the new area.</b> (You may wish to focus on a particular example to help you illustrate these points.)</li>
+* Scitable: [Rivers and Streams: Life in Flowing Water](https://www.nature.com/scitable/knowledge/library/rivers-and-streams-life-in-flowing-water-23587918)
 
-<text style="background-color:lightcyan">A newly arrived species is likely to face competition but perhaps less likely to experience predation/herbivory, parasitism, or mutualism.</text>
+* Scitable: [Coral Reefs](https://www.nature.com/scitable/knowledge/library/coral-reefs-15786954)
 
-<text style="background-color:lightcyan">When a new species (invasive or not) arrives in a community, it is likely to experience competition with some of the existing species. Interestingly, when a new species first arrives any competition will be interspecies (with other species) and not intraspecific (with itself) since there will not be many individuals of the new species around. The existing species will not have a history of interaction with the new species and so it’s unlikely that the new species experiences mutualism or parasitism when it first arrives (these interactions usually exist between species who have coexisted for a long time). Similarly, the new species may not experience much predation or herbivory if the consumers in the community do not recognize it as a food resource. This might mean that the new species, as long as it can compete for resources, can grow quickly in its new community. However, if the new species required a specific pollinator or a particular microbial partner that it did not bring with it, that could mean the new species would NOT persist well in its new community.</text>
+* Scitable: [Terrestrial Biomes](https://www.nature.com/scitable/knowledge/library/terrestrial-biomes-13236757)
 
-<text style="background-color:lightcyan">We can also consider not just what happens to the new species (which might evolve rapidly in response to the new conditions), but also what happens to the existing community. Given that the balance of competition for resources may be disrupted by the arrival of a new species, some native species may experience decreases in survival and reproduction if they can no longer acquire the same amount of important resources. Depending on the other interactions that the native species engages in, this could have cascading results for other taxa in the community, for example if a hummingbird-pollinated plant began to decline, that might mean less food for the hummingbird population, which might also then decline. Other species might benefit from the newly introduced species if it does not have much niche overlap but perhaps the introduced species competes with its predator, thus when the predator numbers are reduced, the prey species may increase in numbers – which of course could have cascading effects on the food resource of the prey species!
-</text>
+* Mittelbach, GG, et al. 2007. [Evolution and the latitudinal diversity gradient: speciation, extinction, and biogeography.](https://drive.google.com/file/d/1volO7iEId9NSTagE2ZseKR6qCxFWEUiC/view?usp=drive_link) Ecology Letters 10:315-331.
+    * This is a paper mentioned in the content video if you want more detail.
 
-<text style="background-color:lightcyan">The underlying point is that the consequences of species introductions are typically not very predictable and can have dramatic impacts on the native community.</text><br>
-</ol>
+### About Nutrient Cycling
+
+* Scitable: [Terrestrial Primary Production: Fuel for Life](https://www.nature.com/scitable/knowledge/library/terrestrial-primary-production-fuel-for-life-17567411)
+
+* Scitable: [The Nitrogen Cycle: Processes, Players, and Human Impact](https://www.nature.com/scitable/knowledge/library/the-nitrogen-cycle-processes-players-and-human-15644632)
+
+
+# Questions
+
+<b>Clinal Patterns and Exceptions to the Latitudinal Gradient</b><br>
+Across large spatial scales, species richness exhibits a well-documented clinal pattern known as the Latitudinal Gradient of Biodiversity, where richness peaks near the equator and declines steadily toward the poles. However, ecologists emphasize that latitude itself is not a causal driver of biodiversity.
+
+1. Explain why latitude is considered a correlational variable rather than a direct cause of species richness, and identify two abiotic or historical variables that co-vary with latitude to mechanistically drive higher equatorial diversity.
+
+<text style="background-color:lightcyan">Latitude is a geographic coordinate rather than a physical force; it only correlates with biodiversity because critical ecological drivers vary along with it. Valid drivers include: (1) energy inputs, as direct solar angles at the equator concentrate sunlight per unit area, supporting more biomass and trophic levels; (2) climatic variability, as low seasonal fluctuation near the equator contrasts with extreme seasonal swings near the poles; (3) time since last glaciation, as tropical regions escaped Pleistocene ice sheets; and (4) productivity, driven by year-round warmth, light, and long growing seasons.</text>
+
+2. An ecologist surveys two regions located at the exact same tropical latitude ($15^\circ\text{N}$): a mainland tropical rainforest and a small, arid oceanic island. Despite sharing the same latitude, the island exhibits drastically lower species richness. Using latitude-independent factors, explain two distinct mechanisms that account for the island's lower biodiversity.
+
+<text style="background-color:lightcyan">Two latitude-independent factors explain the island's lower richness: (1) environmental harshness, where extreme aridity acts as a strict abiotic filter that few species can tolerate; and (2) isolation ("islandness"), where distance from the mainland reduces immigration/colonization rates as predicted by the Theory of Island Biogeography.</text>
+
+<b>Evolutionary and Historical Hypotheses of Equatorial Diversity</b><br> Mittelbach et al. (2007) proposed three distinct evolutionary-scale hypotheses to explain why tropical regions harbor more species than temperate regions: the ecological, evolutionary, and historical mechanisms.
+
+3. Contrast the ecological hypothesis with the evolutionary (diversification rate) hypothesis in terms of how speciation rates, extinction rates, and niche carrying capacity differ between the tropics and temperate zones.
+
+<text style="background-color:lightcyan">The ecological hypothesis assumes diversification rates are similar across latitudes, but the tropics have a higher species carrying capacity due to greater energy availability and niche diversity. Conversely, the evolutionary hypothesis proposes that the net diversification rate ($\text{speciation rate} - \text{extinction rate}$) is faster in the tropics due to higher temperatures accelerating generation times, climatic stability reducing extinction, and larger land area supporting larger populations.</text>
+
+4. Phylogenetic studies frequently reveal that temperate plant and animal taxa are nested inside older clades of tropical taxa, indicating relatively recent dispersal out of the tropics. Explain which of the three hypotheses this phylogenetic pattern supports, how glacial cycles relate to this mechanism, and what this hypothesis predicts about temperate species richness if given sufficient evolutionary time without future glaciation.
+
+<text style="background-color:lightcyan">This supports the historical (time for diversification) hypothesis. High-latitude glaciers repeatedly wiped out temperate communities, resetting the clock for diversification ($T_{\text{trop}} > T_{\text{temp}}$). Given enough uninterrupted time without glaciation, temperate species richness would eventually catch up to tropical levels.</text>
+
+<b>Biomes, Abiotic Filters, and Anthropogenic Climate Change</b><br>
+Biomes are broad geographic regions defined primarily by their average annual temperature and average annual precipitation, which act as abiotic environmental filters determining which species can persist.
+
+5. Compare how moving poleward in latitude produces a sequence of biomes similar to moving upward in elevation on a tropical mountain.
+
+<text style="background-color:lightcyan">Both increasing latitude and increasing elevation cause average temperature to drop, shifting communities along a parallel sequence from tropical forest to temperate forest, taiga, tundra, and polar ice.</text>
+
+6. Suppose anthropogenic climate change increases average annual temperatures while simultaneously decreasing annual precipitation in a region currently classified as a temperate deciduous forest. Using the temperature-precipitation biome framework, predict which biome type this region is likely to transition into, and explain how climate change could disrupt the historical correlation between latitude and climatic variability.
+
+<text style="background-color:lightcyan">Warming and drying a temperate deciduous forest shifts it toward a temperate grassland or, with severe drying, a cold/hot desert. Climate change can decouple latitude from historical climate stability by introducing novel temperature extremes or altered precipitation bands at previously stable latitudes.</text>
+
+<b>Global vs. Local Nutrient Cycles and Experimental Eutrophication</b><br>
+While Earth is an open system with respect to solar energy inputs, it is effectively a closed system with respect to nutrients, meaning the global supply of elements available to life is finite.
+
+7. Explain why nitrogen cycles globally through the biosphere while phosphorus cycles primarily on a local scale. In your answer, describe the primary mechanism by which each nutrient enters the biosphere in a bioavailable form.
+
+<text style="background-color:lightcyan">Nitrogen has a large atmospheric gas reservoir ($\text{N}_2$, $78\%$ of air), entering the biosphere when nitrogen-fixing bacteria (e.g., in legume root nodules) or lightning convert $\text{N}_2$ into bioavailable ammonia/ammonium and nitrates. Phosphorus lacks a gaseous atmospheric phase and remains locked in rocks/sediments, entering local ecosystems slowly via weathering and erosion of inorganic phosphate taken up by plants. </text>
+
+8. During the 1960s and 1970s, researchers investigated toxic algal blooms in the Great Lakes region by dividing an experimental lake into two isolated basins with a sealed vinyl curtain. They added carbon ($\text{C}$) and nitrogen ($\text{N}$) to both basins, but added phosphorus ($\text{P}$) to only one basin. State the observed outcome of this experiment, explain what it revealed about the limiting nutrient in that freshwater system, and trace the complete step-by-step trophic cascade that turns an algal bloom into an anoxic "dead zone". 
+
+<text style="background-color:lightcyan">Algal blooms occurred only in the $+\text{P}$ basin, demonstrating that phosphorus was the primary limiting nutrient for phytoplankton growth in that lake. Trophic cascade: (1) excess nutrients trigger rapid algal growth; (2) algae and herbivorous zooplankton proliferate and die; (3) decomposer bacteria multiply rapidly while feeding on dead algae and fecal pellets; (4) bacterial cellular respiration depletes dissolved oxygen in the water column; and (5) hypoxic/anoxic conditions ($\le 1.0\text{–}2.0\text{ mg/L }\text{O}_2$) force mobile marine/aquatic life to flee or die.</text>
+
+
+<b>Coupled Biogeochemical Cycles: The Duke FACE Experiment</b><br>
+From 1994 to 2011, researchers conducted the Duke Free-Air $\text{CO}_2$ Enrichment (FACE) experiment in a North Carolina loblolly pine forest, exposing four experimental plots to elevated atmospheric $\text{CO}_2$ ($\text{ambient} + 200\text{ ppm}$) alongside four ambient control plots.
+
+9. Because $\text{CO}_2$ is well-mixed in the atmosphere, elevated fossil fuel emissions alter carbon availability globally rather than just near emission sources. After eight years, elevated $\text{CO}_2$ plots in the Duke FACE study showed up to a $50\%$ increase in photosynthetic rates and up to a $27\%$ increase in tree biomass. What does this initial growth response indicate about carbon availability in that forest?  
+
+<text style="background-color:lightcyan">The strong photosynthetic and growth surge indicates that carbon ($\text{CO}_2$) was a limiting factor for tree photosynthesis in that forest.</text>
+
+10. Despite higher tree growth and increased litterfall, researchers found little change in soil organic matter and observed emerging signs of nitrogen limitation in the elevated $\text{CO}_2$ plots. Explain why stimulating the carbon cycle via elevated $\text{CO}_2$ can induce nitrogen limitation in terrestrial plants.   
+
+<text style="background-color:lightcyan">Building additional plant biomass (wood, leaves, roots) requires proportional amounts of nitrogen for amino acids and nucleic acids; rapid carbon fixation exhausts bioavailable soil nitrogen pools.</text>
+
+11. Beyond terrestrial forests, explain how rising atmospheric $\text{CO}_2$ alters the abiotic chemistry of the oceans and why this threatens global marine carbon fixation by diatoms.   
+
+<text style="background-color:lightcyan">Excess atmospheric $\text{CO}_2$ diffuses into seawater, lowering ocean pH (ocean acidification). Lower pH can impair the growth of diatoms, which are responsible for roughly $40\%$ of marine carbon fixation.</text>
+
+<b>Watershed Deforestation, Inertia, and Resilience</b><br>
+At the Hubbard Brook Experimental Forest, researchers installed weirs at the base of mountain streams to measure water and nutrient outputs before and after clear-cutting an entire watershed slope in 1965.   
+
+12. Immediately following clear-cutting, stream runoff showed sharp spikes in the export of nitrate ($\text{NO}_3^-$), hydrogen ions ($\text{H}^+$), and calcium ($\text{Ca}^{2+}$). Explain the biological mechanism responsible for this sudden nutrient loss.   
+
+<text style="background-color:lightcyan">Removing living trees eliminated plant uptake of soil nutrients; without roots absorbing water and ions, rainwater leached soluble nitrate, hydrogen, and calcium directly into the stream.</text>
+
+13. Once the Hubbard Brook slope was allowed to re-vegetate, stream nutrient outflows returned to control levels within approximately 10 years. Using the concepts of inertia and resilience, evaluate the stability of this temperate forest compared to an arid desert ecosystem following a major physical disturbance.
+
+<text style="background-color:lightcyan">The temperate forest displayed low inertia (it could not resist clear-cutting and immediately lost nutrients) but high resilience (it recovered nutrient retention within ~10 years via regrowth). By contrast, a desert has high inertia (plants resist extreme heat and aridity) but low resilience (slow plant growth means recovery from physical disturbance takes much longer).</text>
+
+
+14. Weekly Reflection. Consider this week’s material and reply to one or more of the following prompts:
+    * What was confusing or interesting to you about this week’s material?
+    * Did you have any key insights while studying this material?
+    * Does anything from this week’s material particularly stick with you?
+
+
+Remember to sign the Honor Code on your assignment.

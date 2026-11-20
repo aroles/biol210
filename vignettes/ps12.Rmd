@@ -1,0 +1,112 @@
+---
+title: "BIOL 210 Problem Set 12"
+date: "Week 13, due Dec 6"
+output: 
+  html_document:
+    toc: TRUE
+    toc_depth: 3
+  pdf_document:
+    toc: TRUE
+    toc_depth: 3
+pkgdown:
+  as_is: true
+---
+```{css, echo=FALSE}
+/* Increase spacing between bullet points */
+ul li, ol li {
+  margin-bottom: 10px; /* Adjust number of pixels as needed */
+}
+```
+
+[You can download an editable version of this Problem Set here](https://drive.google.com/drive/folders/1nRUFpZG5hHVy7_ULW9vdnKwHFUj5iW7l?usp=drive_link).
+
+# General Instructions for Problem Sets
+
+The goal of the problem sets is to give you practice thinking about and working with the concepts that we are covering. You may work together to complete these assignments. 
+
+<b>Before completing a problem set, you should review the content videos for the week and it may be helpful to complete those before the related class periods as well.</b>
+
+Use the link at the top of this webpage to turn in your completed assignment.
+
+## Problem Set Specifications
+
+To earn an "S":
+
+* Completeness: Every question is thoroughly attempted.
+* Accuracy: At least 80% of responses demonstrate correct logical reasoning, accurate quantitative calculations, and correct use of biological terms.
+* Integrity & Sources: Citations are included where required, and work adheres to the Honor Code.
+
+
+# Related Readings
+
+### About Global Biodiversity Patterns
+
+* Biology 2e, [Chapter 44. Ecology and the Biosphere](https://openstax.org/books/biology-2e/pages/44-introduction)
+
+* Scitable: [Rivers and Streams: Life in Flowing Water](https://www.nature.com/scitable/knowledge/library/rivers-and-streams-life-in-flowing-water-23587918)
+
+* Scitable: [Coral Reefs](https://www.nature.com/scitable/knowledge/library/coral-reefs-15786954)
+
+* Scitable: [Terrestrial Biomes](https://www.nature.com/scitable/knowledge/library/terrestrial-biomes-13236757)
+
+* Mittelbach, GG, et al. 2007. [Evolution and the latitudinal diversity gradient: speciation, extinction, and biogeography.](https://drive.google.com/file/d/1volO7iEId9NSTagE2ZseKR6qCxFWEUiC/view?usp=drive_link) Ecology Letters 10:315-331.
+    * This is a paper mentioned in the content video if you want more detail.
+
+### About Nutrient Cycling
+
+* Scitable: [Terrestrial Primary Production: Fuel for Life](https://www.nature.com/scitable/knowledge/library/terrestrial-primary-production-fuel-for-life-17567411)
+
+* Scitable: [The Nitrogen Cycle: Processes, Players, and Human Impact](https://www.nature.com/scitable/knowledge/library/the-nitrogen-cycle-processes-players-and-human-15644632)
+
+
+# Questions
+
+<b>Clinal Patterns and Exceptions to the Latitudinal Gradient</b><br>
+Across large spatial scales, species richness exhibits a well-documented clinal pattern known as the Latitudinal Gradient of Biodiversity, where richness peaks near the equator and declines steadily toward the poles. However, ecologists emphasize that latitude itself is not a causal driver of biodiversity.
+
+1. Explain why latitude is considered a correlational variable rather than a direct cause of species richness, and identify two abiotic or historical variables that co-vary with latitude to mechanistically drive higher equatorial diversity.
+
+2. An ecologist surveys two regions located at the exact same tropical latitude ($15^\circ\text{N}$): a mainland tropical rainforest and a small, arid oceanic island. Despite sharing the same latitude, the island exhibits drastically lower species richness. Using latitude-independent factors, explain two distinct mechanisms that account for the island's lower biodiversity.
+
+<b>Evolutionary and Historical Hypotheses of Equatorial Diversity</b><br> Mittelbach et al. (2007) proposed three distinct evolutionary-scale hypotheses to explain why tropical regions harbor more species than temperate regions: the ecological, evolutionary, and historical mechanisms.
+
+3. Contrast the ecological hypothesis with the evolutionary (diversification rate) hypothesis in terms of how speciation rates, extinction rates, and niche carrying capacity differ between the tropics and temperate zones.
+4. Phylogenetic studies frequently reveal that temperate plant and animal taxa are nested inside older clades of tropical taxa, indicating relatively recent dispersal out of the tropics. Explain which of the three hypotheses this phylogenetic pattern supports, how glacial cycles relate to this mechanism, and what this hypothesis predicts about temperate species richness if given sufficient evolutionary time without future glaciation.
+
+<b>Biomes, Abiotic Filters, and Anthropogenic Climate Change</b><br>
+Biomes are broad geographic regions defined primarily by their average annual temperature and average annual precipitation, which act as abiotic environmental filters determining which species can persist.
+
+5. Compare how moving poleward in latitude produces a sequence of biomes similar to moving upward in elevation on a tropical mountain.
+
+6. Suppose anthropogenic climate change increases average annual temperatures while simultaneously decreasing annual precipitation in a region currently classified as a temperate deciduous forest. Using the temperature-precipitation biome framework, predict which biome type this region is likely to transition into, and explain how climate change could disrupt the historical correlation between latitude and climatic variability.
+
+<b>Global vs. Local Nutrient Cycles and Experimental Eutrophication</b><br>
+While Earth is an open system with respect to solar energy inputs, it is effectively a closed system with respect to nutrients, meaning the global supply of elements available to life is finite.
+
+7. Explain why nitrogen cycles globally through the biosphere while phosphorus cycles primarily on a local scale. In your answer, describe the primary mechanism by which each nutrient enters the biosphere in a bioavailable form.
+
+8. During the 1960s and 1970s, researchers investigated toxic algal blooms in the Great Lakes region by dividing an experimental lake into two isolated basins with a sealed vinyl curtain. They added carbon ($\text{C}$) and nitrogen ($\text{N}$) to both basins, but added phosphorus ($\text{P}$) to only one basin. State the observed outcome of this experiment, explain what it revealed about the limiting nutrient in that freshwater system, and trace the complete step-by-step trophic cascade that turns an algal bloom into an anoxic "dead zone". 
+
+<b>Coupled Biogeochemical Cycles: The Duke FACE Experiment</b><br>
+From 1994 to 2011, researchers conducted the Duke Free-Air $\text{CO}_2$ Enrichment (FACE) experiment in a North Carolina loblolly pine forest, exposing four experimental plots to elevated atmospheric $\text{CO}_2$ ($\text{ambient} + 200\text{ ppm}$) alongside four ambient control plots.
+
+9. Because $\text{CO}_2$ is well-mixed in the atmosphere, elevated fossil fuel emissions alter carbon availability globally rather than just near emission sources. After eight years, elevated $\text{CO}_2$ plots in the Duke FACE study showed up to a $50\%$ increase in photosynthetic rates and up to a $27\%$ increase in tree biomass. What does this initial growth response indicate about carbon availability in that forest?   
+
+10. Despite higher tree growth and increased litterfall, researchers found little change in soil organic matter and observed emerging signs of nitrogen limitation in the elevated $\text{CO}_2$ plots. Explain why stimulating the carbon cycle via elevated $\text{CO}_2$ can induce nitrogen limitation in terrestrial plants.   
+
+11. Beyond terrestrial forests, explain how rising atmospheric $\text{CO}_2$ alters the abiotic chemistry of the oceans and why this threatens global marine carbon fixation by diatoms.   
+
+<b>Watershed Deforestation, Inertia, and Resilience</b><br>
+At the Hubbard Brook Experimental Forest, researchers installed weirs at the base of mountain streams to measure water and nutrient outputs before and after clear-cutting an entire watershed slope in 1965.   
+
+12. Immediately following clear-cutting, stream runoff showed sharp spikes in the export of nitrate ($\text{NO}_3^-$), hydrogen ions ($\text{H}^+$), and calcium ($\text{Ca}^{2+}$). Explain the biological mechanism responsible for this sudden nutrient loss.   
+
+13. Once the Hubbard Brook slope was allowed to re-vegetate, stream nutrient outflows returned to control levels within approximately 10 years. Using the concepts of inertia and resilience, evaluate the stability of this temperate forest compared to an arid desert ecosystem following a major physical disturbance.
+
+14. Weekly Reflection. Consider this week’s material and reply to one or more of the following prompts:
+    * What was confusing or interesting to you about this week’s material?
+    * Did you have any key insights while studying this material?
+    * Does anything from this week’s material particularly stick with you?
+
+
+Remember to sign the Honor Code on your assignment.

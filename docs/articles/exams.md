@@ -53,6 +53,8 @@ to submit the completed exam.
 
 Exam 3 covers course material through the end of Week 14 (Dec 9).
 
+Exam 3 will become available Dec 6.
+
 You can access [Exam 3
 here](https://aroles.github.io/biol210/articles/404.md). Make a copy for
 yourself and then type into the doc. Or you can create a separate doc

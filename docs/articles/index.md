@@ -50,7 +50,9 @@
 - [BIOL 210 Problem Set
   11](https://aroles.github.io/biol210/articles/ps11.md):
 - [BIOL 210 Problem Set
-  14](https://aroles.github.io/biol210/articles/ps14.md):
+  12](https://aroles.github.io/biol210/articles/ps12.md):
+- [BIOL 210 Problem Set
+  11](https://aroles.github.io/biol210/articles/ps13.md):
 - [BIOL 210 Problem Set 1 Background
   Reading](https://aroles.github.io/biol210/articles/ps1reading.md):
 - [BIOL 210 Problem Set

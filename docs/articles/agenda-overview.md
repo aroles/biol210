@@ -18,8 +18,8 @@
 | [Week 11](https://aroles.github.io/biol210/articles/agenda-week11.md) | Nov 09-13 | Interspecific interactions, Competition |
 | [Week 12](https://aroles.github.io/biol210/articles/agenda-week12.md) | Nov 16-20 | Community structure, Ecological succession, Energy flow |
 | \- | Nov 26-28 | Thanksgiving Break |
-| Week 13 | Nov 23-Dec 04 | Biodiversity patterns, Nutrient cycling |
-| Week 14 | Dec 07-09 | Behavior, Learning, Genetics of behavior |
+| [Week 13](https://aroles.github.io/biol210/articles/agenda-week13.md) | Nov 23-Dec 04 | Biodiversity patterns, Nutrient cycling |
+| [Week 14](https://aroles.github.io/biol210/articles/agenda-week14.md) | Dec 07-09 | Behavior, Learning, Genetics of behavior |
 
 ## Groups for first month
 

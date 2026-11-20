@@ -5,22 +5,21 @@
 - [Link to in-class slides and
   handouts](https://drive.google.com/drive/folders/17Fm-yEXqtlvGJfFaw6WqywIScW_eZ8m_?usp=drive_link)
 
-- All regular semester work should be completed by end-of-day on Wed Dec
-  10.
+- Mastery projects are due Dec 1. You may use flex days for the mastery
+  project.
 
-- [Link to Final
-  Reflection](https://docs.google.com/document/d/1uDd48QS5ZeWfpClWL5Fbe-xXCigzw97MK6KX58WEbtg/edit?usp=drive_link)
-  (complete before 12/16). Answer the questions and then set a meeting
-  with Angie (\<10 minutes).
+- Week 13 lumps together the Monday before Thanksgiving with the week
+  after Thanksgiving (covers Nov 23, Nov 30, Dec 2, Dec 4).
 
-- [Set up a reflection meeting with
-  Angie.](https://calendar.app.google/4pvCXX1hu8CCpEeHA) This meeting
-  must be completed between Dec 11 and 16. If none of the available
-  times works for you, please email Angie directly.
+- This week will be the final PS (Dec 6) and Quiz (Dec 4).
 
-- [Final Exam
-  3](https://docs.google.com/document/d/1g5xNaFgDjosCiYs94WgUOx2e1TLm5BsCIJZLHHa-4uc/edit?usp=drive_link)
-  must be completed by 4pm on 12/16.
+  - There is no quiz for Week 14
+  - The Week 14 PS (PS 13) will be optional - you can skip it or use it
+    to make up a previously missed PS. It’s also good practice for the
+    Week 14 material.
+
+- Note that all semester work should be submitted by Dec 9, last day of
+  fall semester classes.
 
 ## Content Videos
 
@@ -35,7 +34,7 @@
 [Quiz
 12](https://docs.google.com/forms/d/e/1FAIpQLSeeMx2DJL6hopi_OKirtelc6cExaqrhDR1hILCLpPFqkEfobw/viewform?usp=sharing&ouid=107508568211857334485)
 
-[Problem Set 13](https://aroles.github.io/biol210/articles/ps14.md)
+[Problem Set 12](https://aroles.github.io/biol210/articles/ps12.md)
 
 ## Class Meetings
 
@@ -55,7 +54,3 @@ Conservation Concerns case study
 ### Fri Dec 4
 
 Solo quiz then corrections with teams.
-
-  
-
-------------------------------------------------------------------------

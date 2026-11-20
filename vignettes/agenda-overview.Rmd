@@ -30,8 +30,8 @@ pkgdown:
 | [Week 11](agenda-week11.html) | Nov 09-13 | Interspecific interactions, Competition |
 | [Week 12](agenda-week12.html) | Nov 16-20 | Community structure, Ecological succession, Energy flow |
 | - | Nov 26-28 | Thanksgiving Break |
-| Week 13 | Nov 23-Dec 04 | Biodiversity patterns, Nutrient cycling |
-| Week 14 | Dec 07-09 |  Behavior, Learning, Genetics of behavior |
+| [Week 13](agenda-week13.html) | Nov 23-Dec 04 | Biodiversity patterns, Nutrient cycling |
+| [Week 14](agenda-week14.html) | Dec 07-09 |  Behavior, Learning, Genetics of behavior |
 
 # Groups for first month
 
